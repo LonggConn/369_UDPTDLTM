@@ -1,0 +1,534 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody
+Café/Dessert	Highlands Coffee - Vĩnh Điềm Trung Nha Trang	Lô 95 Đường A1, Vĩnh Điềm Trung, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	500+	07:00 - 21:00	9,000	65,000	0.0%	9.8	1
+Quán ăn, Giao cơm văn phòng	3 Ngon - Cơm Cháo Súp Mì - Vân Đồn (không có menu)	44A Vân Đồn, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	4.5	999+	00:00 - 03:59 | 07:10 - 23:59	5,000	110,000	0.0%	5.5	3
+Nhà hàng	Gà Rán KFC - Lê Thành Phương	67 Lê Thành Phương, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	999+	10:00 - 21:18	29,000	179,000	0.0%	6.2	20
+Café/Dessert	Tiệm Trà Chanh Nướng	20F Lý Tự Trọng, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	50+	07:00 - 22:00	20,000	40,000	0.0%	7.4	1
+Café/Dessert	Trà Sữa Di - Ong Tea (không có menu)	32 Đoàn Trần Nghiệp, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 22:30	10,000	22,000	0.0%	0	0
+Ăn vặt/vỉa hè	Kim Sài Gòn - Bánh Tráng Trộn &amp; Cuốn Bơ - Tố Hữu	12 Tố Hữu, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:30 - 21:25	10,000	20,000	0.0%	8.2	1
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Thái Nguyên	99 Thái Nguyên, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:30 - 22:30	30,000	50,000	0.0%	6.6	57
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Thái Nguyên	4th Floor Maximark Nha Trang, 60 Thái Nguyên, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:00 - 20:43	15,000	44,000	0.0%	7.5	12
+Quán ăn	Cô Bèo - Món Ngon Vị Hàn	17 Phù Đổng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:15 - 21:30	8,000	35,000	0.0%	7.2	22
+Café/Dessert	Trà Sữa Hatsu - Trường Sa	28 Trường Sa, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 21:30	10,000	35,000	0.0%	7.4	2
+Quán ăn	AsterLAM - Cơm Tấm &amp; Bò Né - Hồng Bàng	141 Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	50+	07:00 - 20:00	30,000	30,000	0.0%	10.0	6
+Café/Dessert	Phúc Long Trần Phú Nha Trang	Tầng 1, L1 - 06 Vincom Plaza Trần Phú, 78 - 80 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	999+	07:00 - 21:30	20,000	75,000	0.0%	6.9	45
+Café/Dessert	IzBôn Tea Nha Trang	Số 1 Trần Nhật Duật Nối Dài, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 23:45	7,000	50,000	0.0%	10.0	1
+Café/Dessert	AC Tea &amp; Coffee	176A Ngô Gia Tự, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:00 - 22:00	23,000	30,000	0.0%	6.4	5
+Café/Dessert	Ồ Trà Sữa - Lê Đại Hành	58C Lê Đại Hành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	500+	08:00 - 22:00	15,000	65,000	0.0%	6.3	44
+Café/Dessert	The Alley - Trà Sữa Đài Loan - 44 Trần Phú	44 Trần Phú (sau lưng tòa nhà Trung Tâm Thương Mai A&amp;B Central Square - mặt đường Hùng Vương), P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:00 - 22:00	41,000	65,000	0.0%	7.7	11
+Café/Dessert	Tulip - Kem &amp; Chè - Lê Thánh Tôn	22 Lê Thánh Tôn, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	5.0	5	09:00 - 23:59	15,000	35,000	0.0%	7.0	6
+Ăn vặt/vỉa hè	Mini Food	138 Trần Nguyên Hãn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:10 - 21:30	10,000	299,000	0.0%	10.0	7
+Shop Online	Mì Trộn Cô Ba - Shop Online	Chung Cư CT1, KĐT Vĩnh Điềm Trung, 19 Tháng 5, Xã Vĩnh Trung, Tp. Nha Trang, Khánh Hoà	4.5	500+	11:30 - 20:00	20,000	30,000	0.0%	8.3	2
+Café/Dessert	Tous Les Temps - Củ Chi	130 Củ Chi, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	999+	07:30 - 22:00	19,000	55,000	0.0%	5.0	1
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - 109 Hồng Bàng	109 Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:30 - 21:30	20,000	50,000	0.0%	4.6	5
+Ăn vặt/vỉa hè	Bao Ngon - Bánh Bao	65 Nguyễn Thị Minh Khai, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	50+	09:15 - 13:45 | 16:11 - 20:45	33,000	59,000	0.0%	4.4	1
+Quán ăn	Pizza Giang - Vân Đồn	97B Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	999+	10:00 - 21:00	15,000	300,000	0.0%	6.8	32
+Café/Dessert	Trà Sữa Nọng - 2 Tháng 4	870 Đường 2 Tháng 4, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:00 - 22:00	5,000	29,000	0.0%	4.2	1
+Café/Dessert	Trà Hoa Dalat 1893 - Lê Đại Hành	16A Lê Đại Hành, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	50+	08:30 - 22:00	20,000	60,000	0.0%	8.1	9
+Ăn vặt/vỉa hè	Bánh Tráng Trộn Bé Xíu	21 Lê Lợi, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	100+	11:00 - 22:00	20,000	20,000	0.0%	9.3	30
+Nhà hàng	Vons Chicken - Gà Rán &amp; Tokbokki - Nguyễn Thị Minh Khai	109A Nguyễn Thị Minh Khai, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	50+	11:00 - 21:30	150,000	350,000	0.0%	9.6	2
+Ăn vặt/vỉa hè	Chú Thoòng - Tiệm Milô Đá Bào (không có menu)	27 Võ Trứ, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 21:30	20,000	35,000	0.0%	0	0
+Quán ăn	Cơm Gà Xối Mỡ Như Hội - VCN Phước Hải	8 Đường A6 VCN Phước Hải, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:00 - 22:00	33,000	50,000	0.0%	10.0	1
+Café/Dessert	Redfox Tea Nha Trang	49B Cửu Long, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	500+	08:00 - 21:50	15,000	35,000	0.0%	4.2	1
+Café/Dessert	Trái Cây Sạch Vfruit	24 Tô Hiến Thành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	06:30 - 22:30	15,000	45,000	0.0%	7.6	39
+Quán ăn	MinChu - Mì Cay Hàn Quốc - Phước Hải	1M- CT1 VCN Phước Hải, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	500+	10:00 - 21:30	30,000	50,000	0.0%	6.3	11
+Quán ăn	Sasin - Mì Cay 7 Cấp Độ Hàn Quốc - 2 Tháng 4	584 Đường 2 Tháng 4, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	500+	08:00 - 22:00	15,000	119,000	0.0%	4.5	7
+Café/Dessert	E-Coffee Nha Trang - Hoàng Hoa Thám	131 Hoàng Hoa Thám, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	5.0	5	07:00 - 22:00	20,000	35,000	0.0%	9.6	4
+Quán ăn	I'm Steak	174A Ngô Gia Tự, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 13:45 | 16:30 - 21:15	5,000	125,000	0.0%	8.8	1
+Nhà hàng	Mitami Japanese Restaurant	72 Nguyễn Thị Minh Khai, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	100+	11:00 - 13:30 | 17:00 - 21:30	20,000	350,000	0.0%	9.1	17
+Café/Dessert	Quán No.1 Coffee - Trần Phú	Tầng 1&amp;2 Toà Nhà Mường Thanh Luxury, 4 Trần Phú, P. Xường Huân, Tp. Nha Trang, Khánh Hoà	0	0	07:00 - 22:00	35,000	35,000	0.0%	0	0
+Quán ăn	Bún Đậu Hà Anh	2E Đoàn Trần Nghiệp, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:00 - 21:30	18,000	55,000	0.0%	9.4	5
+Café/Dessert	Trà Sữa BoH Tea - Hotdog Korean	18 Tăng Bạt Hổ, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	500+	10:05 - 21:40	15,000	40,000	0.0%	8.3	8
+Café/Dessert	LAM Cafe - Trà - Trái Cây	6A1 Ngô Thời Nhiệm, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 21:00	20,000	40,000	0.0%	8.3	4
+Nhà hàng	Costa Robata - Nhà Hàng Nhật Bản	32 Trần Phú, Phường Lộc Thọ, Thanh Phố Nha Trang , Tp. Nha Trang, Khánh Hoà	0.0	1	11:00 - 21:30	0	0	0.0%	9.1	9
+Café/Dessert	Trà Sữa Nọng - Lô 1C CT1 VCN	Lô 1C CT1 VCN Phước Hải, Đường Tố Hữu, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:30 - 21:30	5,000	29,000	0.0%	<span>_._</span>	0
+Café/Dessert	Gạo Cafe	58 Trần Nhật Duật, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	9	06:30 - 21:00	15,000	35,000	0.0%	10.0	4
+Café/Dessert	Tiara Coffee - Ăn Vặt Nhật Bản	32 Âu Cơ, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	0.0	4	07:00 - 22:00	18,000	100,000	0.0%	10.0	1
+Tiệm bánh	Moka Sweet Cake	19 Nguyễn Chánh, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 21:30	20,000	90,000	0.0%	8.2	1
+Quán ăn	Sasin - Mì Cay 7 Cấp Độ Hàn Quốc - Quang Trung	15 Quang Trung, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	500+	08:30 - 22:20	30,000	50,000	0.0%	3.0	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Đường 19 Tháng 5	Big C Nha Trang, Đường 19 Tháng 5, Vĩnh Điềm Trung, Xã Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:30 - 21:00	15,000	139,000	0.0%	6.3	7
+Ăn vặt/vỉa hè	Tiệm Chè Cô Hai	27 Võ Trứ, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:00 - 22:00	12,000	135,000	0.0%	3.7	26
+Nhà hàng	Sóng Biển Nha Trang - Hải Sản - 164 Nguyễn Thiện Thuật	164 Nguyễn Thiện Thuật, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	5.0	1	09:00 - 23:59	0	0	0.0%	8.7	4
+Quán ăn	Lẩu Gà Ớt Hiểm 109 - 108 Nhị Hà	108 Nhị Hà, Tp. Nha Trang, Khánh Hoà	4.5	50+	09:00 - 20:40	100,000	200,000	0.0%	8.1	2
+Quán ăn	Thắng - Pizza &amp; Coffee	51 Dã Tượng, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 23:00	25,000	140,000	0.0%	8.8	2
+Tiệm bánh	Taiyang King Castella - Bánh Bông Lan Đài Loan	19 Nguyễn Chánh, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	500+	07:00 - 22:00	90,000	130,000	0.0%	9.0	36
+Café/Dessert	Highlands Coffee - Lotte Nha Trang	Tầng Trệt, Lotte Mart Nha Trang, 58 Đường 23 Tháng 10, P. Phương Sơn, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:00 - 22:00	9,000	65,000	0.0%	6.9	22
+Quán ăn	Cháo Ếch Ăn Là Ghiền - Trần Nhật Duật	58C Trần Nhật Duật, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	999+	11:00 - 21:00	40,000	40,000	0.0%	7.9	21
+Café/Dessert	JK Coffee &amp; Tea - Đặng Tất	75 Đặng Tất, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	0.0	2	07:00 - 22:00	25,000	25,000	0.0%	9.7	7
+Tiệm bánh	BreadTalk - Trần Viễn Đông Hotel	Tầng 1, Trần Viễn Đông Hotel, 15 Trần Hưng Đạo, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	500+	06:00 - 21:35	12,000	450,000	0.0%	8.8	6
+Ăn vặt/vỉa hè	Cơm Cháy Chà Bông Cu Rum	133 Nguyễn Trãi, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	100+	13:00 - 21:00	12,000	20,000	0.0%	7.8	48
+Tiệm bánh	US Cake - Đinh Tiên Hoàng	28 Đinh Tiên Hoàng, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 20:00	30,000	350,000	0.0%	8.0	16
+Café/Dessert	King Milk Tea - Trà Sữa &amp; Ăn Vặt	83 Hoàng Diệu, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 22:00	10,000	25,000	0.0%	9.5	3
+Café/Dessert	Bọt Coffee - Bọt YEN - Khúc Thừa Dụ	10 Khúc Thừa Dụ, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	100+	06:30 - 21:35	15,000	25,000	0.0%	8.9	2
+Ăn vặt/vỉa hè	Tiệm Tré A Beo - Tré Trộn - Hương Sơn	32 Hương Sơn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	10+	09:00 - 23:00	45,000	350,000	0.0%	8.0	1
+Café/Dessert	MrP Bingsu &amp; Tea Nha Trang	117 - TT6 Trần Nhật Duật Nối Dài, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 21:30	35,000	200,000	0.0%	9.2	10
+Quán ăn	Ăn Vặt Cu Đình	13 Núi Một, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	500+	11:20 - 20:00	5,000	25,000	0.0%	8.1	12
+Nhà hàng	Hotto - Món Ngon Trên Đĩa Nóng - Vincom Plaza Nha Trang	Tầng 4, Lô L4-02, Tầng 4, Vincom Plaza Nha Trang, 44 - 46 Lê Thánh Tôn, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	11:00 - 21:00	69,000	129,000	0.0%	7.9	4
+Quán ăn	Ngõ 12	12 Lê Quý Đôn, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 22:00	30,000	200,000	ShopeeFood</span	8.4	2
+Café/Dessert	Sinh tố &amp; Món chay Nhà Âu Cơ	6 Âu Cơ, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:30 - 12:30 | 12:35 - 22:15	15,000	50,000	0.0%	7.0	1
+Quán ăn	Mio - Thiên Đường Mì Ý &amp; Pizza	80 Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:00 - 14:00 | 17:30 - 21:00	30,000	200,000	0.0%	8.6	1
+Quán ăn	Bún Chả Phố Cổ Hà Nội - Tô Hiến Thành	14B Tô Hiến Thành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	06:00 - 21:00	15,000	45,000	ShopeeFood</span	9.0	1
+Ăn vặt/vỉa hè	Trà Sữa 5cm	3 Bà Triệu, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:30 - 20:30	10,000	19,000	0.0%	7.1	5
+Café/Dessert	Mr Good Tea - Nguyễn Chánh	21A Nguyễn Chánh, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:00 - 22:00	15,000	35,000	0.0%	7.3	64
+Nhà hàng, Quán ăn	Ta Ta - Quán Ăn Gia Đình	175 Đường 2 Tháng 4, P. Vạn Thắng, Tp. Nha Trang, Khánh Hoà	4.5	50+	07:30 - 14:30 | 17:00 - 22:00	2,000	50,000	0.0%	7.1	26
+Ăn vặt/vỉa hè	Mr. Thịnh - Khoai Lang Lắc &amp; Gà Rán - Trần Nhật Duật	20 Trần Nhật Duật, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	500+	10:00 - 21:00	10,000	25,000	0.0%	7.3	6
+Nhà hàng	Góc Hà Nội	142 Bạch Đằng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:00 - 14:00 | 17:00 - 21:00	30,000	150,000	0.0%	7.4	19
+Café/Dessert	Brother - Tea &amp; Coffee - Lê Đại Hành	62B Lê Đại Hành, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	50+	08:30 - 21:00	20,000	50,000	0.0%	8.6	5
+Café/Dessert	Gold - Chè Khúc Bạch	22 Trần Nhật Duật, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:00 - 21:30	15,000	30,000	0.0%	7.8	6
+Quán ăn	Cơm Gà Trâm Anh - Bà Triệu	10 Bà Triệu, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:00 - 21:00	20,000	55,000	0.0%	7.1	73
+Café/Dessert	Kem DoReMi	27A Lê Thành Phương, P. Vạn Thắng, Tp. Nha Trang, Khánh Hoà	4.5	10+	08:00 - 22:00	10,000	33,000	ShopeeFood</span	7.9	10
+Quán ăn	Cơm Chiên Gia Khang - Bến Cá	20 Bến Cá, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	100+	06:00 - 21:00	18,000	35,000	0.0%	1.8	1
+Quán ăn	Món Ngon Hà Nội - Tô Hiến Thành	85C1 Tô Hiến Thành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 22:00	45,000	75,000	0.0%	6.8	1
+Ăn vặt/vỉa hè	Kem Plan Cafe - Tháp Bà	112 Tháp Bà, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	12:00 - 21:00	8,000	25,000	ShopeeFood</span	6.9	7
+Quán ăn	Hẻm - Mini Hotpot &amp; BBQ	18/9 Thái Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	50+	11:00 - 22:00	49,000	180,000	0.0%	8.5	13
+Café/Dessert	Sữa Chua Nếp Cẩm Phúc Lợi - Chi Nhánh Nha Trang	58 Trần Nhật Duật, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 21:30	20,000	30,000	0.0%	9.2	17
+Quán ăn	Phở Hạnh Phúc - Ngô Gia Tự	19 Ngô Gia Tự, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	500+	06:00 - 21:00	55,000	75,000	0.0%	7.6	12
+Ăn vặt/vỉa hè	Kim Sài Gòn - Bánh Tráng Trộn &amp; Cuốn Bơ - 2 Tháng 4	718 Đường 2 Tháng 4, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	999+	12:15 - 21:30	10,000	25,000	0.0%	7.7	3
+Shop Online	Bánh Ngon Ngọc Bích - Bông Lan Trứng Muối &amp; Bánh Plan - Shop Online	268 Lê Hồng Phong, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 21:00	55,000	90,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm 30 Hàn Thuyên	30 Hàn Thuyên, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	999+	10:00 - 21:00	10,000	50,000	0.0%	6.5	9
+Nhà hàng	Hải Sản Biển Ngọc (không có menu)	16 Trần Phú, Tp. Nha Trang, Khánh Hoà	4.5	10+	09:00 - 23:00	30,000	1,900,000	0.0%	0	0
+Quán ăn	Chè Số 4 - Quang Trung	4 Quang Trung, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	50+	13:00 - 21:00	10,000	20,000	ShopeeFood</span	7.2	13
+Quán ăn	Đậu 1986 - Ngô Gia Tự	184 Ngô Gia Tự, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:15 - 21:15	10,000	35,000	0.0%	8.6	8
+Nhà hàng	Mì Cay Seoul Nha Trang - Quang Trung	88 Quang Trung, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 22:00	10,000	299,000	0.0%	9.1	60
+Quán ăn	Bún Đậu Nia - Thống Nhất	55 Thống Nhất, Tp. Nha Trang, Khánh Hoà	4.5	999+	10:00 - 20:30	20,000	55,000	0.0%	6.9	23
+Quán ăn	Làng Nướng Phú Nông	10B Cầu Dứa - Phú Nông, VCN Vĩnh Điềm Trung, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.0	4	10:00 - 21:00	15,000	145,000	ShopeeFood</span	8.9	4
+Café/Dessert	Tiệm Bánh Thảo Thảo	1111 Lê Hồng Phong, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	10+	08:00 - 22:30	5,000	25,000	0.0%	9.0	1
+Quán ăn	Bún Đậu Chang Chang	Tố Hữu, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:30 - 22:00	20,000	40,000	0.0%	7.4	1
+Nhà hàng	Lotteria - Nha Trang Thống Nhất	73 Thống Nhất, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	999+	07:30 - 21:30	30,000	88,000	0.0%	4.9	29
+Nhà hàng	Marinelli Bistronomia Restaurant	273 Nguyễn Thiện Thuật, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.0	10+	11:00 - 23:00	35,000	150,000	0.0%	9.5	11
+Shop Online	Chick-Tok - Đồ Ăn Hàn Quốc - Shop Online	4 Trần Bình Trọng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 21:00	40,000	55,000	0.0%	8.4	9
+Ăn vặt/vỉa hè	Tào Phớ 1994	1170/33 Đường 2/4, P. Vạn Thắng, Tp. Nha Trang, Khánh Hoà	4.5	10+	11:00 - 22:00	10,000	20,000	0.0%	8.0	1
+Quán ăn	Bếp Nhà - Mì Xào Cơm Thố	37 Thích Quảng Đức, KĐT Phước Long B, Tp. Nha Trang, Khánh Hoà	2.5	10+	00:00 - 23:59	9,000	45,000	0.0%	1.0	1
+Quán ăn	An Lam Steak	9 Lê Thánh Tôn, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 21:00	35,000	195,000	0.0%	8.0	2
+Quán ăn	Hải Sản Thái Lai - Hải Sản - 160 Nguyễn Thiện Thuật	160 Nguyễn Thiện Thuật, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	50+	11:00 - 22:30	40,000	130,000	0.0%	9.1	37
+Nhà hàng	Tsim Sha Tsui - Lẩu Nhúng Hongkong	121 Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	5.0	7	10:00 - 22:00	25,000	250,000	0.0%	9.2	4
+Quán ăn	Tokyo Sachi - Ẩm Thực Nhật Bản - Yersin	48 Yersin, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:30 - 13:30 | 16:30 - 21:30	100,000	100,000	0.0%	7.8	1
+Café/Dessert	Alpaca - Coffee &amp; Store	10/1B Nguyễn Thiện Thuật, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	08:30 - 21:00	15,000	50,000	ShopeeFood</span	8.2	11
+Quán ăn, Giao cơm văn phòng	Cơm Gà Hà	75 Ngô Gia Tự, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:00 - 21:00	30,000	100,000	0.0%	6.4	88
+Shop Online	Pizza Papa Max - Shop Online	STH 2309, Đường Số 10, KĐT Lê Hồng Phong, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	0	0	10:00 - 21:00	79,000	230,000	0.0%	0	0
+Café/Dessert	Kem Dairy Queen - Nha Trang Center	Tầng 3, Tầng 3 Nha Trang Center, 20 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	09:45 - 21:00	30,000	75,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Gà Nướng Phương - Võ Thị Sáu	6 Võ Thị Sáu, P. Phước Long, Tp. Nha Trang, Khánh Hoà	0.0	3	09:00 - 21:00	140,000	275,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Chè Bà Thoa - Hương Lộ Ngọc Hiệp	77 Hương Lộ Ngọc Hiệp, P. Ngọc Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	10+	12:00 - 22:30	12,000	12,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt RoA	84 Dã Tượng, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	10+	09:00 - 21:59	18,000	60,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Chè Chang - Đống Đa	58 Đống Đa, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	500+	11:00 - 22:30	25,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Misen Food - Hùng Vương	100/1 Hùng Vương, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	0.0	4	06:00 - 23:00	24,000	54,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Rán KFC - Lotte Nha Trang	58 Đường 23/10, P. Phương Sơn, Tp. Nha Trang, Khánh Hoà	5.0	10+	10:00 - 21:00	70,000	200,000	0.0%	<span>_._</span>	0
+Nhà hàng	Mix Restaurant - Hùng Vương	77 Hùng Vương, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	12:00 - 15:00 | 17:00 - 22:00	50,000	200,000	ShopeeFood</span	6.9	3
+Quán ăn	Bún Đậu My My - Đống Đa (không có menu)	72 Đống Đa, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	10:00 - 21:00	15,000	45,000	0.0%	0	0
+Quán ăn	Quán Bò C1 - Phan Bội Châu	Chung Cư C1 Phan Bội Châu, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:00 - 23:00	25,000	200,000	0.0%	8.2	1
+Quán ăn	Cốm Mễ Trì Khang Vi - Bún Chả - Núi Một (không có menu)	80B Núi Một, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	10+	06:00 - 20:30	0	0	0.0%	0	0
+Quán ăn	Thiên Dương - Gà Nướng Muối Ớt - Lê Hồng Phong	509 Lê Hồng Phong, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	4.5	50+	11:00 - 22:00	150,000	150,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ty Ơi Coffee (không có menu)	389 Đường 23 Tháng 10, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 22:00	10,000	20,000	0.0%	0	0
+Café/Dessert	Sinh Tố Thiên Nhiên 2 - Lê Thành Phương	42 Lê Thành Phương, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	500+	11:00 - 23:00	10,000	33,000	0.0%	7.0	12
+Café/Dessert	Ding Tea - Hồng Bàng	116A Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	09:00 - 21:00	25,000	60,000	0.0%	7.2	29
+Café/Dessert	Milano Coffee - Nguyễn Đình Chiểu	83 Nguyễn Đình Chiểu, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 22:00	15,000	30,000	0.0%	7.0	4
+Café/Dessert	Star Coffee House	7M CT2 Building, Đường 19 Tháng 5, KDC Vĩnh Điềm Trung, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	5.0	10+	08:30 - 21:00	25,000	45,000	0.0%	7.6	24
+Café/Dessert	Highlands Coffee - Nha Trang Centre	Nha Trang Centre, 20 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	500+	07:00 - 21:30	9,000	65,000	0.0%	6.9	63
+Café/Dessert	Homita - Coffee &amp; Tea House - Đường 2 Tháng 4	745 Đường 2 Tháng 4, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:30 - 22:20	12,000	32,000	0.0%	6.3	3
+Café/Dessert	Homita House - Trà Sữa Tự Chọn - Bắc Sơn	1A Bắc Sơn, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:00 - 21:30	5,000	32,000	0.0%	6.6	7
+Café/Dessert	Cộng Cà Phê - Nguyễn Thiện Thuật	97 Nguyễn Thiện Thuật, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 22:00	30,000	60,000	0.0%	7.3	55
+Café/Dessert	Trung Nguyên Coffee - Võ Trứ	148 Võ Trứ (Góc Tô Hiến Thành), P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 21:00	20,000	35,000	0.0%	6.9	12
+Café/Dessert	Trà Dâu Mr. Đỏ - Lê Hồng Phong	189 Lê Hồng Phong, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	10+	09:00 - 22:00	25,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Kacha - Cao Bá Quát	31 Cao Bá Quát, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:30 - 21:50	15,000	22,000	0.0%	<span>_._</span>	0
+Café/Dessert	Bonjour Cafe	113 Hoàng Văn Thụ, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	0.0	3	06:00 - 22:00	20,000	50,000	0.0%	7.7	7
+Café/Dessert	Highlands Coffee - Citadine Nha Trang	Citadine Hotel, 62 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	999+	07:00 - 22:00	39,000	100,000	0.0%	6.7	16
+Café/Dessert	Highlands Coffee - Vietsky Hotel NT	Vietsky Hotel, 80 Lê Đại Hành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	07:30 - 22:00	9,000	65,000	0.0%	4.1	3
+Café/Dessert	Sinh Tố VinPro	69 Quang Trung, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 22:00	15,000	70,000	0.0%	7.2	30
+Café/Dessert	CCCP Coffee	22 Tô Hiến Thành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	5.0	4	06:00 - 22:00	20,000	50,000	ShopeeFood</span	8.4	2
+Café/Dessert	Chill - Coffee &amp; Tea - 15 Phương Câu	15 Phương Câu, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	10+	06:15 - 21:45	20,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Hoa Niên - Đường B7 VCN Phước Hải	47 Đường B7 VCN Phước Hài, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	5.0	4	07:30 - 22:00	20,000	40,000	0.0%	9.4	16
+Café/Dessert	Cộng Cà Phê - Nguyễn Chánh	23 - 25 Nguyễn Chánh, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:30 - 22:00	25,000	65,000	0.0%	7.7	2
+Café/Dessert	Trà Dâu Cô Ba - Hùng Vương	44 Hùng Vương, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	11:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Tmore - Yersin	17 Yersin, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	5.0	6	09:00 - 22:00	20,000	120,000	0.0%	<span>_._</span>	0
+Café/Dessert	Amore Cafe	487 Đường 2 Tháng 4, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	0	0	07:00 - 22:00	15,000	35,000	0.0%	0	0
+Café/Dessert	1 ST Crack Coffee - Lê Hồng Phong	1032 Lê Hồng Phong, P. Phước Long, Tp. Nha Trang, Khánh Hoà	5.0	6	06:00 - 22:00	19,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Cafe dd/mm/yy - Đặng Tất (không có menu)	39 Đặng Tất, Phường Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	5.0	9	07:30 - 21:30	22,000	55,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tous Les Temps - Tea &amp; Coffee - Lê Thánh Tôn	9 Lê Thánh Tôn, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:20 - 22:00	22,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Starbucks Coffee - Vinpearl Condotel Beachfront	Tầng 1 Vinpearl Condotel Beachfront, 78 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 21:30	70,000	150,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Bí Đao Hạt Chia Chia - 50 Võ Thị Sáu	50 Võ Thị Sáu, P. Phước Long, Tp. Nha Trang, Khánh Hoà	5.0	10+	08:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Thanh Thản - 2 Tháng 4	559 Đường 2 Tháng 4, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:30 - 21:30	5,000	33,000	0.0%	<span>_._</span>	0
+Café/Dessert	Rau Má Lắk - Ngã Tư Siêu Thị CoopMart	Ngã Tư Siêu Thị Coop Mart, Đường Tố Hữu Và Lê Hồng Phong, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	0.0	1	07:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Starbucks Coffee – Nha Trang Center	GF24, Tầng trệt, Trung Tâm Thương Mại Nha Trang, số 20 Trần Phú, P. Lôc Thọ, Thành phố Nha Trang, Tỉnh Khánh Hòa, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 21:00	70,000	150,000	0.0%	<span>_._</span>	0
+Café/Dessert	The Coffee House - 44 Trần Phú	44 Trần Phú, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 20:30	30,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - 2 Nguyễn Thị Minh Khai	2 Nguyễn Thị Minh Khai, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	09:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cà Phê Ông Bầu - Tôn Thất Tùng	Số 45 Tôn Thất Tùng, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 20:45	16,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Gạch Cafe - Nguyễn Đình Chiểu	64 Nguyễn Đình Chiểu, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 22:00	19,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Ăn Vặt Nhà Ớt - 40 Đoàn Trần Nghiệp	40 Đoàn Trần Nghiệp, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	5	09:00 - 23:30	8,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Trà Chanh 200 - Ngô Gia Tự	200 Ngô Gia Tự, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:30 - 22:00	5,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	GA Concept - Coffee &amp; More - Lê Lợi	5A Lê Lợi, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 21:30	27,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Túi Lọc - Trần Nhật Duật	02 Trần Nhật Duật, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 22:00	15,000	40,000	ShopeeFood</span	<span>_._</span>	0
+Café/Dessert	Trà Sữa Montocha	29 Đặng Tất, P. Phước Vĩnh, Tp. Nha Trang, Khánh Hoà	4.5	500+	09:30 - 21:30	15,000	25,000	0.0%	5.0	1
+Café/Dessert	Tous Les Temps - Tea &amp; Coffee - Napoleon	Số 25-26 Nguyễn Đình Chiểu, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	The Coffee House - Lô Số 4, Đường 19/5 (không có menu)	Lô Số 4, Đường 19/5, Xã Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 20:30	30,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Nọng - 14 Trần Quang Diệu	14 Trần Quang Diệu, P. Vĩnh Hoà, Tp. Nha Trang, Khánh Hoà	4.5	50+	08:00 - 22:00	19,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	The Coffee House - 1 Trần Hưng Đạo	1 Trần Hưng Đạo, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 20:30	30,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Chè Thái Wanwan - Hồng Bàng	Số 98 Đường Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	12:00 - 21:00	8,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - 108 Quang Trung	108 Quang Trung, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	500+	09:00 - 23:00	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	T Cafe - Nguyễn Thị Minh Khai	47 Nguyễn Thị Minh Khai, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	5.0	1	06:00 - 21:00	20,000	35,000	0.0%	8.7	8
+Ăn vặt/vỉa hè	Trà Bí Đao Hạt Chia Chia - 598 Đường 2 Tháng 4	598 2 Tháng 4, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	5.0	10+	07:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Homita Chợ Ga Vĩnh Thạnh - Trà Sữa - Trung Tâm Xã	55 Trung Tâm Xã, X. Vĩnh Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:30 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Paradise - Nguyễn Đình Chiểu	66 Nguyễn Đình Chiểu, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 23:00	20,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Hòn Chồng	28 Hòn Chồng, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - KĐT Vĩnh Điềm Trung	97A Toà CT7B Khu Đô Thị Vĩnh Điềm Trung, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mee Tea - Phước Long	 65 Phước Long, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:30 - 21:00	18,000	85,000	0.0%	<span>_._</span>	0
+Café/Dessert	Vivu Chè - Chè &amp; Trà - 10B Tuệ Tĩnh	10B Tuệ Tĩnh, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 22:15	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Cà Phê Ông Bầu - 120C Trịnh Phong	120C Trịnh Phong, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:15 - 21:45	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mee Tea	69 Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	08:31 - 21:00	19,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	The Garden by Iced Coffee – đường số 13	8 Đường 13, Khu Đô Thị Lê Hồng Phong II, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 21:00	30,000	100,000	0.0%	9.1	2
+Café/Dessert	The Dreamers Coffee Shop	Lô 6, Đường Sô 4, Khu VCN Phước Hải, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 22:00	15,000	35,000	0.0%	7.4	15
+Café/Dessert	Little Đà Lạt - Yết Kiêu	18D Yết Kiêu, P. Vạn Thắng, Tp. Nha Trang, Khánh Hoà	4.5	8	06:00 - 22:00	5,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Money - Coffee &amp; Tea - 300 Nguyễn Thiện Thuật	300 Nguyễn Thiện Thuật, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	5.0	6	06:30 - 21:30	16,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	HEBE Craft Drinks - Trà &amp; Kombucha - Hai Tháng Tư	710 Hai Tháng Tư, Tp. Nha Trang, Khánh Hoà	5.0	8	10:30 - 21:15	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Cộng Trừ Nhân Chia (+-×÷) - Mạc Đĩnh Chi	46 Mạc Đĩnh Chi (Ngã Tư Mạc Đĩnh Chi - Trịnh Phong), P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	9	07:30 - 22:00	7,000	55,000	0.0%	<span>_._</span>	0
+Café/Dessert	Chill Coffee - 21 Hồng Lĩnh	21 Hồng Lĩnh, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:15 - 21:45	20,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Dừa Dầm Kem Bơ Bánh Mì Cay Hải Phòng - Nguyễn Thị Minh Khai	102 Nguyễn Thị Minh Khai, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	8	09:00 - 23:00	5,000	36,000	0.0%	<span>_._</span>	0
+Café/Dessert	Rovis Coffee &amp; Tea - Dương Hiến Quyền	101 Dương Hiến Quyền, P. Vĩnh Hoà, Tp. Nha Trang, Khánh Hoà	0.0	3	06:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	De.dum - Cafe - 12E Hồng Lĩnh	12E Hồng Lĩnh, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Windy Coffee &amp; Sinh Tố - Hòn Chồng	Chung Cư Mường Thanh Viễn Triều, Tòa nhà OC1B, Đường Hòn Chồng, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	8	06:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Giòn - Lương Định Của	185 Lương Đình Của, P. Ngọc Hiệp, Tp. Nha Trang, Khánh Hoà	0	0	09:30 - 21:30	3,000	30,000	0.0%	0	0
+Café/Dessert	Phúc Long 184 Dã Tượng	184 Dã Tượng, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	50+	07:00 - 21:30	35,000	75,000	0.0%	<span>_._</span>	0
+Café/Dessert	Phúc Long BT01-18 KĐT Phước Long	BT01-18 Khu Đô Thị Phước Long, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	50+	07:00 - 21:30	35,000	75,000	0.0%	<span>_._</span>	0
+Café/Dessert	Quán Cà Phê Xịn Nhất - Vĩnh Điềm Trung	7A - C1 CT2 Vĩnh Điềm Trung, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	5.0	10+	06:00 - 22:00	18,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Rovi	50 Trần Bình Trọng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:30 - 21:30	5,000	35,000	0.0%	8.0	1
+Café/Dessert	Rau Má Lắk - Vĩnh Điềm Trung	101K Đường A1, Vĩnh Điềm Trung CT6 (Tầng Trệt), P. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nâu Tea House - Lê Hồng Phong	613/4 Lê Hồng Phong, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	100+	00:00 - 23:59	20,000	38,000	0.0%	<span>_._</span>	0
+Quán ăn	Like Fruit - Trái Cây Ướp Lạnh - 07 Lê Lợi	07 Lê Lợi, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	10+	08:30 - 21:30	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Dừa Nhai A.Peo - Đường 2/4 (không có menu)	1031 Đường 2/4, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Phúc Long 45 Phước Long	45 Phước Long, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 21:30	35,000	75,000	0.0%	8.4	1
+Café/Dessert	EL.TEE Cakes &amp; Coffee	67 Nguyễn Trãi, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 22:00	18,000	40,000	0.0%	7.3	67
+Quán ăn	Pizza Hut – Go Mall Nha Trang	Lô số 4, Đường 19/5, KDT Vĩnh Điềm Trung, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	50+	09:30 - 21:30	50,000	500,000	0.0%	<span>_._</span>	0
+Nhà hàng	Olivia Restaurant - Pizza &amp; Pasta - Nguyễn Thiện Thuật	2 Nguyễn Thiện Thuật, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:15 - 21:30	30,000	330,000	0.0%	7.1	38
+Café/Dessert	Pizza &amp; Coffee Tam	192 Trần Nguyên Hãn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	6	10:00 - 22:00	25,000	140,000	0.0%	8.6	1
+Quán ăn	Johnny Steak House - Steak - Nguyễn Thị Minh Khai	66 Nguyễn Thị Minh Khai, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 21:30	70,000	390,000	0.0%	8.4	4
+Café/Dessert, Quán ăn	Mickey’s Deli - Milktea &amp; Yogurt - Vân Đồn	89 Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	5.0	1	08:00 - 22:00	30,000	120,000	0.0%	8.4	1
+Quán ăn	Pizza - Mỳ Ý Tropical	18C Tổ 32, 33 Phạm Văn Đồng, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:30 - 23:59	45,000	220,000	0.0%	<span>_._</span>	0
+Nhà hàng	Pizzico - Italian Way Restaurant	Tầng 4, Vincom Plaza Trần Phú, 78 - 80 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	50+	09:00 - 21:00	15,000	75,000	0.0%	6.5	3
+Nhà hàng	City Pizza - Little Italy	10/4 Nguyễn Thiện Thuật, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:00 - 22:00	110,000	143,000	0.0%	6.8	5
+Quán ăn	Ông Mập - Cháo Sườn Niêu Đất - Thích Quảng Đức	NV18 - 37 Thích Quảng Đức, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	10+	00:00 - 23:59	35,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Nem Nướng Vũ Thành An	15 Lê Lợi, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	999+	07:30 - 20:30	20,000	55,000	ShopeeFood</span	6.2	65
+Quán ăn	Lẩu Đuôi Bò - 91 Hoàng Văn Thụ	91 Hoàng Văn Thụ, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:00 - 22:00	100,000	165,000	0.0%	7.8	9
+Quán ăn	Lẩu Dê Song Nhi 3	662 Đường 23 Tháng 10, X. Vĩnh Thạnh, Tp. Nha Trang, Khánh Hoà	5.0	1	09:00 - 21:00	30,000	250,000	0.0%	8.8	1
+Quán ăn	Baba Ciu Food And Coffee	18A Hồng Bàng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	100+	11:30 - 22:00	28,000	110,000	0.0%	7.2	4
+Quán ăn	Nhật Phong 3 - Hải Sản Tươi Sống	63B Cù Lao Trung, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	3.5	6	09:00 - 23:00	100,000	550,000	ShopeeFood</span	6.1	20
+Nhà hàng	Lê Dương Restaurant - Nhà Hàng Hải Sản	194 Đường 2/4, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	0	0	08:30 - 21:00	30,000	1,200,000	ShopeeFood</span	0	0
+Quán ăn	Thích Nướng - BBQ - 	22 Phạm Văn Đồng, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	0.0	2	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hồng Ngọc - Bò Nướng &amp; Hải Sản - Phan Bội Châu	C2 Phan Bội Châu, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:45 - 23:00	19,000	169,000	0.0%	4.7	4
+Quán ăn	Hương Bang Hotpot - Phạm Văn Đồng	02 Phạm Văn Đồng, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	0	0	10:00 - 22:00	40,000	400,000	0.0%	0	0
+Quán ăn	Trùng Dương Quán - Hải Sản Tươi Sống	1 Nguyễn Cơ Thạch, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	5.0	1	10:00 - 21:00	10,000	500,000	ShopeeFood</span	5.8	3
+Nhà hàng	Vua Cua Express - Xóm Cồn	194 Xóm Cồn, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	0.0	3	10:00 - 21:30	59,000	650,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà 170 - Bạch Đằng	76 Bạch Đằng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 22:00	20,000	80,000	0.0%	6.5	22
+Nhà hàng	Galangal - Món Ăn Đường Phố Việt Nam	1A Biệt Thự, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	0	0	10:00 - 22:00	15,000	500,000	0.0%	0	0
+Nhà hàng	Nhà Hàng Nấm Rừng	62A Nguyễn Thị Minh Khai, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	0	0	07:00 - 23:00	50,000	150,000	ShopeeFood</span	0	0
+Quán ăn	À Nhon Quán - Mì Cay - Đoàn Trần Nghiệp	30/21 Đoàn Trần Nghiệp, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	0.0	2	09:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Nhà hàng	Nhà Hàng Tứ Xuyên Việt Nam	1A1 Nguyễn Thị Minh Khai, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	5.0	1	09:30 - 14:00 | 16:30 - 21:00	30,000	350,000	0.0%	9.8	1
+Quán nhậu	2 Đô - Quán Nhậu Bình Dân	105L CT5 Đường A1, Khu Đô Thị Vĩnh Điềm Trung, P. Ngọc Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	10+	11:00 - 21:00	25,000	250,000	ShopeeFood</span	7.0	3
+Quán ăn	Kuken 79 Nha Trang - Quán Nướng Ngói	54 Nguyễn Dữ, Đường Đệ, P. Vĩnh Hòa, Tp. Nha Trang, Khánh Hoà	4.5	8	13:00 - 23:00	30,000	100,000	0.0%	6.5	7
+Nhà hàng	Hương Bang Hotpot - Tô Hiến Thành	81 Tô Hiến Thành, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	0	0	10:00 - 22:00	40,000	300,000	0.0%	0	0
+Nhà hàng	Lộc Vừng - Hải Sản, Món Ăn Đồng Quê &amp; Rừng	4 Lam Sơn, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	3.5	4	09:00 - 21:00	35,000	320,000	ShopeeFood</span	6.4	3
+Nhà hàng	Hương Việt - Cơm Niêu &amp; Cơm Đập - Trần Hưng Đạo	1 Trần Hưng Đạo, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.0	10+	09:00 - 21:00	50,000	150,000	ShopeeFood</span	5.7	16
+Buffet	Buffet Hải Sản - Zallo Hà Ra	Bờ Kè Nam, Đầu Cầu Hà Ra, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 21:00	99,000	149,000	ShopeeFood</span	0	0
+Nhà hàng	Cánh Buồm Seafood	48 Cù Huân, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	5.0	1	09:00 - 21:00	30,000	300,000	ShopeeFood</span	8.6	2
+Quán ăn	Cao Gia Quán - Vịt &amp; Bò Nướng	C1 Phan Bội Châu, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 21:00	10,000	350,000	ShopeeFood</span	0	0
+Quán ăn	Khạp Leo	21B Nguyễn Chánh, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	50+	11:00 - 22:00	35,000	269,000	0.0%	3.4	1
+Quán ăn	Cơm Niêu Hương Vị Việt - 82 Hùng Vương	82 Hùng Vương (Ngã Tư Hùng Vương Và Nguyễn Thị Minh Khai), P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	0	0	06:00 - 22:00	40,000	200,000	0.0%	0	0
+Nhà hàng	Bờ Kè Quán - Hải Sản Tươi Sống	52 Cù Huân (42B Cù Lao Trung), P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	3.5	10+	08:00 - 23:00	30,000	165,000	ShopeeFood</span	5.0	12
+Quán ăn	Gà Tắm Ớt Sài Gòn - Thích Quảng Đức	37 Thích Quảng Đức, P. Phước Long, Tp. Nha Trang, Khánh Hoà	3.5	10+	00:00 - 23:59	160,000	180,000	0.0%	<span>_._</span>	0
+Quán nhậu	BÒ TƠ QUÁN 4 - Lẩu Và Nướng - Vân Đồn	06 Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	0.0	1	11:00 - 22:59	0	0	0.0%	<span>_._</span>	0
+Nhà hàng	Nhà Hàng Hongdae BBQ - Vincom Plaza	Tầng 3, L3-02 TTTM Vincom Plaza, 78 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	5.0	1	10:00 - 21:00	30,000	800,000	ShopeeFood</span	7.4	8
+Quán ăn	Gu Gà Quán Nha Trang - Đường Số 6	Góc Đường Số 6 &amp; Đường Số 4D, KĐT Hà Quang, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	0.0	1	09:30 - 22:00	55,000	200,000	0.0%	<span>_._</span>	0
+Nhà hàng	Nha Trang Garden - Ẩm Thực Việt Hàn	1A Cầu Xóm Bóng, Đường 2 Tháng 4, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	0	0	10:00 - 21:00	50,000	500,000	ShopeeFood</span	0	0
+Quán ăn	Ngói BBQ - Thống Nhất	225 Thống Nhất, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	5.0	1	10:00 - 22:00	50,000	200,000	ShopeeFood</span	6.6	17
+Quán ăn	Lẩu Đuôi Bò - 99 Hoàng Văn Thụ	99 Hoàng Văn Thụ, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:00 - 21:00	2,000	250,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Bò Cây Mận	27 Nguyễn Công Trứ, Tp. Nha Trang, Khánh Hoà	4.5	50+	11:00 - 21:00	70,000	165,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Lẩu Bò - Heo Rừng Giang Mập	9 Lý Nam Đế, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	7	06:30 - 22:00	39,000	299,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Hùng Râu - Lê Quý Đôn	25 Lê Quý Đôn, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	3.5	10+	06:00 - 22:00	20,000	580,000	0.0%	<span>_._</span>	0
+Quán ăn	Laugh Food - Ẩm Thực 3 Miền	26 Võ Trứ, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.0	2	09:00 - 21:00	25,000	170,000	ShopeeFood</span	<span>_._</span>	0
+Quán nhậu	Quán 363 - Hải Sản Tươi Sống	244 Nguyễn Thị Minh Khai, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	0.0	4	10:00 - 22:30	40,000	200,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Quán Hải Sản Bên Sông - Xóm Cồn	206 Xóm Cồn, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	0.0	1	12:00 - 22:00	20,000	20,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Hùng - Cá Nướng - Bờ Kè Cầu Thành	Bờ Kè Cầu Thành, Đường Trần Phú, Thị Trấn Diên Khánh, Diên Khánh, Khánh Hoà	0	0	10:00 - 22:00	100,000	100,000	ShopeeFood</span	0	0
+Quán ăn	Cầu Bè Xanh Quán - Cầu Bè	Cầu Bè, Xã Vĩnh Thạnh, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 21:00	10,000	200,000	ShopeeFood</span	0	0
+Quán ăn	Bê Thui Nóng - Khải Hoàn 2 - Hòn Chồng	42 Hòn Chồng, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	3.5	6	10:00 - 22:00	55,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Bò Hùng	12G Chung Cư CT4, Đường A2,  KDC Vĩnh Điềm Trung, P. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	10+	09:00 - 22:00	20,000	220,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Gà Lá É Tao Ngộ - Vĩnh Điềm Trung (Chi Nhánh Đà Lạt)	104 Đường A1, KDT Vĩnh Điềm Trung, P. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	5.0	2	11:00 - 22:00	250,000	350,000	0.0%	<span>_._</span>	0
+Quán ăn	Dê Núi Ninh Bình - Bạch Đằng	76 Bạch Đằng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 22:00	45,000	385,000	0.0%	0	0
+Quán ăn	Thái Ngon Ngon - Ẩm Thực Thái - Asiana Food Town	Lầu 3, Lotte Mart Nha Trang Gold Coast, 1 Trần Hưng Đạo, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	5.0	2	10:00 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Tarot Chan	18 Hồng Bàng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	50+	06:00 - 22:00	30,000	120,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Đồi Lẩu Quán - Đặc Sản Gà Đồi - Lê Thánh Tôn (không có menu)	17/1 Lê Thánh Tôn, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	0	0	06:00 - 22:00	10,000	200,000	0.0%	0	0
+Nhà hàng	Lee's Grill - Nhà Hàng Nướng	111 Nguyễn Thiện Thuật, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	0	0	12:00 - 21:00	50,000	1,200,000	ShopeeFood</span	0	0
+Café/Dessert	Khởi Nghiệp 91 Cafe	675 Đường 2 Tháng 4, Nha Trang, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	0	0	08:45 - 21:00	30,000	250,000	ShopeeFood</span	0	0
+Quán nhậu	Ba Lợi - Quán Nướng	146 Bạch Đằng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	5.0	1	06:45 - 21:00	15,000	55,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	BULL GOGI - QUÁN NƯỚNG - VÕ THỊ SÁU	23 Võ Thị Sáu - Khu Đô Thị Nam Sông Cái, Diên Khánh, Diên Khánh, Khánh Hoà	0	0	10:00 - 22:00	90,000	90,000	ShopeeFood</span	0	0
+Quán ăn	Quán Hương Sông - Bờ Kè Cầu Thành	Bờ Kè Cầu Thành, Trần Phú, Thị Trấn Diên Khánh, Diên Khánh, Khánh Hoà	0	0	10:00 - 22:00	35,000	340,000	ShopeeFood</span	0	0
+Café/Dessert, Quán ăn	LẨU DÊ PHÁT ĐẠI LỢI - BỜ KÈ CẦU THÀNH	Bờ Kè Cầu Thành, Trần Phú, TT.Diên Khánh, Diên Khánh, Khánh Hoà	0	0	10:00 - 22:00	100,000	100,000	ShopeeFood</span	0	0
+Quán ăn	Quán Bếp Phức Vị - Đinh Tiên Hoàng	8 Đinh Tiên Hoàng, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	0	0	06:00 - 22:00	55,000	55,000	ShopeeFood</span	0	0
+Quán ăn	Quán Lẩu Dần 56 - Lẩu Bò - 56 Trường Sa	56 Trường Sa, P. Phước Long, Tp. Nha Trang, Khánh Hoà	1.0	1	10:00 - 21:00	10,000	230,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Dê Đệ Nhị - Vĩnh Điềm Trung	102 A1 Vĩnh Điềm Trung (Trần Hữu Duyệt), X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 22:30	119,000	649,000	0.0%	0	0
+Quán ăn	Cương Lẩu Bò - Đoàn Trần Nghiệp	17 Đoàn Trần Nghiệp, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	0.0	2	10:59 - 23:59	40,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	QD Dimsum - Lẩu Tứ Xuyên - Nguyễn Biểu	73 Nguyễn Biểu, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	Mr Gà Nha Trang - Hai Tháng Tư (không có menu)	863 Đường Hai Tháng Tư, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	5.0	1	09:00 - 23:59	170,000	170,000	0.0%	<span>_._</span>	0
+Quán ăn	Nướng &amp; Lẩu Ruby - Lê Quý Đôn	9C Lê Quý Đôn, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	0.0	4	17:00 - 22:00	70,000	24,000	0.0%	8.7	5
+Quán nhậu	Quán Beer Muối - Nhậu Bình Dân	9 Lạc Thiện, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	3.5	3	16:00 - 22:00	25,000	55,000	ShopeeFood</span	9.0	1
+Buffet	Xiên Que Tứ Vị - Xiên Que - 104 Trần Phú (không có menu)	104 Trần Phước Hòa, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	10+	14:00 - 21:30	0	0	0.0%	0	0
+Quán ăn	Quán Thanh Đa - Lẩu Dê	66 Nguyễn Thị Minh Khai, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	16:00 - 22:30	50,000	250,000	ShopeeFood</span	8.1	5
+Quán nhậu	Nhậu Đi Chờ Chi Quán	23 Nguyễn Đình Chiểu, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	5.0	1	16:00 - 23:00	40,000	170,000	ShopeeFood</span	10.0	1
+Quán ăn	Đồ Nướng Huy Gia - Lê Hồng Phong	61 Lê Hồng Phong, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	5.0	1	16:00 - 22:00	19,000	190,000	0.0%	<span>_._</span>	0
+Nhà hàng	Thiên Đường Ốc Hallo	17 Cao Văn Bé, Nha Trang, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.0	4	15:00 - 22:00	20,000	150,000	ShopeeFood</span	9.4	13
+Quán ăn	Ốc 1232 - Hải Sản - 1232 Đường 2/4 (không có menu)	1232 Đường 2/4, P. Vạn Thắng, Tp. Nha Trang, Khánh Hoà	4.5	100+	14:00 - 23:00	5,000	119,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Bò 81 - Lý Nam Đế	81 Lý Nam Đế, P. Phước Long, Tp. Nha Trang, Khánh Hoà	0.0	3	15:00 - 21:00	30,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu &amp; Ếch	72 Ngô Đến, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	50+	17:00 - 21:30	30,000	80,000	0.0%	7.9	2
+Quán ăn	Bùm Boy - Bò &amp; Bò Lúc Lắc	1 Lý Thánh Tôn, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	50+	17:30 - 22:00	25,000	170,000	0.0%	7.2	45
+Quán ăn	Lẩu Cá Vi Ba - Nhị Hà	09 Nhị Hà, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	0	0	14:00 - 22:30	70,000	200,000	0.0%	0	0
+Ăn vặt/vỉa hè	Xiên Que - Bạch Đằng	3 Bạch Đằng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	50+	15:00 - 22:00	5,000	50,000	ShopeeFood</span	6.6	5
+Quán ăn	Chân Gà Nướng - Cá Nướng 68 - Lê Nghị	42 Lê Nghị, P. Vĩnh Hoà, Tp. Nha Trang, Khánh Hoà	5.0	10+	16:00 - 23:59	80,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Ly Mr Big	263 Đường 23 Tháng 10, P. Ngọc Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	100+	17:30 - 21:00	15,000	25,000	0.0%	6.2	11
+Ăn vặt/vỉa hè	Ốc Sò Sinh Viên	39 Đặng Tất, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	3.5	10+	16:00 - 22:00	30,000	60,000	ShopeeFood</span	6.4	16
+Quán ăn	Cá Nướng Cô Uyên 2	22 Phạm Văn Đồng, Tp. Nha Trang, Khánh Hoà	0	0	18:00 - 21:00	30,000	200,000	ShopeeFood</span	0	0
+Quán nhậu	Nhậu Bình Dân A Nhân	Chân Cầu Vượt Đường Võ Nguyên Giáp, Xã Vĩnh Trung, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	1.0	1	15:00 - 21:00	25,000	150,000	ShopeeFood</span	8.8	1
+Ăn vặt/vỉa hè	Xiên Nướng 38	38 Hòn Chồng, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	50+	15:00 - 23:00	3,000	18,000	ShopeeFood</span	7.6	1
+Ăn vặt/vỉa hè	Hương Biển - Lẩu &amp; Hải Sản - 16 Hòn Chồng	16 Hòn Chồng, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	0.0	1	17:00 - 23:59	30,000	180,000	0.0%	<span>_._</span>	0
+Quán ăn	Cold Beer	111 Nguyễn Thị Minh Khai, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	9	14:00 - 23:59	12,000	150,000	ShopeeFood</span	8.0	10
+Quán ăn	Lẩu Thái 58K	Hẻm Sát Chung Cư Napoleon Gần Nguyễn Đình Chiểu, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	50+	17:00 - 23:00	5,000	99,000	0.0%	3.8	1
+Quán ăn	Lẩu Dê Lai - Phòng Không	51 Phòng Không, Xã Phước Đồng, Tp. Nha Trang, Khánh Hoà	4.5	9	15:00 - 21:00	100,000	165,000	0.0%	7.9	2
+Café/Dessert, Quán ăn	Mickey Food - Bánh Tráng &amp; Bắp Nướng - Điện Biên Phủ	367 Điện Biên Phủ, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	10+	14:00 - 22:00	10,000	30,000	0.0%	<span>_._</span>	0
+Quán nhậu	Phố Khuya Quán - Các Món Nhậu	92 Nguyễn Thị Minh Khai, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	10+	16:00 - 21:00	25,000	210,000	ShopeeFood</span	7.0	1
+Quán ăn	Quán Lẩu Bung - Bún Bung - Mạc Đĩnh Chi	45 Mạc Đĩnh Chi, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	4	06:00 - 13:00 | 17:00 - 21:00	50,000	200,000	0.0%	<span>_._</span>	0
+Nhà hàng	Nha Trang Dimsum House	35/1 Nguyễn Thiện Thuật, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	500+	10:00 - 13:30 | 17:00 - 21:30	25,000	89,000	0.0%	7.4	23
+Quán ăn	Bún Đậu Quê - 40 Nhị Hà	40 Nhị Hà, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	3.5	9	10:00 - 21:00	6,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Sơn Hải Quán - Bún Chả &amp; Bánh Cuốn - Vân Đồn	35 Vân Đồn, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	5.0	5	06:00 - 21:00	35,000	48,000	0.0%	<span>_._</span>	0
+Quán ăn, Ăn vặt/vỉa hè	Bún Bò 89-76 Vân Đồn	76 Vân Đồn, Phường Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	100+	00:00 - 01:00 | 07:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	CƠM GÀ TUYẾT NHUNG NHA TRANG - Cơm Gà - 67 Trần Nguyên Hãn	67 Trần Nguyên Hãn, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	6	06:30 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hải Sản Bình Dân - Ngô Sỹ Liên	6 Ngô Sỹ Liên, P. Vạn Thắng, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:00 - 21:00	35,000	275,000	ShopeeFood</span	6.4	20
+Quán ăn	Hủ Tiếu Nam Vang Bayon	93 Yersin, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:00 - 22:00	20,000	44,000	0.0%	6.7	2
+Quán ăn	Nguyên Loan - Bún Cá	123 Ngô Gia Tự, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	500+	05:00 - 22:00	15,000	39,000	0.0%	6.5	112
+Quán ăn	Bún Đậu Nia - Thống Nhất	57 Thống Nhất, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	4.5	999+	10:00 - 21:00	30,000	55,000	0.0%	5.9	24
+Quán ăn	Quán Ăn Ba Sao - Vạn Hòa	72 Vạn Hòa, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	3.5	9	00:00 - 23:59	18,000	40,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Cơm Gà Bà Tư - Tô Vĩnh Diện	Khu Cơm Gà Vỉa Hè Tô Vĩnh Diện, 8 Tô Vĩnh Diện, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	5.0	10+	09:00 - 21:00	30,000	35,000	ShopeeFood</span	8.6	1
+Quán ăn	Phở Tuấn - Hòn Chồng	15/5 Hòn Chồng, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	0.0	1	05:00 - 21:00	48,000	48,000	0.0%	<span>_._</span>	0
+Quán ăn	Bích An - Bún Mẹt - Bún Chả &amp; Bún Giả Cầy	55 Nguyễn Thị Định, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	100+	06:00 - 21:00	40,000	45,000	0.0%	9.0	1
+Quán ăn	Bún Đậu Chang Chang 2 - Bà Triệu	10A Bà Triệu, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:00 - 21:00	5,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm Chị Cả Ruby - Đồng Nai	80B/7A Đồng Nai, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:00 - 21:00	5,000	159,000	0.0%	<span>_._</span>	0
+Quán ăn	BPQ - Cơm &amp; Mì Xào - Đoàn Trần Nghiệp	30/45 Đoàn Trần Nghiệp, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:00 - 23:59	12,000	39,000	0.0%	<span>_._</span>	0
+Quán ăn	Bò Né 3 Ngon - Mì Cay Cơm Trộn - Vân Đồn (không có menu)	44 Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	3.5	100+	00:00 - 23:59	23,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Mì Quảng Nha Trang - Huỳnh Thúc Kháng	135 Huỳnh Thúc Kháng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	06:00 - 22:00	25,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Chả - Bún Nem Hoa Béo - Hùng Vương	Số 9 Hùng Vương, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	6	07:00 - 22:00	4,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Linh - Cơm Chiên Gà Xối Mỡ - Hàn Thuyên	32A2 Hàn Thuyên, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 21:30	40,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Gà Hà Nội Phố - Đường 19/5 (không có menu)	KĐT Vĩnh Điềm Trung, 7B CT2 Đường 19/5, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	3.5	5	06:00 - 14:00 | 16:00 - 21:00	40,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm Tùng Gà - Hương Lộ Ngọc Hiệp	11 Hương Lộ Ngọc Hiệp, P. Ngọc Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	50+	08:30 - 23:59	30,000	240,000	0.0%	<span>_._</span>	0
+Quán ăn	Best Thai Food - Nhà hàng Thái	34A3 Nguyễn Thiện Thuật (đường vào bệnh viện 22/12), P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	08:00 - 22:00	70,000	500,000	0.0%	7.8	5
+Quán ăn	Bún Đậu Mắm Tôm Thị Cám - 68 Trương Định (không có menu)	68 Trương Định, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:00 - 22:00	7,000	175,000	0.0%	0	0
+Quán ăn	Quán Mẹ Lượng - Cơm Gà &amp; Bún Thịt Nướng - Đồng Nai	80C/5 Đồng Nai, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:00 - 21:00	30,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Cua Sài Gòn Linh - Tô Hiến Thành (không có menu)	31 Tô Hiến Thành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	06:00 - 13:30 | 15:30 - 21:30	40,000	60,000	0.0%	0	0
+Quán ăn	Mỳ Xứ Quảng Bà Dậu - Mỳ Tôm &amp; Thịt Heo - 67 Vân Đồn	67 Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	10+	00:00 - 01:00 | 06:00 - 13:30 | 15:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Nhà hàng	Nhà Hàng Vườn Xoài	94 Nguyễn Thị Minh Khai, Tp. Nha Trang, Khánh Hoà	4.5	6	10:00 - 22:30	50,000	715,000	ShopeeFood</span	7.0	10
+Quán ăn	Bún Đậu Cô Liên	7 Lạc Long Quân, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:00 - 22:00	20,000	50,000	0.0%	6.5	22
+Quán ăn	MinChu - Mì Cay Hàn Quốc - Đường A1	107P Chung Cư CT5, Đường A1, X. Vĩnh Ngọc, Tp. Nha Trang, Khánh Hoà	4.5	100+	09:00 - 21:30	15,000	50,000	0.0%	4.9	7
+Nhà hàng	Home Restaurant - Phạm Ngọc Thạch	43 Phạm Ngọc Thạch, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	5.0	6	08:00 - 22:00	40,000	900,000	ShopeeFood</span	9.0	1
+Ăn vặt/vỉa hè	Cô Linh Food - Xiên Que - Hẻm 233 Cầu Dứa	233/12 Cầu Dứa - Phú Nông, Xã Vĩnh Ngọc, Tp. Nha Trang, Khánh Hoà	4.5	50+	08:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Cô Phin 1 - Tô Vĩnh Diện	10 Tô Vĩnh Diện, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	5.0	6	09:00 - 23:00	45,000	180,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Bún Chả Nem Hà Nội - Chung Cư CT5 Vĩnh Điềm Trung	107D Chung Cư CT5 Vĩnh Điềm Trung, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	10+	06:30 - 23:00	15,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Hà Nội Đức Khải - Vân Đồn	21 Vân Đồn, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	4.5	5	09:00 - 21:30	40,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Beachu Kimchi - Món Ăn Hà Quốc - Lê Thánh Tôn	41/1 Lê Thánh Tôn, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	3.5	10+	00:00 - 23:59	30,000	125,000	0.0%	<span>_._</span>	0
+Shop Online	Cháo Quỳnh	28 Đặng Huy Trứ, P. Vĩnh Hoà, Tp. Nha Trang, Khánh Hoà	4.5	100+	08:00 - 22:00	30,000	38,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Ốc Na Na - Thái Nguyên	109 Thái Nguyên, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	50+	11:00 - 23:59	50,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Huy Louis - Cơm Gà Xối Mỡ	11 Phan Đình Giót, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	50+	10:00 - 21:30	30,000	250,000	0.0%	8.2	5
+Quán ăn	Hạ Quyên - Pizza &amp; Phở - Phạm Văn Đồng	Mường Thanh Viễn Triều - Tòa OC3 - Ki-ốt 8 A, Đường Phạm Văn Đồng, Tp. Nha Trang, Khánh Hoà	3.5	10+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Thị Nở - Vân Đồn	42 Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	500+	10:00 - 22:00	5,000	190,000	0.0%	<span>_._</span>	0
+Café/Dessert	Snow Milk Tea - Kem Cuộn Thái Lan	Cầu Thành, Hà Huy Tập, TT. Diên Khánh, Diên Khánh, Khánh Hoà	0	0	08:00 - 22:00	15,000	135,000	ShopeeFood</span	0	0
+Quán ăn	Huyền Hà Nội - Bún Đậu Mắm Tôm	26 Trần Quý Cáp, P. Vạn Thắng, Tp. Nha Trang, Khánh Hoà	4.5	100+	00:00 - 23:59	25,000	35,000	0.0%	2.7	4
+Nhà hàng	BBQ Ủn Ỉn - Beer Garden	206/66 Xóm Cồn, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	10+	11:30 - 22:30	50,000	200,000	ShopeeFood</span	7.1	56
+Quán ăn	Phở Gà Bà Ba - Phở Gà Gia Truyền - Vĩnh Điềm Trung	103A - CT6 - Đường A1 - KĐT Vĩnh Điềm Trung, Tp. Nha Trang, Khánh Hoà	4.5	10+	08:00 - 22:00	25,000	350,000	0.0%	<span>_._</span>	0
+Nhà hàng	Làng Xưa Restaurant	28 Thái Thông, X. Vĩnh Thái, Tp. Nha Trang, Khánh Hoà	3.0	2	08:00 - 22:00	20,000	370,000	ShopeeFood</span	7.2	1
+Quán ăn	Linh Bánh Canh Cua - Đường A1 KĐT Vĩnh Điềm Trung	103E Đường A1, KĐT Vĩnh Điềm Trung, X. Vĩnh Ngọc, Tp. Nha Trang, Khánh Hoà	4.5	10+	06:00 - 23:59	40,000	90,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Chiên Sinh Lộc - Phan Đình Giót	37 Phan Đình Giót, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	500+	00:00 - 23:59	15,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Gà Đá 9 Món - Vạn Hòa	72B Vạn Hòa, P. Vạn Thạnh, Tp. Nha Trang, Khánh Hoà	0.0	2	00:00 - 23:59	100,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Sinh Lộc - Cơm Chiên &amp; Ăn Vặt - Củ Chi	26 Phan Đìn Giót,Phường Phương Sài. TP Nha Trang, Tỉnh KHánh Hòa, Tp. Nha Trang, Khánh Hoà	4.5	50+	00:00 - 23:59	15,000	73,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Hoá - Hồng Bàng	55 Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:00 - 23:59	30,000	420,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Hiền Khương - Hải Sản Tươi Sống	59 Nguyễn Tất Thành, P. Phước Long, Tp. Nha Trang, Khánh Hoà	3.5	9	09:00 - 23:00	50,000	350,000	ShopeeFood</span	8.2	3
+Nhà hàng	Nhà Hàng Tuấn Mập Sài Gòn - 185 Đường 23/10 (không có menu)	185 Đường 23/10, P. Phương Sơn, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 22:00	15,000	890,000	0.0%	0	0
+Quán ăn	Hương Hà Nội - Sữa Chua Nếp Cẩm - Cầu Dứa	247/79A Cầu Dứa - Phú Nông, X. Vĩnh Ngọc, Tp. Nha Trang, Khánh Hoà	4.5	10+	07:00 - 21:30	25,000	80,000	0.0%	6.9	2
+Quán ăn	Song Phụng - Gà Không Lối Thoát	49 Thủy Xưởng, P. Phương Sơn, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:30 - 22:00	50,000	500,000	ShopeeFood</span	7.4	3
+Nhà hàng	Ngõ Hẻm - Cơm Gà &amp; Cơm Văn Phòng - Đường 2 Tháng 4	667 2 Tháng 4, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	7	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Papa Chicken - Cơm Gà Sốt Cay Ngọt - Hoàng Diệu	04 Hoàng Diệu, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	50+	06:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Shanshan - Mì Cay, Trà Sữa &amp; Ăn Vặt	59 Nguyễn Chích, P. Vĩnh Hoà, Tp. Nha Trang, Khánh Hoà	3.5	10+	09:00 - 22:00	10,000	89,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Xối Mỡ Thụy Kha - 2 Tháng 4	736 Đường 2 Tháng 4, Tp. Nha Trang, Khánh Hoà	4.5	100+	07:25 - 21:30	25,000	50,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Nướng Đêm Ba Làng	79 Phạm Văn Đồng, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	6	10:00 - 22:00	100,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	HT Cơm &amp; Mì - Đặng Tất	62 Đặng Tất, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	10:30 - 22:00	30,000	80,000	0.0%	<span>_._</span>	0
+Nhà hàng	Vandana Authentic Indian Food	73/16 Trần Quang Khải, Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	10:30 - 22:00	28,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	3 Ngon - Bò Né Cơm Cháo Mì Súp - Nguyễn Đức Cảnh	41 Nguyễn Đức Cảnh, P. Phước Long, Tp. Nha Trang, Khánh Hoà	4.5	50+	06:15 - 22:00	20,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	O Thảo - Cơm Chiên - Nguyễn Thiện Thuật	177 Nguyễn Thiện Thuật, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	10+	06:30 - 22:00	35,000	35,000	0.0%	<span>_._</span>	0
+Nhà hàng	Nhà Hàng Khế Vàng - Gần Gũi Thiên Nhiên	Tổ 9  Lữ Cấm, P. Ngọc Hiệp, Tp. Nha Trang, Khánh Hoà	0	0	09:00 - 22:00	50,000	110,000	ShopeeFood</span	0	0
+Café/Dessert	Trà Sữa Mambo Tea - Phong Định Cảng	294 Phong Định Cảng, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	999+	09:00 - 22:00	30,000	30,000	0.0%	10.0	17
+Quán ăn	Ăn Vặt KuBon - Phan Cảnh Quang	Số 6 Ngõ 4 Phan Cảnh Quang, P. Hà Huy Tập, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 23:00	15,000	50,000	0.0%	10.0	2
+Café/Dessert	Bambam.Tea	81 Văn Đức Giai, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	09:05 - 21:55	25,000	35,000	0.0%	9.4	4
+Shop Online	Quỳnh Anh - Sữa Tươi Trân Châu Đường Đen Online	135 Nguyễn Văn Cừ, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	07:00 - 22:00	18,000	25,000	0.0%	8.4	16
+Ăn vặt/vỉa hè	Pazi.Tea - Trà Sữa &amp; Ăn Vặt - Chu Văn An	1 Ngõ 81 Chu Văn An, P. Lê Lợi, Tp. Vinh, Nghệ An	4.5	999+	09:00 - 23:59	5,000	30,000	0.0%	7.6	7
+Quán ăn	Cơm Cuộn Maki Nguyễn	10 Ngõ 99 Nguyễn Thái Học, P. Lê Lợi, Tp. Vinh, Nghệ An	4.5	500+	06:30 - 22:00	10,000	100,000	0.0%	8.3	9
+Café/Dessert	Highlands Coffee - City Hub Vinh	Tầng 1 City Hub, 1 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	07:00 - 22:00	25,000	70,000	0.0%	10.0	1
+Café/Dessert	Ngọc Oanh - Food &amp; Drink - Nguyễn Đức Cảnh	142 Nguyễn Đức Cảnh, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	09:30 - 22:20	0	0	0.0%	10.0	1
+Café/Dessert	The Alley - Trà Sữa Đài Loan - Lê Hồng Phong	2 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	08:00 - 22:45	41,000	70,000	0.0%	7.5	4
+Quán ăn	Moon Quán - Ăn Vặt Các Loại	23 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	08:40 - 22:00	8,000	40,000	0.0%	7.7	49
+Ăn vặt/vỉa hè	Cháo Canh Nát	7 Võ Thị Sáu, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	999+	06:30 - 22:30	12,000	20,000	0.0%	6.3	8
+Ăn vặt/vỉa hè	Thanh Nhàn - Ăn Vặt &amp; Giải Khát	22 Văn Đức Giai, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	500+	08:00 - 23:15	5,000	30,000	0.0%	7.3	4
+Quán ăn	Mậm Quán - Ăn Vặt Vùng Miền - Hà Huy Tập	32 Hà Huy Tập, P. Hà Huy Tập, Tp. Vinh, Nghệ An	4.5	500+	08:00 - 22:00	15,000	50,000	0.0%	7.2	6
+Nhà hàng	The Pizza Company - Nguyễn Văn Cừ	138 Nguyễn Văn Cừ, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	09:45 - 21:40	50,000	250,000	0.0%	6.5	3
+Café/Dessert	Highlands Coffee - Hữu Nghị Vinh	Tầng 1, Khách Sạn Hữu Nghị, 74 Lê Lợi, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	07:00 - 22:45	9,000	59,000	0.0%	7.4	19
+Ăn vặt/vỉa hè	Juice 1986 - Kim Đồng	75 Kim Đồng, P. Hưng Bình, Tp. Vinh, Nghệ An,, Tp. Vinh, Nghệ An	4.5	500+	09:00 - 22:00	25,000	150,000	0.0%	7.0	42
+Shop Online	Thảo Nguyên - Trà Sữa Online - Đốc Thiết	17B Ngõ 6A Đốc Thiết, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	07:00 - 22:00	30,000	60,000	0.0%	6.3	3
+Café/Dessert	Trung Nguyên E Coffee - Nguyễn Thái Học	1 Nguyễn Thái Học, P. Lê Lợi, Tp. Vinh, Nghệ An	4.5	50+	06:30 - 22:00	19,000	40,000	0.0%	10.0	1
+Café/Dessert	Highlands Coffee - Big C Vinh	Tầng 1 TTTM BigC Vinh, 2 Quang Trung, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	500+	08:00 - 22:00	39,000	59,000	0.0%	7.7	20
+Café/Dessert	Góc Quán Coffee	3 Nguyễn Viết Xuân, P. Hưng Dũng, Tp. Vinh, Nghệ An	4.5	100+	06:00 - 23:00	15,000	40,000	0.0%	10.0	4
+Ăn vặt/vỉa hè	Thạch Ngọc Quán - Chè Các Loại - Lê Hồng Phong	101 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	500+	10:00 - 22:00	15,000	30,000	0.0%	7.5	9
+Nhà hàng	Lotteria - Vinh Big C	Tầng 4 TTTM Big C Vinh, 2 Quang Trung, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	999+	08:00 - 21:30	30,000	88,000	0.0%	6.4	22
+Nhà hàng	The Pizza Company - Quang Trung	17 Quang Trung, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	500+	10:00 - 21:30	50,000	250,000	0.0%	7.1	23
+Café/Dessert	Tiệm Rau Má Xanh	43 An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:00	5,000	30,000	0.0%	10.0	1
+Café/Dessert	Primmy Tea &amp; Coffee (không có menu)	9 Ngõ B Nguyễn Phong Sắc, P. Hưng Dũng, Tp. Vinh, Nghệ An	0.0	3	07:00 - 22:30	15,000	30,000	0.0%	0	0
+Café/Dessert	Highlands Coffee - Vinh Centre	69 Hồ Tùng Mậu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	999+	06:40 - 22:40	25,000	70,000	0.0%	3.4	1
+Café/Dessert	Phúc Long 307 Nguyễn Văn Cừ	307 Nguyễn Văn Cừ, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	100+	07:15 - 21:30	35,000	75,000	0.0%	4.5	3
+Quán ăn	Pocha - Các Món Ăn Vặt	3 Lê Viết Thuật, P. Hưng Dũng, Tp. Vinh, Nghệ An	4.5	500+	09:00 - 12:30 | 12:31 - 22:00	15,000	40,000	0.0%	6.2	2
+Nhà hàng	Miaow's - Pizza &amp; Pasta	38 Kim Đồng, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	500+	08:30 - 21:50	30,000	77,000	0.0%	6.6	15
+Café/Dessert	Nocenco Coffee	23 Quang Trung, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	50+	06:30 - 23:00	30,000	95,000	0.0%	8.0	9
+Ăn vặt/vỉa hè	Chè Thái Lan - Lê Khôi	85 Lê Khôi, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	50+	08:00 - 11:30 | 13:00 - 22:00	15,000	20,000	ShopeeFood</span	6.8	4
+Nhà hàng	Nhà Hàng Hàn Quốc - Hồ Tùng Mậu	9A Hồ Tùng Mậu, P. Hưng Bình, Tp. Vinh, Nghệ An	4.0	50+	09:00 - 21:30	70,000	250,000	ShopeeFood</span	7.0	11
+Nhà hàng	Tân Kim Ngân - Cháo Sườn Gan Ngô	229C Trần Hưng Đạo, P. Đội Cung, Tp. Vinh, Nghệ An	4.5	500+	07:00 - 21:30	25,000	35,000	ShopeeFood</span	8.4	4
+Café/Dessert	Lassy Coffee - Nguyễn Đức Cảnh	100 Nguyễn Đức Cảnh, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 22:00	20,000	50,000	0.0%	7.8	17
+Ăn vặt/vỉa hè	Chè Thái Ngọc Hải	117 Phan Chu Trinh, P. Đội Cung, Tp. Vinh, Nghệ An	4.5	100+	08:00 - 12:00 | 13:00 - 21:30	10,000	50,000	0.0%	7.3	7
+Shop Online	Ăn Vặt Nhà Làm - Shop Online	Nhà 3 Dãy A6 Hẻm 3 Ngõ 40 Trần Bình Trọng, Xã Hưng Đông, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 21:30	15,000	50,000	0.0%	10.0	1
+Café/Dessert	BAMBOO.TEA - Kim Đồng	8 Ngõ 158 Kim Đồng, P. Hưng Phúc, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 22:00	20,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa MamBo Tea - Nguyễn Thái Học	64 Nguyễn Thái Học, P. Đội Cung, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:00	35,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Lò Gạch Coffee	88 Nguyễn Đình Chiểu, P. Lê Lợi, Tp. Vinh, Nghệ An	5.0	3	07:00 - 22:00	30,000	50,000	ShopeeFood</span	8.4	2
+Ăn vặt/vỉa hè	Dì Chín - Sữa Chua Dẻo &amp; Đậu Hũ Lá Nếp	76 Hồng Bàng, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 22:00	15,000	30,000	0.0%	7.4	5
+Ăn vặt/vỉa hè	ANN - Trà Sữa Nhà Làm	8B Võ Thị Sáu, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	100+	10:30 - 22:30	10,000	20,000	0.0%	7.4	2
+Café/Dessert	Pazi.Tea - Trà Sữa &amp; Ăn Vặt - Đặng Thái Thân	110 Đặng Thái Thân, P. Cửa Nam, Tp. Vinh, Nghệ An	4.5	100+	07:30 - 21:50	20,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Quán 19 - Chè &amp; Đồ Ăn Vặt	19 Võ Thị Sáu, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	100+	07:30 - 23:00	10,000	50,000	0.0%	8.7	10
+Café/Dessert	Ding Tea - Nguyễn Văn Cừ	12 Nguyễn Văn Cừ, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	999+	08:00 - 21:45	30,000	55,000	0.0%	7.9	48
+Café/Dessert	Day2day Coffee - Hồ Tùng Mậu	61 Hồ Tùng Mậu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 22:00	20,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Phủi Cà Phê - An Dương Vương	46A An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	50+	07:00 - 22:00	10,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Trần Phú	162 Trần Phú, P. Hồng Sơn, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cà Phê Sạch S98 - Đại Lộ Lê Nin	1 Đại Lộ Lê Nin, P. Hưng Dũng, Tp. Vinh, Nghệ An	4.5	2	07:00 - 22:00	20,000	45,000	ShopeeFood</span	7.8	2
+Café/Dessert	ToCoToCo Tea - Trần Phú	182 Trần Phú, P. Hồng Sơn, Tp. Vinh, Nghệ An	4.5	10+	09:00 - 22:30	20,000	70,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Vinh	17 Hồ Tùng Mậu, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	500+	10:30 - 22:00	30,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Hà Huy Tập	69 Hà Huy Tập, P. Hà Huy Tập, Tp. Vinh, Nghệ An	4.5	999+	11:00 - 22:00	30,000	60,000	0.0%	9.8	1
+Quán ăn	Bún Cá Chấm Giòn	3 Ngõ 18 Lê Hồng Phong, P. Hưng Bình , Tp. Vinh, Nghệ An	4.5	500+	06:00 - 21:30	35,000	45,000	0.0%	<span>_._</span>	0
+Quán nhậu	Quế Đường - Bia Hơi &amp; Các Món Nhậu	Đối Diện Nhà Máy Bia, Phan Đăng Lưu, P. Trường Thi, Tp. Vinh, Nghệ An	3.5	5	09:00 - 22:30	6,000	50,000	ShopeeFood</span	7.4	1
+Nhà hàng	Pizza Hut - BigC Vinh	Shop 08 &amp; 09, TTTM Big C Vinh, 2 Quang Trung, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	50+	09:00 - 21:45	50,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Bếp Thỏ - Tàu Hũ Trân Châu - An Dương Vương	45B An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:20	25,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Sữa Gấu Tea - Nguyễn Sỹ Sách	46 Nguyễn Sỹ Sách, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	50+	08:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Nguyễn Phong Sắc	49 Nguyễn Phong Sắc, P. Hưng Dũng, Tp. Vinh, Nghệ An	4.5	500+	09:00 - 22:00	30,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Trần Hưng Đạo	220 Trần Hưng Đạo, P. Đội Cung, Tp. Vinh, Nghệ An	4.5	500+	09:00 - 23:00	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Võ Thị Sáu	78 Võ Thị Sáu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	500+	09:00 - 21:59	30,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cing Hu Tang - 346 Nguyễn Văn Cừ	346 Nguyễn Văn Cừ, P. Hưng Phúc, Tp. Vinh, Nghệ An	4.5	100+	08:00 - 22:00	20,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà sữa Mixue – 166 Nguyễn Trãi (không có menu)	166 Nguyễn Trãi, P. Hà Huy Tập, Tp. Vinh, Nghệ An	4.5	50+	09:00 - 23:00	15,000	35,000	0.0%	0	0
+Café/Dessert	Ngố Cafe	18 Ngõ 1B Văn Đức Giai, P. Hưng Bình, Tp. Vinh, Nghệ An	3.0	1	07:30 - 21:30	20,000	50,000	0.0%	8.5	2
+Café/Dessert	The Dalat Coffee - Hồ Tùng Mậu	69 Hồ Tùng Mậu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 22:00	15,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Aha Cafe - Nguyễn Văn Cừ	186 Nguyễn Văn Cừ, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 22:30	25,000	45,000	0.0%	8.0	1
+Quán ăn	Gà Rán CP Five Star - 50 Nguyễn Văn Trỗi	50 Nguyễn Văn Trỗi, P. Bến Thuỷ, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Tiệm bánh	La Cà - Cafe, Bakery &amp; Playground	31 Hồ Tùng Mậu, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 22:00	25,000	220,000	0.0%	6.6	2
+Quán ăn	Trà Sữa Paris Tea - Trân Châu Tự Nặn - KĐT Minh Khang	Lô A3/27 Khu Đô Thị Minh Khang, X. Nghi Phú, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 23:00	10,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Tắc Ty Thy Sài Gòn - Bạch Liêu	33 Bạch Liêu, P. Trường Thi, Tp. Vinh, Nghệ An	5.0	8	08:00 - 22:00	10,000	30,000	0.0%	<span>_._</span>	0
+Nhà hàng	Hải Sản Đại Dương	68 Đại Lộ Lê - Nin, P. Hà Huy Tập, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 22:00	100,000	200,000	ShopeeFood</span	9.1	19
+Ăn vặt/vỉa hè	Phương Chè - Chè &amp; Trà Sữa	22 Hà Huy Tập, P. Hà Huy Tập, Tp. Vinh, Nghệ An	4.5	100+	11:00 - 23:00	10,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mẹt 1950 - Bún Đậu Mắm Tôm - Ngõ 77 Đường Nguyễn Thái Học	29 Liền Kề Ngõ 77 Đường Nguyễn Thái Học, P. Lê Lợi, Tp. Vinh, Nghệ An	4.5	10+	00:00 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Nhà hàng, Quán ăn	Mì Cay SaSin - 283 Nguyễn Văn Cừ	283 Nguyễn Văn Cừ, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	500+	08:30 - 23:00	15,000	230,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Chè Long Béo - Lê Hồng Phong	113 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	10+	00:01 - 03:00 | 08:00 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	MIELE PANE - Bánh Mỳ Chuẩn Vị - Phạm Kinh Vĩ	19 Phạm Kinh Vĩ, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	10+	06:10 - 22:25	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Mẹt Quán - Ăn Vặt Các Loại	102 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	999+	08:00 - 22:00	5,000	35,000	ShopeeFood</span	6.9	21
+Quán ăn	Châu Oanh - Gân Bò &amp; Nem Thính	Số Nhà 167 Hermann Gmeiner, P. Hưng Phúc, Tp. Vinh, Nghệ An	4.5	10+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Lươn Cay - 214 Phong Định Cảng	214 Phong Định Cảng, P. Hưng Dũng, Tp. Vinh, Nghệ An	4.5	9	05:50 - 14:00 | 17:00 - 22:00	7,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bếp Lyn Mập	150 Phong Định Cảng, Tp. Vinh, Nghệ An	4.5	100+	09:30 - 22:55	5,000	130,000	0.0%	<span>_._</span>	0
+Quán ăn	Hương Việt - Lẩu Các Loại	109 Lý Thường Kiệt, P. Lê Lợi, Tp. Vinh, Nghệ An	0	0	09:00 - 21:45	20,000	350,000	ShopeeFood</span	0	0
+Quán ăn	Quán Chè Cung Đình Huế - Nguyễn Phong Sắc	79 Nguyễn Phong Sắc, P. Hưng Dũng, Tp. Vinh, Nghệ An	4.5	100+	08:00 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0
+Shop Online	Mẹ Ryu - Bánh Tráng Trộn - Shop Online	2 Ngõ 207 Lê Lợi, Tp. Vinh, Nghệ An	4.5	50+	07:00 - 22:00	25,000	30,000	0.0%	7.3	4
+Café/Dessert	RAM - Drink &amp; Fast Food	7 Ngõ 216 Ngô Đức Kế, P. Hồng Sơn, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 23:00	15,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Phúc Long 15A An Dương Vương	15A An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0
+Café/Dessert	Highlands Coffee - Công Viên Vinh	2 Lê Mao, P. Lê Mao, Tp. Vinh, Nghệ An	4.5	500+	07:00 - 22:00	50,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa The COCO Tea - Lê Hồng Phong	74 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:20	30,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Chill - Tiệm Trà Chanh - Trần Thủ Độ	78 Trần Thủ Độ, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	100+	06:00 - 23:00	15,000	50,000	0.0%	7.7	2
+Café/Dessert	Gấu Coffee And Tea - Lê Văn Hưu	37C Lê Văn Hưu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	The Alley - Trà Sữa Đài Loan - TTTM Vinh Centre	Tầng 1, Tầng 1, TTTM Vinh Centre, 69 Hồ Tùng Mậu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	999+	08:30 - 22:30	41,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Em Bư Milk Tea - Golden City 6A	Golden City 6A, Lý Tự Trọng kéo dài, Xóm 23 , X. Nghi Phú, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 23:59	20,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Bestie Coffee	3E Kim Đồng, P. Hưng Phúc, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 22:30	30,000	60,000	ShopeeFood</span	7.6	1
+Café/Dessert	White Coffee - Phan Chu Trinh	43B Phan Chu Trinh, P. Đội Cung, Tp. Vinh, Nghệ An	5.0	6	07:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Le Ciel Milk Tea &amp; Coffee - Võ Thị Sáu	12 Võ Thị Sáu, P. Bến Thủy, Tp. Vinh, Nghệ An	0.0	4	08:00 - 22:00	5,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Saturday -Trà Chanh Phố	76 Lý Thường Kiệt, P. Lê Lợi, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 22:00	10,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Pozaa Tea Vinh	196A Lê Duẩn, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	500+	08:00 - 23:00	25,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	YiHeTang Tea &amp; Coffee Lotte Mart - Lê Nin	Tầng 1, Siêu Thị LOTTE Mart Vinh, Đại Lộ V.I.Lê Nin, P. Hà Huy Tập, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 22:00	20,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Zun House Coffee - An Dương Vương	42A An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	0.0	2	07:00 - 22:30	10,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Sữa &amp; Cà Phê Phong Thuỷ - Lý Tự Trọng	Đối Diện 69 Lý Tự Trọng, P. Hà Huy Tập, Tp. Vinh, Nghệ An	3.5	5	07:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Mai Cà Phê - Yên Vinh	02 Yên Vinh, P. Hưng Phúc, Tp. Vinh, Nghệ An	0	0	06:00 - 22:00	15,000	35,000	0.0%	0	0
+Café/Dessert	ToCoToCo Tea - 194 Nguyễn Văn Cừ	194 Nguyễn Văn Cừ, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	100+	08:00 - 22:00	20,000	70,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Chanh Bụi Phố - Trần Phú	230 Trần Phú, P. Lê Mao, Tp. Vinh, Nghệ An	4.5	100+	08:00 - 22:30	10,000	30,000	0.0%	3.0	1
+Café/Dessert	Edders Farm Coffee &amp; Juice	39 Lê Văn Hưu, P. Trường Thi, Tp. Vinh, Nghệ An	0.0	1	07:00 - 23:00	10,000	60,000	0.0%	<span>_._</span>	0
+Shop Online	Trà Sữa Sinh Tea - Shop Online	3 Trần Nhật Duật, P. Đội Cung, Tp. Vinh, Nghệ An	4.5	500+	08:00 - 22:00	30,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	Hương Trà - Trà Sữa Nhà Làm	105 An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	50+	09:30 - 22:00	25,000	50,000	0.0%	7.7	4
+Café/Dessert	Coffee Corner - Drink's Fun - Lê Lợi	72 Lê Lợi Rẽ Vào, P. Hưng Bình, Tp. Vinh, Nghệ An	0.0	1	06:30 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	YiHeTang Tea &amp; Coffee Vinh	 4 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	500+	08:30 - 21:45	30,000	55,000	0.0%	<span>_._</span>	0
+Café/Dessert	TS Tea - Nguyễn Kiệm	26 Nguyễn Kiệm, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	50+	08:00 - 22:31	10,000	20,000	0.0%	<span>_._</span>	0
+Café/Dessert	Phố Xưa Cafe	41 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	0	0	06:00 - 22:30	12,000	50,000	ShopeeFood</span	0	0
+Quán ăn	Tiệm Trà Quý Phi - Nguyễn Chích	22 Nguyễn Chích, P. Quang Trung, Tp. Vinh, Nghệ An	0.0	3	07:00 - 22:00	15,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Đông Du - Phan Chu Trinh	225 Phan Chu Trinh, P. Quang Trung, Tp. Vinh, Nghệ An	0	0	09:30 - 21:59	15,000	50,000	0.0%	0	0
+Café/Dessert	Tuệ An Food - 62 Nguyễn Văn Cừ	62 Nguyễn Văn Cừ, P. Trường Thi, Tp. Vinh, Nghệ An	0	0	08:00 - 22:00	10,000	100,000	0.0%	0	0
+Café/Dessert	Milk Tea Đậu Bắp - Trần Quang Khải	3A Ngõ 16 Trần Quang Khải, P. Hà Huy Tập, Tp. Vinh, Nghệ An	5.0	5	13:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Phúc Long 72 Phan Đăng Lưu	72 Phan Đăng Lưu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Trà Sữa Góc Phố	229 Trần Hưng Đạo, P. Đội Cung, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 22:00	25,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	DK Coffee - Lê Hồng Phong	85 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	50+	07:00 - 22:30	25,000	150,000	0.0%	7.4	2
+Café/Dessert	Hali Coffee	133 Phạm Đình Toái, P. Hà Huy Tập, Tp. Vinh, Nghệ An	5.0	4	07:00 - 22:00	15,000	25,000	ShopeeFood</span	9.3	4
+Café/Dessert	Tiệm Kem Dừa Đất Côn Đảo - Duy Tân	51 Duy Tân, P. Hưng Dũng, Tp. Vinh, Nghệ An	4.5	5	08:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Passenger Coffee - Nguyễn Văn Cừ	167 Nguyễn Văn Cừ, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	5	08:00 - 22:00	25,000	49,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Ăn Vặt-Trà Sữa Jun Dứa - Trần Cảnh Bình	38 Trần Cảnh Bình, P. Trung Đô, Tp. Vinh, Nghệ An	4.5	10+	09:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Kafa Cafe - Nguyễn Thị Minh Khai	60 Nguyễn Thị Minh Khai, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	50+	06:30 - 23:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	KING ROTI - Phong Định Cảng	57B Phong Định Cảng, P. Bến Thủy, Tp. Vinh, Nghệ An	0.0	1	07:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - 104 Lý Thường Kiệt	104 Lý Thường Kiệt, P. Lê Lợi, Tp. Vinh, Nghệ An	4.5	50+	08:45 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nước Ép Và Ăn Vặt Bếp Ngọc - Đinh Nhật Thận	44 Đinh Nhật Thận, P. Vinh Tân, Tp. Vinh, Nghệ An	5.0	5	08:00 - 22:00	10,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Yuri House - Trà Sữa &amp; Ăn vặt	84 Nguyễn Xiển, P. Hồng Sơn, Tp. Vinh, Nghệ An	4.5	100+	08:00 - 23:00	25,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	IZI Drink - Lê Hoàn	147 Lê Hoàn, P. Hưng Phúc, Tp. Vinh, Nghệ An	4.5	10+	07:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Shop Online	Hà Linh Tea - Shop Online	Chung Cư VLR - Vinhome Quang Trung, (Đối Diện 23 Hồng Bàng), Tp. Vinh, Nghệ An	4.5	100+	00:00 - 23:59	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Kafa Cafe	05 Nguyễn Văn Cừ, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	100+	06:30 - 23:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nhiên Coffee	61 Thành Thái, P. Hưng Phúc, Tp. Vinh, Nghệ An	3.5	6	08:00 - 23:00	20,000	35,000	ShopeeFood</span	7.6	8
+Café/Dessert	Tiệm Trà Chanh 2Moro - Phan Chu Trinh	198 Phan Chu Trinh, P. Quang Trung, Tp. Vinh, Nghệ An	4.5	50+	08:00 - 23:00	10,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	HOÀNG KIM QUÁN - Các Món Nhậu - 24 Phú Yên	24 Phú Yên, X. Nghi Phú, Tp. Vinh, Nghệ An	0.0	1	10:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Sumo Chef - Nướng &amp; Lẩu	129 Lê Hoàn, P. Hưng Phúc, Tp. Vinh, Nghệ An	4.0	4	10:00 - 22:00	30,000	300,000	ShopeeFood</span	7.9	8
+Quán ăn	Gà Vịt Hạ Giới Tươi Sạch	86 Đốc Thiết, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	10+	08:00 - 22:00	40,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Thái Yum	43 An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	10+	10:00 - 22:00	99,000	399,000	0.0%	<span>_._</span>	0
+Quán ăn	Lào Quán - Ẩm Thực Lào - An Dương Vương	18 An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	50+	10:00 - 15:00 | 17:00 - 22:00	30,000	60,000	ShopeeFood</span	<span>_._</span>	0
+Nhà hàng	Cáo Restaurant - Vietnamese Cuisine	11 Hồ Sỹ Dương, P. Hưng Bình, Tp. Vinh, Nghệ An	4.0	1	08:00 - 22:00	79,000	200,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Trần Gia Quán - Gà Các Loại	85 An Dương Vương, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:00	25,000	200,000	0.0%	3.5	6
+Quán ăn	Lẩu Nướng Lai Rai - Võ Thị Sáu (không có menu)	11 Võ Thị Sáu, P. Trường Thi, Tp. Vinh, Nghệ An	5.0	1	09:30 - 22:00	10,000	150,000	ShopeeFood</span	10.0	1
+Quán nhậu	Biển Quỳnh	54C Phan Đăng Lưu, P. Trường Thi, Tp. Vinh, Nghệ An	0.0	2	09:00 - 22:00	40,000	190,000	0.0%	<span>_._</span>	0
+Quán ăn	Phố Mường Quán - Hồng Bàng	01 Hồng Bàng, P. Lê Mao, Tp. Vinh, Nghệ An	0	0	08:00 - 22:00	20,000	400,000	0.0%	0	0
+Buffet	Buffet Chị Hai	1A Nguyễn Xuân Ôn, P. Hưng Bình, Tp. Vinh, Nghệ An	5.0	1	10:00 - 23:00	15,000	250,000	0.0%	<span>_._</span>	0
+Nhà hàng	Lan Kwai Fong Restaurant	48 Ngõ 2 Bạch Liêu, Tp. Vinh, Nghệ An	0	0	10:00 - 23:30	8,000	500,000	0.0%	0	0
+Quán ăn	Bún Đậu Minh Châu - Bún Đậu &amp; Nem Nướng Nha Trang - 36 Bạch Liêu	36 Bạch Liêu, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	100+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Cậu Béo - 55 Lý Tự Trọng	55 Lý Tự Trọng, P. Hà Huy Tập, Tp. Vinh, Nghệ An	3.5	10+	09:00 - 23:00	10	60	0.0%	<span>_._</span>	0
+Quán ăn	U Hườn Béo - Mì Trộn Indomie - Bạch Liêu	30 Ngõ 2 Bạch Liêu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	500+	06:30 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Quyền Huế - Bánh Bèo, Bánh Xèo &amp; Nem Lụi	97 Kim Đồng, P. Hưng Bình, Tp. Vinh, Nghệ An	3.5	10+	07:00 - 23:56	10,000	25,000	0.0%	4.2	13
+Quán ăn	Gà Ủ Muối - Đặng Thái Thân	163 Đặng Thái Thân, P. Quang Trung, Tp. Vinh, Nghệ An	0.0	1	00:00 - 23:59	65,000	160,000	0.0%	<span>_._</span>	0
+Quán ăn	Hương Lan - Cháo Canh &amp; Bún Bò	10 Võ Thị Sáu, P. bến Thủy, Tp. Vinh, Nghệ An	4.5	10+	06:00 - 22:00	10,000	20,000	ShopeeFood</span	7.8	2
+Quán ăn	Bún Đậu Linh Anh - 55 Nguyễn Trường Tộ	55 Nguyễn Trường Tộ, P. Đông Vĩnh, Tp. Vinh, Nghệ An	4.5	50+	06:30 - 23:00	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Sinh Viên - Các Loại Mỳ Và Đồ Uống - Shop Online (không có menu)	22 Bạch Liêu, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	10+	00:00 - 23:59	10,000	60,000	0.0%	0	0
+Beer club	Beer Tự Do	127 Đốc Thiết, P. Hưng Bình, Tp. Vinh, Nghệ An	0	0	10:00 - 22:30	30,000	250,000	ShopeeFood</span	0	0
+Quán ăn	Mậm Quán 2 - Bánh Tráng Cuốn Thịt Heo - 14 Phong Định Cảng	Đối Diện 14 Phong Định Cảng, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	5	09:00 - 23:00	10,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Tồ Tồ House	29 Võ Thị Sáu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 22:00	20,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Hoài Lộc - Bún Bò &amp; Cháo Canh	10 Võ Thị Sáu, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	100+	06:45 - 22:45	15,000	15,000	0.0%	<span>_._</span>	0
+Nhà hàng	Không Gian Xanh - Coffee &amp; Restaurant	Đối Diện Vinaconex 9, Đại Lộ V.I.Lê Nin, Tp. Vinh, Nghệ An	0	0	05:30 - 22:30	12,000	10,000,000	ShopeeFood</span	0	0
+Quán ăn	Tiệm Ăn Vặt Nhà Xoài - Lê Hồng Phong	85 Lê Hồng Phong Rẽ Vào, 12 Ngõ 22 Lê Hồng Phong, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	50+	08:00 - 22:00	10,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn, Shop Online	Xôi Chim Bồ Câu - Hồ Tùng Mậu	75 Hồ Tùng Mậu, P. Trường Thi, Tp. Vinh, Nghệ An	4.5	50+	11:00 - 23:00	25,000	50,000	ShopeeFood</span	7.1	15
+Quán ăn	Bụi 176	176 Nguyễn Sỹ Sách, P.. Hưng Dũng, Tp. Vinh, Nghệ An	5.0	1	08:30 - 22:30	10,000	300,000	0.0%	5.0	1
+Sang trọng	Nhà hàng YOOGANE Vinh	12 Phan Chu Trinh, P. Đội Cung, Tp. Vinh, Nghệ An	4.0	6	10:00 - 14:30 | 17:00 - 22:00	25,000	200,000	0.0%	<span>_._</span>	0
+Shop Online	Bé Xôi - Shop Online	36 Nguyễn Phùng Thời, P. Đông Vĩnh, Tp. Vinh, Nghệ An	4.5	100+	07:00 - 22:00	10,000	15,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Mỳ Miele Pane - 17 Kim Đồng	17 Kim Đồng, P. Hưng Bình, Tp. Vinh, Nghệ An	4.5	100+	06:00 - 23:00	5,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Xôi Ngon Thành Vinh - Cao Xuân Huy	7B Ngõ 2B Cao Xuân Huy, P. Vinh Tân, Tp. Vinh, Nghệ An	3.5	10+	06:00 - 23:59	10,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Rán Ong Vàng	42 Hoàng Phan Thái, Tp. Vinh, Nghệ An	3.5	50+	08:00 - 23:00	10,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Minh Nhật - Phở Bò, Mì Xào &amp; Cơm Rang	52 Nguyễn Văn Trỗi, P. Bến Thủy, Tp. Vinh, Nghệ An	4.5	50+	05:30 - 22:30	20,000	35,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Tiệm Cơm 216	216 Trần Phú, P. Lê Mao, Tp. Vinh, Nghệ An	0	0	08:00 - 22:00	10,000	150,000	0.0%	0	0
+Quán ăn	Quán Nam Ngọc	3 Ngõ 89 Lê Viết Thuật, Xã Hưng Lộc, Tp. Vinh, Nghệ An	0	0	09:00 - 23:00	35,000	300,000	0.0%	0	0
+Quán ăn	Quán Cơm TAN KA	3A Kim Đồng, P. Hưng Bình, Tp. Vinh, Nghệ An	1.0	1	09:00 - 23:59	10,000	200,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Rau Má Bà Già - Đồ Chiểu	3 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	08:00 - 22:45	13,000	40,000	0.0%	7.3	123
+Nhà hàng	Api Deli - Quán Ăn Hàn Quốc	26 Nguyễn Văn Cừ, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	05:09 - 23:59	10,000	65,000	0.0%	8.5	7
+Café/Dessert	FUKU Coffee - Milk Tea - Gelato Cream	217 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	08:00 - 23:58	10,000	40,000	0.0%	9.2	1
+Quán ăn	Ếch Nhà - Cháo Ếch Singapore - Trương Công Định (không có menu)	651 Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	11:00 - 22:30	10,000	250,000	0.0%	0	0
+Ăn vặt/vỉa hè	Chè Huế - Trương Công Định	372 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	08:30 - 22:40	10,000	25,000	0.0%	7.1	11
+Café/Dessert	The FM$ - Trà Sữa &amp; Sữa Tươi - 95 Ba Cu	95 Ba Cu, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	09:30 - 23:59	10,000	20,000	0.0%	6.4	11
+Ăn vặt/vỉa hè	TaĐa - Chè Ngon Homemade	25/44 Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	09:30 - 22:30	5,000	17,000	0.0%	8.0	10
+Café/Dessert	Rau Má &amp; Sinh Tố - Lập Thành	9 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	00:00 - 01:00 | 07:30 - 23:59	15,000	33,000	0.0%	7.1	26
+Café/Dessert	Soho Coffee	66 Hạ Long, P. 2, Tp. Vũng Tàu, Vũng Tàu	5.0	10+	07:00 - 22:30	35,000	60,000	0.0%	8.0	5
+Shop Online	Coca House - Ăn Vặt Online	14/05 Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	11:00 - 23:59	20,000	40,000	0.0%	6.7	7
+Café/Dessert	Highlands Coffee - Nguyễn Thái Học Vũng Tàu	6 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	07:00 - 22:30	9,000	65,000	0.0%	7.0	21

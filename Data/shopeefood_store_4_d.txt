@@ -1,0 +1,628 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody
+Quán ăn	Quán Toàn - Vựa Hải Sản - Nguyễn Thị Tần	94 Nguyễn Thị Tần, P. 2, Quận 8, TP. HCM	4.5	50+	08:00 - 21:00	40,000	600,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Anh Ba Gạo - Fast Food	61/23/1 Đường Số 48, P. Hiệp Bình Chánh, Thủ Đức, TP. HCM	4.5	100+	06:30 - 23:59	5,000	8,000	0.0%	4.5	2
+Quán ăn	Cơm 67 - Cơm Văn Phòng	1029 Nguyễn Trãi, P. 14, Quận 5, TP. HCM	4.5	999+	09:30 - 21:40	25,000	50,000	0.0%	4.5	6
+Quán ăn	Gà Ta Quán - Đường Số 44	35/8 Đường Số 44, P. 14, Gò Vấp, TP. HCM	5.0	10+	09:00 - 16:30 | 20:00 - 22:20	15,000	340,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Hà Nội An Nhiên - Bờ Bao Tân Thắng	20/14 Bờ Bao Tân Thắng, P. Sơn Kỳ, Tân Phú, TP. HCM	0.0	1	06:00 - 22:00	5,000	99,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà sữa Huy's - Vườn Lài	461 Vườn Lài, P. Phú Thọ Hòa, Tân Phú, TP. HCM	4.5	100+	08:00 - 22:00	15,000	48,000	0.0%	<span>_._</span>	0
+Quán ăn	Dimsum Uncle - Minh Phụng	322/9 Minh Phụng, P. 2, Quận 11, TP. HCM	4.5	10+	08:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Mr.Bún - Bún Thịt Nướng - Lê Trọng Tấn	380/25 Lê Trọng Tấn, P. Tây Thạnh, Tân Phú, TP. HCM	4.5	10+	00:00 - 02:00 | 08:00 - 23:59	5,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cà Phê Ông Bầu - Xóm Vôi	37 Xóm Vôi, P. 14, Quận 5, TP. HCM	4.5	100+	07:00 - 20:30	16,000	35,000	0.0%	8.6	7
+Quán ăn	3M Gà Rán - Trà Sữa &amp; Bắp Rang Bơ - Gò Dầu	186 Gò Dầu, P. Tân Qúy, Tân Phú, TP. HCM	4.5	10+	08:15 - 22:30	18,000	30,000	0.0%	<span>_._</span>	0
+Tiệm bánh, Shop Online	Green Detox  - Giảm Cân Thải độc - Nguyễn Tất Thành	454 Nguyễn Tất Thành, P. 18, Quận 4, TP. HCM	4.5	50+	07:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Uncle Park - Cơm Chiên, Mì Xào &amp; Cơm Cuộn - Vũ Tông Phan	204 Vũ Tông Phan, P. An Phú, Thủ Đức, TP. HCM	0.0	4	09:00 - 17:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Newdays Japanese Matcha Cafe - Đường Số 59	148/21 Đường Số 59, P. 14, Gò Vấp, TP. HCM	4.5	999+	09:15 - 18:30	22,000	48,000	0.0%	6.8	220
+Quán ăn	Góc Bếp Nhà Mýt - Mì Trộn Cay &amp; Set Lẩu Tokbokki Tự Nấu	49/14/93 Đường Số 51, P. 14, Gò Vấp, TP. HCM	4.5	500+	08:00 - 20:00	3,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	A Mon - Hamburger - Lò Siêu	11 Lò Siêu, P. 16, Quận 11, TP. HCM	4.5	100+	09:00 - 21:40	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa RuLong Tea - Đường S11	29 Đường S11, P. Tây Thạnh, Tân Phú, TP. HCM	4.5	10+	07:00 - 21:30	5,000	99,000	0.0%	<span>_._</span>	0
+Tiệm bánh	Hồng Nga - Bánh Mì Bình Định - Thoại Ngọc Hầu	290 Thoại Ngọc Hầu, P. Phú Thạnh, Tân Phú, TP. HCM	0.0	4	07:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bếp Bà Nhiên - Ăn Vặt &amp; Chân Gà - Dương Bá Trạc	231/37B  Dương Bá Trạc, P. 1, Quận 8, TP. HCM	5.0	1	09:00 - 22:00	50,000	120,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt Tá Lả - Lê Niệm (không có menu)	139 Lê Niệm, P. Phú Thạnh, Tân Phú, TP. HCM	4.5	100+	07:00 - 11:00 | 15:00 - 20:00	15,000	50,000	0.0%	0	0
+Ăn vặt/vỉa hè	Khô Ngon &amp; Ăn Vặt Sạch - Tuyền Minh	258/62 Dương Bá Trạc, P. 2, Quận 8, TP. HCM	4.5	100+	00:00 - 01:00 | 04:30 - 23:59	9,000	85,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Khánh Chi - Cơm Văn Phòng	629/17N Hưng Phú, P. 9, Quận 8, TP. HCM	4.5	500+	09:30 - 17:00	15,000	50,000	0.0%	9.2	53
+Ăn vặt/vỉa hè, Shop Online	Vú Heo Nướng Yến Nhi - Shop Online	660 Hưng Phú, P. 10, Quận 8, TP. HCM	4.5	100+	07:00 - 23:59	20,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Thanh Nga - Cơm Tấm &amp; Bún Thịt Nướng	017 Lô A Kênh 19 Tháng 5B, P. Tây Thạnh, Tân Phú, TP. HCM	4.5	500+	06:00 - 18:30	20,000	20,000	0.0%	8.2	3
+Café/Dessert	Royaltea Take Away - Lê Đức Thọ	1414 Lê Đức Thọ, P. 13, Gò Vấp, TP. HCM	4.5	500+	09:30 - 22:00	35,000	55,000	0.0%	<span>_._</span>	0
+Café/Dessert	Heekcaa Tea &amp; Coffee - Lê Đức Thọ	1414 Lê Đức Thọ, P. 13, Gò Vấp, TP. HCM	4.5	10+	09:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Swan Tea - Nguyễn Văn Quá	296 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM	4.5	100+	09:00 - 21:00	26,000	55,000	0.0%	9.6	1
+Quán ăn	Trà Đào Dằm - Âu Dương Lân	154/45/15 Âu Dương Lân, P. 3, Quận 8, TP. HCM	4.5	100+	00:00 - 02:00 | 07:00 - 18:00 | 20:00 - 23:59	20,000	50,000	0.0%	<span>_._</span>	0
+Shop Online	Cơm Gà - G-Land Đồ Ăn Vặt - Tân Kỳ Tân Quý	398 Tân Kỳ Tân Quý, P. Sơn Kỳ, Tân Phú, TP. HCM	4.5	999+	00:00 - 02:00 | 06:00 - 23:59	8,000	35,000	0.0%	6.5	10
+Shop Online	Kiwi Shop - Ăn Vặt	106/3/11 Đường Số 51, P. 14, Gò Vấp, TP. HCM	4.5	50+	09:00 - 22:00	65,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Kim Tiền 3 - Tân Quý	129 Tân Quý, P. Tân Quý, Tân Phú, TP. HCM	4.5	100+	07:30 - 20:00	35,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn, Giao cơm văn phòng	Cơm Tấm Chung Cư - Cơm Tấm - Tây Thạnh	Lô A-017  Kênh 19 Tháng 5B, P. Tây Thạnh, Tân Phú, TP. HCM	4.5	50+	06:30 - 18:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Pé Nhỏ - Bạch Tuộc &amp; Chân Gà Sốt Thái Xí Muội - Đỗ Bí (không có menu)	96 Đỗ Bí, P. Phú Thạnh, Tân Phú, TP. HCM	3.5	10+	00:00 - 23:59	19,000	79,000	0.0%	9.1	14
+Café/Dessert	Juicy - Sinh Tố, Nước Ép &amp; Trái Cây	85 Đường Số 17, Khu B, P. An Phú, Thủ Đức, TP. HCM	4.5	50+	08:00 - 21:00	15,000	89,000	0.0%	1.0	2
+Ăn vặt/vỉa hè	TiNi Fruit - Trái Cây Cắt Sẵn &amp; Ăn Vặt	85 Đường Số 17, P. An Phú, Thủ Đức, TP. HCM	4.5	100+	08:00 - 21:00	15,000	100,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Kem Bơ Sinh Tố &amp; Trái Cây Tô - Như Ý	231 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM	4.5	100+	09:00 - 23:00	12,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Jungo - 128 Tân Quý	128 Tân Quý, P. Tân Quý, Tân Phú, TP. HCM	4.5	100+	08:00 - 22:30	29,000	52,000	0.0%	10.0	1
+Nhà hàng	Carobello - Pizza &amp; Pasta - Vinhomes Central Park	19 Trần Ngọc Diện. P. Thảo Điền, Thủ Đức, TP. HCM	4.5	100+	09:30 - 21:30	30,000	500,000	0.0%	4.7	8
+Quán ăn	Mì &amp; Nui Xào Bò Chị Em - Tân Quý	13 Tân Quý, Tân Phú, TP. HCM	4.5	100+	07:00 - 22:30	25,000	35,000	0.0%	<span>_._</span>	0
+Shop Online	Nui Xào Bò, Mì Xào Bò &amp; Bánh Canh O Hồng	6/19A Phạm Quý Thích, P. Tân Quý, Tân Phú, TP. HCM	5.0	10+	06:00 - 23:30	15,000	15,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Reviet Juice - Nước Ép &amp; Sinh Tố	11B Tân Quý, P. Tân Quý, Tân Phú, TP. HCM	4.5	500+	08:00 - 21:00	25,000	50,000	0.0%	7.4	1
+Tiệm bánh	Mẹ Nâu Bakery - Hồng Bàng	683/7/11 Hồng Bàng, P. 6, Quận 6, TP. HCM	4.5	50+	09:00 - 19:30	5,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Nướng Muối Ớt Kim Sa - Tân Thới Nhất 21	110 Tân Thới Nhất 21, P. Tân Thới Nhất, Quận 12, TP. HCM	3.0	4	07:00 - 23:30	10,000	200,000	0.0%	<span>_._</span>	0
+Café/Dessert	Sinh Tố Coco - Sinh Tố &amp; Nước Ép	Lầu 1, 111/1 Gò Công, P. 13, Quận 5, TP. HCM	4.5	10+	08:00 - 17:00	18,000	28,000	0.0%	5.0	1
+Quán ăn	Gà Ủ Muối Phúc An - Tân Thới Nhất	110 Tân Thới Nhất 21, P. Tân Thới Nhất, Quận 12, TP. HCM	0.0	4	00:00 - 23:59	5,000	399,000	0.0%	<span>_._</span>	0
+Café/Dessert	Phúc Tea - Quốc Lộ 1A	545/21 Quốc Lộ 1A, P. An Phú Đông, Quận 12, TP. HCM	4.5	500+	08:30 - 14:59	8,000	40,000	0.0%	6.8	20
+Tiệm bánh	Merci Bakery - Bánh Ngọt - Hoàng Văn Hoè	72 Hoàng Văn Hòe, P. Tân Quý, Tân Phú, TP. HCM	4.5	10+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	SMURFY JUICE - Cafe, Nước Ép &amp; Sinh Tố - Tân Thới Nhất 21	90/1 Tân Thới Nhất 21, P. Tân Thới Nhất, Quận 12, TP. HCM	4.5	6	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Nhà Đậu - Bún Đậu Mắm Tôm - Dương Bá Trạc	288/5 Dương Bá Trạc, P. 2, Quận 8, TP. HCM	4.5	500+	09:00 - 22:45	0	0	0.0%	1.0	1
+Shop Online	Thèm Ăn Vặt - Đường Số 27 - Shop Online	27/1C Đường Số 27, P. Hiệp Bình Chánh, Thủ Đức, TP. HCM	4.5	999+	09:00 - 16:30	10,000	50,000	0.0%	10.0	1
+Quán ăn	BẾP CƠM MẸ CHỒNG - Cơm Văn Phòng - Nguyễn Văn Vịnh	2/21 Nguyễn Văn Vịnh, P. Hiệp Tân, Tân Phú, TP. HCM	0	0	08:00 - 23:59	0	0	0.0%	0	0
+Café/Dessert	Sa Kê Coffee - Nước Ép &amp; Sinh Tố	17 Đường T5, P. Tây Thạnh, Tân Phú, TP. HCM	0.0	2	08:00 - 21:30	17,000	28,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ami - Coffee &amp; Food - Phạm Thế Hiển	837 Phạm Thế Hiển, P. 4, Quận 8, TP. HCM	4.5	999+	09:00 - 22:00	25,000	40,000	0.0%	8.9	11
+Ăn vặt/vỉa hè	Ăn Vặt Đẳng Cấp Siêu Ngon - Khô Gà Lá Chanh - Tô Ngọc Vân	195/20 Tô Ngọc Vân, P. Thạnh Xuân, Quận 12, TP. HCM	0	0	06:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	Trà Sữa Ruby - Nguyễn Lộ Trạch	1 Nguyễn Lộ Trạch, P. Tân Quý, Tân Phú, TP. HCM	0.0	1	09:00 - 20:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Mr Nghiem Saigon - Cháo Ếch &amp; Cháo Cua Singapore - 38/15 Nguyễn Hữu Thọ (không có menu)	38/15 Nguyễn Hữu Thọ, P. Tân Hưng, Quận 7, TP. HCM	4.5	500+	00:00 - 23:59	40,000	70,000	0.0%	3.4	1
+Ăn vặt/vỉa hè	KIMMY - Mì Trộn &amp; Trà Sữa	Số 46 Gò Công, P. 13, Quận 5, TP. HCM	4.5	10+	06:00 - 22:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Dâu &amp; Sữa Chua Pinkie 24h - Âu Dương Lân	277Bis Âu Dương Lân, Chung Cư Ngọc Phương Nam, P. 2, Quận 8, TP. HCM	4.5	100+	00:00 - 01:00 | 08:30 - 23:59	20,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cherry - Sinh Tố &amp; Nước Ép	85C Lê Quang Sung, P. 2, Quận 6, TP. HCM	4.5	500+	09:00 - 21:00	6,000	30,000	0.0%	5.0	1
+Quán ăn	Hà Nhi - Bánh Cuốn Nóng - 201 Tạ Quang Bửu	201 Tạ Quang Bửu, P. 3, Quận 8, TP. HCM	4.5	100+	00:00 - 11:30 | 17:30 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Yumi - Trà Sữa &amp; Milo Dầm Trân Châu (không có menu)	237/65/12 Phạm Văn Chiêu, P. 14, Gò Vấp, TP. HCM	4.5	100+	09:30 - 18:30	12,000	35,000	0.0%	0	0
+Ăn chay	Cơm Chay Minh Lộc	31B Tôn Thất Thuyết, P. 18, Quận 4, TP. HCM	4.5	500+	06:30 - 23:30	15,000	25,000	0.0%	7.0	6
+Café/Dessert	Juice Me - Chè, Sinh Tố &amp; Nước Ép Trái Cây	90T Lê Quang Sung, P. 6, Quận 6, TP. HCM	4.5	50+	09:00 - 19:45	15,000	190,000	0.0%	8.0	1
+Quán ăn	Xuồng Ba Lá - Cơm Việt Nam &amp; Bún Bò Chả Ghẹ - Song Hành	78 Song Hành, P. An Phú, Thủ Đức, TP. HCM	4.5	10+	07:30 - 21:45	49,000	79,000	0.0%	<span>_._</span>	0
+Quán ăn	Tea &amp; Coffee Parmano - 309 Thạch Lam	309 Thạch Lam, P. Phú Thạnh, Tân Phú, TP. HCM	0	0	07:30 - 22:00	20,000	50,000	0.0%	0	0
+Quán ăn	Mén Ơi - Bún Thái &amp; Trà Sữa Nhà Làm	126 Trần Quang Cơ, P. Phú Thạnh, Tân Phú, TP. HCM	4.5	500+	08:00 - 20:30	10,000	40,000	0.0%	8.6	3
+Ăn vặt/vỉa hè	Thảo An - Trà Sữa Nhà Nấu	8A Văn Cao, P. Phú Thạnh, Tân Phú, TP. HCM	4.5	100+	09:00 - 22:30	12,000	25,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Sumo - Bánh Tráng Muối Nhuyễn	211/40 Minh Phụng, P. 9, Quận 6, TP. HCM	4.5	100+	08:00 - 23:00	12,000	40,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Sang - Chuối Chiên, Khoai Lang Chiên &amp; Bánh Cay - Chợ Bình Tây Phan Văn Khoẻ	46B Phan Văn Khoẻ, P. 2, Quận 6, TP. HCM	0.0	3	07:00 - 17:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Em Út - Bún Chả Hà Nội &amp; Cơm Gà	107/9 Lý Thánh Tông, P. Tân Thới Hòa, Tân Phú, TP. HCM	4.5	50+	07:00 - 22:00	3,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Nguyễn Văn Quá	762 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM	4.5	500+	09:00 - 21:30	29,000	60,000	0.0%	7.3	6
+Ăn vặt/vỉa hè	Gấu Ơi - Coffee &amp; Beer	71 Dương Văn Dương, P. Tân Quý, Tân Phú, TP. HCM	0.0	2	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - 431 Lê Trọng Tấn	431 Lê Trọng Tấn, P. Sơn Kỳ, Tân Phú, TP. HCM	4.5	999+	08:30 - 22:00	30,000	89,000	0.0%	3.6	3
+Shop/Cửa hàng	Mega Sweetie- Nguyễn Hữu Thọ	Block B, Sunrise CityView, 33 Nguyễn Hữu Thọ, P. Tân Hưng, Quận 7, TP. HCM	5.0	50+	08:00 - 17:00	50,000	500,000	0.0%	9.8	2
+Quán ăn	Quán Cô Bảy - Nui &amp; Mì Xào - Đường Số 17	17 Đường Số 17, P. 4, Quận 8, TP. HCM	4.5	50+	06:00 - 23:49	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè, Shop Online	Ăn Vặt Guppy - Bánh Tráng Phơi Sương Muối Nhuyễn	19/4 Đường Số 35, P. Hiệp Bình Chánh, Thủ Đức, TP. HCM	4.5	500+	07:30 - 22:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn, Ăn vặt/vỉa hè	99 - Gỏi Cuốn - Nguyễn Văn Quá	99/9 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM	4.5	100+	09:30 - 19:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt W Food - Hồng Bàng (không có menu)	732/12 Hồng Bàng, P. 1, Quận 11, TP. HCM	4.5	100+	00:00 - 23:59	8,000	300,000	0.0%	0	0
+Quán ăn	Cơm Gà Sốt Japan	87/17 Nguyễn Phạm Tuân, P. 9, Quận 6, TP. HCM	4.5	999+	09:00 - 18:00	20,000	60,000	0.0%	7.5	7
+Quán ăn	Hotpot Story - 15/1 Nguyễn Văn Quá (không có menu)	15/1 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM	4.5	50+	08:00 - 21:00	20,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	PizzaGo - Pizza - Mỳ Ý &amp; Salad - Hậu Giang	92E Hậu Giang, P. 6, Quận 6, TP. HCM	4.5	10+	00:00 - 01:00 | 09:30 - 23:59	29,000	89,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bánh Bao Chiên Nước - Lương Thế Vinh	63 Lương Thế Vinh, P. Tân Thới Hoà, Tân Phú, TP. HCM	4.5	999+	08:00 - 19:00	7,000	12,000	0.0%	6.7	39
+Quán ăn	Gà Ta Ủ Muối Chính Hiệu - Phạm Thể Hiển	769/44/79B Phạm Thế Hiển, P. 4, Quận 8, TP. HCM	0	0	00:00 - 23:59	5,000	599,000	0.0%	0	0
+Shop Online	Ăn Vặt Nhà Mị - Online	400/7I Tùng Thiện Vương, P. 13, Quận 8, TP. HCM	4.5	10+	09:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Trân Châu Dừa Subeo	 187/44 Mai Xuân Thưởng, P. 5, Quận 6, TP. HCM	4.5	999+	09:00 - 22:00	20,000	35,000	0.0%	7.1	3
+Quán ăn	Tiệm Gà Ủ Muối Chính Hiệu &amp; Thế Giới Viên Chiên Thả Lẩu - 84 Cao Lỗ	79C Đường 84 Cao Lỗ, P. 4, Quận 8, TP. HCM	4.5	100+	00:00 - 03:00 | 06:00 - 23:59	20,000	250,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Riêu Ba Béo	127A Đường Số 11, P. Tân Kiểng, Quận 7, TP. HCM	0	0	06:30 - 12:30 | 16:30 - 22:00	0	0	0.0%	0	0
+Quán ăn	Phở Ngọc Hà - Phở - Lê Trọng Tấn	447 Lê Trọng Tấn, Phường Sơn Kỳ, Tân Phú, TP. HCM	4.5	100+	06:00 - 21:00	20,000	50,000	0.0%	6.1	2
+Café/Dessert, Quán ăn	Riki - Coffee &amp; Tea	75 Đường Sô 9, P. Tân Kiểng, Quận 7, TP. HCM	0.0	2	06:00 - 21:00	5,000	99,000	0.0%	<span>_._</span>	0
+Quán ăn	Cô Hai Nếp - Cơm Tấm &amp; Bánh Tằm Bì - Hồng Bàng	776 Hồng Bàng, P. 1, Quận 11, TP. HCM	4.5	10+	06:00 - 17:00	5,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Gaf - Chân Gà Sả Tắc &amp; Chân Gà Sốt Thái	99/1A Tổ 4 Khu Phố 2 Nguyễn Văn Quá, P. Tân Thới Hiệp, Quận 12, TP. HCM	4.5	50+	09:00 - 23:00	70,000	260,000	0.0%	9.0	1
+Quán ăn	Thu Hương - Nem Nướng Nha Trang - Trường Chinh	320/23 Trường Chinh, P. Tân Hưng Thuận, Quận 12, TP. HCM	4.5	10+	08:00 - 21:00	39,000	339,000	0.0%	<span>_._</span>	0
+Café/Dessert	Detox Nhà Tạo - Nước Ép Detox	6/8A Tân Hoá, P. 1, Quận 11, TP. HCM	0.0	3	08:00 - 20:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Thuận Ký - Bún Mì Vàng	64B Đặng Nguyên Cẩn, P. 14, Quận 6, TP. HCM	4.5	10+	05:00 - 13:30	10,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	MrsNhi - Milktea &amp; Coffee - Đường Số 7	Số 2 Đường Số 7, P. Tân Kiểng, Quận 7, TP. HCM	0.0	4	09:30 - 21:30	15,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Wowtea Coffee - Cà Phê Pha Máy và Trà Trái Cây	6 Đường Số 15, P. Tân Kiểng, Quận 7, TP. HCM	4.5	999+	07:00 - 22:00	18,000	38,000	0.0%	9.4	15
+Quán ăn	Cơm Tấm Thuận Phát	150 Cao Lỗ, P. 4, Quận 8, TP. HCM	4.5	999+	09:00 - 19:00	25,000	40,000	0.0%	5.1	3
+Quán ăn	Bánh Tráng Trộn Hồng Phượng - Chung Cư Bình Khánh	Lô J, Nhà E, Chung Cư Bình Khánh, P. An Phú, Thủ Đức, TP. HCM	0.0	3	08:00 - 17:30	5,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Minh Tiến - Hột Vịt Lộn &amp; Mực Nướng - Ấp 4	99 PMQQ + Q74, Ấp 4, Đi Cuối Sân Bóng Khôi Nnguyên, Xã Bình Hưng, Bình Chánh, TP. HCM	0	0	00:00 - 01:15 | 06:58 - 20:59	0	0	0.0%	0	0
+Café/Dessert	Trà Sữa Ding Tea - Đường DD7	92 Đường DD7, P. Tân Hưng Thuận, Quận 12, TP. HCM	4.5	999+	09:00 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Vua Bánh Mì - Hoàng Trọng Mậu	52 - 54 - 56 Hoàng Trọng Mậu, P. Tân Hưng, Quận 7, TP. HCM	4.5	10+	07:00 - 21:00	10,000	30,000	0.0%	<span>_._</span>	0
+Shop Online	T@Food - Gỏi Cuốn &amp; Bún Mắm Nêm - Shop Online - Phan Anh	262/1N Phan Anh, P. Hiệp Tân, Tân Phú, TP. HCM	4.5	500+	09:00 - 21:00	8,000	30,000	0.0%	<span>_._</span>	0
+Shop Online	Trà sữa Online Béo - Hiệp Bình	148B Hiệp Bình, P. Hiệp Bình Chánh, Thủ Đức, TP. HCM	5.0	6	09:00 - 20:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bánh Mì Thổ Nhĩ Kỳ - 26 Lê Đức Thọ	26 Lê Đức Thọ, P. Thới An, Quận 12, TP. HCM	0.0	2	06:00 - 11:00 | 16:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn, Ăn vặt/vỉa hè	Phở Hủ Tiếu Khô Gia Lai Trúc - Phở &amp; Hủ Tiếu Khô - Nguyễn Hoàng	48 Nguyễn Hoàng, P. An Phú, Thủ Đức, TP. HCM	4.5	100+	09:00 - 14:00 | 17:10 - 20:30	0	0	0.0%	<span>_._</span>	0
+Shop Online	TLP Food - Thiên Đường Ăn Vặt - Shop Online	70 Thạnh Lộc 19, P. Thạnh Lộc , Quận 12, TP. HCM	4.5	5	08:00 - 21:30	15,000	500,000	0.0%	<span>_._</span>	0
+Quán ăn	Gâu Gâu - Cơm Bò Xèo Chảo Gang	1171 Phạm Thế Hiển, P. 5, Quận 8, TP. HCM	4.5	500+	09:00 - 14:00 | 16:30 - 20:00	25,000	47,000	0.0%	8.1	10
+Quán ăn	Deilyno - Bún Trộn Nam Bộ &amp; Miến Trộn Đặc Biệt - Đường TL18	109 Khu Phố 3B, Tỉnh Lộ 18, P. Thạnh Lộc, Quận 12, TP. HCM	4.5	100+	05:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Shop Online	Ruby - Yaourt Sữa Tươi &amp; Khô Gà Lá Chanh - Shop Online - Đường Số 5B	81D Đường Số 5B, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	100+	09:00 - 23:30	4,000	160,000	0.0%	9.2	1
+Ăn vặt/vỉa hè	Ngọc Trinh - Bánh Tráng Siêu Cay - Hậu Giang	271 Hậu Giang, P. 5, Quận 6, TP. HCM	4.5	999+	09:00 - 22:00	10,000	15,000	0.0%	4.4	14
+Quán ăn	Cơm Tấm &amp; Cơm Trưa Văn Phòng 168 - Lý Thánh Tông	168 Đường Lý Thánh Tông, P. Hiệp Tân, Tân Phú, TP. HCM	4.5	10+	06:00 - 19:00	5,000	99,000	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Him Lam	117 Nguyễn Thị Thập, P. Tân Hưng, Quận 7, TP. HCM	4.5	999+	08:00 - 23:30	29,000	49,000	0.0%	6.6	21
+Ăn vặt/vỉa hè	Mẹ Ri - Ăn Vặt	34 Nguyễn Chế Nghĩa, P. 13, Quận 8, TP. HCM	4.5	10+	07:00 - 17:00	10,000	269,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tocotoco Bubble Tea - Hậu Giang	285 Hậu Giang, P. 5, Quận 6, TP. HCM	4.5	100+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Mầm - Healthyfood - Đường Số 36C (không có menu)	1 Đường Số 36C, P. An Phú, Thủ Đức, TP. HCM	4.5	100+	08:00 - 14:45	29,000	95,000	0.0%	0	0
+Quán ăn	3 Râu - Gà Rán, Pizza &amp; Trà Sữa - 309 Lê Văn Lương	309 Lê Văn Lương, P. Tân Quy, Quận 7, TP. HCM	4.5	100+	00:00 - 01:45 | 09:30 - 23:59	12,000	120,000	0.0%	5.4	3
+Ăn vặt/vỉa hè	Bánh Mì Thổ Nhĩ Kỳ Ngọc Quyền	1438/4/13 Phạm Thế Hiển, P. 5, Quận 8, TP. HCM	4.5	100+	07:00 - 21:30	18,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Lợi Ký - Hủ Tiếu Mì Gia - Đường Số 6	22/8 Đường Số 6, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	100+	06:30 - 13:00 | 17:00 - 21:00	10,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	A Ký Quán - Món Hồng Kông - Đường 11N (không có menu)	33N Đường 11N, P. Tân Thuận Tây, Quận 7, TP. HCM	4.5	100+	07:00 - 21:00	0	0	0.0%	0	0
+Quán ăn	Bún Bò Huế O Xưa - Đường Số 11N	18 Đường Số 11N, P. Tân Thuận Tây, Quận 7, TP. HCM	4.5	10+	06:00 - 22:00	5,000	99,000	0.0%	<span>_._</span>	0
+Tiệm bánh	Ngọc Toàn Phát - Ăn Vặt Văn Phòng (không có menu)	28 Minh Phụng, P. 5, Quận 6, TP. HCM	4.5	50+	06:15 - 22:00	9,000	80,000	0.0%	0	0
+Café/Dessert	Papa Cafe - Trà Sữa, Milo Dằm, Ăn Vặt, Cà phê - Lê Văn Quới	115 Lê Văn Quới, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	100+	06:30 - 22:00	14,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn, Khu Ẩm Thực	Phở Phú Lâm - Phở Bò - Bà Hom	20/2 Bà Hom, P. 13, Quận 6, TP. HCM	4.5	100+	05:30 - 12:00	0	0	0.0%	9.3	2
+Shop Online	Vfood - Ăn Vặt &amp; Chân Gà - Shop Online	60 Đường 38, Khu Phố 8 P. Hiệp Bình Chánh, Thủ Đức, TP. HCM	4.5	100+	00:01 - 23:59	15,000	175,000	0.0%	9.2	1
+Ăn vặt/vỉa hè	Nui Xào Bò &amp; Cơm Gà - Hậu Giang	357/44A Hậu Giang, P. 11, Quận 6, TP. HCM	4.5	500+	09:39 - 23:55	20,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Đường Số 17	103 Đường số 17, P, Tân Kiểng, Quận 7, TP. HCM	4.5	999+	08:00 - 23:59	29,000	49,000	0.0%	10.0	2
+Ăn chay	Quán Chay Pháp Hoa - Bông Sao	139 Bông Sao, P. 5, Quận 8, TP. HCM	4.5	999+	06:30 - 21:56	15,000	20,000	0.0%	4.6	1
+Quán ăn	Hanoi Ngon - Nem Chua Rán Ăn Vặt Chuẩn Hà Nội - Tạ Quang Bửu	795B Tạ Quang Bửu, P. 5, Quận 8, TP. HCM	4.5	100+	08:05 - 20:55	30,000	59,000	0.0%	<span>_._</span>	0
+Quán ăn	Đắc Hòa - Heo Sữa Quay, Bánh Hỏi	46A Bà Hom, P. 13, Quận 6, TP. HCM	4.5	10+	05:30 - 19:30	50,000	3,000,000	0.0%	<span>_._</span>	0
+Quán ăn	Phá Lấu &amp; Súp Cua Hoàng Gia - Bông Sao	183 Bông Sao, P. 5, Quận 8, TP. HCM	0.0	4	09:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Mến - Bún Chả Cá Sứa Nha Trang - Lê Văn Quới	132 Lê Văn Quới, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	999+	06:00 - 23:59	20,000	30,000	0.0%	7.5	4
+Ăn vặt/vỉa hè, Shop Online	Tai Heo &amp; Chân Gà Sốt Thái Kim Phát (không có menu)	76 Đường Số 77, P. Tân Quy, Quận 7, TP. HCM	4.5	10+	00:00 - 23:59	0	0	0.0%	0	0
+Quán ăn	AQ Food - Gà Ủ Muối Hoa Tiêu	45 Đường 27, P. Tân Quy, Quận 7, TP. HCM	4.5	9	00:01 - 05:59 | 06:00 - 23:59	19,000	320,000	0.0%	<span>_._</span>	0
+Shop Online	Gà Nướng Muối Ớt Cherry	135 Đường 39, P. Tân Quy, Quận 7, TP. HCM	4.5	10+	06:55 - 22:00	15,000	180,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Hỏi Thịt Nướng - Bún Thịt Nướng Cherry	135 Đường 39, P. Tân Quy, Quận 7, TP. HCM	4.5	50+	09:00 - 23:00	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Saigonviet Coffee - Sinh Tố &amp; Nước Ép - Đường 81	70 Đường Số 81, phường Tân Quy, Quận 7, Quận 7, TP. HCM	4.5	100+	05:30 - 23:00	20,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	OHCHA - Trà Chanh Hồng Kông - Tân Hòa Đông	174/1 Tân Hoà Đông, P. 14, Quận 6, TP. HCM	4.5	100+	09:30 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Nguyễn Gia - Trà Sữa &amp; Cơm Gà Xối Mỡ - Bông Sao (không có menu)	283/12/1 Bông Sao, P. 5, Quận 8, TP. HCM	4.5	10+	09:30 - 20:00	20,000	45,000	0.0%	0	0
+Café/Dessert	一點TIAN - Tea &amp; Food - Lâm Văn Bền	123 Lâm Văn Bền, P. Tân Thuận Tây, Quận 7, TP. HCM	0	0	00:00 - 02:30 | 09:00 - 23:59	35,000	60,000	0.0%	0	0
+Tiệm bánh, Shop Online	Hùng Dũng Consumer - Nguyễn Văn Linh	216 Nguyễn Văn Linh, P. Tân Thuận Tây, Quận 7, TP. HCM	5.0	5	08:30 - 11:45 | 13:20 - 17:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	UlaSky Tea &amp; Coffee - Trà Sữa &amp; Mì Cay	292 Cao Lỗ, P. 4, Quận 8, TP. HCM	4.5	100+	09:00 - 20:30	20,000	40,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Sữa 19TK	241A Tân Hòa Đông, P. 14, Quận 6, TP. HCM	4.5	6	06:00 - 22:00	5,000	99,000	0.0%	<span>_._</span>	0
+Quán ăn	Hồng - Bún Riêu &amp; Bánh Ướt	106/19 Đình Nghi Xuân, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	100+	08:00 - 13:30 | 16:30 - 23:45	15,000	45,000	0.0%	8.8	1
+Quán ăn	Chè Mỹ - Nguyễn Thị Thập	591 Nguyễn Thị Thập, P. Tân Phong, Quận 7, TP. HCM	4.5	999+	09:00 - 21:45	10,000	25,000	0.0%	5.8	38
+Quán ăn, Shop Online	Súp Cua Ngọc - Món Súp - 54/13 Đường Số 37 (không có menu)	54/13 Đường Số 37, P. Tân Kiểng, Quận 7, TP. HCM	4.5	50+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Vẫn Là Cơm Nhà - 370 Nguyễn Văn Luông	 370 Nguyễn Văn Luông, P. 12, Quận 6, TP. HCM	0	0	09:30 - 23:00	10,000	90,000	0.0%	0	0
+Café/Dessert	Trung Nguyên E-Coffee - 30 Đường Số 5	30 - 32 Đường Số 5, Xã Bình Hưng, Bình Chánh, TP. HCM	4.5	10+	07:00 - 20:30	17,000	35,000	0.0%	10.0	1
+Quán ăn	Hủ Tiếu Mì Sủi Cảo Phi Hoàng	78/4C Bà Hom, P. 13, Quận 6, TP. HCM	4.5	10+	06:00 - 12:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Quán Bánh Cuốn Nóng Hà Nội - Hậu Giang	431 Hậu Giang, P. 11, Quận 6, TP. HCM	4.5	10+	06:00 - 11:00	25,000	55,000	0.0%	<span>_._</span>	0
+Café/Dessert	ST Sweet - Trà Sữa &amp; Trà Trái Cây	573 Nguyễn Thị Thập, P. Tân Phong, Quận 7, TP. HCM	4.5	10+	08:00 - 22:00	20,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Vịt Quay Tiến Mập - Vịt Quay &amp; Heo Quay, Bánh Hỏi Heo Quay 	248 Huỳnh Tấn Phát, P. Tân Thuận Tây, Quận 7, TP. HCM	5.0	6	08:00 - 19:00	30,000	360,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Toàn - Vựa Hải Sản	183 Phạm Phú Thứ, P. 4, Quận 6, TP. HCM	4.5	50+	08:00 - 21:00	220,000	400,000	0.0%	<span>_._</span>	0
+Quán ăn	Phá Lấu Bò Cù Lèng - Đường Số 14	124/7 Đường Số 14, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	3.5	10+	08:30 - 20:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Út Thảo Chân Gà Sả Tắc - Chận Gà Sả Tắc Thôm Ngon - 403/13 Bình Hương Hoà (không có menu)	403/13 Bình Hương Hoà, P. 2, Tân Bình, TP. HCM	0.0	1	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Trái Cây Ngon Mười Cai Lậy - Shop Online	380/81/3B Lê Văn Lương, P. Tân Hưng, Quận 7, TP. HCM	4.5	100+	06:00 - 23:00	25,000	160,000	0.0%	<span>_._</span>	0
+Quán ăn	Xôi Chè Cô Năm - Mai Văn Vĩnh	15 Mai Văn Vĩnh, P. Tân Quy, Quận 7, TP. HCM	4.5	10+	05:00 - 12:00	5,000	99,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ngọc Hà - Coffee &amp; Tea - Tân Hòa Đông	194 Tân Hòa Đông, P. Bình Trị Đông, Bình Tân, TP. HCM	5.0	100+	07:00 - 19:30	0	0	0.0%	9.7	4
+Nhà hàng	Nhà Hàng Khánh Linh - Lươn Xứ Nghệ	94 Đường 79, P. Tân Quy, Quận 7, TP. HCM	4.5	100+	07:10 - 14:00 | 16:50 - 20:00	30,000	50,000	0.0%	2.0	1
+Quán ăn	Bánh Tráng Abi - Đường 47 (không có menu)	156B Đường 47, P. Tân Quy (Đối Diện Hẻm 133), Quận 7, TP. HCM	4.5	100+	09:00 - 23:30	20,000	38,000	0.0%	0	0
+Quán ăn	Phở An Phú Gia - Phở Áp Chảo Chiên Giòn - Đường Mai Chí Thọ	69 Mai Chí Thọ, P. An Phú, Thủ Đức, TP. HCM	0.0	4	06:00 - 13:00 | 16:30 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Huế Phương Linh	53D Mai Văn Vĩnh, Quận 7, TP. HCM	3.5	100+	06:00 - 22:00	35,000	35,000	0.0%	3.7	5
+Ăn vặt/vỉa hè	Bếp Nhà Bo - Mì Trộn &amp; Trà Trái Cây - Bông Sao 	283/8 Bông Sao, P. 5, Quận 8, TP. HCM	5.0	10+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Chadidi - Nguyễn Thị Thập	436 Nguyễn Thị Thập, P. Tân Quy, Quận 7, TP. HCM	4.5	10+	07:00 - 21:00	15,000	65,000	0.0%	8.9	2
+Shop Online	CHEE MILK TEA - Trà Sữa - Phạm Phú Thứ	42 Phạm Phú Thứ, P. 3, Quận 6, TP. HCM	0.0	2	09:00 - 20:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Harry	107/5 Đường Số 14, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	500+	00:00 - 01:45 | 10:00 - 23:59	10,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bảo Ngọc - Sinh Tố &amp; Nước Ép Trái Cây - 331 Đường Số 5	331 Đường Số 5, Phường Bình Hưng Hòa, Bình Tân, TP. HCM	4.5	10+	07:00 - 22:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa, Trà Trái Cây &amp; Bánh Phô Mai - 2B Coffee &amp; Tea	42K1/3A Bình Đông, P. 14, Quận 8, TP. HCM	0	0	09:00 - 22:00	22,000	26,000	0.0%	0	0
+Quán ăn	Bún Chả Cá Phan Rang &amp; Bánh Canh Thiên Phúc	1726 Phạm Thế Hiển, P. 6, Quận 8, TP. HCM	4.5	50+	06:45 - 23:00	25,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Thanh Xuân Quán - Bánh Cuốn Chả Lụa	71 Đường 79, P. Tân Quy, Quận 7, TP. HCM	4.5	100+	05:20 - 21:00	5,000	320,000	0.0%	3.2	6
+Quán ăn	Tin Tin Quán - Bò Kho Bánh Mì &amp; Ăn Vặt	206/26/6 Lê Văn Quới, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	100+	00:00 - 23:59	8,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Nhà Mon - Lẩu Thái &amp; Mì Trộn Sate	107/39A Đường Số 14, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	10+	00:00 - 01:00 | 07:00 - 23:59	30,000	80,000	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Lê Văn Quới	285 Lê Văn Quới, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	999+	09:00 - 22:00	25,000	65,000	0.0%	2.5	7
+Quán ăn	BẾP NHÀ CHANG - EAT CLEAN &amp; HEALTHY	22/5 A Đường Số 14, P. Bình Hưng Hoà A, Bình Tân, TP. HCM	4.5	999+	09:00 - 21:00	39,000	99,000	0.0%	<span>_._</span>	0
+Quán ăn	Hello Burger - Hamburger &amp; Chicken	80C Đường Số 49, P. Tân Quy, Quận 7, TP. HCM	4.5	500+	00:00 - 23:59	30,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Tạ Quang Bửu	892C Tạ Quang Bửu, P. 5, Quận 8, TP. HCM	4.5	999+	08:30 - 21:30	29,000	57,000	0.0%	1.8	3
+Sang trọng	M35 Bún Thịt Nướng - Mì Ốc Hến	M35, Cư xá Phú Lâm A, P. 12, Quận 6, TP. HCM	4.5	50+	08:30 - 14:00 | 15:30 - 20:30	12,000	40,000	0.0%	<span>_._</span>	0
+Tiệm bánh	Quyên Thỏ - Bánh Ngọt &amp; Ăn Vặt	240/127/39 Nguyễn Văn Luông, P. 11, Quận 6, TP. HCM	4.5	500+	07:30 - 21:05	28,000	200,000	0.0%	7.8	4
+Café/Dessert	CTNT - Cà phê - Đường số 14	74/18  Đường Số 14, P.Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	10+	09:59 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Đẩu - Bánh Mì Bò Nướng - Phạm Hùng	C7B/3 Phạm Hùng, X. Bình Hưng, Bình Chánh, TP. HCM	5.0	10+	08:30 - 16:00	26,000	57,000	0.0%	<span>_._</span>	0
+Café/Dessert	GOOD COFFEE - Coffee, Juice, Smoothie - Tân Thới Nhất 01	68 Tân Thới Nhất 1, P. Tân Thới Nhất, Quận 12, TP. HCM	4.5	100+	07:00 - 21:30	0	0	0.0%	9.8	8
+Quán ăn	Hủ Tiếu Mực Anh Bum	200 Nguyễn Thị Đặng, P. Tân Thới Hiệp, Quận 12, TP. HCM	4.5	100+	05:30 - 20:00	30,000	38,000	0.0%	<span>_._</span>	0
+Shop Online	Chú Út - Bánh Tráng Trộn &amp; Sinh Tố	240/7/6 Nguyễn Văn Luông, P. 11, Quận 6, TP. HCM	4.5	999+	08:00 - 21:00	17,000	39,000	0.0%	9.0	19
+Quán ăn	Quán Bếp Trưởng - Bánh Canh Cua	341 Huỳnh Tấn Phát, P. Tân Thuận Đông, Quận 7, TP. HCM	4.5	500+	05:30 - 21:45	7,000	35,000	0.0%	7.1	4
+Café/Dessert	Sinh Tố Quỳnh Như - Nước Ép &amp; Dừa Lạnh - Tân Thuận Tây	6 Tân Thuận Tây, P. Tân Thuận Tây, Quận 7, TP. HCM	0	0	05:00 - 23:00	19,000	39,000	0.0%	0	0
+Café/Dessert	Trái Cây Gọt Sẵn &amp; Sinh Tố Dâu Tây	525/29/6/1 Lê Văn Lương, P. Tân Phong, Quận 7, TP. HCM	4.5	100+	10:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Nhà hàng	The Pizza Company - Huỳnh Tấn Phát	346 Huỳnh Tấn Phát, P. Bình Thuận, Quận 7, TP. HCM	4.5	999+	10:00 - 21:30	50,000	400,000	0.0%	6.3	10
+Quán ăn	Cơm Nhà Ú - Đường 49	15 Đường 49, P, Bình Thuận, Quận 7, TP. HCM	4.5	100+	07:00 - 21:20	30,000	60,000	0.0%	8.3	3
+Ăn vặt/vỉa hè	Pikachill - Ăn Vặt &amp; Sữa Chua Trái Cây	17 Đường Số 34, P. Linh Đông, Thủ Đức, TP. HCM	4.5	100+	10:00 - 23:59	10,000	160,000	0.0%	9.6	1
+Quán ăn	Cơm Tấm Ty Mập - Lê Văn Lương	537 Lê Văn Lương, P. Tân Phong, Quận 7, TP. HCM	4.5	999+	06:00 - 19:00	15,000	25,000	0.0%	4.6	9
+Quán ăn, Giao cơm văn phòng	Lup Food - Beefsteak &amp; Mì Ý - Đường Số 9	81  Đường Số 9, P.13, Quận 6, TP. HCM	4.5	500+	08:00 - 13:00 | 15:30 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hủ Tiếu Mực Hương Giang	537 Lê Văn Lương, P. Tân Phong, Quận 7, TP. HCM	4.5	500+	06:00 - 20:00	2,000	50,000	0.0%	9.3	3
+Quán ăn	Sinh Tố, Nước Ép &amp; Trái Cây - Bà Bảy	525/29/6 Lê Văn Lương, P. Tân Phong, Quận 7, TP. HCM	4.5	50+	10:00 - 22:00	35,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Nhà Min - Chân Gà Sốt Thái &amp; Sữa Tươi Thốt Nốt Rim - Huỳnh Tấn Phát	502/26i Huỳnh Tấn Phát, P. Bình Thuận, Quận 7, TP. HCM	0.0	2	10:00 - 23:59	20,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Phénix - Trà Sữa &amp; Bánh Tráng Trộn - Tân Hòa Đông	477A Tân Hòa Đông, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	10+	06:30 - 22:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Tàu Hũ Trân Châu Thy Mai - Bình Tiên	45/88/21E Bình Tiên, P. 7, Quận 6, TP. HCM	5.0	10+	09:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Đường Số 10	1F Đường Số 10, P. 13, Quận 6, TP. HCM	4.5	999+	09:30 - 21:45	29,000	56,000	0.0%	5.1	2
+Quán ăn	SiFu Bowl - Xa Lộ Hà Nội	337C Xa Lộ Hà Nội, P. An Phú, Thủ Đức, TP. HCM	0.0	2	08:00 - 14:40	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bếp 3S - Bánh Canh - KDC Kim Sơn	127-129-131 Đường Số 1, KDC Kim Sơn, P. Tân Phong, Quận 7, TP. HCM	4.5	10+	07:00 - 15:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Xối Mỡ Tam Kỳ - Tân Hòa Đông	507 Tân Hòa Đông, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	100+	09:15 - 23:00	25,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt SiRi	76/15 Tân Thới Nhất 5, KP.7, P. Tân Thới Nhất, Quận 12, TP. HCM	4.5	500+	10:00 - 23:30	7,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Rau Má MAXH - Lâm Văn Bền	202 Lâm Văn Bền, P. Tân Quy, Quận 7, TP. HCM	4.5	10+	09:00 - 21:00	10,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Thùy Giang - Phở Bò &amp; Gà	64 Dương Thị Mười, P. Tân Chánh Hiệp, Quận 12, TP. HCM	4.5	50+	00:01 - 23:59	15,000	280,000	0.0%	<span>_._</span>	0
+Quán ăn	Tắc Ký - Hủ Tiếu Mì Thập Cẩm &amp; Bò Kho - Chiến Lược	103/16/1A Chiến Lược, P. Bình Trị Đông, Bình Tân, TP. HCM	5.0	1	06:30 - 18:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Te Amo - Phạm Văn Chí	602 Phạm Văn Chí, P. 8, Quận 6, TP. HCM	4.5	50+	08:00 - 21:59	24,000	24,000	0.0%	<span>_._</span>	0
+Quán ăn	Lòng Ngon Chuẩn Vị Bắc - Bùi Văn Ba	122 Bùi Văn Ba, P. Tân Thuận Đông, Quận 7, TP. HCM	4.5	10+	06:00 - 12:00 | 15:30 - 20:00	19,000	79,000	0.0%	<span>_._</span>	0
+Café/Dessert	The Coffee House - 313 Nguyễn Thị Thập	313 Nguyễn Thị Thập, P. Tân Phú, Quận 7, TP. HCM	4.5	100+	07:00 - 20:30	30,000	60,000	0.0%	5.0	1
+Quán ăn	Cơm Cuộn Su Bo - Đường 36	24/3 Đường 36, P. Linh Đông, Thủ Đức, TP. HCM	4.5	100+	07:30 - 20:01	10,000	90,000	0.0%	<span>_._</span>	0
+Quán ăn	Cháo Gỏi Vịt Hương Lan - Gỏi Vịt &amp; Gỏi Gà	A30/03 Quốc lộ 50, X. Bình Hưng, Bình Chánh, TP. HCM	4.5	100+	08:00 - 19:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Coco Summer - Trái Cây Nhanh - Nguyễn Thị Thập	142/28 Nguyễn Thị Thập, P. Bình Thuận, Quận 7, TP. HCM	4.5	999+	09:30 - 21:30	10,000	180,000	0.0%	7.0	16
+Café/Dessert	TocoToco Bubble Tea - Gò Xoài	289 Gò Xoài, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	999+	09:00 - 21:30	29,000	89,000	0.0%	<span>_._</span>	0
+Café/Dessert	SAM JUICE - Sinh Tố &amp; Nước Ép Trái Cây - Hiệp Thành 45	104/58 Hiệp Thành 45, P. Hiệp Thành, Quận 12, TP. HCM	4.5	10+	09:00 - 21:00	15,000	30,000	0.0%	9.8	1
+Ăn vặt/vỉa hè	Ngọc Phụng - Sinh Tố &amp; Nước Ép - Nguyễn Thị Đặng	15 Nguyễn Thị Đặng, P. Hiệp Thành, Quận 12, TP. HCM	4.5	100+	08:00 - 21:00	18,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Ngon - Cơm Gà Xối Mỡ &amp; Bún Bò Huế - Đường Số 9	206 Đường 9, P. Tân Phú, Quận 7, TP. HCM	0.0	3	06:00 - 19:30	30,000	50,000	0.0%	<span>_._</span>	0
+Khu Ẩm Thực	Vinh Đại Phát 2 - Heo Gà Vịt Quay	338 Lê Văn Qưới, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	0	0	06:30 - 21:00	0	0	0.0%	0	0
+Shop Online	Bếp Bà Hai - Chân Gà Sả Tắc - Shop Online	24/13/64 Trương Phước Phan, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	100+	08:00 - 22:30	40,000	150,000	0.0%	9.0	8
+Quán ăn	Chicken Man - Gà Rán Hàn Quốc - Trương Phước Phan - Shop Online	62/3D Trương Phước Phan P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	100+	10:00 - 23:00	50,000	500,000	0.0%	9.2	1
+Quán ăn	BIN BIN - Bún Thái &amp; Bánh Canh Cua - Đường Số 2B	28 Đường Số 2B, P. An Lạc A, Bình Tân, TP. HCM	0.0	2	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Shop Online	PNT Chicken - Gà Rán Tokbokki Hàn Quốc - Trương Phước Phan	62/3D Trương Phước Phan, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	100+	10:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Xối Mỡ A Hỏi - Bình Trị Đông	168/86/14/30 Bình Trị Đông, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	50+	05:00 - 23:59	35,000	45,000	0.0%	9.6	5
+Ăn vặt/vỉa hè	Bánh Mì Phượng Hoàng - Tân Mỹ	27 Tân Mỹ, P. Tân Phú, Quận 7, TP. HCM	4.5	500+	00:00 - 00:59 | 05:00 - 23:59	4,000	30,000	0.0%	8.0	1
+Quán ăn	Thiên Vương - Gà Mẹt &amp; Gà Không Lối Thoát - Nguyễn Thị Đặng	15D Nguyễn Thị Đặng, P. Hiệp Thành, Quận 12, TP. HCM	0.0	1	10:00 - 13:30 | 16:15 - 21:30	20,000	300,000	0.0%	<span>_._</span>	0
+Café/Dessert	Heek Coffee - Tea &amp; Hamburger - 998 Phạm Hùng	998 Phạm Hùng, X. Bình Hưng, Bình Chánh, TP. HCM	0	0	07:00 - 17:00	25,000	60,000	0.0%	0	0
+Café/Dessert, Ăn vặt/vỉa hè	Totoro Quán - Trà Sữa &amp; Nước Ép - Nguyễn Thị Đặng	90C Nguyễn Thị Đặng, P. Hiệp Thành, Quận 12, TP. HCM	0.0	1	10:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hiếu Bào Ngư Vi Cá - Thạnh Lộc 38	11 Thạnh Lộc 38, P. Thạnh Lộc, Quận 12, TP. HCM	0.0	3	07:00 - 23:30	30,000	100,000	0.0%	9.3	6
+Quán ăn	Bếp Của Ngoại - Cơm Chiên, Mì &amp; Nui Xào - Đường 21D	27 Đường 21D, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	999+	09:00 - 20:00	15,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Bến Tre	942 Hậu Giang, P. 12, Quận 6, TP. HCM	4.5	100+	05:30 - 13:30	22,000	50,000	0.0%	10.0	1
+Café/Dessert	Shotu Coffee &amp; Tea - Đường 9B	U2 Đường 9B, P. An Lạc A, Bình Tân, TP. HCM	5.0	5	06:00 - 22:00	5,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Seoul Healthy! - Lê Văn Lương	653 Lê Văn Lương, Khu Phố 1, Quận 7, TP. HCM	4.5	10+	00:00 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Shoku-Yoku - Cơm Thố Nhật Bản - Lê Văn Lương	653 Lê Văn Lương, Khu Phố 1, Quận 7, TP. HCM	0.0	1	00:00 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Vũ Trụ Mì Trộn - Lê Văn Lương	653 Lê Văn Lương, Khu Phố 1, Quận 7, TP. HCM	0.0	1	00:00 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Ngõ Phố - Bún Bò &amp; Bún Thịt Nướng - Lê Văn Lương	653 Lê Văn Lương, Khu Phố 1, P. Tân Phong, Quận 7, TP. HCM	0.0	3	00:00 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Chả Hà Nội - Linh Sơn Quán	414 Dương Thị Mười, P. Tân Thới Hiệp, Quận 12, TP. HCM	3.5	10+	06:00 - 21:00	40,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nước Mía Sầu Riêng Ngon Khu Tên Lửa Đất Mới	295 Bình Trị Đông, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	100+	06:00 - 22:30	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Sinh Tố &amp; Nước Ép 295 - Rau Má Mix &amp; Dừa Tắc Thơm - Bình Trị Đông	295 Bình Trị Đông, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	10+	06:00 - 22:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Rau Má Mix - 145 Nguyễn Thị Thập	145 Nguyễn Thị Thập, P. Tân Phú, Quận 7, TP. HCM	4.5	500+	08:30 - 22:15	5,000	28,000	0.0%	<span>_._</span>	0
+Quán ăn	Korean To Go - Lê Văn Lương	653 Lê Văn Lương, Khu Phố 1, Quận 7, TP. HCM	0.0	1	00:00 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thịt Nướng Khói - Lê Văn Lương	653 Lê Văn Lương, Khu Phố 1, P. Tân Phong, Quận 7, TP. HCM	4.0	10+	00:00 - 21:00	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn, Shop Online	Bún Thịt Nướng - Kiều Hương	563 Tỉnh Lộ 10, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	100+	06:00 - 14:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Nâu - Đường Số 9	112 Đường Số 9, P. Tân Phú, Quận 7, TP. HCM	4.5	10+	09:00 - 22:40	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Yucha - SC VivoCity	A1-A2, Tầng 3, SC VivoCity, 1058 Nguyễn Văn Linh, P. Tân Phong, Quận 7, TP. HCM	4.5	100+	09:30 - 21:30	30,000	70,000	0.0%	9.5	118
+Quán ăn	Trân - Bánh Hỏi, Heo Quay &amp; Gỏi Cuốn (không có menu)	588/3/24/8A Tỉnh Lộ 10, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	999+	07:00 - 22:00	20,000	35,000	0.0%	0	0
+Quán ăn	Quán Tài - Rau Câu, Trà Sữa &amp; Sinh Tố Các Loại	32 Đường Số 7B, P. An Lạc A, Bình Tân, TP. HCM	5.0	1	06:00 - 21:58	13,000	165,000	0.0%	<span>_._</span>	0
+Quán ăn	Vịt Cay Hong Kong - Đường Số 21B	36 Đường Số 21B, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	50+	09:00 - 22:00	15,000	109,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt 21B - Chân Gà Sả Tắc &amp; Cá Viên Chiên - Đường Số 21B	30 Đường Số 21B, P. Bình Trị Đông B, Bình Tân, TP. HCM	0.0	4	07:30 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Dì 9 - Cơm Tấm ,Bún Thịt Nướng &amp; Cháo Gà - Chợ Tân Mỹ	Ki Ốt Số 9 Chợ Tân Mỹ Tân Mỹ, P. Tân Phú, Quận 7, TP. HCM	3.5	10+	07:00 - 16:00	5,000	40,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt Thanh Vy - Bánh Tráng, Bắp Xào, Ăn Vặt - Phạm Đăng Giảng	248/13 Phạm Đăng Giảng, P. Bình Hưng Hoà, Bình Tân, TP. HCM	4.5	10+	09:00 - 21:00	10,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Mei美 Black Tea - Tea &amp; Food - Tỉnh Lộ 10	575/1, Hẻm 575 Tỉnh Lộ 10, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	50+	00:00 - 23:59	3,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	CƠM NIÊU NHƯ TÂM	89 Bình Phú, P. 11, Quận 6, TP. HCM	4.0	10+	10:00 - 20:55	10,000	200,000	0.0%	<span>_._</span>	0
+Café/Dessert	OLe Coffee - Cà Phê &amp; Bánh Mì - Phạm Văn Đồng	1162 Phạm Văn Đồng, P. Linh Đông, Thủ Đức, TP. HCM	4.5	10+	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Gỏi Cuốn Vân - Chợ Tân Mỹ	Kiot Số 9 Chợ Tân Mỹ (Cổng Chợ Đối Diện Nhà Thuốc Long Châu), P. Tân Phú, Quận 7, TP. HCM	4.5	100+	07:00 - 20:00	10,000	20,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Niêu Như Tâm - Bình Phú	91 Bình Phú, P. 11, Quận 6, TP. HCM	4.5	10+	10:00 - 20:55	10,000	110,000	0.0%	<span>_._</span>	0
+Quán ăn	Ngọc Thắm - Bún Chả Cá Nha Trang - Tam Bình	188/1/3 Tam Bình, P. Tam Phú, Thủ Đức, TP. HCM	5.0	5	08:00 - 22:00	12,000	210,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cuntea	39 Nguyễn Thị Đặng, P. Hiệp Thành, Quận 12, TP. HCM	0	0	09:00 - 21:30	12,000	150,000	0.0%	0	0
+Quán ăn	3M Gà Rán - Trà Sữa &amp; Ăn Vặt - Đường Số 7 (không có menu)	5 Đường Số 7, P. An Lạc A, Bình Tân, TP. HCM	4.5	10+	08:30 - 22:30	10,000	100,000	0.0%	0	0
+Shop Online	Egg Egg - Trứng &amp; Mì - Phạm Văn Nghị	S36 Phạm Văn Nghị, P. Tân Phong, Quận 7, TP. HCM	4.5	50+	10:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Nước Lèo Bạc Liêu - Liên Khu 16 -18	40B Liên Khu 16 - 18, P. Bình Trị Đông, Bình Tân, TP. HCM	0	0	06:00 - 23:00	20,000	90,000	0.0%	0	0
+Nhà hàng	Papas' Chicken - Phú Mỹ Hưng	S37-1 Hưng Vượng 2, Bùi Bằng Đoàn, P. Tân Phong, Quận 7, TP. HCM	4.5	999+	09:30 - 22:30	100,000	165,000	0.0%	7.0	524
+Quán ăn	Bánh Tráng Trộn &amp; Ăn Vặt Cô Bông - Huỳnh Tấn Phát	502/11/1 Huỳnh Tấn Phát, P. Bình Thuận, Quận 7, TP. HCM	4.5	100+	09:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Sườn 2 Lúa - Phạm Hùng	24D Phạm Hùng, Ấp 5 mới, X. Bình Hưng, Bình Chánh, TP. HCM	0	0	09:00 - 13:00	0	0	0.0%	0	0
+Quán ăn	Dimsum Phúc Phúc	31 Đường Số 26, P. 10, Quận 6, TP. HCM	4.5	100+	06:30 - 22:00	40,000	75,000	0.0%	<span>_._</span>	0
+Quán ăn	Nhà Hàng Hải Sơn - Lẩu Dê &amp; Hải Sản Tươi Sống - Lê Văn Thiêm	15/1 Lê Văn Thiêm, P. Tân Phong, Quận 7, TP. HCM	0	0	10:00 - 21:00	50,000	400,000	0.0%	0	0
+Café/Dessert	K Coffee - Phú Mỹ Hưng	R4-46 Đường Nội Khu Hưng Phước 4, Phú Mỹ Hưng, P. Tân Phong, Quận 7, TP. HCM	0	0	06:30 - 22:30	7,000	59,000	0.0%	0	0
+Café/Dessert	Royaltea - Trà Sữa Hong Kong - Nguyễn Thị Huê	35/5 Nguyễn Thị Huê, P. Bà Điểm, Hóc Môn, TP. HCM	4.5	100+	09:00 - 21:30	30,000	60,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Xiên Que Cá Viên Thỏ Koon - Ăn Vặt &amp; Xiên Que - Hương Lộ 2	689/1L Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	100+	00:00 - 01:59 | 10:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Royal Sushi - 956 Nguyễn Văn Linh (không có menu)	954 - 956 Nguyễn Văn Linh, P. Tân Phong, Quận 7, TP. HCM	4.5	10+	09:00 - 20:15	69,000	2,000,000	0.0%	0	0
+Quán ăn	Trà Sữa GOLDCHA - Nguyễn Thị Đặng	4E/1 Nguyễn Thị Đặng, P. Hiệp Thành, Quận 12, TP. HCM	4.5	100+	08:45 - 21:45	0	0	0.0%	<span>_._</span>	0
+Quán ăn	TIẾN VUA FOOD - Gà Rán Sốt Hàn Quốc - Đường Số 11	116/23 Đường Số 11, P. Trường Thọ, Thủ Đức, TP. HCM	4.5	10+	08:00 - 21:00	19,000	39,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiến Vua Food - Súp Bào Ngư Cua Khổng Lồ - Đường Số 11	116/23 Hẻm 116 Đường Số 11, P. Trường Thọ, Thủ Đức, TP. HCM	5.0	50+	08:00 - 21:00	0	0	0.0%	9.4	1
+Quán ăn	Tiến Vua Food - Yến Tươi Chưng Sẵn - Đường Số 11	116/23 Đường 11, P. Trường Thọ, Thủ Đức, TP. HCM	0	0	08:00 - 21:00	39,000	179,000	0.0%	0	0
+Café/Dessert	KOMCHA - Trà &amp; Cà Phê - Hương Lộ 2	688/37/18 Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM	5.0	10+	08:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Phú Mỹ Hưng (không có menu)	F016 Hưng Vượng, Đường Số 6, P. Tân Phong, Quận 7, TP. HCM	4.5	999+	09:00 - 21:00	29,000	57,000	0.0%	1.8	2
+Café/Dessert	Tocotoco Bubble Tea - Tỉnh Lộ 10	657 Tỉnh Lộ 10, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	999+	10:15 - 21:30	10,000	60,000	0.0%	5.5	2
+Quán ăn	Bánh Cuốn Thanh Phương	12 Đường Số 3, P. An Lạc A, Bình Tân, TP. HCM	4.5	500+	06:30 - 19:00	10,000	25,000	0.0%	7.4	2
+Quán ăn	Hamburger &amp; Hotdog 16B - 40 Đường 16B	40 Đường 16B, P. Bình Hưng Hòa A, Bình Tân, TP. HCM	4.5	10+	07:00 - 17:00	20,000	30,000	0.0%	10.0	1
+Ăn vặt/vỉa hè, Shop Online	Tiến Vua Food - Súp Bào Ngư Vi Cá	116/23 Đường Số 11, P. Trường Thọ, Thủ Đức, TP. HCM	4.5	50+	08:00 - 21:00	0	0	0.0%	9.4	1
+Nhà hàng	Burger King - Phú Mỹ Hưng (không có menu)	952 Nguyễn Văn Linh, P. Tân Phong, Quận 7, TP. HCM	4.5	999+	10:00 - 22:00	80,000	121,000	0.0%	6.1	33
+Quán ăn	Pizza Italia &amp; Milk Tea	26/4A1 Nguyễn Ảnh Thủ, P. Hiệp Thành, Quận 12, TP. HCM	4.5	100+	09:00 - 21:00	59,000	149,000	0.0%	<span>_._</span>	0
+Café/Dessert	Rau Má Halo - Tô Ký	Đối Diện 469 Tô Ký, P. Trung Mỹ Tây, Quận 12, TP. HCM	4.5	50+	09:00 - 21:00	5,000	30,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Nước Ép Detox &amp; Sinh Tố - Ăn Vặt MIKA	17/6 Bà Điểm 11, X. Bà Điểm, Hóc Môn, TP. HCM	4.5	50+	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Shop Online	Xôi Xéo Bà 3 Béo - Món Ngon Hà Nội - Shop Online	101 Trần Trọng Cung, P. Tân Thuận Đông, Quận 7, TP. HCM	4.5	500+	06:00 - 21:30	5,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Chiên, Mì Xào, Bò Kho, Khánh An Quán	47 Tân Chánh Hiệp 35, P. Tân Chánh Hiệp, Quận 12, TP. HCM	4.5	100+	09:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Gà Sài Gòn - Bình Phú	31 Bình Phú (Kiot Số 9 Đường 32), P. 10, Quận 6, TP. HCM	0.0	4	10:00 - 23:00	99,000	359,000	0.0%	<span>_._</span>	0
+Quán ăn	Vịt Tỳ Bà Tứ Vị 91 - Đặc Sản Lạng Sơn Trứ Danh &amp; Đặc Sản Tây Bắc - Bình Phú	31 Bình Phú, P. 10, Quận 6, TP. HCM	0	0	10:00 - 23:00	0	0	0.0%	0	0
+Quán ăn	Bún Đậu Cô Tư - Nguyễn Ảnh Thủ (không có menu)	12A Nguyễn Ảnh Thủ, Tổ 13, KP. 6, P. Hiệp Thành, Quận 12, TP. HCM	4.5	10+	08:30 - 21:30	50,000	290,000	0.0%	0	0
+Quán ăn	Quán Ngon Trảng Bàng - Chính Gốc - Không Chi Nhánh	68A Nguyễn Thị Thập, P. Bình Thuận, Quận 7, TP. HCM	4.5	999+	07:00 - 22:00	30,000	110,000	0.0%	8.0	20
+Quán ăn, Shop Online	Bếp Hồng - Bánh Mì &amp; Bánh Gà - Đường 39	4 Đường Số 39, P. Linh Đông, Thủ Đức, TP. HCM	4.5	100+	08:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Nước Ép, Sinh Tố &amp; Bánh Tráng Trộn - MAIKA	17/6 Bà Điểm 11, X. Bà Điểm, Hóc Môn, TP. HCM	4.5	50+	07:30 - 21:00	20,000	80,000	0.0%	10.0	3
+Quán ăn	Tiệm Bánh Phương Anh 2 - Nguyễn Duy Trinh	155 Nguyễn Duy Trinh, P. Bình Trưng Tây, Thủ Đức, TP. HCM	4.5	10+	06:00 - 23:30	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Sữa Ăn Vặt Gia Hân  - 759/5/8 Hương Lộ 2 (không có menu)	759 /5/8 Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM	0	0	09:00 - 23:59	0	0	0.0%	0	0
+Ăn vặt/vỉa hè	Chị Mai Bánh Bèo - Ăn Vặt - Đường số 14 (không có menu)	17 Đường số 14, An Hòa 2, KDC Năm Long, P. Tân Thuận Đông, Quận 7, TP. HCM	4.5	8	08:00 - 22:00	0	0	0.0%	0	0
+Café/Dessert	Trà Sữa Miun Tea - An Dương Vương	443 An Dương Vương, P. 11, Quận 6, TP. HCM	0.0	2	10:00 - 22:00	5,000	50,000	0.0%	<span>_._</span>	0
+Shop Online	Bánh Tráng Trộn &amp; Trà Sữa Subon - Ăn Vặt - Tx31	43b/1 Đường TX31, P. Thạnh Xuân, Quận 12, TP. HCM	4.5	10+	06:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Shop Online	Ăn Vặt Ty Pun - Bánh Tráng Phơi Sương &amp; Trái Cây Cắt Sẵn	A10/27X1, Đường Số 1, KDC Bình Hưng, Bình Chánh, TP. HCM	4.5	999+	09:30 - 23:00	10,000	90,000	0.0%	6.6	3
+Quán ăn	Phở Cồ Nam Định - Trung Mỹ Tây 13 (không có menu)	Bis 01 - 419 Trung Mỹ Tây 13, Quận 12, TP. HCM	4.5	100+	05:30 - 21:00	40,000	50,000	0.0%	0	0
+Quán ăn, Quán nhậu	Hủ Tiếu Mực Vũng Tàu Ydo - Jihye - 218 Phạm Thái Bường	218 Phạm Thái Bường, P. Tân Phong, Quận 7, TP. HCM	4.5	10+	07:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Kem IÊU - Kem Vì Sức Khỏe	40 Đường Số 25, P. 10, Quận 6, TP. HCM	5.0	2	07:00 - 22:00	25,000	120,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Mì Hà Nội Quang Thắng - 337 Mã Lò	337 Mã Lò, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	100+	05:00 - 23:00	10,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Bún Chè Ngon - Phạm Thái Bường	A-002, Khu Phố Mỹ Phước, Đường Phạm Thái Bường, P. Tân Phong, Quận 7, TP. HCM	5.0	1	06:00 - 22:00	30,000	70,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Cửa Hàng Trái Cây Sạch &amp; Ăn Vặt - Lê Văn Lương	724/22 Lê Văn Lương, X. Phước Kiển, Nhà Bè, TP. HCM	4.5	10+	00:00 - 23:59	5,000	150,000	0.0%	10.0	1
+Quán ăn	RiChii - Cơm Gà Sốt	14A Đường Số 6, P. An Lạc A, Bình Tân, TP. HCM	4.5	500+	08:00 - 14:55	8,000	40,000	0.0%	9.8	2
+Café/Dessert	TocoToco Bubble Tea - Đường Số 23	17 Đường Số 23, P. 10, Quận 6, TP. HCM	4.5	999+	09:00 - 22:45	29,000	56,000	0.0%	8.5	30
+Quán ăn	Gà Bó Xôi Nguyễn Hòa - Hương Lộ 2	730/1/10 Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	100+	08:00 - 22:00	50,000	400,000	0.0%	<span>_._</span>	0
+Shop Online	Cơm Văn Phòng Home (không có menu)	353/1 Chiến Lược, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	500+	09:00 - 21:00	30,000	100,000	0.0%	0	0
+Shop Online	Tiger Food - Shop Online (không có menu)	353/1 Chiến Lược, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	500+	09:00 - 21:00	30,000	50,000	0.0%	0	0
+Quán ăn	Ăn Vặt Cẩm Linh - Bánh Tráng Muối Nhuyễn &amp; Cơm Cháy Nước Mắm - Gò Xoài (không có menu)	278/28 Gò Xoài, P. Bình Hưng Hoà A, Bình Tân, TP. HCM	4.5	10+	06:00 - 22:30	15,000	20,000	0.0%	0	0
+Ăn vặt/vỉa hè, Shop Online	Hạnh Phúc - Ăn Vặt, Trái Cây &amp; Nước Đậu Rang - Phan Cát Tựu	13Q Phan Cát Tựu, P. An Lạc A, Bình Tân, TP. HCM	5.0	8	10:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hia Vũ - Cơm Tấm Sườn - Đường Số 7	221 Đường Số 7, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	999+	10:00 - 13:40 | 17:20 - 20:40	20,000	50,000	0.0%	8.2	10
+Shop Online	Bánh Mì Hấp Cô Nga - Mì &amp; Nui Xào	8A1 Tổ 21, KP. 2, P. Hiệp Thành, Quận 12, TP. HCM	4.5	10+	07:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Đậu Vàng - Bún Đậu Mắm Tôm NGON Bà Điểm - Phan Văn Hớn	48 Phan Văn Hớn, Hóc Môn, TP. HCM	4.5	100+	10:00 - 21:30	9,000	599,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cá Nướng - Chiến Lược	350 Chiến Lược, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.0	100+	00:01 - 23:59	35,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Trà Sữa &amp; Ăn Vặt - HONG ELLY	17 Đường Số 10, Khu Phố 4, P. Tam Bình, Thủ Đức, TP. HCM	4.5	10+	09:00 - 20:55	27,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Bobapop - Đường Số 1	219 Đường Số 1, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	100+	09:00 - 21:55	22,000	49,000	0.0%	5.3	15
+Quán ăn	Kore - Mì Cay 7 Cấp Độ Hàn Quốc - An Dương Vương	416 An Dương Vương, P. 10, Quận 6, TP. HCM	4.5	999+	09:00 - 22:30	0	0	0.0%	9.5	30
+Quán ăn	Rana Food &amp; Drinks - HT17	8A3 HT 17, P. Hiệp Thành, Quận 12, TP. HCM	0	0	09:00 - 23:59	0	0	0.0%	0	0
+Café/Dessert	Royaltea - An Dương Vương	416 An Dương Vương, P. 10, Quận 6, TP. HCM	4.5	999+	09:00 - 22:30	25,000	55,000	0.0%	9.0	26
+Ăn vặt/vỉa hè	Trái Cây Sạch Subo - Trái Cây - Tân Chánh Hiệp 10	340/57 Tân Chánh Hiệp 10, P. Tân Chánh Hiệp, Quận 12, TP. HCM	4.5	50+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Nhà hàng	Gà Rán KFC - Crescent Mall	Tầng 5, Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM	4.5	500+	10:00 - 21:00	30,000	88,000	0.0%	7.1	51
+Café/Dessert	Conics Coffee - Trà Sữa &amp; Trà Kem Sữa - Kha Vạn Cân	778 Kha Vạn Cân, P. Linh Đông, Thủ Đức, TP. HCM	0	0	08:00 - 22:00	25,000	45,000	0.0%	0	0
+Quán ăn	Bánh Đa Cua - Lẩu Cua Đồng Đất Cảng - Tên Lửa	412 Tên Lửa, P. Bình Trị Đông B, Bình Tân, TP. HCM	0.0	1	07:00 - 22:00	5,000	150,000	0.0%	<span>_._</span>	0
+Café/Dessert	Mía Cộng - Nước Mía Sầu Riêng, Rau Má Và Bánh Mì Que - Nguyễn Hữu Thọ	Chung cư Saigon South Residence, 673 Nguyễn Hữu Thọ, P. Phước Kiển, Nhà Bè, TP. HCM	4.5	10+	09:00 - 21:40	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Tuấn Anh - Bánh Ướt Lòng Gà Đà Lạt - Huỳnh Tấn Phát	719/4 Huỳnh Tấn Phát, P. Phú Thuận, Quận 7, TP. HCM	4.5	100+	07:00 - 22:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Đường Số 14	37 Đường Số 14, KDC Vĩnh Lộc, P. Bình Hưng Hòa B, Bình Tân, TP. HCM	4.5	100+	09:00 - 21:45	29,000	49,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cafe Lyon - Cà Phê &amp; Bánh Mì Que Đà Nẵng - 37C Đường Số 8	37C Đường Số 8, P. Trường Thọ, Thủ Đức, TP. HCM	4.5	10+	06:00 - 18:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thái HongKong - Cô Út - Đường 32	94 Đường 32, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	100+	07:00 - 20:00	0	0	0.0%	10.0	1
+Café/Dessert	Trà Sữa Tròn 94	49 Đường Số 14, KDC Vĩnh Lộc, P. Bình Hưng Hòa B, Bình Tân, TP. HCM	4.5	999+	10:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Homies - Trà Sữa Phô Mai Tươi Đài Loan - Hồ Bá Phấn	49 Hồ Bá Phấn, P. Phước Long A, Thủ Đức, TP. HCM	4.5	500+	09:00 - 22:00	19,000	27,000	0.0%	7.9	2
+Quán ăn	Bánh Cuốn 81 - Bánh Cuốn - Nguyễn Tư Nghiêm	38 Nguyễn Tư Nghiêm, P. Bình Trưng Tây, Thủ Đức, TP. HCM	4.5	50+	06:00 - 17:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hoàng Gia - Gà Quay Bánh Bao &amp; Sườn Non Quay - Phan Văn Hớn	1/1 Phan Văn Hớn, Ấp Trung Lân, X. Bà Điểm, Hóc Môn, TP. HCM	0	0	09:00 - 22:00	50,000	400,000	0.0%	0	0
+Quán ăn	Street Food - Gà Rán Pizza, Hamburger - Tây Hòa	69 Tây Hoà, P. Phước Long A, Thủ Đức, TP. HCM	4.5	100+	08:00 - 22:00	10,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	3 Râu - Gà Rán, Pizza &amp; Trà Sữa - Hà Huy Giáp	578 Hà Huy Giáp, P. Thạnh Lộc, Quận 12, TP. HCM	4.5	500+	07:00 - 22:00	12,000	120,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Mì DVp Bakery - Bánh Mì - Tô Ngọc Vân	566A Tô Ngọc Vân, P. Tam Bình, Thủ Đức, TP. HCM	4.5	4	06:00 - 15:00	0	0	0.0%	<span>_._</span>	0
+Shop Online	Gà Bó Xôi 1Ngon	65/6 Nguyễn Thị Huê, Ấp Trung Lân, Xã Bà Điểm, Hóc Môn, TP. HCM	4.5	100+	08:00 - 19:00	260,000	400,000	0.0%	7.3	17
+Café/Dessert	Trà Sữa Hoàng Yến - Hồ Bá Phấn	98b Hồ Bá Phấn, P. Phước Long A, Thủ Đức, TP. HCM	4.5	100+	10:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	MUA TỪNG GIÂY - Bánh Hỏi Heo Quay &amp; Bún Thịt Nướng - Thới An 10	67 Thới An 10, P. Thới An, Quận 12, TP. HCM	4.5	10+	07:00 - 22:00	0	0	0.0%	9.9	3
+Quán ăn	Đại Đồng Delivery - Cơm Tấm &amp; Mì Trộn - Kha Vạn Cân	942/1 Kha Vạn Cân, P. Trường Thọ, Thủ Đức, TP. HCM	4.5	999+	09:30 - 14:00	20,000	50,000	0.0%	8.6	3
+Shop Online	Ăn Vặt Đệ Nhất - Trà Sữa &amp; Bánh Tráng Trộn - Đường Số 11	41/4 Đường Số 11, P. Trường Thọ, Thủ Đức, TP. HCM	4.5	50+	00:00 - 01:03 | 08:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Sarada - Poke Salad &amp; Juice - Huỳnh Tấn Phát	672A/16 Huỳnh Tấn Phát, P. Tân Phú, Quận 7, TP. HCM	5.0	10+	08:00 - 20:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Say Hi My - Trà Sữa - Tô Ngọc Vân	448 Tô Ngọc Vân, P. Tam Phú, Thủ Đức, TP. HCM	4.5	50+	09:00 - 21:55	0	0	0.0%	9.7	48
+Café/Dessert	Trà Sữa Khoái Khoái	920 Tỉnh Lộ 10, P. Bình Trị Đông, Bình Tân, TP. HCM	4.5	10+	07:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa BB - Trà Sữa Full Topping &amp; Bánh Tráng Trộn	840/15/1 Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM	0.0	3	09:30 - 21:00	18,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Dâu Mr. Đỏ - Tô Ngọc Vân	79 Tô Ngọc Vân, P. Linh Tây, Thủ Đức, TP. HCM	4.5	50+	09:00 - 22:30	20,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Cá Chua Cay 79k - Quán Gạo	26A Ngô Chí Quốc, P. Bình Chiểu, Thủ Đức, TP. HCM	4.5	10+	10:00 - 20:40	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bột Chiên 49 - Lê Đình Cẩn	80 Lê Đình Cẩn, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	50+	06:00 - 17:30	12,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Coco Plus - Nước Dừa Mix Topping &amp; Bánh Tráng	310 Tân Chánh Hiệp 10, P. Tân Chánh Hiệp, Quận 12, TP. HCM	5.0	10+	07:30 - 20:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Trà Sữa Nobu Tea &amp; Coffe - Trà Sữa &amp; Coffe - 29 Đường 37 (không có menu)	29 Đường Số 37, P. 10, Quận 6, TP. HCM	4.0	4	08:00 - 22:00	0	0	0.0%	0	0
+Shop Online	Nước Ép Changg Chan - Sinh Tố &amp; Nước Ép - Đường Số 1	Số 7 Đường Số 1, P. Linh Tây, Thủ Đức, TP. HCM	0	0	07:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	Bún Mắm Nêm Miền Trung &amp; Bún Mắm Nêm Dưa Cà - 27 Đường 13	27 Đường 13, P. Bình Trưng Tây, Thủ Đức, TP. HCM	4.5	10+	08:30 - 21:59	12,000	65,000	0.0%	<span>_._</span>	0
+Café/Dessert	Swebi Cafe - Tên Lửa (không có menu)	250 Tên Lửa, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	500+	08:30 - 21:30	20,000	40,000	0.0%	0	0
+Quán ăn, Ăn vặt/vỉa hè	Tiệm Bánh Tráng Abi &amp; Đồ Ăn Vặt Đài Loan -  Đường 13 (không có menu)	67 Đường 13, P. Bình Trưng Tây, Thủ Đức, TP. HCM	4.5	10+	09:00 - 23:00	10,000	90,000	0.0%	0	0
+Ăn chay	SeVa - Nhà Hàng Chay	847 Huỳnh Tấn Phát, P. Phú Thuận, Quận 7, TP. HCM	4.5	500+	08:00 - 14:00 | 16:00 - 22:00	10,000	200,000	0.0%	6.1	20
+Quán ăn	Bún Riêu &amp; Canh Bún Phúc Vinh - Hiệp Thành 12	57M Hiệp Thành 12, P. Hiệp Thành, Quận 12, TP. HCM	4.5	50+	06:00 - 19:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Naveen Tea &amp; Food - Hiệp Thành 13	325 Hiệp Thành 13, P. Hiệp Thành, Quận 12, TP. HCM	4.5	50+	08:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Bao Thọ Phát - Lê Văn Lương	857 Lê Văn Lương, Ấp 5, X. Phước Kiển, Nhà Bè, TP. HCM	4.5	100+	05:30 - 21:30	10,000	14,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Gà Nướng Muối Ớt &amp; Bánh Xèo - Hưng Lân	17/3C Hưng Lân, X. Bà Điểm, Hóc Môn, TP. HCM	4.5	100+	00:00 - 23:58	5,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Mì Hà Nội - Bánh Mì - 910 Hương Lộ 2	910 Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM	4.5	8	06:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Texas Chicken - Nguyễn Ảnh Thủ	119/2 - 119/3 Nguyễn Ảnh Thủ, X. Trung Chánh, Hóc Môn, TP. HCM	4.5	100+	10:00 - 21:55	20,000	275,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Gà Nướng Q7 - Phú Thuận	10 Phú Thuận, P. Phú Thuận, Quận 7, TP. HCM	4.0	6	06:00 - 13:00 | 16:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Mr. Tí Đô - Trà Sữa &amp; Món Hàn	92/4 Nguyễn Ảnh Thủ, Xã Trung Chánh, Hóc Môn, TP. HCM	4.5	999+	09:00 - 22:00	14,000	99,000	0.0%	6.8	1
+Quán ăn	Út Kim - Canh Bún, Bún Riêu &amp; Hủ Tiếu Mì	433/1 Bình Thành, P. Bình Hưng Hòa B, Bình Tân, TP. HCM	3.5	10+	00:00 - 23:55	25,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	SOYA Tiệm Kem Trứng - Trà Sữa &amp; Ăn Vặt - Nguyễn Hữu Cầu	36/5B Nguyễn Hữu Cầu, X. Trung Chánh, Hóc Môn, TP. HCM	4.5	500+	09:00 - 21:55	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Xưa - Bún Đậu Mắm Tôm - Đường Số 9	32 Đường Số 9, P. Phước Bình, Thủ Đức, TP. HCM	4.5	100+	10:00 - 21:00	10,000	115,000	0.0%	7.6	16
+Quán ăn	Thuý Dung - Hủ Tiếu Nam Vang - Phú Nhuận	66 Phú Thuận, P. Phú Thuận, Quận 7, TP. HCM	4.5	100+	06:00 - 13:37 | 17:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Chè Đen Chọi - Chung Cư Ehomes Nam Sài Gòn	Căn Trệt D0.05 Block D Chung Cư Ehomes Nam Sài Gòn, X. Bình Hưng, Bình Chánh, TP. HCM	4.5	10+	10:30 - 21:00	20,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Bà Hoan - Bún Chả Hà Nội	529 Nguyễn Duy Trinh, P. Bình Trưng Đông, Thủ Đức, TP. HCM	4.5	999+	06:00 - 22:00	20,000	90,000	0.0%	6.1	4
+Quán ăn	Tiệm Cô Miu - Trà Sữa &amp; Ăn Vặt &amp; Lẩu Ly (không có menu)	107 - 109 Đường Số 1, P. Phước Bình, Thủ Đức, TP. HCM	4.5	10+	07:00 - 23:30	10,000	50,000	0.0%	0	0
+Café/Dessert	TocoToco Bubble Tea - 840 Huỳnh Tấn Phát	840 Huỳnh Tấn Phát, P. Tân Phú, Quận 7, TP. HCM	4.5	999+	08:00 - 22:30	29,000	89,000	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Đường Số 17A	96 Đường Số 17A, P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	999+	09:00 - 23:00	10,000	60,000	0.0%	3.0	5
+Ăn vặt/vỉa hè	Bánh Ướt Lòng Gà - BÈO 49	99 Đặng Văn Bi, P. Trường Thọ, Thủ Đức, TP. HCM	4.5	500+	08:30 - 22:00	12,000	70,000	0.0%	9.8	1
+Quán ăn	Bún Đậu An An - Nguyễn Ảnh Thủ	753 Nguyễn Ảnh Thủ, P. Hiệp Thành, Quận 12, TP. HCM	0.0	4	10:00 - 22:00	30,000	100,000	0.0%	10.0	1
+Quán ăn	Gà &amp; Vịt Quay Lu A Cường - Đường Số 15 (không có menu)	81C Đường Số 15, P. Phước Bình, Thủ Đức, TP. HCM	0	0	06:00 - 22:00	200,000	350,000	0.0%	0	0
+Café/Dessert	Phúc - Cà Phê, Trà Sữa &amp; Sinh Tố - Kinh Dương Vương	493 Kinh Dương Vương, P. An Lạc, Bình Tân, TP. HCM	0	0	07:00 - 21:00	0	0	0.0%	0	0
+Quán ăn	CHÚ MẬP - Cơm Gà Sốt Thái - Đồng Tâm (không có menu)	46 Đồng Tâm, X. Trung Chánh, Hóc Môn, TP. HCM	5.0	10+	06:30 - 22:00	0	0	0.0%	0	0
+Café/Dessert	Trà Sữa XuCha - Trà Sữa - Đường Số 29	50 Đường Số 29, P. Cát Lái, Thủ Đức, TP. HCM	4.5	100+	10:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè, Shop Online	Ăn Vặt - Trái Cây Nấm Jum	551/110/22/42 Lê Văn Khương, P. Hiệp Thành, Quận 12, TP. HCM	4.5	10+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Ding Tea - Nguyễn Hữu Cầu	71 Nguyễn Hữu Cầu, X. Trung Chánh, Hóc Môn, TP. HCM	4.5	999+	10:00 - 22:00	30,000	40,000	0.0%	6.2	23
+Quán ăn	Lò Bánh Mì - Heo Quay Cường Phát	362 Đỗ Xuân Hợp, P. Phước Long A, Thủ Đức, TP. HCM	5.0	10+	00:01 - 23:59	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thịt Nướng - Cơm Tấm KHÓI NHÀ LÁ	16/1 Đường 297, P. Phước Long B, Thủ Đức, TP. HCM	4.5	100+	08:30 - 23:59	2,000	200,000	0.0%	10.0	1
+Ăn vặt/vỉa hè	Ibao Quán - Sinh Tố &amp; Nước Ép - Nguyễn Duy Trinh	458 Nguyễn Duy Trinh, P. Bình Trưng Đông, Thủ Đức, TP. HCM	4.5	10+	08:00 - 17:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Thức Ăn Nhanh Na Na	43/14 Đường Số 7, Khu Phố 5, P. Linh Tây, Thủ Đức, TP. HCM	4.5	50+	07:30 - 20:00	11,000	90,000	0.0%	2.8	1
+Quán ăn	BUMTRO - Bún Trộn Nam Bộ - Kinh Dương Vương	TM45 Nhà Moolight Boulevard, Số 510 Kinh Dương Vương, P. An Lạc A, Bình Tân, TP. HCM	4.5	500+	08:30 - 15:30	30,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Su Nguyễn Food &amp; Drink - Trái Cây Cắt Sẵn &amp; Sinh Tố Nước Ép	18/3 Đường Số 8 KP 2, P. Linh Tây, Thủ Đức, TP. HCM	5.0	5	00:00 - 23:59	20,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Cô Bé - Nem Nướng	68/11/6 Lê Thị Hoa, P. Bình Chiểu, Thủ Đức, TP. HCM	4.5	500+	10:30 - 21:00	40,000	45,000	0.0%	8.6	1
+Ăn vặt/vỉa hè	Pizza Bé Bầu - Đỗ Xuân Hợp	395A Đỗ Xuân Hợp, P. Phước Long B, Thủ Đức, TP. HCM	4.5	10+	10:30 - 23:59	50,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mẹt 339 - Quận 9	21 Đường 339, P. Phước Long B, Thủ Đức, TP. HCM	4.5	50+	10:00 - 21:30	30,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Hi-GoGo - Kha Vạn Cân	979 Kha Vạn Cân, P. Linh Tây, Thủ Đức, TP. HCM	5.0	10+	09:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Sữa 165 Truyền Thống - Đường Số 49	165 Đường Số 49, P. Tân Tạo, Bình Tân, TP. HCM	5.0	1	09:00 - 18:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Nem Nướng Nha Trang Hương Quê - Trần Thị Điệu	121A Trần Thị Điệu, P. Phước Long B, Thủ Đức, TP. HCM	4.5	10+	07:30 - 22:00	5,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán 49 - Cơm Tấm &amp; Bún Bò	49/17 Đường Số 7, P. Linh Tây, Thủ Đức, TP. HCM	4.5	999+	05:30 - 22:00	5,000	200,000	0.0%	8.0	2
+Café/Dessert	Trà Sữa Laxy - Hiệp Thành 13	362/56 Hiệp Thành 13, P. Hiệp Thành, Quận 12, TP. HCM	4.5	10+	07:30 - 22:00	22,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn	Mỳ Sốt Nhà - Gia Truyền 194D	12 Đường 49, P. Bình Trưng Đông, Thủ Đức, TP. HCM	4.5	8	07:00 - 20:30	20,000	50,000	0.0%	9.5	2
+Café/Dessert	Trà Sữa Và Ăn Vặt The 3T - 77 Tăng Nhơn Phú	77 Tăng Nhơn Phú, P. Phước Long B, Quận 9, TP. HCM	0	0	09:00 - 22:00	15,000	30,000	0.0%	0	0
+Café/Dessert	RoyalTea VietNam - Nguyễn Ảnh Thủ	1081A Nguyễn Ảnh Thủ, P. Tân Chánh Hiệp, Quận 12, TP. HCM	5.0	10+	07:30 - 21:25	39,000	53,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Cueicha - Song Hành	46/3I Song Hành, Hóc Môn, TP. HCM	4.5	999+	09:00 - 22:30	28,000	45,000	0.0%	8.5	15
+Café/Dessert	Mao Chan Coffee &amp; Milk Tea - Cà Phê Và Trà Sữa - 96/1 Đường Số 9 (không có menu)	1 Hẻm 96, Đường Số 9, P. Linh Tây, Thủ Đức, TP. HCM	4.5	50+	00:00 - 23:59	0	0	0.0%	0	0
+Café/Dessert	Kokochi - Juice &amp; Smoothies Healthy	276/60 Hương Lộ 80, P. Bình Hưng Hòa B, Bình Tân, TP. HCM	4.5	100+	08:00 - 22:00	25,000	39,000	0.0%	9.1	54
+Quán ăn	Tiệm Trà - Cafe Muối Kokochi	276/60 Hương Lộ 80, P. Bình Hưng Hòa B, Bình Tân, TP. HCM	4.5	10+	08:00 - 22:30	35,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cafe IYO - Cà Phê Kem Muối - Nguyễn Duy Trinh	663 Nguyễn Duy Trinh, P. Bình Trưng Đông, Thủ Đức, TP. HCM	4.5	100+	08:00 - 22:20	0	0	0.0%	7.6	3
+Quán ăn	The Toast House - Sandwich &amp; Hamburger	15 Phố Tiểu Nam, P. Tân Phú, Quận 7, TP. HCM	4.5	100+	07:00 - 14:00	10,000	119,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Healthy Fruit - Sinh Tố &amp; Nước Ép	SE5-1 Cảnh Viên 1A, Phố Tiểu Nam, P. Tân Phú, Quận 7, TP. HCM	4.5	10+	07:30 - 20:30	15,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Napo - Huỳnh Tấn Phát	994A/76 Huỳnh Tấn Phát, P. Tân Phú, Quận 7, TP. HCM	4.5	10+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Phan Văn Hớn (không có menu)	14 Phan Văn Hớn, Xã Xuân Thới Thượng, Hóc Môn, TP. HCM	4.5	999+	09:00 - 21:00	29,000	56,000	0.0%	0	0
+Quán ăn	Bánh Canh Cốt Dừa Cô Út Miền Tây	70A Đường 475, P. Phước Long B, Thủ Đức, TP. HCM	4.5	50+	07:30 - 21:00	10,000	40,000	0.0%	8.6	1
+Café/Dessert	Trà Sữa MoonRiver	18 Dương Đình Hội, P. Phước Long B, Thủ Đức, TP. HCM	4.5	10+	09:00 - 21:00	15,000	20,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thịt Nướng &amp; BBQ - Huỳnh Tấn Phát	1059/15 Huỳnh Tấn Phát, P. Tân Phú, Quận 7, TP. HCM	4.5	500+	06:30 - 22:30	7,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	My House - Ăn Vặt, Trà Sữa &amp; Sinh Tố	532/21/40 Khu Y Tế Kỹ Thuật Cao (Kế Bên Chung Cư Huy Hưng 2), P. Bình Trị Đông B, Bình Tân, TP. HCM	4.5	500+	09:00 - 21:00	12,000	100,000	0.0%	<span>_._</span>	0
+Nhà hàng	Hotto - Món Ngon Trên Đĩa Nóng - Vincom Thủ Đức	Tầng 3, Tầng 3 Vincom Thủ Đức, 216 Võ Văn Ngân, P. Bình Thọ, Thủ Đức, TP. HCM	4.5	50+	10:00 - 21:00	52,000	175,000	0.0%	7.3	7
+Ăn vặt/vỉa hè	Ăn Vặt Nguyễn Duy (không có menu)	63A Chu Mạnh Trinh, P. Bình Thọ, Thủ Đức, TP. HCM	4.5	999+	08:30 - 21:50	5,000	45,000	0.0%	0	0
+Café/Dessert	Lạc San Milk Tea - Phạm Đức Sơn	216 Phạm Đức Sơn, P. 16, Quận 8, TP. HCM	0.0	1	10:00 - 21:30	20,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Bas - Coffee - 4/16 HT02 (không có menu)	4/16 HT02, P. Hiệp Thành, Quận 12, TP. HCM	4.5	10+	08:00 - 20:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Thủ Đức 95 Dân Chủ	95 Dân Chủ, P. Bình Thọ, Thủ Đức, TP. HCM	4.5	999+	09:00 - 22:00	28,000	89,000	0.0%	6.7	31
+Café/Dessert	Trà Sữa Mixue - Nguyễn Duy Trinh	709 Nguyễn Duy Trinh, Khu Phố 3, P. Bình Trưng Đông, Thủ Đức, TP. HCM	4.5	100+	08:00 - 23:00	15,000	35,000	0.0%	<span>_._</span>	0
+Shop Online	Tờ Hy - Mì Trộn &amp; FastFood	803/66 Huỳnh Tấn Phát, P. Phú Thuận, Quận 7, TP. HCM	4.5	500+	00:00 - 02:00 | 04:30 - 23:59	5,000	50,000	0.0%	9.4	2
+Quán ăn	Cơm Chiên Thái &amp; Mì Trộn Gà Quay Hồng Kông - Tuk Tuk	7 Tô Ký, P. Tân Chánh Hiệp, Quận 12, TP. HCM	4.5	999+	09:58 - 21:00	20,000	55,000	0.0%	8.9	51
+Quán ăn	Bà Lôi - Cơm Tấm &amp; Bún Riêu (không có menu)	24/4 Tú Xương, P. Hiệp Phú, Thủ Đức, TP. HCM	4.5	10+	09:01 - 23:59	20,000	55,000	0.0%	0	0
+Quán ăn	ANH ĐEN Ù XÙ - Bún Thịt Nướng &amp; Bún Thịt Xào - Trịnh Thị Miếng	200 Trịnh Thị Miếng, X. Thới Tam Thôn, Hóc Môn, TP. HCM	0	0	06:00 - 14:00	0	0	0.0%	0	0
+Quán ăn	A Sửu - Cơm Sốt Kyoto &amp; Trà Organic - Nguyễn Lương Bằng	Block C, Chung Cư Hưng Phúc, Nguyễn Lương Bằng, P. Tân Phú, Quận 7, TP. HCM	0	0	06:00 - 22:00	9,000	999,000	0.0%	0	0
+Quán ăn	Gỏi Cuốn Thiên An - Bún Xào &amp; Há Cảo - Tăng Nhơn Phú	161 Tăng Nhơn Phú, P. Phước Long B, Thủ Đức, TP. HCM	3.5	10+	00:00 - 23:59	5,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Dì Ba - Gà Ta Tam Kỳ - Tú Xương (không có menu)	24/4 Tú Xương, P. Hiệp Phú, Thủ Đức, TP. HCM	4.5	10+	07:00 - 23:59	25,000	220,000	0.0%	0	0
+Café/Dessert	Trà Sữa 96	14 Tô Vĩnh Diện, P. Linh Chiểu, Thủ Đức, TP. HCM	4.5	500+	08:00 - 22:00	20,000	55,000	0.0%	7.1	18
+Quán ăn	Bún Đậu Mắm Tôm Tiểu Muội - Hoàng Diệu 2	39 Hoàng Diệu 2, P. Linh Trung, Thủ Đức, TP. HCM	4.5	999+	08:11 - 23:59	20,000	45,000	0.0%	6.0	10
+Quán ăn	Trùm Bún - Hoàng Diệu 2	39A Hoàng Diệu 2, P.Linh Trung, Thủ Đức, TP. HCM	5.0	5	08:15 - 23:59	12,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Chôm Chôm - Hồ Văn Long	85 Hồ Văn Long, P. Tân Tạo, Bình Tân, TP. HCM	4.5	50+	10:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Tráng Trộn Chumi - Bánh Tráng Trộn &amp; Sữa Chua Uống - Hoàng Diệu 2	45/8 Hoàng Diệu 2, P. Linh Trung, Thủ Đức, TP. HCM	0.0	1	08:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bếp Cô Ba Mùi - Xôi &amp; Bánh Mì - 86 Lê Văn Lương	86 Lê Văn Lương, X. Phước Kiển, Nhà Bè, TP. HCM	0	0	06:00 - 14:00	0	0	0.0%	0	0
+Café/Dessert	Kem Bơ - Trái Cây Tô 251 - Hữu Nghị	21 Hữu Nghị, P. Bình Thọ, Thủ Đức, TP. HCM	4.5	100+	00:00 - 02:30 | 08:00 - 23:59	10,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	K-Food Kitchen	106 Tô Vĩnh Diện, P. Linh Chiểu, Thủ Đức, TP. HCM	4.5	999+	09:30 - 21:30	10,000	25,000	0.0%	6.2	63
+Quán ăn	Sushi Bon - Hoàng Diệu 2	90 Hoàng Diệu 2, P. Linh Chiểu, Thủ Đức, TP. HCM	0.0	2	10:15 - 14:00 | 16:30 - 21:30	50,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Niêu Phương Bắc	87 Hoàng Diệu 2, P. Linh Trung, Thủ Đức, TP. HCM	4.5	999+	09:30 - 13:30 | 17:00 - 20:00	25,000	80,000	0.0%	8.5	36
+Quán ăn	Lâm Ký - Cơm Gà Xối Mỡ - Võ Văn Vân	C6/5 Võ Văn Vân, Ấp 3A, X. Vĩnh Lộc B, Bình Chánh, TP. HCM	4.5	10+	10:00 - 22:00	35,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	Rose'S Tea - Lộ Tẻ	34 Lộ Tẻ, P. Tân Tạo, Bình Tân, TP. HCM	4.5	6	09:45 - 22:00	5,000	20,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Fresh Fruit - Trái Cây Tô - Đường Số 6	54 Đường Số 6, KP2, P. Linh Trung, Thủ Đức, TP. HCM	4.5	100+	10:00 - 22:30	6,000	20,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Hoa Hướng Dương - Hoàng Diệu 2	140 Hoàng Diệu 2, P. Linh Chiểu, Thủ Đức, TP. HCM	4.5	999+	08:30 - 21:50	20,000	55,000	0.0%	7.1	19
+Quán ăn, Giao cơm văn phòng	Tiệm Bún Đầm Trúc - Bún Tôm &amp; Bún Rạm - Hữu Nghị 	66B Hữu Nghị, P. Bình Thọ , Thủ Đức, TP. HCM	0.0	3	06:15 - 13:00 | 16:15 - 20:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa, Cà Phê &amp; Ăn Vặt - Suri	2E Linh Trung, P. Linh Trung, Thủ Đức, TP. HCM	4.5	50+	05:15 - 17:30	6,000	28,000	0.0%	<span>_._</span>	0
+Café/Dessert	Lan Rừng - Sinh Tố &amp; Giải Khát - Đường Số 11	105 Đường Số 11, P.Tăng Nhơn Phú B, Thủ Đức, TP. HCM	4.5	10+	06:00 - 23:30	0	0	0.0%	<span>_._</span>	0
+Shop Online	Chân Gà Sả Tắc Phú Quí - Đồ Ăn Vặt - 14 Hồ Văn Long - Shop Online	14/1 Hồ Văn Long, P. Tân Tạo, Bình Tân, TP. HCM	4.5	10+	07:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Feliz Cakes - Bakery Boutique &amp; Tea	129 Thống Nhất, Mặt Tiền Nguyễn Khuyến), P. Bình Thọ, Thủ Đức, TP. HCM	4.5	50+	10:30 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Đông Ba Gia Hội - Nguyễn Duy Trinh	736 Đ. Nguyễn Duy Trinh, P. Bình Trưng Đông, Thủ Đức, TP. HCM	3.5	10+	06:30 - 23:56	30,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Pizza - Bé Bầu - Hoàng Diệu 2	137 Hoàng Diệu 2, P. Linh Trung, Thủ Đức, TP. HCM	4.5	50+	10:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bảo Như Cơm Gà Xối Mỡ	45 Đường Số 12, P. Linh Tây, Thủ Đức, TP. HCM	4.5	500+	08:40 - 22:50	20,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Tuấn 7 Kẹo - Bánh Mì, Xôi &amp; Chè	147 Hoàng Diệu 2, P. Linh Trung, Thủ Đức, TP. HCM	4.5	999+	00:00 - 23:59	8,000	30,000	0.0%	6.5	24
+Café/Dessert	Daily Milk Tea &amp; Food - Mỳ Cay &amp; Cơm Trộn Hàn Quốc - Quách Điêu	F12/12E/17H Quách Điêu, X. Vĩnh Lộc A, Bình Chánh, TP. HCM	5.0	7	09:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Cinapky - Trà Sữa Nướng	200 Hoàng Diệu 2, P. Linh Chiểu, Thủ Đức, TP. HCM	0	0	09:00 - 22:00	30,000	50,000	0.0%	0	0
+Quán ăn	Hẻm Quán - Bún Thái &amp; Hủ Tiếu Mực - Huỳnh Tấn Phát	1247/10 Huỳnh Tấn Phát, P. Phú Thuận, Quận 7, TP. HCM	4.5	50+	07:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Phúc Kỳ - Bún Đậu Mắm Tôm - Hoàng Diệu 2	200 Hoàng Diệu 2, P. Linh Chiểu, Thủ Đức, TP. HCM	4.5	999+	00:00 - 02:30 | 08:00 - 23:59	26,000	115,000	0.0%	7.2	100
+Quán ăn	Quán Ăn Gia Hoàng - Cơm Gà Xối Mở &amp; Hủ Tiếu Xào - Kinh Dương Vương	600/12 Kinh Dương Vương, P. An Lạc, Bình Tân, TP. HCM	5.0	5	10:00 - 14:00 | 16:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0
+Tiệm bánh, Shop Online	Tiệm Bánh Dê Núi - Bánh Ngọt - 273 Lê Văn Lương	273 Lê Văn Lương, P. Phước Kiển, Nhà Bè, TP. HCM	4.5	50+	06:00 - 22:00	0	0	0.0%	9.5	3
+Quán ăn	Bún Bò Long Mập - Đường Số 22	103 Đường Số 22, P. Phước Long B, Thủ Đức, TP. HCM	4.5	999+	06:00 - 20:00	8,000	45,000	0.0%	9.2	8
+Quán ăn	Há Cảo Dim Sum Đặc Biệt	52B Đường Số 5, P. Linh Trung, Thủ Đức, TP. HCM	4.5	100+	07:00 - 22:00	3,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Laxy - Huỳnh Tấn Phát (không có menu)	1316 Huỳnh Tấn Phát, P. Phú Mỹ, Quận 7, TP. HCM	0.0	3	08:00 - 21:00	19,000	45,000	0.0%	0	0
+Café/Dessert	SOHA - Coffee - D3	169 D3, KDC Nam Long, P. Phước Long B, Thủ Đức, TP. HCM	5.0	1	09:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Tokbokki Nhà Tâm - Phan Chu Trinh	93/2B Phan Chu Trinh, Ấp Tân Tiến, X. Xuân Thới Đông, Hóc Môn, TP. HCM	4.5	10+	08:30 - 21:00	20,000	190,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa &amp; Rau Má The Bib	458 Hồ Học Lãm, P. An Lạc, Bình Tân, TP. HCM	4.5	100+	07:30 - 22:00	25,000	40,000	0.0%	8.4	9
+Quán ăn	Bún Đậu Mộc Thị - Bún Đậu Mắm Tôm - Ngô Quyền	68 Ngô Quyền, P. Hiệp Phú, Thủ Đức, TP. HCM	0.0	1	10:00 - 22:00	20,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Đồ Mặp - Ăn Vặt &amp; Trà Sữa	29/4A Tân Xuân 4, X. Tân Xuân, Hóc Môn, TP. HCM	4.5	10+	08:00 - 23:00	20,000	150,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Pé Pò Sữa - Trà Sữa &amp; Sinh Tố	Lô D, Chung Cư Tecco, 4449 Nguyễn Cửu Phú, P. Tân Tạo A, Bình Tân, TP. HCM	4.5	10+	09:30 - 18:00	20,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	TocoToco Bubble Tea - Lê Văn Việt	84 Lê Văn Việt, P. Hiệp Phú, Thủ Đức, TP. HCM	4.5	999+	08:00 - 22:55	30,000	60,000	0.0%	7.8	13
+Quán ăn	Bếp Cô Tám - Bún Thịt Nướng &amp; Bò Kho	148 Đình Phong Phú, P. Tăng Nhơn Phú B, Thủ Đức, TP. HCM	4.5	500+	06:00 - 21:00	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Pom - Mì Cay Hàn Quốc 7 Cấp Độ (không có menu)	60 Đình Phong Phú, P. Tăng Nhơn Phú B, Thủ Đức, TP. HCM	4.5	500+	09:38 - 21:04	12,000	25,000	0.0%	0	0
+Ăn chay	Đặc Sản Quê Nẫu - Bánh Tráng Bình Định - Thủ Đức	60T Linh Trung, P. Linh Trung, Thủ Đức, TP. HCM	0.0	1	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Takoyaki KoNoHa - Bánh Bạch Tuột &amp; Trà Sữa - Đình Phong Phú	60A Đình Phong Phú, P. Tăng Nhơn Phú B, Thủ Đức, TP. HCM	4.5	50+	09:00 - 21:08	15,000	170,000	0.0%	<span>_._</span>	0
+Café/Dessert	I Can Tea - Trà Sữa Hàn Quốc - Lê Văn Việt	140 Lê Văn Việt, P. Hiệp Phú, Thủ Đức, TP. HCM	0.0	1	09:00 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0
+Nhà hàng	Quán Ăn Hàn Quốc - Hai Lúa Coffee	51 Hoàng Quốc Việt, P. Phú Thuận, Quận 7, TP. HCM	0	0	08:30 - 21:00	0	0	0.0%	0	0
+Café/Dessert	HAOCHA Milk Tea - Dragon Parc 1	Căn DP25 Khu Biệt Thự Dragon Parc 1, Đường Nguyễn Hữu Thọ, X. Phước Kiến, Nhà Bè, TP. HCM	4.5	50+	10:00 - 17:40	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	TÚ VĨ AROMA - Trà Sữa &amp; Trà Trái Cây - Quốc Lộ 1A (không có menu)	493/1 Quốc Lộ 1A, P. Linh Xuân, Thủ Đức, TP. HCM	4.5	100+	09:30 - 23:59	0	0	0.0%	0	0
+Quán ăn	Sương Sương Quán - Phá Lấu, Bò Kho &amp; Mì Xào Bò - Tân Lập 2	74 Tân Lập 2, P. Hiệp Phú, Thủ Đức, TP. HCM	4.0	500+	06:30 - 22:00	13,000	40,000	0.0%	2.6	1
+Quán ăn	Kim Nguyên Bảo - Gỏi Cuốn &amp; Bún Mắm Nêm - Quốc Lộ 22	3/165 Ấp Đình Quốc Lộ 22, P. Tân Xuân, Hóc Môn, TP. HCM	4.5	100+	09:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Kokocha - Trà Sữa Nướng, Chân Gà Sả Tắc &amp; Viên Chiên - Tân Lập 2 (không có menu)	74A Tân Lập 2, P. Hiệp Phú, Thủ Đức, TP. HCM	3.5	100+	07:00 - 22:00	20,000	35,000	0.0%	0	0
+Quán ăn, Tiệm bánh	Tiệm Bánh Mì Những Chàng Trai - Đặng Thúc Vịnh	305E Đặng Thúc Vịnh, Ấp 7, Xã Đông Thạnh, Hóc Môn, TP. HCM	4.5	100+	04:00 - 23:00	4,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Sally - Sinh Tố, Trái Cây &amp; Ăn Vặt	13/7A, Tổ 58, Ấp Trung Đông, X. Thới Tam Thôn, Hóc Môn, TP. HCM	0.0	1	06:00 - 23:00	10,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Thuận Nguyên - Hủ Tiếu Mì, Bún Gạo &amp; Hoành Thánh	285A Phạm Hữu Lầu, P. Phú Mỹ, Quận 7, TP. HCM	4.5	100+	06:00 - 18:00	25,000	50,000	0.0%	8.8	3
+Café/Dessert	Misun - Trà Sữa, Nước Ép &amp; Ăn Vặt - 39 Đường Số 2	39 Đường Số 2, P. Tăng Nhơn Phú, Thủ Đức, TP. HCM	0.0	3	08:00 - 20:30	0	0	0.0%	<span>_._</span>	0
+Shop Online	Quả Táo Đỏ - Shop Trái Cây - Võ Văn Kiệt	Sảnh AK2 Chung Cư Akari Số 77 Võ Văn Kiệt, P. An Lạc, Bình Tân, TP. HCM	0	0	06:30 - 23:00	0	0	0.0%	0	0
+Café/Dessert	Royaltea - Huỳnh Tấn Phát	1506/4 Huỳnh Tấn Phát, P. Phú Mỹ, Quận 7, TP. HCM	4.5	500+	09:00 - 20:00	25,000	50,000	0.0%	9.6	4
+Quán ăn, Shop Online	Nguyên Ngọc Food - Phở - Đường 904	36 Đường 904, P. Hiệp Phú, Thủ Đức, TP. HCM	4.5	100+	06:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm - Phạm Hữu Lầu	70 Phạm Hữu Lầu, P. Phú Mỹ, Quận 7, TP. HCM	4.5	999+	06:00 - 22:00	20,000	53,000	0.0%	4.4	3
+Café/Dessert	Trà Sữa Pozaa Tea - Trịnh Quang Nghị	D11/298A Trịnh Quang Nghị, Tổ 11, Ấp 4, X. Phong Phú, Bình Chánh, TP. HCM	4.5	50+	00:00 - 22:30	30,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Ghiền - Trà Sữa Nướng - Nguyễn Thị Thử	26/1C Nguyễn Thị Thử, X. Xuân Thới Thượng, Hóc Môn, TP. HCM	4.5	10+	10:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hiếu Bào Ngư Vi Cá - Dân Công Hỏa Tuyến	7E Dân Công Hỏa Tuyến, X. Vĩnh Lộc A, Bình Chánh, TP. HCM	0	0	07:00 - 22:30	30,000	100,000	0.0%	0	0
+Quán ăn	Quê Hương - Cơm Tấm - 90 Lã Xuân Oai	90 Lã Xuân Oai, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	100+	06:00 - 20:30	20,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Rony Tea And Coffee - Trà Sữa &amp; Trà Trái Cây - Tân Hoà 2 (không có menu)	21 Tân Hoà 2, P. Hiệp Phú, Thủ Đức, TP. HCM	0.0	1	09:00 - 21:30	25,000	40,000	0.0%	0	0
+Quán ăn	Quán Kim - Cơm Tấm (không có menu)	43 Lã Xuân Oai, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	100+	08:00 - 20:00	18,000	45,000	0.0%	0	0
+Quán ăn	Cô Còi Food - Gà Ri Ủ Muối Tây Nguyên	54/5A9 Võ Thị Hồi, X. Xuân Thới Sơn, Hóc Môn, TP. HCM	0	0	00:00 - 23:59	100,000	300,000	0.0%	0	0
+Ăn vặt/vỉa hè	Bánh Crepe Sầu Riêng - Bánh Ăn Liền - Trần Đại Nghĩa	B12/4 Trần Đại Nghĩa, X. Tân Kiên, Bình Chánh, TP. HCM	4.5	50+	07:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cô Hà - Bún Thịt Nướng - Huỳnh Tấn Phát	23/11 (Chợ Phú Xuân, Đầu Hẻm 1622) Huỳnh Tấn Phát, TT. Nhà Bè, Nhà Bè, TP. HCM	4.5	10+	06:00 - 13:45	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bún Đậu Bumstop	7 Đường Số 385, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	500+	09:00 - 22:00	32,000	215,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Xối Mỡ Ngon Số 1 (không có menu)	B3/6 Đường 385, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	999+	09:00 - 20:45	30,000	45,000	0.0%	0	0
+Quán ăn	Bebebop - Quán Ăn Hàn Quốc	50 Đường 429, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	999+	09:00 - 21:40	30,000	45,000	0.0%	10.0	3
+Café/Dessert	La Perla - Foam Tea HongKong - Đường Số 385	B2/1 Đường Số 385, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	999+	08:00 - 22:15	33,000	53,000	0.0%	7.6	24
+Quán ăn	Korea Food - Gà Rán &amp; Gà Nướng Ngũ Vị	28 Đường Số 441, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	100+	09:00 - 22:30	5,000	255,000	0.0%	9.6	1
+Quán ăn	3 Râu - Gà Rán, Pizza &amp; Trà Sữa - Lý Thường Kiệt	14/4 Lý Thường Kiệt, TT. Hóc Môn, Hóc Môn, TP. HCM	4.5	100+	06:30 - 22:00	25,000	69,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu &amp; Bánh Tráng Cuốn Cô Dung - Lã Xuân Oai	225A Lã Xuân Oai, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	10+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Quán Bubu	33/11 Lý Thường Kiệt, TT. Hóc Môn, Hóc Môn, TP. HCM	4.5	50+	10:00 - 22:30	10,000	37,000	0.0%	9.4	9
+Quán ăn	Năm Xì-Tin - Cơm Tấm, Bún Thịt Nướng &amp; Cháo Lòng - Lã Xuân Oai	255 Lã Xuân Oai, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	0	0	09:00 - 21:00	15,000	40,000	0.0%	0	0
+Café/Dessert	Milk Tea 99 - Trà Sữa Nhà Làm, Sinh Tố &amp; Nước Ép - Đường Số 11 (không có menu)	186 Đường Số 11, P. Linh Xuân, Thủ Đức, TP. HCM	0.0	4	07:00 - 22:00	15,000	30,000	0.0%	0	0
+Quán ăn	Cô Mười - Nem Nướng Nha Trang - Lê Văn Việt	497 Lê Văn Việt, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	500+	07:00 - 22:00	20,000	35,000	0.0%	1.0	1
+Tiệm bánh	Bánh Ướt - Bánh Xèo - Cơm Trưa Dì Nữ	C5/40B Ấp 3 Đường Hưng Nhơn, X. Tân Kiên (Chợ Bờ Ngựa Chạy Vào 200m), Bình Chánh, TP. HCM	4.5	50+	00:00 - 23:59	60,000	100,000	0.0%	7.8	1
+Café/Dessert	Trà Sữa Wait Tea Vietnam - Lê Văn Việt	503 Lê Văn Việt, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	999+	08:30 - 23:00	30,000	70,000	0.0%	9.3	135
+Quán ăn	Hủ Tiếu Nam Vang Ku Hiếu - Hủ Tiếu Sườn &amp; Hủ Tiếu Xí Quách	72 Đường E, P. 7, Quận 8, TP. HCM	0.0	1	10:00 - 20:00	50,000	80,000	0.0%	<span>_._</span>	0
+Quán ăn	Xứ Nẫu 77	77 Làng Tăng Phú, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	100+	09:00 - 21:30	6,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Hoàng Kha - Lê Văn Việt	466 Lê Văn Việt, KP. 4, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.0	5	00:00 - 23:59	10,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Hamburger Bò Miếng Hapi - Lê Văn Việt	480 Lê Văn Việt, P. Tăng Nhơn Phú A, Thủ Đức, TP. HCM	4.5	50+	00:00 - 23:59	10,000	45,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt Mẹ Thỏ - Bánh Tráng &amp; Cá Viên - 24 Đường Số 8	24 Đường Số 8, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	10+	10:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt, Cá Viên &amp; Bánh Tráng Trộn (không có menu)	8 Đường Số 8, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	500+	09:00 - 23:59	1,500	200,000	0.0%	0	0
+Ăn vặt/vỉa hè	Bánh Tráng Nướng Đà Lạt - Đường Số 8	24 Đường Số 8, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	100+	10:00 - 22:00	6,000	125,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Hoàng Yến Ăn Văt - Đường Số 8	8B Đường Số 8, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	10+	10:00 - 23:59	10,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Rau Má Green - Nguyễn Văn Tăng	161 Nguyễn Văn Tăng, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	10+	09:00 - 21:00	12,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Minh Mập - Nguyễn Văn Tăng	165 Nguyễn Văn Tăng, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	999+	06:00 - 20:00	20,000	30,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Sơn Dừa - Bánh Cuốn Nóng &amp; Bún Thịt Nướng - Nguyễn Văn Thạnh	6 Nguyễn Văn Thạnh, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	100+	06:00 - 12:00	0	0	0.0%	<span>_._</span>	0
+Ăn chay	An Chay Quán - Nguyễn Xiển	581 Nguyễn Xiển, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	50+	08:00 - 14:00 | 17:00 - 21:00	30,000	70,000	0.0%	10.0	1
+Quán ăn	Con Gà Mái - Cơm Gà Phú Yên - Vinhomes Quận 9	Toà nhà S3.01 - S01.06 Vinhomes Grand Park, Nguyễn Xiển, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	100+	07:30 - 21:30	15,000	280,000	0.0%	<span>_._</span>	0
+Café/Dessert	Royaltea - Nguyễn Xiển	Shop S50101S03, Vinhomes Grand Park, Nguyễn Xiển, Thủ Đức, TP. HCM	4.5	999+	07:02 - 22:55	25,000	55,000	0.0%	6.5	72
+Quán ăn	O Hiền - Bánh Canh Cá Lóc &amp; Mì Quảng Gà Ta - Vinhomes Grand Park 	Vinhomes Grand Park - Origami S7.01, P. Long Bình, Thủ Đức, TP. HCM	5.0	10+	07:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	NiHi Drink &amp; Food - Nguyễn Văn Đậu	47/45 Nguyễn Văn Đậu, P. 6, Bình Thạnh, TP. HCM	0.0	3	09:00 - 21:30	25,000	40,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	A Phi - Sữa Chua Phô Mai &amp; Bánh Flan	49/30/11 Nguyễn Văn Đậu, P. 6, Bình Thạnh, TP. HCM	4.5	100+	00:00 - 23:59	8,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	KATEE DESSERT - Tiramisu &amp; Bánh Kem - Nguyễn Thượng Hiền	61/26 Nguyễn Thượng Hiền, P. 5, Bình Thạnh, TP. HCM	4.5	100+	00:00 - 23:59	0	0	0.0%	10.0	1
+Quán ăn	Hina Food - Gà Sốt Sệt	27C Bắc Hải, P. 15, Quận 10, TP. HCM	4.5	100+	10:00 - 22:00	180,000	200,000	0.0%	8.0	4
+Shop Online	Cua Tập Tạ - Cua Rang Trứng Muối - Shop Online	194/50/30C Bạch Đằng, P. 24, Bình Thạnh, TP. HCM	4.5	100+	10:00 - 23:59	100,000	160,000	0.0%	9.0	6
+Shop Online	Bún Bò Đất Thánh - Shop Online	221/16 Đất Thánh, P. 6, Tân Bình, TP. HCM	4.5	100+	06:00 - 23:00	15,000	50,000	0.0%	5.4	1
+Quán ăn	Bếp An Lành - Salad Eat Clean &amp; Cơm Tấm - Phan Văn Trị	Lô 2 1109 Phan Văn Trị, P. 10, Gò Vấp, TP. HCM	4.5	100+	09:00 - 14:00 | 18:00 - 20:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Bé Cam 416 - Nem Chua Rán &amp; Cá Viên Chiên - Nguyễn Đình Chiểu	416/32 Nguyễn Đình Chiểu, P. 4, Quận 3, TP. HCM	4.5	100+	10:30 - 23:59	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nước Ép Nguyên Chất &amp; Trái Cây Tươi FUJI 9k - Nguyễn Trãi	39/20 Nguyễn Trãi, P. Bến Nghé, Quận 1, TP. HCM	5.0	5	09:00 - 20:00	20,000	60,000	0.0%	9.5	5
+Café/Dessert	Travico - Sinh Tố Dừa Sáp &amp; Coffee - Lê Lai	202 Lê Lai, P. Bến Thành, Quận 1, TP. HCM	4.5	999+	07:30 - 23:59	25,000	50,000	0.0%	6.9	15
+Quán ăn	Bếp Bà Vy - Ăn Vặt, Bún Trộn &amp; Trà Sữa - Thống Nhất	242/27 Thống Nhất, P. 10, Gò Vấp, TP. HCM	4.5	10+	00:00 - 03:00 | 10:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	A.L FOOD - GÀ Ủ Muối Hoa Tiêu	8 Kha Vạn Cân, P. Hiệp Bình Chánh, Thủ Đức, TP. HCM	4.5	10+	09:30 - 23:00	100,000	200,000	0.0%	10.0	1
+Café/Dessert	Trà Sữa Hippo Tea - Âu Cơ	217 Âu Cơ, P. 5, Quận 11, TP. HCM	4.5	50+	09:30 - 22:30	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Vịt Quay Phú Quý 6	80 Âu Cơ, P. 9, Tân Bình, TP. HCM	4.5	10+	07:00 - 22:00	35,000	340,000	0.0%	10.0	1
+Ăn vặt/vỉa hè, Shop Online	Ăn Vặt Minh Khang - Cá Viên Chiên - Phạm Văn Bạch	306/7 Phạm Văn Bạch, P. 15, Tân Bình, TP. HCM	4.5	50+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Mẹ Thóc - Gà Ủ Muối &amp; Ăn Vặt	32/53/58 Huỳnh Văn Chính, P. Phú Trung, Tân Phú, TP. HCM	0.0	3	00:00 - 23:59	90,000	250,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt Nhà Ngoại 153 - Nguyễn Tiểu La	153/25/10 Nguyễn Tiểu La, P. 5, Quận 10, TP. HCM	4.5	100+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Minh Tâm - Heo Quay &amp; Vịt Quay - Bình Quới	164 Bình Quới, P. 27, Bình Thạnh, TP. HCM	4.0	50+	09:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Dìa Lía - Tóp Mỡ Sốt Mắm Tỏi	93/78 Đường 100 Bình Thới, P. 14, Quận 11, TP. HCM	5.0	10+	10:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Myeongdong - Quán Mì Hàn Quốc	35 Trần Hưng Đạo, P. 6, Quận 5, TP. HCM	4.5	500+	10:00 - 22:00	5,000	99,000	0.0%	9.6	60
+Shop Online	ATC Kitchen - Kimbap &amp; Mì Trộn	930B Trường Chinh, P. 15, Tân Bình, TP. HCM	4.5	999+	10:00 - 21:00	20,000	50,000	0.0%	7.6	5
+Quán ăn	Cháo Lòng 385 - Minh Phụng	385B1 Minh Phụng, P. 10, Quận 11, TP. HCM	4.5	100+	10:30 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Cà Ri Gà Ta Nam Bộ &amp; Lẩu Gà Lá Giang - Thoại Ngọc Hầu	314 Thoại Ngọc Hầu, P. Phú Thạnh, Tân Phú, TP. HCM	4.5	100+	10:00 - 23:30	37,000	42,000	0.0%	5.9	4
+Quán ăn, Shop Online	Lẩu Gà Lá Giang &amp; Cà Ri Gà Ta Nam Bộ - Thoại Ngọc Hầu	314 Thoại Ngọc Hầu, P. Phú Thạnh, Tân Phú, TP. HCM	3.5	4	10:00 - 23:30	0	0	0.0%	<span>_._</span>	0
+Shop Online	Trái Cây Sạch &amp; Ăn Vặt Omichi - Cao Lỗ	35/11/4/9 Cao Lỗ, P. 4, Quận 8, TP. HCM	0.0	3	10:00 - 23:00	30,000	120,000	0.0%	<span>_._</span>	0
+Shop Online	Thiên Kim Tea - Trà Sữa &amp; Trà Trái Cây - Đường 34	39 Đường 34, P. Linh Đông, Thủ Đức, TP. HCM	4.5	100+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Lộc Phát - Lê Văn Khương	11 Lê Văn Khương, P. Tân Thới Hiệp, Quận 12, TP. HCM	4.5	6	00:00 - 23:59	30,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Thế Giới Ăn Vặt - Gò Ô Môi (không có menu)	92D1 Khu Dân Cư Savimex, Gò Ô Môi, P. Phú Thuận, Quận 7, TP. HCM	4.5	100+	08:00 - 21:00	8,000	200,000	0.0%	0	0
+Quán ăn	Bảnh Bún Bò - Bún Bò Huế - Nguyễn Xiển	S702A Vinhomes Grand Park, Nguyễn Xiển, P. Long Thạnh Mỹ, Thủ Đức, TP. HCM	4.5	10+	07:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bánh Đúc Nóng Bà Xuân - Nguyễn Kiệm (không có menu)	617/8 Nguyễn Kiệm, P. 9, Phú Nhuận, TP. HCM	4.5	999+	07:30 - 18:00	20,000	260,000	0.0%	0	0
+Ăn vặt/vỉa hè	Tui Bán Chè	13 Thích Quản Đức, P. 4, Phú Nhuận, TP. HCM	4.5	999+	10:00 - 22:00	10,000	25,000	0.0%	<span>_._</span>	0
+Shop Online	Soup Cua Cá Viên Chiên 170A - Thích Quảng Đức	170A Thích Quảng Đức, P. 4, Phú Nhuận, TP. HCM	4.5	100+	08:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Toro - Trà Sữa Khổng Lồ - Trần Kế Xương	130A Trần Kế Xương, P. 7, Phú Nhuận, TP. HCM	5.0	50+	10:30 - 21:30	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Thủy Trà Milk Tea	80 Trương Quốc Dung , Phú Nhuận, TP. HCM	4.5	999+	11:00 - 20:30	10,000	25,000	0.0%	7.5	18
+Quán ăn	Quán Ông Ba Bị - Cơm, Phở, Gà Chiên - Huỳnh Mẫn Đạt	32 Huỳnh Mẫn Đạt, P. 19, Bình Thạnh, TP. HCM	4.5	5	07:00 - 22:00	45,000	70,000	0.0%	9.4	1
+Quán ăn	Little Sip - Nước Ép &amp; Thịt Xiên Nướng Hà Nội - Trần Khắc Chân	110/7 Trần Khắc Chân, P. Tân Định, Quận 1, TP. HCM	4.5	50+	11:00 - 21:00	39,000	59,000	0.0%	<span>_._</span>	0
+Quán ăn	Mì Xào Giòn - 111 Vạn Kiếp	111 Vạn Kiếp, Bình Thạnh, TP. HCM	4.5	999+	11:20 - 22:30	2,000	35,000	0.0%	4.7	24
+Quán ăn	Kimbap Hoàng Tử - Món Hàn Quốc - Lê Văn Sỹ	337/2 Lê Văn Sỹ, P.1, Tân Bình, TP. HCM	4.5	999+	09:30 - 21:30	30,000	66,000	0.0%	7.2	327
+Ăn vặt/vỉa hè	Gà Nướng A Duy - Gà Nướng Sốt Cay - Nguyễn Thái Sơn	192 Nguyễn Thái Sơn, P. 4, Gò Vấp, TP. HCM	4.5	10+	11:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Chị Linh - Phá Lấu Bò	162 Bùi Thị Xuân, Tân Bình, TP. HCM	4.5	100+	11:00 - 19:00	20,000	30,000	0.0%	5.6	3
+Ăn vặt/vỉa hè	O Liên - Bánh Bèo	1 Nguyễn Thanh Tuyền, Tân Bình, TP. HCM	4.5	999+	11:00 - 20:16	15,000	30,000	0.0%	1.4	114
+Ăn vặt/vỉa hè	Chị Hằng - Bột Chiên &amp; Nui Chiên	4 Nguyễn Thanh Tuyền, P. 2, Tân Bình, TP. HCM	4.5	100+	10:00 - 19:30	20,000	40,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Chế Bé - Chè &amp; Bánh Bèo	2 Nguyễn Thanh Tuyền, P. 2, Tân Bình, TP. HCM	4.5	999+	11:15 - 20:30	20,000	25,000	0.0%	7.7	6
+Quán ăn	Krua Thái - Gỏi Thái - Huỳnh Đình Hai	42 Huỳnh Đình Hai, Bình Thạnh, TP. HCM	4.5	999+	11:00 - 21:00	20,000	40,000	0.0%	7.9	86
+Café/Dessert	Ding Tea - Nguyễn Thái Bình	 29 Nguyễn Thái Bình, P.4, Tân Bình, TP. HCM	4.5	999+	10:45 - 19:20	25,000	50,000	0.0%	7.5	392
+Café/Dessert	Tiệm Trà TiMi - Trần Văn Đang	21A Trần Văn Đang, P. 9, Quận 3, TP. HCM	4.5	100+	11:20 - 20:30	14,000	27,000	0.0%	9.6	1
+Quán ăn	Bún Đậu Mắm Tôm 277 - Vũ Tùng	122A Vũ Tùng, P. 2, Bình Thạnh, TP. HCM	4.5	100+	00:00 - 23:59	18,000	38,000	0.0%	9.4	34
+Café/Dessert	Muanuocep - Nước Ép &amp; Tuyết Yến Healthy - Đinh Tiên Hoàng	95 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM	4.5	100+	11:00 - 20:30	10,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Ất Sửu - Bún Đậu Mắm Tôm (không có menu)	95 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM	4.5	500+	11:00 - 20:30	25,000	55,000	0.0%	0	0
+Shop Online	D&amp;N Food - Cơm Văn Phòng &amp; Đồ Ăn Đêm	601/23 Lô A Cách Mạng Tháng 8, P. 15, Quận 10, TP. HCM	4.5	999+	00:01 - 03:00 | 11:00 - 14:00 | 17:00 - 23:59	15,000	69,000	0.0%	3.8	16
+Café/Dessert	Royaltea - Trà Sữa Hồng Kông - Phan Văn Trị	354/1/7A Phan Văn Trị, P. 11, Bình Thạnh, TP. HCM	4.5	500+	11:00 - 22:30	30,000	50,000	0.0%	6.0	1
+Café/Dessert	Trà Sữa Tealive - Cách Mạng Tháng 8	770 Cách Mạng Tháng 8, P. 5, Tân Bình, TP. HCM	4.5	10+	11:00 - 19:30	35,000	55,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Dâu Màu Hồng - Trà Dâu - Cách Mạng Tháng 8	806 Cách Mạng Tháng 8, P. 5, Tân Bình, TP. HCM	0	0	11:00 - 23:00	20,000	25,000	0.0%	0	0
+Quán ăn	Múp - Chè Dừa Nước - Điện Biên Phủ	71/6/15 Điện Biên Phủ, P. 15, Bình Thạnh, TP. HCM	4.5	10+	09:00 - 21:00	20,000	30,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt Kitty - Bánh Tráng, Trà Trái Cây &amp; Sinh Tố - Lý Chính Thắng	224 Lý Chính Thắng, P. 9, Quận 3, TP. HCM	4.5	100+	11:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Beo's Milk Tea - Trà Sữa &amp; Trà Trái Cây - Tô Hiến Thành	163/21/2 Tô Hiến Thành, P. 13, Quận 10, TP. HCM	4.5	10+	11:00 - 22:00	30,000	60,000	0.0%	<span>_._</span>	0
+Nhà hàng	Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Cộng Hòa	111 Cộng Hòa, Tân Bình, TP. HCM	4.5	100+	11:00 - 20:30	80,000	695,000	0.0%	7.5	121
+Ăn vặt/vỉa hè, Ăn chay	D's Sweeties - Sữa Bắp - Bạch Đằng	227 Bạch Đằng, P. 15, Bình Thạnh, TP. HCM	5.0	5	11:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bắp Mỹ Nướng - Bánh Tráng Nướng Mỹ Hạnh - Phan Văn Hân	91 Phan Văn Hân, P. 17, Bình Thạnh, TP. HCM	3.5	8	11:30 - 20:00	5,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Trâm Anh - Gỏi Vịt &amp; Bún Măng	343 Nguyễn Thái Sơn, P. 05, Gò Vấp, TP. HCM	4.5	500+	00:00 - 00:59 | 11:30 - 23:59	12,000	550,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ding Tea - Điện Biên Phủ (không có menu)	314/1A Điện Biên Phủ, P. 11, Quận 10, TP. HCM	4.5	500+	09:30 - 21:00	28,000	56,000	0.0%	0	0
+Ăn vặt/vỉa hè, Shop Online	Ô Khang - Tré Trộn - Nguyễn Cửu Vân	81 Nguyễn Cửu Vân, P. 17, Bình Thạnh, TP. HCM	4.5	100+	11:00 - 22:30	5,000	40,000	0.0%	<span>_._</span>	0
+Tiệm bánh	Dì Chín - Bánh Mì &amp; Xôi Mặn - Nguyễn Thái Sơn	335/6 Nguyễn Thái Sơn, P. 5, Gò Vấp, TP. HCM	4.5	100+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Nước Mía Trân Châu Bơ Béo - Giải Khát &amp; Ăn Vặt - Chu Văn An (không có menu)	133 Chu Văn An, P. 26, Bình Thạnh, TP. HCM	0.0	4	11:00 - 22:30	0	0	0.0%	0	0
+Ăn chay	Quán Chay Chú Trọng Cô Loan - Món Chay Vegan Food - Võ Văn Tần	47Bis Võ Văn Tần, P. Võ Thị Sáu, Quận 3, TP. HCM	0	0	11:00 - 14:00	0	0	0.0%	0	0
+Café/Dessert	Trà Sữa &amp; Ăn Vặt Niu Tee - Đường 3/2 (không có menu)	458/31 Đường 3/2, P. 12, Quận 10, TP. HCM	5.0	10+	09:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Cô Hiền - Cháo Gà Bắc Bộ	35/5 Đinh Bộ Lĩnh, P. 24, Bình Thạnh, TP. HCM	4.5	999+	11:00 - 20:30	18,000	18,000	0.0%	7.5	20
+Café/Dessert	The Cheese Factory - Trà Sữa &amp; Đá Bào - CityLand	Khu Dân Cư CityLand 35 Đường Số 4, P. 10, Gò Vấp, TP. HCM	4.5	50+	11:00 - 22:10	19,000	39,000	0.0%	<span>_._</span>	0
+Shop Online	Yumi Fruit - Trái Cây Sạch &amp; Đồ Ăn Vặt - Shop Online - Xô Viết Nghệ Tĩnh	402/25A Xô Viết Nghệ Tĩnh, P. 25, Bình Thạnh, TP. HCM	4.5	500+	08:00 - 12:15	20,000	100,000	0.0%	5.4	15
+Quán ăn	Gà Ủ Muối Hoa Tiêu Lộc Phát - Sư Vạn Hạnh	207/9 Sư Vạn Hạnh, P. 9, Quận 10, TP. HCM	0	0	00:00 - 01:00 | 11:00 - 15:00 | 17:00 - 23:59	5,000	21,000	0.0%	0	0
+Ăn vặt/vỉa hè	Nao Ăn Uống Ngay Nào - Nguyễn Gia Trí	29/12 Nguyễn Gia Trí, P. 25, Bình Thạnh, TP. HCM	4.5	500+	11:30 - 21:15	16,000	368,000	0.0%	6.7	9
+Quán ăn	NHÀ HÀNG KAMURA - CÁ NGỪ NHẬT BẢN	8A/A14 Thái Văn Lung, P. Bến Nghé, Quận 1, TP. HCM	4.5	10+	11:00 - 23:00	99,000	300,000	0.0%	9.8	1
+Quán ăn	KANDA TAMAGOKEN - Cơm Trứng Omlet Nhật Bản - Thái Văn Lung	8A/A14 Thái Văn Lung, P. Bến Nghé, Quận 1, TP. HCM	4.5	50+	11:00 - 23:00	19,000	199,000	0.0%	5.1	2
+Quán ăn	TONTAN - Cơm Thịt Heo Nướng Nhật Bản - Trương Định (không có menu)	56 Trương Định, P. Bến Thành, Quận 1, TP. HCM	4.5	10+	11:00 - 22:00	19,000	199,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Nướng Sốt Bà Yum - Gà Nướng - Ung Văn Khiêm	49 Ung Văn Khiêm, P. 25, Bình Thạnh, TP. HCM	4.5	100+	00:00 - 01:30 | 11:00 - 23:59	0	0	0.0%	10.0	1
+Quán ăn	GÀ NƯỚNG SỐT - UNG VĂN KHIÊM	49 Ung Văn Khiêm, P. 25, Bình Thạnh, TP. HCM	4.5	50+	00:00 - 01:30 | 11:00 - 23:59	10,000	200,000	0.0%	10.0	1
+Nhà hàng	Lax Sushi House	Tầng 1, Tầng 1, 26 Nguyễn Thị Nghĩa, P. Bến Thành, Quận 1, TP. HCM	4.5	100+	00:00 - 00:30 | 10:50 - 23:59	25,000	128,000	0.0%	6.1	2
+Quán ăn	Quán Nhà - Cơm &amp; Bò Né	290/140 Lý Thái Tổ, P. 1, Quận 3, TP. HCM	4.5	999+	11:25 - 15:00 | 16:00 - 19:00	20,000	43,000	0.0%	6.1	43
+Café/Dessert	KiKi - Trà Sữa Đậm Trà	21/13 Nguyễn Thiện Thuật, P. 2, Quận 3, TP. HCM	0	0	11:00 - 22:00	20,000	80,000	0.0%	0	0
+Quán ăn	Bún Đậu Phố Cổ - Bàu Cát	168 Bàu Cát, P. 14, Tân Bình, TP. HCM	0.0	2	00:00 - 23:59	5,000	99,000	0.0%	<span>_._</span>	0
+Shop Online, Ăn chay	Healthy Vegan Junk - Vegan - Phú Mỹ	41K3 Phú Mỹ P. 22, Bình Thạnh, TP. HCM	0.0	3	11:00 - 19:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Chè Thái Kiki - Nguyễn Thiện Thuật	21/13 Nguyễn Thiện Thuật, P. 2, Quận 3, TP. HCM	4.5	500+	11:30 - 22:00	25,000	30,000	0.0%	4.9	3
+Café/Dessert	Hawker Star - Kem Kẹp Sandwich - Nguyễn Huệ	66A Nguyễn Huệ, P. Bến Nghé , Quận 1, TP. HCM	4.5	50+	11:00 - 23:00	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thái Chị Tươi - Lẩu Hải Sản	801/31 Đường Xô Viết Nghệ Tĩnh, P. 26, Bình Thạnh, TP. HCM	4.5	10+	07:00 - 22:45	20,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Table 33 - Mì Ý &amp; Các Món Ăn Vặt - Lý Thái Tổ	369/40 Lý Thái Tổ, P. 9, Quận 10, TP. HCM	4.5	10+	11:00 - 14:00 | 15:00 - 19:30	54,000	89,000	0.0%	6.4	1
+Quán ăn	Lẩu Cá Cô Chung - Lẩu Cá, Thịt Nướng &amp; Hải Sản Nướng	005 Lô K - Chung Cư Bàu Cát 2, Hồng Lạc, P. 10, Tân Bình, TP. HCM	0	0	10:00 - 23:50	79,000	249,000	0.0%	0	0
+Quán ăn	Bánh Xèo Giòn Giòn - Bò Nướng Lá Lốt Mỡ Chài	438/8 Lê Hồng Phong, P. 1, Quận 10, TP. HCM	4.5	500+	11:00 - 22:00	25,000	40,000	0.0%	9.7	4
+Quán ăn	Cua Cà Mau - Kin Cua Siêu Sốt	212A3/2 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 10, TP. HCM	4.5	10+	11:30 - 21:00	110,000	220,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt DDT Quán - Gà Ủ Muối - Lê Đức Thọ	476 Lê Đức Thọ, P. 17, Gò Vấp, TP. HCM	4.5	100+	09:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Sakura Saku - Sashimi &amp; Sushi - Nguyễn Hữu Cảnh	92F Nguyễn Hữu Cảnh, P. 22, Bình Thạnh, TP. HCM	0	0	11:00 - 21:45	50,000	300,000	0.0%	0	0
+Café/Dessert	NƯỚC ÉP 214 - Nước ép 100% Nguyên Chất - 214 Bis Nguyễn Trãi	214 Bis Nguyễn Trãi , P. Nguyễn Cư Trinh, Quận 1, TP. HCM	0	0	09:00 - 18:00	0	0	0.0%	0	0
+Quán ăn	Bún Đậu Làng Mơ - Bún Đậu Mẹt &amp; Bún Ốc Tây Hồ - Ung Văn Khiêm	250 Ung Văn Khiêm, P. 25, Bình Thạnh, TP. HCM	4.5	50+	10:30 - 22:00	40,000	50,000	0.0%	<span>_._</span>	0
+Shop Online	CHIN FOOD - Gà Ủ Muối Hoa Tiêu	231/34 Nguyễn Duy Dương, P. 4, Quận 10, TP. HCM	4.5	100+	11:00 - 23:59	80,000	80,000	0.0%	8.8	1
+Shop Online	And Balance - Salad &amp; Trà Sữa	81 Hồ Hảo Hớn , P. Cô Giang, Quận 1, TP. HCM	4.5	100+	11:00 - 14:00 | 16:00 - 20:00	30,000	60,000	0.0%	8.7	2
+Nhà hàng	Chiang Rai - Món Thái - Luỹ Bán Bích	710/5 Lũy Bán Bích, P. Tân Thành, Tân Phú, TP. HCM	4.5	100+	10:30 - 21:25	0	0	0.0%	3.2	1
+Café/Dessert	CHENde - Trà Sữa - Đường Số 9	15/40/19 Đường Số 9, P. 16, Gò Vấp, TP. HCM	4.5	50+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Quí Phương - 100 Bình Thới	30/8B Đường 100 Bình Thới, P. 14, Quận 11, TP. HCM	5.0	10+	11:00 - 22:00	10,000	28,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Chamely - Phạm Văn Bạch	445 Phạm Văn Bạch, P. 15, Tân Bình, TP. HCM	5.0	9	11:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Cá Viên Chiên Vinh Ký - Hòa Hảo	500 Hòa Hảo, P.5, Quận 10, TP. HCM	4.5	999+	11:30 - 23:59	15,000	30,000	0.0%	6.9	23
+Quán ăn	Bún Thịt Nướng Chả Giò Quán Ăn Miền Tây - Bún - 127 Âu Cơ	127/77 Âu Cơ, P. 14, Quận 11, TP. HCM	4.5	10+	06:00 - 20:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	KHÔITEA - Trà Sữa Sạch - Đường 100	3A Đường 100 Bình Thới, P. 14, Quận 11, TP. HCM	4.5	500+	11:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Sữa Tươi Kẹo Tổ Ong - Nguyễn Cảnh Chân	TK22/22 Nguyễn Cảnh Chân, P. Cầu Kho, Quận 1, TP. HCM	5.0	8	11:00 - 23:00	20,000	30,000	0.0%	8.3	2
+Shop Online	Trà Sữa Moncha	18 Đường Số 50, P. 5, Quận 4, TP. HCM	4.5	10+	11:00 - 23:00	12,000	27,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Alexander - Trà Sữa &amp; Chân Gà - Phạm Văn Chiêu	44/24 Phạm Văn Chiêu, P. 8, Gò Vấp, TP. HCM	0	0	10:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	Rạng Lộc - Cơm Gà Năm Loại Sốt	184 Phó Cơ Điều, P. 6, Quận 11, TP. HCM	4.5	100+	11:00 - 22:00	37,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Mì Ốc Hến - Bánh Đa Má Ba	128/1 Vĩnh Khánh, P. 8, Quận 4, TP. HCM	4.5	10+	11:00 - 23:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	A Sủn - Bún Thái &amp; Bún Bò - Bến Vân Đồn	277/ 54  Bến Vân Đồn, Phường 2, Quận 4, TP. HCM	4.5	100+	11:00 - 19:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mì Mì - Sinh Tố &amp; Nước Ép - Trần Quý	71 Trần Quý P. 4, Quận 11, TP. HCM	5.0	5	10:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm Thắng 68 - Đường Số 27	37 Đường Số 27, P. Sơn Kỳ, Tân Phú, TP. HCM	0.0	2	11:00 - 23:30	5,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Thái Sơn	149/49 Nguyễn Duy Cung, P. 12, Gò Vấp, TP. HCM	4.5	999+	06:30 - 14:30	20,000	30,000	0.0%	6.4	6
+Shop Online	Tý Đại Đồ Chiên &amp; Ăn Vặt	31 Đường 47, P. 4, Quận 4, TP. HCM	4.5	999+	00:00 - 02:00 | 11:30 - 23:59	10,000	115,000	0.0%	9.7	9
+Ăn vặt/vỉa hè, Shop Online	Bếp Na Mi Chân Gà Sả Tắc - Chân Gà Ngâm Sả Tắc - Vườn Lài	195/1 Vườn Lài, P. Phú Thọ Hòa, Tân Phú, TP. HCM	4.5	6	11:30 - 15:00 | 16:40 - 23:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Milo Dầm Tường Vi - Cá Viên Chiên Nước Mắm (không có menu)	243/74/20A Hoàng Diệu, P. 4, Quận 4, TP. HCM	4.5	50+	11:00 - 23:59	20,000	50,000	0.0%	0	0
+Ăn vặt/vỉa hè	Gà Bó Xôi Family - Nguyễn Quý Anh	56/6 Nguyễn Quý Anh, P. Tân Sơn Nhì, Tân Phú, TP. HCM	4.5	50+	10:40 - 20:00	58,000	400,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm Rơm - Tân Kỳ Tân Quý	273A Tân Kỳ Tân Quý, P. Tân Sơn Nhì, Tân Phú, TP. HCM	4.5	100+	11:00 - 21:00	20,000	60,000	0.0%	<span>_._</span>	0
