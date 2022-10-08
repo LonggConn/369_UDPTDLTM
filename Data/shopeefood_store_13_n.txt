@@ -1,0 +1,446 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody
+Café/Dessert	Trà Sữa Mixue - Vinhomes Ocean Park	Tòa S217 - 01S05 KĐT Vinhomes Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội	4.5	100+	09:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Up Coffee - Hà Huy Tập Gia Lâm	417 Hà Huy Tập, Thị Trấn Yên Viên, Gia Lâm, Hà Nội	0.0	1	07:00 - 22:30	0	0	ShopeeFood</span	<span>_._</span>	0
+Café/Dessert	Nootea Kiên Kỵ - Đường 179	46 Đường 179 Thôn Trung Dương, X. Kiêu Kỵ, Gia Lâm, Hà Nội	4.5	10+	09:15 - 22:30	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Dâu Aya - Trâu Quỳ	40 Trâu Quỳ, Gia Lâm, Hà Nội	0.0	1	09:00 - 23:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Dragon Tea Trâu Quỳ - Trâu Quỳ	76 Trâu Quỳ, TT. Trâu Quỳ, Gia Lâm, Hà Nội	4.5	10+	09:00 - 23:30	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Nướng 3 Miền - Trâu Quỳ	5 Ngõ 215 Trâu Quỳ, TT. Trâu Quỳ, Gia Lâm, Hà Nội	4.5	10+	10:00 - 23:00	8,000	500,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt LoCha - Lẩu Ly &amp; Trà Sữa - Trâu Quỳ	Kiot 21 Ngõ 68 Trâu Quỳ, TT. Trâu Quỳ, Gia Lâm, Hà Nội	4.5	10+	10:30 - 21:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	ChaaLa - Trà Sữa Ô Long - HA01 SP-SB.02 Vinhomes Ocean Park 	HA01 SP-SB.02 Vinhomes Ocean Park, X. Kiêu Kỵ, Gia Lâm, Hà Nội	0	0	07:00 - 23:00	0	0	0.0%	0	0
+Café/Dessert	Nhà Hàng Sammy - Vinhomes Ocean Park	Hải Âu 02-133 Vinhomes Ocean Park, X. Kiêu Kỵ, Gia Lâm, Hà Nội	0	0	08:00 - 22:00	30,000	70,000	0.0%	0	0
+Quán ăn	Đệ Nhất Chả Cá - Chả Cá Lã Vọng - Biệt Thự Sao Biển 22 24 Vinhomes Ocean Park	Biệt Thự Sao Biển 22-24 KĐT Vinhomes Ocean Park, X. Kiêu Kỵ, Gia Lâm, Hà Nội	0	0	09:00 - 23:00	0	0	0.0%	0	0
+Café/Dessert	Anh Coffee - Cafe, Sinh Tố &amp; Trà Hoa Quả - Ha 01-85 Khu Đô Thị Oceans Park	Hải Âu 01-85 Khu Đô Thị Oceans Park, X. Đa Tốn, Gia Lâm, Hà Nội	0	0	07:30 - 23:10	0	0	0.0%	0	0
+Quán ăn	Nơm Việt - Nem Nướng Nha Trang	670/38/10 Hà Huy Tập, Gia Lâm, Hà Nội	4.5	100+	10:00 - 21:00	40,000	150,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Chasu - Cháo Sườn &amp; Trà Sữa - Vinhomes Ocean Park	01S5A Tòa S2 02 KĐT Vinhomes Ocean Park, Xã Đa Tốn, Gia Lâm, Hà Nội	4.5	100+	08:30 - 23:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Dingtea - Gia Lâm	Căn 01S12 Tòa S206 Khu Đô Thị Vinhomes Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội	0	0	08:00 - 22:00	32,000	49,000	ShopeeFood</span	0	0
+Café/Dessert	Trà Bí Đao Cát Tiên - Trâu Quỳ	28 Ngõ 86 Trâu Quỳ, Thị Trấn Trâu Quỳ, Gia Lâm, Hà Nội	4.5	100+	09:00 - 22:00	25,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Lươn Cay Cổng Thành - Vinhomes Ocean Park	01SH5A Toà S1.02 Vinhomes Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội	4.5	10+	06:30 - 21:30	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Buffet Nướng Chảo Gang - Nướng - Số 301 Trâu Quỳ	Số 301 Trâu Quỳ, TT. Trâu Quỳ, Gia Lâm, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Tiệm bánh	Fresh Garden - S2.08 Ocean Park	S2.08 Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội	4.5	5	07:00 - 21:00	20,000	120,000	0.0%	<span>_._</span>	0
+Café/Dessert	Sữa Chua Trân Châu Quảng Ninh - Vinhomes Ocean Park (không có menu)	S2 - 16 Vinhomes Ocean Park, Xã Đa Tốn, Gia Lâm, Hà Nội	4.5	10+	07:00 - 22:00	5,000	33,000	0.0%	0	0
+Café/Dessert	Kafa Cafe - Ocean Park	Tòa S2-03 Cối Xay Gió Vinhomes Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội	0	0	06:45 - 21:00	25,000	100,000	0.0%	0	0
+Café/Dessert, Quán ăn	Quán Bún Đậu Mắm Tôm &amp; Bún Chả - An Đào C	15 An Đào C, TT. Trâu Quỳ, Gia Lâm, Hà Nội	3.0	3	00:01 - 23:59	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Korean Chicken - Gà Rán Hàn Quốc - Minh Xuân	112 Minh Xuân, Xóm Trường Xuân, Thôn Trường An, X. An Khánh, Hoài Đức, Hà Nội	5.0	100+	10:00 - 13:00 | 16:30 - 21:00	10,000	200,000	0.0%	<span>_._</span>	0
+Nhà hàng	Trà Bí Đao Maxh - Đồ Ăn Vặt (không có menu)	62 Thịnh Phát, X. An Khánh, Hoài Đức, Hà Nội	4.5	10+	07:00 - 23:59	0	0	0.0%	0	0
+Quán ăn	Gà Rán CP Five Star - 50 Phú Đa	50 Phú Đa, X. Đức Thượng, Hoài Đức, Hà Nội	4.5	10+	10:00 - 21:00	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Tươi Mạnh Hoạch - Phố Thú Y	57 Phố Thú Y, X. Đức Thượng, Hoài Đức, Hà Nội	4.5	50+	09:00 - 22:00	35,000	280,000	0.0%	<span>_._</span>	0
+Quán ăn	Nem Nướng Nha Trang &amp; Đồ Ăn Vặt - Nơm Trạm Trôi	26 Bồ Đàm, Đường 422, Khu 6, Thị Trấn Trạm Trôi, X. Trạm Trôi, Hoài Đức, Hà Nội	4.5	500+	08:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn, Ăn vặt/vỉa hè	Trà Bí Đao Hạt Chia - Di Trạch (không có menu)	Số 192 Di Trạch, X. Di Trạch, Hoài Đức, Hà Nội	4.5	50+	08:00 - 22:00	0	0	0.0%	0	0
+Ăn vặt/vỉa hè	Bánh Gà Ăn Vặt Tú Mỡ - Bánh Gà - Thịnh Phát	60 Thịnh Phát, X. An Khánh, Hoài Đức, Hà Nội	4.5	100+	07:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bánh Mì Ken - Bò Sốt Tiêu &amp; Xá xíu - 863 Đường Ngãi Cầu	863 Ngãi Cầu, P. An Khánh, Hoài Đức, Hà Nội	4.5	50+	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Tuân Linh Quán - Lai Xá	33 Ngõ 82 Lai Xá, X. Kim Chung, Hoài Đức, Hà Nội	4.5	100+	06:00 - 21:30	35,000	150,000	0.0%	<span>_._</span>	0
+Café/Dessert	Mộc Lan Pha Trà - Coffee - Bắc Yên Lũng	Khu đất dịch vụ X4 (đối diện số 43) đường Bắc Yên Lũng, Hoài Đức, Hà Nội	0.0	3	07:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tocotoco - Thiên Đường Bảo Sơn	A32-18 Khu A Geleximco Lê Trọng Tấn, Hoài Đức, Hà Nội	4.5	999+	09:30 - 22:45	25,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Gỏi Cá Hà Nội - Gỏi Cá Mè &amp; Gỏi Cá Chép	71 Xóm 3 La Tinh, X. Đông La, Hoài Đức, Hà Nội	0	0	08:00 - 22:00	20,000	100,000	0.0%	0	0
+Café/Dessert	Trà Sữa Nướng M89 - Trạm Trôi	1A Bồ Đàm - Khu 7 Trạm Trôi, X. Trạm Trôi, Hoài Đức, Hà Nội	4.5	7	08:00 - 22:30	20,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Mixue - Ngãi Cầu	604 Ngãi Cầu, X. An Khánh, Hoài Đức, Hà Nội	4.5	100+	08:30 - 22:45	15,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Lemon Tra Trạm Trôi - Trà Chanh, Trà Sữa &amp; Cafe - 10 Thi Trấn Trạm Trôi	10 Thi Trấn Trạm Trôi, X. Trạm Trôi, Hoài Đức, Hà Nội	4.5	6	08:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Số 8 - Cà Phê &amp; Ẩm Thực Sài Gòn - Khu Đô Thị Geleximco	D4-27 Khu Đô thị Geleximco, X. La Phù, Hoài Đức, Hà Nội	4.5	5	08:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nét Huế - Trà Sữa, Chè &amp; Bánh Xèo - Trạm Trôi	Khu 6 TT Trạm Trôi (Mặt đường 422, gần ngã 4 Chợ Cây), X. Trạm Trôi, Hoài Đức, Hà Nội	4.5	10+	10:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	TAMA Coffee &amp; Tea - Trà Chanh &amp; Trà Sữa - Vân Canh	Số 5 Liền Kề 22 Khu Đô Thị Vân Canh, Xã Vân Canh, Huyện Hoài Đức, Hà Nội, Hoài Đức, Hà Nội	4.5	10+	09:00 - 22:30	5,000	99,000	0.0%	<span>_._</span>	0
+Quán ăn	Gi Gil's Chicken	T1.32 Tầng 1, TTTM Gemek Tower 1, Lê Trọng Tấn, P. An Khánh, Hoài Đức, Hà Nội	4.5	10+	10:00 - 21:30	7,000	250,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Trâu Đức Nam - Phở Trâu &amp; Cơm Rang - Thiên Đường Bảo Sơn	L405A Khu Biệt Thự Thiên Đường Bảo Sơn, X. An Khánh, Hoài Đức, Hà Nội	4.5	10+	06:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	AK Quán - Nem Nướng &amp; Nem Lụi	Ngõ 1 Đường Thanh Niên - Vân Lũng, X. An Khánh, Hoài Đức, Hà Nội	0.0	2	10:00 - 21:40	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Quốc Lộ 32	Km17 + 200 Quốc Lộ 32, Hoài Đức, Hà Nội	4.5	50+	08:00 - 23:00	10,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tocotoco - 89 Lai Xá	89 Lai Xá, Xã Kim Chung, Hoài Đức, Hà Nội	4.5	100+	09:30 - 22:00	25,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Highlands Coffee - Essensia An Khánh	Tòa Essensia Khu Đô Thị Splendora Km10+600 Thăng Long, Xã An Khánh, Hoài Đức, Hà Nội	4.5	100+	07:00 - 21:00	9,000	65,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	BẾP NHÀ BƠ - Chân Gà Rút Xương - Lai Xá	1 Ngõ 63/58 Lai Xá, X. Kim Chung, Hoài Đức, Hà Nội	4.5	100+	06:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	LION SUGAR - Trà Sữa Trân Châu Đường Đen - Ngãi Cầu	556 Ngãi Cầu, X. An Khánh, Hoài Đức, Hà Nội	4.5	10+	10:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Chân Gà &amp; Cánh Gà Nướng Tây Bắc TRUHOA - Đặc Sản Chân Gà Nướng Và Cánh Gà Nướng - Số 8 Ngách 41/27 Ngõ 41 Đường Lai Xá (không có menu)	Số 8 Ngách 41/27 Ngõ 41 Đường Lai Xá, Quốc Lộ 32, X. Kim Chung, Hoài Đức, Hà Nội	4.5	100+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	1989 - Trà Sữa - Đại Tự Kim Chung Di Trạch	24 Ngõ 108 Đại Tự Kim Chung Di Trạch, X. Kim Chung, Hoài Đức, Hà Nội	4.5	10+	08:00 - 22:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tocotoco - Khu 7 Thị Trấn Trạm Trôi	Khu 7 Thị Trấn Trạm Trôi ( Ngã Tư Trôi), Hoài Đức, Hà Nội	4.5	500+	09:00 - 22:30	30,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Linh Vy - Nem Nướng Nha Trang - 84 Trường An	84 Trường An, X. An Khánh, Hoài Đức, Hà Nội	4.0	8	10:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Phở Bò Thanh Tùng - Phở Bò &amp; Cơm Rang - Lê Trọng Tấn	L4a03 Khu Đô Thị Thiên Đường Bảo Sơn Lê Trọng Tấn, X. An Khánh, Hoài Đức, Hà Nội	4.5	100+	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Gà rán CP Five Star - Ngãi Cầu	Ngã 3 Ngãi Cầu, X. An Khánh, Hoài Đức, Hà Nội	4.5	10+	10:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Bống Tea - Trà Sữa &amp; Trà Hoa Quả	5 Liền Kề 23, Khu Đô Thị Vân Canh, X. Vân Canh, Hoài Đức, Hà Nội	5.0	10+	08:00 - 23:00	10,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Rán CP Five Star - Đường 422 Cát Quế	Đường 422, X. Cát Quế, Hoài Đức, Hà Nội	0.0	2	10:00 - 21:00	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert, Shop Online	Airline Coffee - Trà Sữa - Nam An Khánh	Tòa 18T2 Khu Đô Thị Nam An Khánh, Nam An Khánh, X. An Khánh, Hoài Đức, Hà Nội	5.0	10+	09:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Pozaa Tea - Đường 72	33 Đường 72, Thôn Phương Quan, X. Vân Côn, Hoài Đức, Hà Nội	4.5	7	08:00 - 23:59	30,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Rán &amp; Pizza Anh Khôi - Trạm Trôi	45 khu 6 TT Trạm Trôi, X. Trạm Trôi, Hoài Đức, Hà Nội	4.5	10+	10:00 - 22:00	55,000	180,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Miele Pane - Tiệm Bánh Mì &amp; Xôi - Di Ái	16 Di Ái, X. Di Trạch, Hoài Đức, Hà Nội	4.5	100+	08:15 - 21:30	6,000	80,000	0.0%	<span>_._</span>	0
+Nhà hàng, Café/Dessert	Mộc Quán Bảo Sơn - Cà Phê, Sinh Tố &amp; Nước Ép Hoa Quả - Lê Trọng Tấn	7 Lô A18 Lê Trọng Tấn, X. An Khánh, Hoài Đức, Hà Nội	5.0	4	06:30 - 23:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Phở Nhật - Di Ái	104 Di Ái, X. Di Trạch, Hoài Đức, Hà Nội	4.5	50+	10:00 - 14:00 | 17:00 - 21:00	33,000	100,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè, Shop Online	Bếp Ngon Cô Hường - Đồ Ăn Vặt - Shop Online	17 Thôn Phú Đa, Thị Trấn Trạm Trôi, X. Đức Thượng, Hoài Đức, Hà Nội	4.5	10+	09:00 - 23:59	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Hương Coffee - Nước Ép &amp; Hoa Quả Dầm	Chân Toà Gemek 1 Lê Trọng Tấn, X. An Khánh, Hoài Đức, Hà Nội	0	0	08:00 - 23:00	30,000	40,000	0.0%	0	0
+Quán ăn	Gà Tần &amp; Chim Câu Tần Ngải Cứu - Cô Tấm (không có menu)	Gemek 2 KĐT An Khánh, X. An Khánh, Hoài Đức, Hà Nội	0	0	06:00 - 21:00	20,000	160,000	0.0%	0	0
+Ăn vặt/vỉa hè	Tiệm Bánh 1992	184 Văn Minh, Xã Kim Trung, Hoài Đức, Hà Nội	5.0	10+	07:30 - 21:30	20,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Dragon Tea - Trạm Trôi	57 Khu 6 Trạm Trôi, X. Trạm Trôi, Hoài Đức, Hà Nội	4.5	100+	08:00 - 22:00	10,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cà Phê 20 - Trà Sữa - Số 20 Khu 6 Trạm Trôi Hoài Đức	Số 20 Khu 6 Trạm Trôi, T.T. Trạm Trôi, Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Café/Dessert	RoyalTea - Lai Xá	69 Lai Xá, P. Kim Chung, Hoài Đức, Hà Nội	0	0	08:00 - 22:30	0	0	ShopeeFood</span	0	0
+Nhà hàng	Bún Cá Rô Phúc Còi - Bún - 15 Đường 422B	15 Đường 422B, X. Vân Canh, Hoài Đức, Hà Nội	4.5	50+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Vân Đán Ốc &amp; Đồ Ăn Vặt - The Golden An Khánh	Kiot 10, Toà 18T1 The Golden KĐT Nam An Khánh, Hoài Đức, Hà Nội	4.5	10+	10:00 - 14:00 | 15:30 - 23:30	10,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Chanh Bụi Phố - Ngãi Cầu - An Khánh	Số 588 Đối Diện Bưu Điện Ngãi Cầu, An Khánh, X. An Khánh, Hoài Đức, Hà Nội	0.0	1	09:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Tokki Chicken - Phố Ăn Vặt - An Khánh	584 Bưu Điện Ngãi Cầu, X. An Khánh, Hoài Đức, Hà Nội	4.5	100+	10:00 - 22:00	50,000	100,000	0.0%	<span>_._</span>	0
+Quán nhậu	Đặc Sản Lẩu Lòng Bò Lại Yên - Đặc Sản Lại Yên - Đồng Lầu	81 Đồng Lầu, Xã Lại Yên, Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Café/Dessert, Tiệm bánh	Royaltea  - Đồ Uống &amp; Ăn Vặt - Song Phương	Dốc Xóm 6, Thôn 5, Phương Viên, X. Song Phương, Hoài Đức, Hà Nội	4.5	2	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Nhà hàng	Nhà Hàng Thủy Trại Lương Sơn Quán - Cựu Quán	15 Ngõ 14 Cựu Quán, X. Đức Thượng, Hoài Đức, Hà Nội	0	0	10:00 - 21:00	149,000	580,000	0.0%	0	0
+Nhà hàng	Phố Đông Restaurant - Hải Sản - 134 Phố Đông	134 Phố Đông Vân Lũng, An Khánh, Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	ShopeeFood</span	0	0
+Tiệm bánh	Hopono Bakery - Bánh Sinh Nhật - Ngã Tư Canh	1 Ngã Tư Canh, Đường 422B, X. Vân Canh, Hoài Đức, Hà Nội	0	0	05:00 - 22:30	20,000	400,000	0.0%	0	0
+Giao cơm văn phòng	Cơm VP - Cơm Phần, Bún Đậu - Lê Trọng Tấn (không có menu)	Tòa 32C The Golden An Khánh Lê Trọng Tấn, P. An Khánh, Hoài Đức, Hà Nội	4.0	1	10:30 - 14:00 | 16:30 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	CAFE GOAL - Đồ Uống - Chung Cư Tân Việt	Tầng 1, Tòa A Chung Cư Tân Việt, X.Đức Thượng , Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Café/Dessert	Grapa Coffee - Trà Sữa &amp; Bánh Ngọt - Khu 7 Trạm Trôi	Khu 7 Trạm Trôi, TT. Trạm Trôi, Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	Ông Nghĩa - Phở Bò Gia Truyền - Ngã Tư Canh	Ngã Tư Canh, X. Vân Canh, Hoài Đức, Hà Nội	0.0	3	10:00 - 22:00	30,000	40,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Bia Hay - Vịnh Hải Sản - Lê Trọng Tấn	Số 10-A18 KĐT Gleximco An Khánh (đối diện tòa, Gemek An Phú Hoài Đức Lê Trọng Tấn, P. An Khánh, Hoài Đức, Hà Nội	2.5	6	09:30 - 13:30 | 16:30 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Soranchi Coffee - Cafe - L506* Khu Biệt Thự LK Bảo Sơn (không có menu)	L506* Khu Biệt Thự LK Bảo Sơn, X. An Khánh, Hoài Đức, Hà Nội	5.0	1	08:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Quán Phủi - An Khánh, Hoài Đức	Khu Tái Định Cư An Thọ, X. An Khánh, Hoài Đức, Hà Nội	0	0	09:30 - 21:30	35,000	800,000	ShopeeFood</span	0	0
+Café/Dessert	Trà Xíu	19 Đoàn Kết, Xã La Phù, Hoài Đức, Hà Nội	0	0	09:00 - 23:00	0	0	ShopeeFood</span	0	0
+Quán ăn	Ẩm Thực Tây Bắc - An Khánh	66 Khu Biệt Thự Thiên Đường Bảo Sơn, P. An Khánh, Hoài Đức, Hà Nội	0	0	09:00 - 22:30	50,000	400,000	ShopeeFood</span	0	0
+Café/Dessert	Dewin Coffee	21- A22 Khu A Đô Thị Geleximco Lê Trọng Tấn, Xã An Khánh, Hoài Đức, Hà Nội	0	0	07:30 - 22:00	0	0	ShopeeFood</span	0	0
+Café/Dessert	Ding Tea - An Khánh	ĐT 72, P. An Khánh, Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	ShopeeFood</span	0	0
+Shop Online	Đệ Nhất Quay - An Khánh	Km9 Đại Lộ Thăng Long, X. An Khánh, Hoài Đức, Hà Nội	0	0	09:00 - 21:00	50,000	20,000	ShopeeFood</span	0	0
+Tiệm bánh	Tiệm Bánh Cherry - An Trai (không có menu)	Số 71, Đường 422B Vân Canh, X. Vân Canh, Hoài Đức, Hà Nội	0	0	06:00 - 22:00	0	0	ShopeeFood</span	0	0
+Ăn vặt/vỉa hè	Quán Quê - Lai Xá	2 Ngõ 2 Lai Xá, X. Kim Chung, Hoài Đức, Hà Nội	0	0	09:00 - 22:30	13,000	438,000	ShopeeFood</span	0	0
+Quán ăn	Nhà Hàng Vịt 30	21 Lô 32A Lê Trọng Tấn, KĐT Geleximco, Xã An Khánh, Hoài Đức, Hà Nội	0	0	09:00 - 23:30	0	0	ShopeeFood</span	0	0
+Quán ăn	Gà Rán - Cơm Gà 40 Vân Canh	40 Đường 422B Vân Canh, Xã Vân Canh, Hoài Đức, Hà Nội	0	0	08:30 - 22:00	0	0	ShopeeFood</span	0	0
+Nhà hàng	Nhà Hàng An Khánh	Phố Đông - Ngãi Cầu, Xã An Khánh, Hoài Đức, Hà Nội	0	0	10:00 - 22:00	30,000	500,000	ShopeeFood</span	0	0
+Café/Dessert	GOOFOO GELATO - Kem Ý - Chiến Thắng	141 Chiến Thắng, X. Dương Liễu, Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	Mr Nhắng - Vịt Suối &amp; Gà Chọi - Khu Đô Thị Lideco	01 NV37 Khu Đô Thị Lideco Quốc Lộ 32, P. Trạm Trôi, Hoài Đức, Hà Nội	0	0	09:00 - 21:00	0	0	0.0%	0	0
+Quán ăn	Quán Ngon Hà Nội - Bún Sườn Mọc - KĐT Thiên Đường Bảo Sơn	Số L5 – 04A KĐT Thiên Đường Bảo Sơn, X. An Khánh, Hoài Đức, Hà Nội	0	0	06:00 - 14:00 | 18:00 - 22:00	20,000	50,000	0.0%	0	0
+Shop Online	Bếp Mẹ Ca - Trà Sữa Umii - Tây Lai Xá	75 Tây Lai Xá, X. Kim Chung, Hoài Đức, Hà Nội	5.0	6	11:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Shop Online	Trà Má 38 - Trà - Lê Trọng Tấn	Sảnh A1 Gemek 1  Lê Trọng Tấn, X. An Khánh, Hoài Đức, Hà Nội	0	0	09:00 - 21:30	0	0	0.0%	0	0
+Quán ăn	Cơm Trang Nhung (không có menu)	Khu 6 Quốc Lộ 32, X. Trạm Trôi, Hoài Đức, Hà Nội	4.5	50+	10:00 - 21:30	35,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn, Ăn vặt/vỉa hè	Chip &amp; Pi - Phở Cuốn &amp; Nước Ép - Lai Xá (không có menu)	 38a Bắc Lai Xá, X. Đức Giang, Hoài Đức, Hà Nội	4.5	9	09:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Nhà hàng, Buffet	Lẩu Nướng Kira Bbq - Nhà Hàng - Lai Xá (không có menu)	Chung Cư New Tatco Lai Xá, Xã Kim Chung, Hoài Đức, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Café/Dessert, Ăn vặt/vỉa hè	Layla Vân Canh - Trà Chanh &amp; Trà Sữa - Vân Canh (không có menu)	32 Liền Kề 29 Hud Vân Canh, Xã Vân Canh, Hoài Đức, Hà Nội	4.5	50+	08:00 - 22:00	0	0	0.0%	0	0
+Ăn vặt/vỉa hè	Chè Ngố - KĐT Đại Thanh	12 Liền Kề 1 Đại Thanh, Xã Tả Thanh Oai, Thanh Trì, Hà Nội	4.5	100+	11:00 - 22:00	6,000	25,000	0.0%	9.1	3
+Café/Dessert	Trà Sữa Tocotoco - Yên Xá	49 Ngã 3 Đường 70 - Yên Xá, Thanh Trì, Hà Nội	4.5	999+	08:30 - 23:00	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Tình Linh - Bún Bò Huế	53 Ngõ 68 Triều Khúc, Thanh Trì, Hà Nội	4.5	999+	07:38 - 22:49	30,000	50,000	0.0%	9.0	13
+Café/Dessert	Highlands Coffee - South Building	Ô đất HH.III.12.2 KĐT Mới Pháp Vân - Tứ Hiệp, X. Tứ Hiệp, Thanh Trì, Hà Nội	4.5	999+	07:45 - 21:30	19,000	65,000	0.0%	8.0	1
+Café/Dessert	Ding Tea - Ngọc Hồi	Ngã Ba Ngọc Hồi, KM70, Lưu Phái, X. Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	500+	08:00 - 22:30	30,000	50,000	0.0%	6.8	2
+Café/Dessert	Trà Sữa Tocotoco - Ngọc Hồi (không có menu)	Km13 QL1A Ngọc Hồi, X. Ngọc Hồi, Thanh Trì, Hà Nội	4.5	999+	08:45 - 22:15	25,000	60,000	0.0%	0	0
+Café/Dessert	Royaltea - 634 Kim Giang	6 Ngõ 634 Kim Giang, Xã Thanh Liệt, Thanh Trì, Hà Nội	4.5	999+	08:30 - 22:30	25,000	50,000	0.0%	6.1	9
+Café/Dessert	Trà Sữa Bobapop - The Manor Central Park	 8 - TM1C - C1, Khu Đô Thị The Manor Central Park, Xã Thanh Liệt, Thanh Trì, Hà Nội	4.5	999+	08:30 - 22:00	20,000	50,000	0.0%	7.2	52
+Quán ăn	Five Star Vietnam - Tân Triều	158 Tân Triều, X. Tân Triều, Thanh Trì, Hà Nội	4.5	500+	09:00 - 22:00	15,000	50,000	0.0%	4.2	5
+Café/Dessert	Trà Sữa Tocotoco - Ecogreen	286 Nguyễn Xiển, P. Tân Triều, Thanh Trì, Hà Nội	4.5	500+	09:30 - 21:15	25,000	80,000	0.0%	4.2	1
+Quán ăn	Bánh Gà Hồng Mai - Gà Rán &amp; Khoai Lắc	171 Triều Khúc,  X. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	08:30 - 21:30	10,000	45,000	0.0%	10.0	1
+Ăn vặt/vỉa hè, Shop Online	Cơm Gà 24h - Poka Tea	197A Yên Xá, Xã Tân Triều, Thanh Trì, Hà Nội	3.5	100+	09:00 - 23:00	9,000	12,000	0.0%	2.6	1
+Quán ăn	Chim Quay &amp; Dừa Dầm - Tân Triều	105A Tân Triều, X. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	08:00 - 23:59	30,000	60,000	0.0%	9.2	1
+Quán ăn	KCC - Phở &amp; Cơm Gà Xối Mắm - Ngõ 300 Nguyễn Xiển	26 Ngõ 300 Nguyễn Xiển, X. Tân Triều, Thanh Trì, Hà Nội	4.5	50+	06:45 - 14:30 | 17:30 - 21:30	30,000	60,000	0.0%	7.2	6
+Quán ăn	An Huy - Cơm Tấm &amp; Bánh Canh Sài Gòn	114 Chiến Thắng, Xã Tân Triều, Thanh Trì, Hà Nội	4.0	100+	09:00 - 21:00	35,000	50,000	0.0%	6.3	10
+Quán ăn	Coco Nama Tea Bar - Triều Khúc	9/66B Triều Khúc, P. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	09:00 - 22:40	29,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Lé Nama - Vũ Lăng	Đ. Vũ Lăng, Gần Nhà Thờ Tự Khoát, Thanh Trì, Hà Nội	4.5	100+	10:00 - 22:30	25,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Kafa Cafe - Khu Đô Thị Đại Thanh	Số 31,32 - LK01 - Khu Đô Thị Đại Thanh, Thanh Trì, Hà Nội	4.5	10+	07:00 - 21:00	25,000	100,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Bí Đao Nam Duy - Hà Nội - 634 Kim Giang	634 Kim Giang, X. Thịnh Liệt, Thanh Trì, Hà Nội	4.5	10+	08:30 - 22:30	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Chiin - Cafe &amp; Trà Chanh - Đường Số 70	 8 Đường Số 70, X.Tan Trieu, Thanh Trì, Hà Nội	4.5	50+	00:00 - 02:00 | 07:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Tmore - Tiệm Trà Chanh - Thanh Trì	Nhà Thờ Tự Khoát, Vũ Lăng, X. Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	50+	09:00 - 22:00	10,000	30,000	0.0%	<span>_._</span>	0
+Shop Online	Tai Tea 24/7 - Shop Online (không có menu)	32 Ngõ 908 Kim Giang, P. Thanh Liệt, Thanh Trì, Hà Nội	4.5	100+	00:00 - 23:59	20,000	40,000	0.0%	0	0
+Café/Dessert	Sữa Chua Trân Châu Hà Nội - Thanh Trì (không có menu)	68 Đường Mới, Tự Khoát, X. Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	50+	10:00 - 22:45	20,000	30,000	0.0%	0	0
+Quán ăn	Bánh Mì B52 - Bánh Mì Bò Nướng - Triều Khúc	12 Ngõ 68 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	08:00 - 22:17	25,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Miutea - Triều Khúc	90 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	09:24 - 23:20	12,000	40,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Tàu Hũ Tào Phớ Cô Thắm - Tào Phớ - Cổ Điển	71 Cổ Điển, Thị Trấn Văn Điển, Thanh Trì, Hà Nội	4.5	50+	09:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	BUMTRO - Bún Trộn Nam Bộ - Phan Trọng Tuệ	4 Ngách 31/2 Đường Phan Trọng Tuệ, P. Văn Điển, Thanh Trì, Hà Nội	4.5	100+	07:30 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	BÚN BÒ HUẾ - QUÁN RUỐC ANH DŨNG	27 Cầu Bươu Phan Trọng Tuệ, X. Tả Thanh Oai, Thanh Trì, Hà Nội	4.5	50+	05:37 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Miutea - Tả Thanh Oai	36 Tả Thanh Oai, P. Tả Thanh Oai, Thanh Trì, Hà Nội	4.5	500+	10:00 - 23:30	12,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Đức Food - Mì Trộn Indomie Online - Triều Khúc	Số 20 Ngõ 136 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	500+	00:00 - 23:59	11,000	145,000	0.0%	<span>_._</span>	0
+Quán ăn	Anh Duy - Mì Trộn Indomie &amp; Mì Tương Đen - Triều Khúc	68 Ngõ 68 Triều Khúc, Xã Tân Triều, Thanh Trì, Hà Nội	4.5	500+	00:00 - 02:00 | 09:00 - 23:59	15,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Rosier - Fresh Tea &amp; Coffee - Nguyễn Xiển	286 Nguyễn Xiển, X. Tân Triều (Hầm Ecogreen, Siêu thị Top Market), Thanh Trì, Hà Nội	4.5	500+	08:30 - 21:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Miutea - Tựu Liệt	209 Tựu Liệt, Xã Tam Hiệp, Thanh Trì, Hà Nội	4.5	500+	07:45 - 22:00	12,000	28,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	CÔ THÚY Food - Chè Ba Miền &amp; Tào Phớ Trân Châu - Phan Trọng Tuệ	186 Phan Trọng Tuệ, X. Tam Hiệp, Thanh Trì, Hà Nội	4.0	5	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Royaltea Tecco Tứ Hiệp - Mrs Thái Hà	48 Khu Đấu Giá Tứ Hiệp, X. Tứ Hiệp, Thanh Trì, Hà Nội	4.5	10+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Kem Hawaii - Kem Dừa, Trà Sữa &amp; Ăn Vặt - Vũ Lăng	Nhà Thờ Tự Khoát Vũ Lăng, X. Ngũ Hiệp, Thanh Trì, Hà Nội	0.0	1	10:00 - 22:29	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Sữa Chua Trân Châu Hạ Long Delivery - 634 Kim Giang	6 Ngõ 634 Kim Giang, P. Thanh Liệt, Thanh Trì, Hà Nội	3.5	100+	08:30 - 22:30	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Tráng Trộn &amp; Nướng - Ngõ 53 Thôn Nội	28 Ngõ 53 Thôn Nội, X. Thanh Liệt, Thanh Trì, Hà Nội	4.5	10+	08:20 - 23:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Yihetang - Trà Sữa Nướng - 634 Kim Giang	Số 6 Ngõ 634 Kim Giang, Xã Thanh Liệt, Thanh Trì, Hà Nội	4.5	100+	08:30 - 22:30	25,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tiger Sugar By HongKong - Tứ Hiệp	28 Tứ Hiệp, Xóm Mới Cương Ngô, Thanh Trì, Hà Nội	4.5	100+	08:30 - 22:30	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Tok Trà Chanh - 736 Kim Giang	736 Kim Giang, X. Thanh Liệt, Thanh Trì, Hà Nội	4.5	10+	10:00 - 22:00	5,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Mì Aji - Mì Trộn Indomie - Triều Khúc (không có menu)	68/61 Triều Khúc, P. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	00:00 - 02:00 | 09:00 - 23:59	0	0	0.0%	0	0
+Quán ăn	Quang Vinh - Bún Bò Huế - Triều Khúc	62 Ngõ 68 Triều Khúc, Thanh Trì, Hà Nội	4.5	999+	08:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Sữa Chua Trân Châu Hạ Long Delivery - Tứ Hiệp	28 Tứ Hiệp, Xóm Mới Cương Ngô (Đối Diện Trạm Y Tế Xã Tứ Hiệp), Thanh Trì, Hà Nội	4.5	100+	08:30 - 22:30	5,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Deilyno - Bún Trộn Nam Bộ &amp; Miến Trộn Đặc Biệt - Tả Thanh Oai	Mặt Tiền Đường Tả Thanh Oai, Cách 3 Nhà Tính Từ Ngõ 14, Thanh Trì, Hà Nội	4.5	100+	07:00 - 23:59	50,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Mì Chảo, Bún Đậu - Ngõ 66B Triều Khúc	12 Ngõ 66B Phố Triều Khúc, Triều Khúc, Xã Tân Triều, Thanh Trì, Hà Nội	4.5	10+	08:00 - 23:30	10,000	250,000	0.0%	<span>_._</span>	0
+Quán ăn	Béo Bún Đậu	64 Ngõ 68 Phố Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	50+	08:00 - 22:00	15,000	70,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Gà Luộc, Gà Ủ Muối &amp; Cơm Cháy - Duyên Dương	35 Ngách 136/6 Triều Khúc, P. Tân Triều, Thanh Trì, Hà Nội	4.5	500+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Đồng Xanh - Nước Ép Hoa Quả	Kiot 13 Đường Quang Lai, Thanh Trì, Hà Nội	4.5	50+	08:00 - 22:00	25,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tmore - Tiệm Trà Chanh - Triều Khúc	6 Ngõ 66A Triều Khúc, Thanh Trì, Hà Nội	4.5	500+	09:00 - 23:30	15,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Hùng Oanh - Bún Bò Huế - Triều Khúc	Số 2 Ngõ 68 Triều Khúc, P. Tan Trieu, Thanh Trì, Hà Nội	4.5	100+	07:00 - 23:10	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Anh Quân - Bún Trộn Nam Bộ &amp; Cơm Rang (không có menu)	Mặt Đường Ngõ 14 Tả Thanh Oai, Thanh Trì, Hà Nội	4.5	100+	00:00 - 23:59	100,000	100,000	0.0%	0	0
+Café/Dessert	Royaltea - Tứ Hiệp	28 Tứ Hiệp, Thanh Trì, Hà Nội	4.5	999+	08:30 - 22:30	30,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Bảo Anh - Mì Trộn Indomie &amp; Bánh Mì Que - Cầu Bươu	17 Ngõ 2 Cầu Bươu, X. Tả Thanh Oai, Thanh Trì, Hà Nội	4.5	100+	00:00 - 01:00 | 08:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	The Led - Trà Sữa &amp; Trà Chanh - Số 18 Xóm Cầu	Số 18 Xóm Cầu, X. Hữu Hòa, Thanh Trì, Hà Nội	4.5	8	09:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Yihetang - Trà Sữa Nướng - Tứ Hiệp	Số 28 Tứ Hiệp, Xóm Mới Cương Ngô, Thanh Trì, Hà Nội	4.5	100+	08:30 - 22:30	15,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Bánh Mì Chảo, Bún Đậu - Ngõ 68 Triều Khúc	21, Ngõ 68 Triều Khúc, Thanh Trì, Hà Nội	4.5	100+	08:00 - 23:28	12,000	210,000	0.0%	<span>_._</span>	0
+Shop Online	Bếp Nhà Trang - Nước Ép &amp; Đồ Ăn Vặt - Yên Xá	12 Ngách 50/7 Ngõ 21 Yên Xá, P. Tân Triều, Thanh Trì, Hà Nội	4.5	50+	06:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Sữa MiuTea - Quỳnh Đô	Xóm 2 Quỳnh Đô, Xã Vĩnh Quỳnh, Thanh Trì, Hà Nội	4.5	500+	08:30 - 23:00	20,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Lòng Bò Hải Đăng - Kim Giang	746 Kim Giang, X. Thanh Liệt , Thanh Trì, Hà Nội	0.0	1	09:30 - 14:00 | 16:30 - 22:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Dragon Tea	72 Trần Thủ Độ (Cổng Sau Chùa Văn Điển), Xã Tứ Hiệp, Thanh Trì, Hà Nội	4.5	100+	08:00 - 21:30	40,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Huế Cô Ba	68 Vũ Lăng, Xã Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	10+	05:50 - 21:40	40,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Huế A Tân - Bún - Yên Xá	12 Liền Kề 11 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	07:08 - 13:59 | 17:30 - 23:46	0	0	0.0%	<span>_._</span>	0
+Quán ăn	QUÁN NGON - Chuyên Gà Tươi	1 Lô TT1, Khu Đô Thị Tứ Hiệp, X. Tứ Hiệp, Thanh Trì, Hà Nội	4.0	6	08:30 - 22:30	5,000	999,000	0.0%	<span>_._</span>	0
+Quán ăn, Ăn vặt/vỉa hè	Ăn Vặt - Mỳ Trộn Indo - Thủy Vẩu	5 Ngách 673/61A X3 Văn Điển (Cạnh Trường Mần Non Tuổi Thần Tiên), Cổ Điển, TT. Văn Điển, Thanh Trì, Hà Nội	4.5	100+	08:00 - 23:59	20,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Thuỳ Linh - Cháo Dinh Dưỡng - Tựu Liệt	74 Tựu Liệt, TT. Văn Điển, Thanh Trì, Hà Nội	4.5	10+	05:00 - 22:30	20,000	30,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bánh Mì Que - Chuẩn Vị Hải Phòng - Cầu Bưu	17 Ngõ 2 Cầu Bươu, Xã Tân Triều, Thanh Trì, Hà Nội	4.5	100+	08:00 - 23:59	15,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	LẨU CUA ĐỒNG 21 - Yên Xá	28 Ngõ 21 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	0.0	2	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Cafe 351 - Chùa Hưng Long	351 Đông Mỹ, X. Đông Mỹ, Thanh Trì, Hà Nội	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	CHÁO DINH DƯỠNG THUỲ LINH - Tứ Hiệp	98 Tứ Hiệp, Thị Trấn Văn Điển, Thanh Trì, Hà Nội	4.5	100+	06:00 - 22:00	14,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Tần Bà Xuân - 17 Ngõ 66A Triều Khúc	17 Ngõ 66A Phố Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Phở Bò &amp; Cơm Rang Nam Định - Chiến Thắng	139D Chiến Thắng, Thanh Trì, Hà Nội	4.5	50+	10:00 - 22:30	25,000	35,000	ShopeeFood</span	7.0	2
+Quán ăn	Lẩu Bò Cô Tư	27 Ngõ 21 Yên Xá, Xã Tân Triều, Thanh Trì, Hà Nội	4.5	100+	10:30 - 22:00	10,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Gà Luộc - Triều khúc	70 Ngõ 66A Triều Khúc, Thanh Trì, Hà Nội	4.5	999+	00:00 - 02:00 | 09:00 - 23:59	20,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Cồ Chí - Phở Bò, Cơm Rang &amp; Mì Xào	209 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	10+	07:00 - 22:00	20,000	30,000	ShopeeFood</span	5.0	0
+Quán ăn	Bún Bò Huế Tú Anh - Triều Khúc	4 Ngõ 68 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	10+	08:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Nem Nướng Nha Trang - Ngoại Quán	Kiot 27 CT10B, X. Tả Thanh Oai, Thanh Trì, Hà Nội	4.5	10+	09:00 - 14:00 | 16:00 - 21:15	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Hằng Nga - IEC Complex	Liền kề TT1-12 chung cư IEC Residence Vũ Lăng, X. Tứ Hiệp, Thanh Trì, Hà Nội	4.5	50+	06:00 - 13:30 | 17:30 - 21:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Bí Đao Cát Tiên - Phan Trọng Tuệ (không có menu)	200 Phan Trọng Tuệ, X. Thanh Liệt, Thanh Trì, Hà Nội	4.5	50+	08:30 - 22:00	20,000	30,000	0.0%	0	0
+Quán ăn	Hà Béo Cơm Tấm &amp; Ăn Vặt Hoa Quả - Tự Khoát	Đường Tự Khoát, X. Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	10+	00:00 - 23:59	15,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Lý Quốc Sư - Phở &amp; Cơm Rang - Nguyễn Bặc	116 Nguyễn Bặc, Xã Tứ Hiệp, Thanh Trì, Hà Nội	4.5	10+	05:00 - 14:00 | 17:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Nọng - Vũ Lăng	 Vũ Lăng, X. Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	500+	08:30 - 22:00	5,000	29,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Quán Hương Vị Việt Miền Bắc - Gà Rán &amp; Khoai Tây Chiên - 77 Yên Xá	77 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	4.5	10+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Shop Online	Bếp Kemkem - Nước Ép &amp; Đồ Ăn Vặt	Ngõ 300 Nguyễn Xiển, X. Tân Triều, Thanh Trì, Hà Nội	4.5	50+	09:00 - 23:59	20,000	50,000	0.0%	7.0	1
+Tiệm bánh, Ăn vặt/vỉa hè	Bánh Da Lợn Nguyễn Kim - Cầu Bươu	KĐT Cầu Bưu, Tổ Dân Phố 2, X. Tân Triều, Thanh Trì, Hà Nội	0.0	2	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Chè Ngon 73 - Chung Cư Đại Thanh	Kiot 16 CT8C Chung Cư Đại Thanh, Phan Trọng Tuệ, Thanh Trì, Hà Nội	4.0	100+	09:00 - 21:59	15,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Miutea - Ngũ Hiệp	Chợ Tự Khoát, Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	10+	09:00 - 22:15	11,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Nem Nướng Nha Trang 268 - Triều Khúc	125 Tân Triều, Thanh Trì, Hà Nội	4.5	999+	00:01 - 23:59	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Chân Gà Sả Tắc &amp; Nem Nắm - Tân Triều	Số 3 Hẻm 17 Ngách 58 Ngõ 138 Tân Triều, Thanh Trì, Hà Nội	0.0	3	00:00 - 01:00 | 07:00 - 23:59	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Hưng Còi - Bún Bò Huế - Tân Triều	182 Tân Triều, X. Tân Triều, Thanh Trì, Hà Nội	4.5	50+	05:30 - 22:35	30,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Nem Nướng Nha Trang 2K93 - Nem Nướng Nha Trang &amp; Bánh Tráng Trộn - Tân Triều	125 Tân Triều, Thanh Trì, Hà Nội	4.5	100+	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà sữa Mixue - Yên Xá (không có menu)	9 Đường 70 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	0.0	2	08:00 - 23:00	15,000	35,000	0.0%	0	0
+Quán ăn	Bún Bò Huế Cô Liên - Bún - Ngõ 68 Triều Khúc	43 Ngõ 68 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	10+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Hào Béo - Bún Cá &amp; Bún Đậu Mắm Tôm	19 Ngõ 68 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	500+	08:00 - 23:00	20,000	50,000	0.0%	5.8	4
+Café/Dessert	Cing Hu Tang Đại Thanh - Sữa Tươi Nướng Trân Châu Đường Đen	Số 34 Liền Kề 3, Khu Đô Thị Đại Thanh, X. Tả Thanh Oai, Thanh Trì, Hà Nội	4.5	100+	09:00 - 22:50	20,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Song Hổ Quán - Phở Bò &amp; Cơm Rang - Văn Điển (không có menu)	5 Ngách 673/61A X3 Văn Điển (Cạnh Trường Mần Non Tuổi Thần Tiên), Thanh Trì, Hà Nội	4.5	100+	08:00 - 23:45	20,000	50,000	0.0%	0	0
+Café/Dessert	Trà Hoa Quả Trà Bí Đao Hạt Chia - 74 Triều Khúc	74 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	0.0	3	07:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Nước Ép &amp; Trà Tắc Thu Hương - Yên Xá	22 Ngách 87/59 Ngõ 21 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	0	0	09:00 - 23:00	20,000	30,000	0.0%	0	0
+Quán ăn	Cơm Gà BB - Lô 33 TT8 Đường Quang Lai	Lô 33 TT8 Đường Quang Lai, X. Ngũ Hiệp, Thanh Trì, Hà Nội	4.5	10+	10:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Coffee Việt - Tứ Hiệp	Lô BT4-9 Khu Đấu Giá Tứ Hiệp (Đối Diện Sảnh B1 Chung Cư Teco Garden), P. Ngũ Hiệp, Thanh Trì, Hà Nội	0.0	1	09:00 - 23:59	30,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Đông Hiền - Bánh Cuốn, Bún Chả &amp; Gà Tần - Yên Xá	Cổng Sân Bóng Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	4.5	500+	06:00 - 22:00	15,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Nem Nắm &amp; Dồi Sụn - Chợ Tựu Liệt	Chợ Tựu Liệt, Đường Tựu Liệt, X. Tam Hiệp, Thanh Trì, Hà Nội	0.0	1	09:00 - 22:00	20,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Huế Ninh Hồng - Triều Khúc	Số 2A Ngõ 68 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	0	0	07:30 - 23:30	0	0	0.0%	0	0
+Café/Dessert	LAYLY Trà Chanh - Trà Sữa &amp; Ăn Vặt	1 Cầu Mới Hữu Hòa, X. Hữu Hòa, Thanh Trì, Hà Nội	4.5	10+	08:00 - 23:00	18,000	65,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Linh Kun - 60 Ngõ 21 Yên Xá	Số Nhà 60 Ngõ 21 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	0.0	4	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	An Tâm Quán - Cơm &amp; Đồ Ăn Nhanh - Cầu Bươu	114 Cầu Bươu, X. Tân Triều, Thanh Trì, Hà Nội	3.5	10+	07:00 - 14:00 | 15:30 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Anh Khoa - Gà Rán &amp; Đồ Ăn Vặt - Yên Xá	36 Ngõ 39 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội	4.5	10+	09:00 - 23:30	20,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Bò Ngọc Anh - Cơm Gà Xối Mắm &amp; Cơm Sườn - Vũng Lăng	TT6-28 Vũ Lăng, X. Tứ Hiệp, Thanh Trì, Hà Nội	4.5	10+	06:00 - 15:00 | 17:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Cá Kim Giang - 600 Kim Giang	600 Kim Giang, X. Thanh Liệt, Thanh Trì, Hà Nội	3.5	10+	08:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà sữa Tocotoco - 354 Phan Trọng Tuệ	354 Phan Trọng Tuệ, P. Thanh Liệt, Thanh Trì, Hà Nội	4.5	100+	09:30 - 22:15	25,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Gà Rán Puka - 43 Quang Lai (không có menu)	43 Quang Lai, Xã Tứ Hiệp, Thanh Trì, Hà Nội	4.5	9	09:00 - 13:30 | 15:45 - 21:40	5,000	99,000	0.0%	0	0
+Ăn vặt/vỉa hè	Bánh Tráng Trộn A Péo - Đồ Ăn Vặt (không có menu)	34 Cầu Bươu, X. Tân Triều, Thanh Trì, Hà Nội	4.5	100+	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Tasty Food - Chè &amp; Đồ Ăn Vặt	16 Ngõ 21 Yên Xá, Xã Tân Triều, Thanh Trì, Hà Nội	4.5	100+	10:30 - 23:00	10,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Lưu Ngọc Hải - Cà Phê &amp; Trà Sữa - Văn Điển	Tổ 2 Xóm Bến Văn Điển, TT. Văn Điển, Thanh Trì, Hà Nội	0.0	3	09:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Sài Gòn - Bún Đậu Mẹt - Đường 70 Tân Triều	208 Đường 70 Tân Triều, Thanh Trì, Hà Nội	4.5	5	10:00 - 23:59	30,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Quán Chum Tea - Coffee - Triều Khúc	85 Ngõ 68 Triều Khúc, Xã Tân Triều, Thanh Trì, Hà Nội	4.5	100+	00:00 - 01:30 | 09:00 - 23:59	25,000	70,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Cô Thúy - Bánh Mì &amp; Trà Chanh - 92 Tứ Hiệp	92 Tứ Hiệp, P. Tứ Hiệp, Thanh Trì, Hà Nội	4.0	50+	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tocotoco - Phú Diễn	118 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	08:00 - 22:41	25,000	70,000	0.0%	6.0	13
+Ăn vặt/vỉa hè	Teen's Food - Các Món Ăn Vặt - Xuân Đỉnh	221 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	999+	06:33 - 22:30	10,000	50,000	0.0%	5.6	9
+Café/Dessert	Trà Sữa Royaltea - Cổ Nhuế	204 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	999+	09:36 - 23:59	35,000	60,000	0.0%	4.5	11
+Quán ăn	Cô Ba Duyên - Nem Nướng Nha Trang	25A Ngõ 31 Phố Văn Hội, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	500+	09:00 - 22:00	20,000	50,000	0.0%	10.0	1
+Café/Dessert	Trà Sữa Wait Tea - 61 Sông Nhuệ (không có menu)	61 Sông Nhuệ, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	500+	00:00 - 01:00 | 08:00 - 23:59	25,000	40,000	0.0%	0	0
+Café/Dessert	Sạch Coffee &amp; Tea	Sau CT3D KĐT Nam Cường, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	50+	06:00 - 23:00	20,000	50,000	0.0%	10.0	2
+Ăn vặt/vỉa hè	Cô Nga Chân Gà Xả Tắc - Ăn Vặt Chân Gà Sả Tắc &amp; Nem Rán - Trần Cung	422 Trần Cung, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	10+	00:00 - 23:59	10,000	80,000	0.0%	10.0	1
+Shop Online	Huyền Béo - Chè Online (không có menu)	50 Ngách 207/103 Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	999+	00:00 - 01:00 | 17:00 - 23:59	20,000	35,000	0.0%	0	0
+Quán ăn	Bún Bò Huế &amp; Cơm Niêu - Thanh Trúc	83 Sông Nhuệ, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	100+	08:30 - 23:00	0	0	0.0%	10.0	1
+Quán ăn	Nem Nướng Nha Trang Anh Tư (không có menu)	25 Ngõ 31 Văn Hội, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	999+	09:00 - 22:00	30,000	60,000	0.0%	0	0
+Café/Dessert	Trà Sữa Mixue - Lê Văn Hiến	139 Lê Văn Hiến, P. Đông Ngạc, Bắc Từ Liêm, Hà Nội	4.5	999+	08:30 - 22:15	30,000	100,000	0.0%	9.2	3
+Shop Online	Quán Tía Tô - Bún, Cháo Lòng &amp; Cơm Các Loại	Số 37 Ngõ 2 Kiều Mai, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	07:00 - 23:59	5,000	45,000	0.0%	10.0	5
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Phố Nhổn	53 Phố Nhổn, Bắc Từ Liêm, Hà Nội	4.5	999+	08:00 - 22:25	20,000	35,000	0.0%	<span>_._</span>	0
+Shop Online	A Mi - Tuyệt Đỉnh Mì Trộn &amp; Ăn Vặt Online	7 Ngõ 389 Cổ Nhuế, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	500+	10:30 - 22:20	25,000	45,000	0.0%	9.8	1
+Café/Dessert	Trà Sữa Nướng Yi He Kao Nai - Trung Kiên	21 Ngách 9 Ngõ 85 Trung Kiên, Bắc Từ Liêm, Hà Nội	4.5	100+	08:35 - 22:30	15,000	50,000	0.0%	9.9	20
+Ăn vặt/vỉa hè	Sữa Xay Nguyên Chất - Hoàng Công Chất	429 Hoàng Công Chất, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	100+	00:01 - 05:59 | 06:00 - 23:59	10,000	30,000	0.0%	8.3	3
+Quán ăn	Bún Đậu Mẹt 39 - Cầu Diễn	39 Ngõ 99 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	09:00 - 23:00	25,000	35,000	0.0%	<span>_._</span>	0
+Shop Online	Tipu Snack - Đồ Ăn Vặt Online	Cửa Hàng HT Mart (Hàng Thái Lan)-Sảnh Dân Cư Tầng 1, Toà N03-T5 KĐT Ngoại Giao Đoàn (Đằng Sau Nhà Thuốc Vĩnh Phúc 2), P. Xuân Tảo, Bắc Từ Liêm, Hà Nội	4.5	100+	08:00 - 21:45	5,000	105,000	0.0%	9.3	96
+Nhà hàng	Papas' Chicken - Embassy Garden Ngoại Giao Đoàn (không có menu)	LK A04, Embassy Garden, KĐT Tây Hồ Tây, Xuân Tảo, P. Xuân Tảo, Bắc Từ Liêm, Hà Nội	4.5	999+	10:00 - 21:30	50,000	150,000	0.0%	0	0
+Quán ăn	Bún Bò Huế Trang Nam - Lê Văn Hiến (không có menu)	141 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội	4.5	999+	07:30 - 22:30	30,000	50,000	0.0%	0	0
+Shop Online	HaNa Gâteaux - Shop Online	567 Phạm Văn Đồng, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	500+	00:00 - 23:59	30,000	70,000	0.0%	8.1	8
+Ăn vặt/vỉa hè	Oppa Tea - Trà Sữa &amp; Ăn Vặt - Ngọa Long	5 Ngọa Long, P. Minh Khai, Bắc Từ Liêm, Hà Nội	4.5	999+	00:00 - 23:59	10,000	30,000	0.0%	9.2	1
+Shop Online	Ốc Tân Xuân	Ngõ 87 Tân Xuân, Bắc Từ Liêm, Hà Nội	4.5	100+	10:00 - 23:59	40,000	90,000	0.0%	8.0	1
+Ăn vặt/vỉa hè	Nem Nướng Nha Trang &amp; Bánh Mì Hân Nguyên	34 Ngõ 162 Nguyên Xá, P. Minh Khai, Bắc Từ Liêm, Hà Nội	4.5	999+	09:00 - 23:59	15,000	25,000	0.0%	8.0	1
+Quán ăn	Tana - Siêu Thị Bánh Tráng - Võ Quý Huân	25 Võ Quý Huân, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	09:00 - 21:45	10,000	30,000	0.0%	7.8	1
+Quán ăn	Chicken BBQ - Cơm Văn Phòng - Văn Hội	29 Ngõ 31 Văn Hội, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	999+	10:00 - 23:59	25,000	50,000	0.0%	7.2	6
+Café/Dessert	Chè Sài Gòn Tuyết Nhung - Nhổn (không có menu)	Ngã tư Nhổn, Bắc Từ Liêm, Hà Nội	4.5	500+	09:00 - 22:30	5,000	30,000	0.0%	0	0
+Quán ăn	Quán Kimbap - Ẩm Thực Hàn Quốc - Phú Diễn	83 Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	08:00 - 22:00	10,000	280,000	0.0%	6.6	18
+Quán ăn	Ba Vui - Vịt Cỏ Vân Đình	10 Hoàng Công Chất, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	100+	10:00 - 14:00 | 16:00 - 23:00	10,000	198,000	0.0%	7.6	7
+Quán ăn	Bún Bò Huế Đường Tàu - Cầu Diễn	26 Cầu Diễn, (Gần Đường Tàu) P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	06:00 - 22:30	30,000	30,000	0.0%	9.2	1
+Quán ăn	Bún Trộn Hoàng Phố - Hoàng Quốc Việt	7 Ngõ 238/4 Hoàng Quốc Việt, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	999+	00:00 - 23:59	20,000	60,000	0.0%	7.7	2
+Quán ăn	Thanh Nga - Bánh Xèo Miền Trung	18 Ngõ 56 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	999+	09:30 - 22:00	15,000	40,000	0.0%	7.2	10
+Café/Dessert	Coffee Tech 3	5 Phố Viên, P. Cố Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	10+	07:30 - 22:30	20,000	45,000	0.0%	7.2	1
+Quán ăn	Kim Chi Quán - Món Ăn Hàn Quốc - Sông Nhuệ	93 Sông Nhuệ, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	999+	08:59 - 22:20	15,000	140,000	0.0%	6.0	9
+Café/Dessert	The Sécond Coffee - Kosmo Tây Hồ	Shophouse S01 Kosmo Tây Hồ, 161 Xuân La, P. Xuân Tảo, Bắc Từ Liêm, Hà Nội	4.5	100+	08:00 - 21:30	30,000	100,000	0.0%	8.8	27
+Quán ăn	Bún Đậu Mẹt Linh Linh - Cầu Diễn	43 Ngõ 99 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	09:22 - 22:00	20,000	30,000	0.0%	10.0	1
+Café/Dessert	Royaltea - Trà Sữa Hồng Kông - Cổ Nhuế	1 Ngõ 273 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	500+	08:00 - 22:55	35,000	40,000	0.0%	8.7	19
+Café/Dessert	Royaltea - Phú Diễn	Số 41 Ngõ 187 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	07:00 - 23:00	20,000	60,000	0.0%	5.9	4
+Café/Dessert	Twitter Beans Coffee - Quang Minh Tower	Tầng 1, Tầng 1, N02T3, Quang Minh Tower,  Khu Ngoại Giao Đoàn, Ngô Quang Huy, Bắc Từ Liêm, Hà Nội	4.5	500+	07:30 - 22:00	25,000	65,000	0.0%	6.2	1
+Tiệm bánh	Tiệm Bánh Doremon - Bông Lan Trứng Muối	2 Ngõ 162 Cầu Diễn, P. Minh Khai, Bắc Từ Liêm, Hà Nội	4.5	100+	07:00 - 22:15	50,000	120,000	0.0%	9.2	1
+Shop Online	Lê Làn - Cháo, Mì Trộn &amp; Đồ Ăn Vặt Online	Nhà 1 Ngách 189 Ngõ 205 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	999+	09:00 - 22:59	10,000	50,000	0.0%	5.5	2
+Quán ăn	KCC - Phở Bò &amp; Cơm Rang - Đức Diễn	2 Đức Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	100+	07:00 - 22:00	35,000	70,000	0.0%	4.8	1
+Café/Dessert	Trà Sữa Feeling Tea - Lê Văn Hiến	23 Lê Văn Hiến, P. Đông Ngạc, Bắc Từ Liêm, Hà Nội	4.5	999+	10:00 - 21:50	15,000	30,000	0.0%	7.1	25
+Café/Dessert	Ding Tea - Cầu Diễn	103 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	08:30 - 22:30	25,000	100,000	0.0%	6.1	3
+Café/Dessert	Coffee Bottle - Cà phê - SH14, toà N5, Ecohome3, Tân Xuân	SH14, toà N5, Ecohome3, Tân Xuân, Bắc Từ Liêm, Hà Nội	4.5	10+	08:00 - 22:00	0	0	0.0%	3.8	1
+Café/Dessert	Nghiền Cafe Garden - Ngoại Giao Đoàn	BT6.9 Khu Ngoại Giao Đoàn, P. Xuân Tảo, Bắc Từ Liêm, Hà Nội	4.5	10+	07:00 - 23:00	20,000	55,000	0.0%	3.4	1
+Quán ăn	Quán Thiên Trường - Phở &amp; Cơm Rang	15 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	100+	07:00 - 21:30	25,000	50,000	ShopeeFood</span	10.0	2
+Ăn vặt/vỉa hè	Chè Ngon Phố - Tăng Thiết Giáp	17 Tăng Thiết Giáp, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	999+	00:00 - 01:00 | 09:00 - 23:59	15,000	35,000	0.0%	2.6	1
+Café/Dessert	Trà Sữa Miutea - Tài Chính	2 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội	4.5	999+	00:00 - 01:59 | 09:00 - 23:59	25,000	50,000	0.0%	2.8	1
+Café/Dessert	Trà Sữa Nướng - My Tea	17 Ngõ 234 Hoàng Quốc Việt, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	0.0	2	09:00 - 23:00	25,000	55,000	0.0%	10.0	1
+Nhà hàng	Lotteria - An Bình City	A8-10 An Bình City, Đường Số 11, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	999+	08:00 - 22:20	30,000	77,000	0.0%	3.8	2
+Café/Dessert	Tmore - Tiệm Trà Chanh - Cầu Diễn	312 Cầu Diễn, Bắc Từ Liêm, Hà Nội	4.5	100+	08:00 - 22:30	15,000	50,000	0.0%	8.0	1
+Café/Dessert	Trà Sữa Royaltea - Kẻ Vẽ	58 Kẻ Vẽ, P. Đông Ngạc, Bắc Từ Liêm, Hà Nội	4.5	999+	10:00 - 22:00	35,000	60,000	0.0%	2.9	3
+Ăn vặt/vỉa hè	Chè Truyền Thống, Hoa Quả Dầm &amp; Trà Sữa - 199 Xuân Đỉnh	199 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	100+	09:00 - 22:00	20,000	27,000	0.0%	9.0	1
+Café/Dessert	Trà Sữa Tiger Sugar - Ngõ 158 Phan Bá Vành	46 Ngõ 158 Phan Bá Vành, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	09:00 - 23:00	18,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tiger Hill - Phan Bá Vành	46 Ngõ 158 Phan Bá Vành, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	999+	09:00 - 23:00	19,000	49,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tiger Sugar - Xuân Đỉnh	15 Ngõ 2 Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	100+	08:30 - 23:00	20,000	30,001	0.0%	<span>_._</span>	0
+Café/Dessert	Highlands Coffee - Green Star	232 Phạm Văn Đồng, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	999+	07:00 - 22:00	20,000	100,000	0.0%	5.1	7
+Café/Dessert	Style City Coffee	Tầng 1, B7 Green Star, 234 Phạm Văn Đồng, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	10+	08:00 - 22:30	20,000	40,000	0.0%	7.8	1
+Ăn vặt/vỉa hè	Ăn Vặt Hoàng Uyên - Mực Rim &amp; Khô Bò Sợi - Khu Tập Thể Tăng Thiết Giáp	Số 47 Ngõ 2 Khu Tập Thể Tăng Thiết Giáp Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	0.0	2	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Quán Sông Hương - Đặc Sản Bún Bò Huế	64 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	50+	07:00 - 13:30 | 16:30 - 21:30	35,000	50,000	ShopeeFood</span	7.4	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long Delivery - Phú Diễn	Tầng 2, 101 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	50+	08:30 - 22:30	5,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Bí Đao Plus - Phan Bá Vành	46 Ngõ 158 Phan Bá Vành, Bắc Từ Liêm, Hà Nội	4.5	100+	08:30 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa OHA - Lê Văn Hiến	34 Ngõ 87 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	10+	09:30 - 23:00	5,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Sữa Chua Trân Châu Hạ Long Delivery - Cổ Nhuế	245 Cổ Nhuế, P. Cổ Nhuế, Bắc Từ Liêm, Hà Nội	4.5	50+	09:50 - 23:00	5,000	30,000	0.0%	<span>_._</span>	0
+Shop Online	Bibi Bếp - Chân Gà Ngâm Sả Ớt - Số 16 Ngõ 304 Hồ Tùng Mậu	Số 16 Nhà Sách Bảo Anh Ngõ 304 Đường Hồ Tùng Mậu, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	0.0	4	10:30 - 23:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Daboba Việt Nam - Nguyên Xá	5 Nguyên Xá, P. Minh Khai, Bắc Từ Liêm, Hà Nội	4.5	50+	08:30 - 22:30	15,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	Kem Tràng Tiền - Mega Market Thăng Long	Mega Market Thăng Long, 236 Phạm Văn Đồng, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	50+	09:00 - 21:30	30,000	120,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ngọc Thạch Quán - Sữa Chua &amp; Caramen - Đức Diễn	27 Đức Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội	4.5	500+	08:00 - 22:20	15,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Royaltea - 245 Cổ Nhuế	245 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	500+	08:35 - 23:00	30,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Pozaa Tea - Lê Văn Hiến	14 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	100+	08:15 - 23:00	30,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	RoyalTea - Xuân Đỉnh	222 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	100+	08:30 - 22:45	30,000	60,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Thanh Cảnh - Bánh Mì Chảo	86/132 Phố Nguyên Xá, P. Minh Khai, (Đi Vào Ngõ 296 Cầu Diễn 100m Rẽ Phải 50m), Bắc Từ Liêm, Hà Nội	4.5	100+	06:00 - 22:30	30,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mẹt Hoa Lan - Bún Đậu - Cổ Nhuế	526 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	100+	09:00 - 22:00	7,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Yihetang - Trà Sữa Nướng - Phú Diễn	Tầng 2, 101 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	100+	08:30 - 22:30	12,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Bí Đao An Nhiên - 359 Cổ Nhuế	Số 359 Cổ Nhuế, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	5.0	50+	08:00 - 23:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mẹt Phương Linh - Ngọa Long	1 Ngọa Long, P. Minh Khai, Bắc Từ Liêm, Hà Nội	4.5	100+	10:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Meo Meo Quán - Gà Ủ Muối, Xôi &amp; Đồ Ăn Vặt - Văn Hội	22 Ngõ 131 Văn Hội, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	10+	09:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Ăn Vặt 688 - Món Ăn Vặt - Cổ Nhuế	28 Ngõ 201 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	50+	07:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Sữa Chua Trân Châu Hạ Long Healthy - Xuân Đỉnh	15 Ngõ 2 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	100+	08:30 - 23:00	20,000	75,000	0.0%	<span>_._</span>	0
+Quán ăn	Garden House - Rau Má Mix - 87 Phú Diễn	87 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	100+	08:40 - 22:30	30,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiến Đạt Quán - Nem Nướng Nha Trang &amp; Bún Đậu Mẹt	14 Ngõ 87 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	100+	10:00 - 23:55	0	0	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Samy - Mì Cay &amp; Trà Sữa	9 Ngõ 172 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	100+	07:00 - 23:00	36,000	500,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tiger Sugar By HongKong - Cổ Nhuế	245 Cổ Nhuế - Cổ Nhuế 2 - Bắc Từ Liêm – Hà Nội, Bắc Từ Liêm, Hà Nội	4.5	100+	08:34 - 23:00	20,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Bí Đao Nam Duy - Hà Nội - Nguyên Xá	5 Nguyên Xá, P. Minh Khai, Bắc Từ Liêm, Hà Nội	4.5	50+	08:30 - 22:50	15,000	30,000	0.0%	<span>_._</span>	0
+Shop Online	Hoàng Anh - Mì Trộn Indomie - Shop Online	6 Ngõ 342 Hồ Tùng Mậu, P. Phú Diễn, Bắc Từ Liêm, Hà Nội	4.5	999+	00:00 - 02:00 | 10:30 - 23:59	22,000	36,000	0.0%	<span>_._</span>	0
+Café/Dessert	Chè Ngon Phố - Ngõ 59 Lê Văn Hiến (không có menu)	27 Ngõ 59 Phố Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	500+	11:00 - 23:59	15,000	30,000	0.0%	0	0
+Quán ăn	Nem Nướng Tài Chính &amp; Hùng Việt - Nem Nướng Nha Trang - Lê Văn Hiến	22 Ngõ 56 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội	4.5	100+	09:30 - 13:30 | 13:31 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Trang Tròn - Chè Hiện Đại, Trà Sữa &amp; Đồ Ăn Vặt	165 Cầu Diễn (Đối Diện Cổng Chợ Đầu Mối Minh Khai), P. Minh Khai, Bắc Từ Liêm, Hà Nội	4.5	500+	09:30 - 22:00	5,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà 222 - Hoàng Quốc Việt	Số 4 Ngõ 222 Hoàng Quốc Việt, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội	4.5	100+	09:30 - 22:00	35,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Winggo - Trà Sữa Kem Trứng Nướng &amp; Trà Hoa Quả - Cổ Nhuế	74 Cổ Nhuế, Bắc Từ Liêm, Hà Nội	4.5	100+	09:00 - 23:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Royal Tea - Trà Sữa Trân Châu - Xuân Đỉnh	15 Ngõ 2 Xuân Đỉnh, Bắc Từ Liêm, Hà Nội	4.5	100+	08:30 - 23:00	20,000	30,001	0.0%	<span>_._</span>	0
+Quán ăn, Sang trọng	Cơm Thố Anh Nguyễn - Tây Hồ Tây (không có menu)	C14 Embassy Garden, KĐT Tây Hồ Tây, P. Xuân Tảo, Bắc Từ Liêm, Hà Nội	4.5	999+	10:00 - 21:45	5,000	100,000	0.0%	0	0
+Quán ăn	Tiệm Gà Ủ Muối - Gà Luộc &amp; Gà Ủ Muối - Cổ Nhuế	21 Ngõ 43 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội	4.5	500+	09:00 - 23:59	50,000	70,000	0.0%	<span>_._</span>	0
+Café/Dessert	Milano Coffee - Phạm Như Xương	21 Phạm Như Xương, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	999+	06:00 - 22:00	14,000	25,000	0.0%	9.8	8
+Quán ăn	Phúc Drink - Tô Hiệu	172/29 Tô Hiệu, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	999+	07:00 - 22:00	15,000	30,000	0.0%	8.6	73
+Shop Online	Sương Phan - Bún Lòng Xào Nghệ - Shop Online	104 Trần Nguyên Đán, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	999+	10:00 - 22:00	10,000	50,000	0.0%	9.4	4
+Café/Dessert	MiLan Milktea (không có menu)	22 - 26 Lê Thánh Tôn, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	999+	07:00 - 22:00	9,000	89,000	0.0%	0	0
+Café/Dessert	Coco Chè - Hồ Xuân Hương	82 Hồ Xuân Hương, P. Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	09:30 - 22:00	10,000	30,000	0.0%	8.0	67
+Café/Dessert	Cafe &amp; Trà Sữa BandB - Hà Huy Tập	160 Hà Huy Tập, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	999+	06:30 - 22:30	10,000	29,000	0.0%	8.1	8
+Quán ăn	Cháo Xôi O Ni Huế - Nguyễn Đình Tứ	K91/2 Nguyễn Đình Tứ, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	06:58 - 16:30 | 16:45 - 22:00	12,000	25,000	0.0%	9.1	22
+Shop Online	Chân Gà Mẹ Gạo - Shop Online	381/7 Phan Châu Trinh, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:00	20,000	50,000	0.0%	8.9	65
+Café/Dessert	Joy Chè	16 Lê Doãn Nhạ, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	999+	09:30 - 22:28	5,000	30,000	0.0%	7.5	22
+Ăn vặt/vỉa hè	Nem Chua Rán Phố Cổ - 152 Triệu Nữ Vương	152 Triệu Nữ Vương, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	999+	10:00 - 22:00	3,000	35,000	0.0%	7.7	84
+Ăn vặt/vỉa hè	Rau Má Pha Đà Nẵng	136 - 138 Đường 2 Tháng 9, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:15	13,000	32,000	0.0%	7.3	34
+Shop Online	Tiệm Bánh Bò Sữa - Bánh Mì Phô Mai Bơ Tỏi - Hải Phòng	322/3 Hải Phòng, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	08:00 - 23:00	7,000	21,000	0.0%	7.9	16
+Café/Dessert	XIU Milk - Nguyễn Hoàng	239 Nguyễn Hoàng, P Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	09:00 - 22:00	20,000	50,000	0.0%	7.2	17
+Ăn vặt/vỉa hè	Phố Cổ Hà Nội - Nem Chua Rán Số 1 - Lê Thanh Nghị	221B Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	09:30 - 22:00	6,000	119,000	0.0%	7.7	34
+Quán ăn	Bún Đậu Mắm Tôm 180 - Nguyễn Thiện Thuật	17B Nguyễn Thiện Thuật, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	999+	10:00 - 22:00	30,000	55,000	0.0%	7.0	247
+Café/Dessert	Highlands Coffee - Điện Biên Phủ	239 Điện Biên Phủ, P. Hoà Khê, Quận Thanh Khê, Đà Nẵng	4.5	999+	07:10 - 21:45	9,000	65,000	0.0%	7.5	30
+Quán ăn	Mote Pizza	146 Lê Lợi, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	999+	09:58 - 22:00	16,000	75,000	0.0%	7.6	232
+Café/Dessert	EZI Coffee &amp; Tea - Ông Ích Khiêm	30 Ông Ích Khiêm, P. Thanh Bình, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:00	12,000	39,000	0.0%	7.8	700
+Ăn vặt/vỉa hè	Chè Thái Na Na	K183/5 Hoàng Diệu, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 23:00	10,000	35,000	0.0%	7.6	65
+Café/Dessert	Xoa Xoa Hạt Lựu Cô Châm - Núi Thành	374/6 Núi Thành, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	11:30 - 22:30	10,000	30,000	0.0%	7.5	49
+Café/Dessert	Bông Food &amp; Drink - Hàm Tử	38 Hàm Tử, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	07:00 - 22:00	12,000	20,000	0.0%	7.2	117
+Quán ăn	Bún Mọc Tư Ròm	32 Hoàng Văn Thụ, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	999+	06:00 - 22:00	30,000	45,000	0.0%	7.6	42
+Café/Dessert	KOI Thé - Nguyễn Văn Linh	87 Nguyễn Văn Linh, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	999+	09:00 - 22:00	30,000	70,000	0.0%	7.7	61
+Ăn vặt/vỉa hè	Trà Sữa &amp; Đồ Ăn Vặt Tearex - 353 Điện Biên Phủ	353 Điện Biên Phủ, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	999+	13:00 - 22:20	10,000	25,000	0.0%	7.3	20
+Ăn vặt/vỉa hè	Gusto - Trà Sữa &amp; Cà Phê	679 Trần Cao Vân, Quận Thanh Khê, Đà Nẵng	4.5	999+	08:00 - 21:40	17,000	25,000	0.0%	7.4	111
+Café/Dessert	Bông Food &amp; Drink - Lý Thường Kiệt	34 Lý Thường Kiệt, Quận Hải Châu, Đà Nẵng	4.5	999+	07:00 - 22:00	12,000	20,000	0.0%	6.9	121
+Ăn vặt/vỉa hè	Bon Bon Milk Tea	78 Đống Đa, P. Thuận Phước, Quận Hải Châu, Đà Nẵng	4.5	999+	08:30 - 22:20	20,000	50,000	0.0%	7.0	253
+Quán ăn	Bún Lòng Xào Nghệ Hằng Nga	95 An Trung Đông 7, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng	4.5	999+	10:30 - 22:00	10,000	40,000	0.0%	9.0	105
+Quán ăn	Bún Đậu Mắm Tôm Đà Thành (không có menu)	404 Trần Cao Vân, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	999+	10:00 - 22:00	15,000	50,000	0.0%	0	0
+Café/Dessert	Trà Sữa Bobapop - Nguyễn Văn Thoại	24 Nguyễn Văn Thoại, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	09:00 - 22:00	22,000	42,000	0.0%	8.2	64
+Ăn vặt/vỉa hè	Hương Chè Thái - Pasteur	45 Pasteur, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:00	12,000	28,000	0.0%	6.9	62
+Quán ăn	Tiệm Ăn Chợ Lớn - Ông Ích Khiêm	267 Ông Ích Khiêm, Quận Hải Châu, Đà Nẵng	4.5	999+	07:00 - 23:00	40,000	110,000	ShopeeFood</span	7.1	155
+Café/Dessert	Trà Sữa Money - Nguyễn Du	19 Nguyễn Du, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:00	15,000	25,000	0.0%	7.3	745
+Shop Online	Bún Lòng Xào Nghệ Vy Vy (không có menu)	K96/27A Hải Hồ, P. Thanh Bình, Quận Hải Châu, Đà Nẵng	4.5	999+	10:00 - 22:00	25,000	30,000	0.0%	0	0
+Ăn vặt/vỉa hè	King Nước Ép &amp; Cút Lộn Xào Me	K23/2 Trần Kế Xương, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	999+	12:00 - 23:59	10,000	30,000	0.0%	6.2	34
+Café/Dessert	The Alley - Trà Sữa Đài Loan - 2 Tháng 9	Lô A29 - 30 Đường 2 Tháng 9, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:00	41,000	65,000	0.0%	7.2	115
+Café/Dessert	TaeTang - Trà Sữa Nướng Yi He Tang - Lê Duẩn	193 Lê Duẩn, Quận Thanh Khê, Đà Nẵng	4.5	999+	09:30 - 22:00	30,000	60,000	0.0%	7.3	47
+Café/Dessert	Phúc Long Nguyễn Văn Linh Đà Nẵng	59 - 61 Nguyễn Văn Linh, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	07:30 - 22:00	35,000	65,000	0.0%	6.9	225
+Quán ăn	Bún Chả Cá 109 - Nguyễn Chí Thanh	109 Nguyễn Chí Thanh, Quận Hải Châu, Đà Nẵng	4.5	999+	06:00 - 22:00	25,000	30,000	0.0%	7.1	108
+Tiệm bánh	Bơ Nơ Bakery - Bông Lan Phô Mai Trứng Muối	366/1 Hùng Vương, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	999+	08:30 - 22:00	35,000	200,000	0.0%	7.4	93
+Café/Dessert	Trà Sữa TocoToco - Điện Biên Phủ	Lô A7 - 478 Điện Biên Phủ, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng	4.5	999+	08:00 - 21:55	22,000	50,000	0.0%	6.9	254
+Café/Dessert	Trà Sữa Bobapop - Nguyễn Văn Linh	28 Nguyễn Văn Linh, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	999+	08:30 - 22:10	23,000	48,000	0.0%	7.5	679
+Ăn vặt/vỉa hè	Bé Thương - Trà Tắc Lipton Xí Muội Khổng Lồ	26 Phan Thanh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	500+	07:00 - 22:00	13,000	15,000	0.0%	6.3	3
+Café/Dessert	Highlands Coffee - Quang Trung	145 Quang Trung, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	999+	07:00 - 23:00	29,000	79,000	0.0%	8.0	26
+Café/Dessert	Trà Sữa Royaltea - Phạm Văn Đồng	168 Phạm Văn Đồng, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	999+	09:00 - 22:00	30,000	45,000	0.0%	7.6	115
+Café/Dessert	Trà Sữa Ocha House - Phan Đăng Lưu	167 - 169 Phan Đăng Lưu, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:00	20,000	40,000	0.0%	7.6	146
+Quán ăn	Ẩm Thực Gánh - Bún Đậu Mắm Tôm - Phan Đăng Lưu	202 Phan Đăng Lưu, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	00:00 - 23:59	15,000	150,000	0.0%	6.5	136
+Quán ăn	Cơm 300 (không có menu)	300 Trưng Nữ Vương, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	999+	08:30 - 22:00	15,000	70,000	0.0%	0	0
+Café/Dessert	Bông Food &amp; Drink - 2 Tháng 9	44 Đường 2 Tháng 9, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	07:00 - 22:00	12,000	35,000	0.0%	3.4	17
+Quán ăn	Ông Lei - Quán Ăn Hàn Quốc - 73 Nguyễn Văn Linh	73 Nguyễn Văn Linh, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	100+	09:00 - 22:00	30,000	150,000	0.0%	9.9	49
+Quán ăn	Trà Sữa Xingfu Cha - Ngô Gia Tự	107 Ngô Gia Tự, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:20	10,000	60,000	0.0%	10.0	1
+Café/Dessert	Trà Sữa Xingfu Cha - Lê Thanh Nghị	180 Lê Thanh Nghị, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	08:00 - 22:00	10,000	60,000	0.0%	10.0	1
+Café/Dessert	Highlands Coffee - Đại Học Sư Phạm Đà Nẵng	459 Tôn Đức Thắng, P. Hoà Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	999+	07:00 - 22:00	19,000	25,000	0.0%	5.5	7
+Ăn vặt/vỉa hè	Trà Sữa Nhà Làm Hoa Ly - Trần Cao Vân	832 Trần Cao Vân, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng	4.5	999+	08:30 - 22:00	12,000	25,000	0.0%	6.9	237
+Quán ăn	Quán Tàu Hũ Cô Phượng - 37/4 Phan Thanh (không có menu)	37/04 Phan Thanh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	100+	11:00 - 22:00	15,000	30,000	0.0%	10.0	1
+Café/Dessert	Del. Garden Coffee	301/34 Nguyễn Tri Phương, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng	4.5	100+	07:00 - 23:00	20,000	50,000	0.0%	10.0	1
+Quán ăn	Xôi Chiên Anh Mập - Châu Thị Vĩnh Tế	144 Châu Thị Vĩnh Tế, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	500+	08:00 - 22:00	3,000	10,000	0.0%	10.0	4
+Quán ăn	Shin - Takoyaki Đà Nẵng	46 Hải Phòng, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	50+	15:00 - 22:00	10,000	30,000	0.0%	10.0	1
+Quán ăn	Bún Đậu Mắm Tôm - Nhà Híp	219 Yên Khê 2, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng	4.5	999+	10:00 - 22:00	5,000	95,000	0.0%	10.0	2
+Quán ăn, Giao cơm văn phòng	Cơm Gà Tài Ký 1	478A2 Điện Biên Phủ, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng	4.5	999+	08:30 - 21:55	30,000	100,000	ShopeeFood</span	6.5	102
+Ăn vặt/vỉa hè	Chè Hoa Xù - Thanh Khê 6	9 Thanh Khê 6, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	4.5	500+	10:00 - 22:00	10,000	20,000	0.0%	9.9	2
+Café/Dessert, Quán ăn	Hana Sushi	27/11 Nguyễn Trường Tộ, P.Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	100+	08:00 - 23:59	32,000	110,000	0.0%	9.7	62
+Café/Dessert	Đi Cà Phê - 81 Trần Quốc Toản	81 Trần Quốc Toản, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	5.0	8	07:00 - 22:00	10,000	50,000	0.0%	10.0	1
+Quán ăn	SeaWeed Tàu Hủ Singapore - Tàu Hũ &amp; Trà Sữa	86 Phạm Cự Lượng, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	100+	10:30 - 22:15	12,000	25,000	0.0%	10.0	1
+Café/Dessert	Trà Chanh Tổ Dân Phố - Kinh Dương Vương	234 Kinh Dương Vương, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	100+	07:00 - 22:15	15,000	20,000	0.0%	10.0	3
+Ăn vặt/vỉa hè	Kem Dừa Mã Lai - Lê Đình Lý	12 Lê Đình Lý, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	100+	10:30 - 22:30	15,000	25,000	0.0%	9.8	1
+Quán ăn	Pizza Time - 31 Trần Quốc Toản	31 Trần Quốc Toản, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	999+	10:00 - 22:00	15,000	200,000	0.0%	8.8	2
+Shop Online	Cô Mỹ - Bánh Căn &amp; Bún Mắm - Hải Phòng	K377/42 Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng	4.5	999+	07:35 - 22:00	0	0	0.0%	9.9	43
+Quán ăn	Quán 100 - Cháo Trắng &amp; Hột Vịt Muối	100 Phan Châu Trinh, Quận Hải Châu, Đà Nẵng	4.5	999+	06:00 - 23:30	15,000	33,000	0.0%	6.7	50
+Quán ăn	Ann Home - Pizza &amp; Pasta - An Hải 3	1 An Hải 3, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	10+	10:00 - 22:00	30,000	390,000	0.0%	9.6	1
+Café/Dessert	Kem Dừa Mã Lai - Hồ Quý Ly	48 Hồ Quý Ly, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	4.5	100+	11:00 - 22:00	10,000	25,000	0.0%	10.0	1
+Quán ăn	Má Phượng - Bèo &amp; Nậm Gói - Lê Văn Đức	33 Lê Văn Đức, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	50+	05:00 - 22:50	10,000	100,000	0.0%	10.0	1
+Nhà hàng	CM Chicken - Gà Rán Hàn Quốc - Hồ Nghinh	170 Hồ Nghinh, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	500+	09:00 - 23:30	150,000	300,000	0.0%	9.6	10
+Quán ăn	Shin - Sushi - Thái Phiên	69 Thái Phiên, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	50+	10:00 - 14:00 | 16:00 - 22:00	0	0	0.0%	10.0	1
+Quán ăn	Hẻm Food &amp; Drink	195 Phạm Như Xương, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	100+	00:00 - 01:30 | 10:00 - 23:59	8,000	165,000	0.0%	10.0	2
+Shop Online	Tiệm Nhà Nhung - Chân Gà Sốt Thái - Trưng Nữ Vương	447 Trưng Nữ Vương, P. Hoà Thuận Tây, Quận Hải Châu, Đà Nẵng	4.5	100+	10:00 - 22:00	55,000	75,000	0.0%	10.0	1
+Quán ăn	Xôi Chiên Anh Mập - Nguyễn Hoàng	180 Nguyễn Hoàng, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	999+	11:00 - 22:00	5,000	10,000	0.0%	9.4	7
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Xô Viết Nghệ Tĩnh	86 Xô Viết Nghệ Tĩnh, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	999+	08:30 - 22:00	41,000	69,000	0.0%	5.8	14
+Quán ăn	Mập Ơi - Tokbokki &amp; Mì Tương Đen (không có menu)	187 Tiểu La, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	10:30 - 22:00	5,000	60,000	0.0%	0	0
+Nhà hàng	Tiệm Ăn Chợ Lớn - Nguyễn Văn Thoại	83 Nguyễn Văn Thoại, Quận Sơn Trà, Đà Nẵng	4.5	500+	09:00 - 22:00	25,000	80,000	0.0%	8.9	2
+Tiệm bánh	Paparoti Anh Hoàng	8 Lê Độ, Quận Thanh Khê, Đà Nẵng	4.5	999+	08:00 - 22:30	20,000	50,000	0.0%	8.4	15
+Quán ăn	Quán Mậu 2- Bánh Tráng Cuốn Thịt Heo - Đỗ Thúc Tịnh	80 Đỗ Thúc Tịnh, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	09:00 - 22:00	20,000	70,000	0.0%	10.0	6
+Quán ăn	Sushi Boat - Sushi &amp; Sashimi - Nguyễn Trường Tộ	27/11 Nguyễn Trường Tộ, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	100+	08:00 - 23:59	20,000	500,000	0.0%	9.4	62
+Quán ăn, Giao cơm văn phòng	Bún Đậu Mắm Tôm - Bếp Tiên	278 Tô Hiến Thành, Quận Sơn Trà, Đà Nẵng	4.5	999+	10:00 - 23:00	25,000	40,000	0.0%	9.1	12
+Quán ăn	Pizza Time - 77 Đống Đa	77 Đống Đa, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	999+	10:00 - 22:00	15,000	89,000	0.0%	8.1	61
+Quán ăn	Trà Sữa, Mỳ Cay &amp; Ăn Vặt Poc Poc - Ngô Văn Sở	54 Ngô Văn Sở, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	999+	11:00 - 22:45	7,000	49,000	0.0%	8.3	21
+Café/Dessert	Trà Sữa Nhà Làm - Văn Tiến Dũng	158 Văn Tiến Dũng, X. Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng	4.5	10+	09:00 - 22:00	5,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Fish Coffee	198 Phạm Hùng, Xã Hòa Châu, Hòa Vang, Đà Nẵng	0	0	06:00 - 22:00	10,000	35,000	ShopeeFood</span	0	0
+Café/Dessert	Trà Sữa Ông Thọ - Đinh Châu	116 Đinh Châu, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	07:00 - 22:00	10,000	30,000	0.0%	4.6	3
+Café/Dessert	Ann Food - Ẩm Thực Hà Nội	17 Bình Thái 2, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	50+	09:00 - 23:00	8,000	30,000	0.0%	7.6	34
+Café/Dessert	BandB - Cafe &amp; Trà Sữa - Ông Ích Đường (không có menu)	82 Ông Ích Đường, Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	500+	06:30 - 22:30	0	0	0.0%	0	0
+Café/Dessert	Trà Sữa &amp; Ăn Vặt Miu Miu	24 Diệp Minh Châu, P. Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	10:00 - 22:00	8,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Cool Koi Coffee	29 Trần Ngọc Sương, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	06:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cafe &amp; Trà Sữa BandB - Trần Quý Hai	28 Trần Quý Hai, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	07:00 - 22:30	10,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert, Ăn vặt/vỉa hè	An Coffee - Tea &amp; Coffee - Nguyễn Xuân Hữu	87-89 Nguyễn Xuân Hữu, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	0	0	06:00 - 23:00	0	0	0.0%	0	0
+Ăn vặt/vỉa hè	Kid Kid - Sinh Tố &amp; Nước Ép - Lê Quảng Chí (không có menu)	 294 Lê Quảng Chí, P. Hoà Xuân, Quận Cẩm Lệ, Đà Nẵng	1.0	1	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Eric Milktea	78 Nguyễn Phong Sắc, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	13:00 - 22:30	12,000	30,000	0.0%	9.0	7
+Café/Dessert	Bee Milktea &amp; Coffee - Nguyễn Phước Lan	168 Nguyễn Phước Lan, P. Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	07:00 - 22:30	18,000	35,000	0.0%	7.9	11
+Quán ăn	Trà Sữa Tiger Sugar - Trần Phước Thành	104 Trần Phước Thành, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	09:00 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tiger Hill - Trần Phước Thành	104 Trần Phước Thành, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	08:00 - 23:00	15,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Az Coffee - Nguyễn Phước Tần	27 Nguyễn Phước Tần, Quận Cẩm Lệ, Đà Nẵng	4.5	500+	06:00 - 22:15	12,000	32,000	0.0%	<span>_._</span>	0
+Café/Dessert	Royal Tea - Trà Sữa Trân Châu - Trần Phước Thành	 104 Trần Phước Thành, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	09:00 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Xingfu Cha - Ông Ích Đường	119 Ông Ích Đường, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	500+	08:00 - 22:15	10,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn, Tiệm bánh	Cháo Và Súp Dinh Dưỡng An Nhiên - Nguyễn Nhàn 	116 Nguyễn Nhàn, P. Hòa Thọ Đông , Quận Cẩm Lệ, Đà Nẵng	0.0	3	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Chou Milk Tea &amp; Coffee	05 Hà Tông Quyền, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	07:00 - 22:30	15,000	30,000	0.0%	<span>_._</span>	0
+Tiệm bánh	Ba Hưng Bakery - 40 Lê Văn Hiến	40 Lê Văn Hiến, P. Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	05:00 - 22:30	12,000	300,000	0.0%	6.6	20
+Tiệm bánh	Anh Quân Bakery - Hoàng Văn Thái	83 Hoàng Văn Thái, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	100+	05:00 - 22:30	3,000	400,000	0.0%	8.6	4
+Tiệm bánh	Tian Bakery - Tart Trứng &amp; Bông Lan Đài Loan - 17 Phùng Tá Chu (không có menu)	17 Phùng Tá Chu, P. Mân Thái, Quận Sơn Trà, Đà Nẵng	4.5	100+	09:30 - 23:30	20,000	70,000	0.0%	0	0
+Tiệm bánh	Tiệm Bánh Cậu Chủ Nhỏ - Lê Đình Lý	112 Lê Đình Lý, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	10+	07:00 - 23:00	20,000	100,000	0.0%	<span>_._</span>	0
+Tiệm bánh	Daisycake - Quán Bánh &amp; Tráng Miệng - Tản Đà	Cổng Khu B HAGL Tản Đà, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	0.0	2	00:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Tiệm bánh	PUN Bakery	20 Phạm Văn Nghị, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	50+	06:00 - 22:30	45,000	350,000	0.0%	4.4	1
+Tiệm bánh	Tiệm Bánh Đồng Tâm - Trần Cao Vân	805 Trần Cao Vân, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng	4.5	100+	05:30 - 22:30	10,000	300,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ốc Hà - Chợ Cồn	Hẻm 294 Ông Ích Khiêm, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	500+	10:00 - 23:30	30,000	50,000	0.0%	6.3	72
+Quán ăn	Lan - Bún Chả Cá - Hùng Vương	424 Hùng Vương, Quận Thanh Khê, Đà Nẵng	4.5	100+	05:00 - 23:59	25,000	35,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Chè Chuối Nướng - Ông Ích Khiêm (không có menu)	190/1 Ông Ích Khiêm, P. Tân Chính, Quận Thanh Khê, Đà Nẵng	4.5	100+	12:00 - 23:59	5,000	10,000	ShopeeFood</span	6.9	47
+Quán ăn	Me Liên - Cháo Trắng Trứng Vịt Muối	10 Phan Châu Trinh, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	100+	14:00 - 23:00	15,000	20,000	0.0%	5.3	17
+Quán ăn, Ăn vặt/vỉa hè	Bún Đậu 3 Chị Em	182 Phạm Như Xương, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	500+	10:00 - 23:59	10,000	30,000	0.0%	7.7	15
+Nhà hàng	Mr. Pizza - Lê Lợi	111 Lê Lợi, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	500+	08:50 - 23:00	30,000	275,000	0.0%	7.0	79
+Quán ăn	Ghé' Kitchen Fast Food (không có menu)	111/25 Đường 2 Tháng 9, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	500+	08:00 - 23:59	10,000	50,000	0.0%	0	0
+Nhà hàng	Hannah Pub &amp; Restaurant	14 An Thượng 6, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	09:30 - 23:00	40,000	200,000	0.0%	7.1	3
+Nhà hàng, Tiệc tận nơi	Brick &amp; Stone - Pizza, Pasta &amp; Drinks - 41 An Thượng 4	41 An Thượng 4, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	0	0	10:00 - 23:00	0	0	0.0%	0	0
+Bar/Pub	CohibaR - Ẩm Thực Châu Âu	Lô 2 - 6 An Thượng 3, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	08:00 - 23:30	35,000	300,000	ShopeeFood</span	8.9	7
+Nhà hàng	Mr Pizza - Văn Cận	62 Văn Cận, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.0	50+	07:00 - 22:30	20,000	240,000	0.0%	<span>_._</span>	0
+Nhà hàng	Burger House - Dương Đình Nghệ	253 Dương Đình Nghệ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	100+	06:15 - 23:02	0	0	0.0%	<span>_._</span>	0
+Shop Online	Fratello Pizza &amp; Burger	83 Ngô Thì Sỹ, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	3.5	8	11:00 - 23:59	125,000	185,000	0.0%	<span>_._</span>	0
+Quán ăn	Pizza Đế Mỏng 12h Đêm - Pizza - 200 Lê Thanh Nghị	200 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	0.0	2	12:00 - 23:59	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Brown Burger	Lô 19 - 20 Đỗ Bá, Quận Ngũ Hành Sơn, Đà Nẵng	0	0	06:00 - 23:00	25,000	179,000	0.0%	0	0
+Shop Online	NamSan's Kitchen - Cơm, Mỳ Ý	21 An Thượng 16, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	06:00 - 23:00	80,000	95,000	0.0%	9.8	60
+Quán ăn	Pizza &amp; Tacos Hermanos	2 An Thượng 31, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	16:00 - 22:45	70,000	180,000	0.0%	10.0	1
+Quán ăn	Hidi - Pizza &amp; Spaghetti	K317/51 Nguyễn Phước Nguyên, P. An Khê, Quận Thanh Khê, Đà Nẵng	4.5	100+	06:00 - 23:00	8,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Nhà Bơ Mập - Food &amp; Drinks	141 Lê Lợi, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	100+	22:00 - 23:30	10,000	30,000	0.0%	7.5	26

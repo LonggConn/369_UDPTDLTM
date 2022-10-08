@@ -1,0 +1,989 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Đường 30 Tháng 4	376 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:00	30,000	100,000	0.0%	7.7	38
+Ăn vặt/vỉa hè	Sinh Tố 228	228 Đường 3/2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:30 - 23:00	15,000	20,000	0.0%	7.5	97
+Quán ăn	Quán ITADA - Ẩm Thực Hàn Quốc - Đường 3 Tháng 2	116B Đường 3 Tháng 2, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:30 - 23:00	30,000	120,000	0.0%	7.4	403
+Quán ăn	Súp Mộc Cần Thơ	105 Xô Viết Nghệ Tĩnh, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 22:00	15,000	30,000	0.0%	8.0	12
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Hòa Bình	1 Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:45 - 21:00	15,000	44,000	0.0%	7.4	105
+Quán ăn	Cơm Gà Lê Trang - Đường 30 Tháng 4	590 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:30	25,000	35,000	0.0%	9.0	1
+Quán ăn	Bún Đậu Mắm Tôm 3 Phải - Mậu Thân	58A Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 20:50	10,000	115,000	0.0%	8.7	6
+Quán ăn	Ăn Vặt Mihi - Mì Tóp Mỡ	171B/7 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 21:00	17,000	22,000	0.0%	7.6	25
+Café/Dessert	Café Ken Le - Cafe Sữa Bọt	65 Xô Viết Nghệ Tĩnh, P. An Hội, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	12,000	28,000	0.0%	7.9	79
+Café/Dessert	Trà Sữa An Viên - Đường 30 Tháng 4	188C Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	16,000	25,000	0.0%	7.8	113
+Quán ăn	Cháo Sò Huyết 1998 (không có menu)	100 Lý Tự Trọng, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 23:00	10,000	35,000	0.0%	0	0
+Quán ăn	Quán ITADA - Ẩm Thực Hàn Quốc - 404A1 Nguyễn Văn Cừ Nối Dài	404A1 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:10 - 22:00	30,000	60,000	0.0%	8.2	1
+Quán ăn	Cơm Gà Lê Trang - Cách Mạng Tháng 8	44A Cách Mạng Tháng 8, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:30	10,000	25,000	0.0%	8.2	1
+Nhà hàng	Lotteria - Lotte Mart Mậu Thân	84 Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:25	3,000	150,000	0.0%	7.5	121
+Quán ăn	Pizza Candle - Đường 3 Tháng 2	138 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:30 - 22:15	50,000	100,000	0.0%	3.9	12
+Quán ăn	Mì Cay &amp; Trà Sữa 186 Up	C101c Trần Khánh Dư, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 22:00	30,000	50,000	0.0%	8.1	52
+Café/Dessert	Trà Sữa An Viên - An Bình	117C/3 Đường 3/2, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	20,000	40,000	0.0%	9.3	3
+Quán ăn	Cơm Tấm Trâm - Trần Khánh Dư	Trần Khánh Dư, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 19:30	16,000	30,000	0.0%	8.5	3
+Café/Dessert	Coko Juice - Trà &amp; Mì trộn	149/43 Hoàng Văn Thụ, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:00	10,000	60,000	0.0%	9.3	3
+Quán ăn	Quán Cơm Thuận Phát - Mậu Thân	116A Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 20:00	10,000	25,000	0.0%	5.0	1
+Quán ăn	Xôi Lá Sen &amp; Trà Đào Chanh Sả - Nguyễn Thần Hiến	96/8 Nguyễn Thần Hiến, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 21:00	20,000	100,000	0.0%	5.3	13
+Quán ăn, Ăn vặt/vỉa hè	Bếp Nhà Mây Mây (không có menu)	95/31 Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 22:00	5,000	45,000	0.0%	0	0
+Café/Dessert	M.Y.O - Cơm Trưa &amp; Hamburger	15A Đường 3 Tháng 2, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	500+	07:00 - 21:00	18,000	27,000	0.0%	7.9	16
+Ăn vặt/vỉa hè	Súp 68	132D Nguyễn Văn Cừ Nối Dài, P. An Khánh,, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 23:59	20,000	35,000	0.0%	9.5	3
+Quán ăn	Quán ITADA - Ẩm Thực Hàn Quốc - Nguyễn Văn Cừ	287 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 22:30	20,000	50,000	0.0%	6.8	25
+Quán ăn	Chí Thiện - Cơm Phần	158A Trần Vĩnh Kiết, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 16:20	25,000	35,000	0.0%	5.0	10
+Café/Dessert	TocoToco Bubble Tea - Sense City Cần Thơ	Tầng 2 TTTM Sense City Cần Thơ, 1 Đại Lộ Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:30 - 21:15	25,000	44,000	0.0%	7.1	92
+Quán ăn	Cơm 2 My	390N2 Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 20:00	0	0	0.0%	7.5	2
+Café/Dessert	Here - Fruit Drinks &amp; More	99C Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 22:40	15,000	40,000	0.0%	8.7	53
+Ăn vặt/vỉa hè	Như Ý Lê - Sữa Tươi Thốt Nốt Rim - Trần Hưng Đạo	24 Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:30 - 20:30	25,000	30,000	0.0%	8.6	2
+Quán ăn	Healthy Meal - Cơm Lứt &amp; Salad Eat Clean Giảm Cân - Trần Hưng Đạo	182/61 Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 17:00	30,000	50,000	0.0%	8.7	2
+Quán ăn	Cơm Gà Lê Trang - Đường 3 Tháng 2	55 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:30	25,000	35,000	0.0%	4.6	1
+Café/Dessert	Ding Tea - Võ Văn Tần	65 Võ Văn Tần, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 22:30	29,000	65,000	0.0%	7.7	113
+Quán ăn	Bánh Ướt Cây Me	31 Đồng Khởi, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:10 - 20:00	20,000	33,000	0.0%	7.1	24
+Quán ăn	Cơm Mẹ Nấu - Nguyễn Văn Cừ	Hẻm Liên Tổ 12 - 20, Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:30 - 21:00	20,000	30,000	0.0%	5.2	4
+Nhà hàng	Gà Rán KFC - Vinmart - Vinatex Cần Thơ	42 Đường 30 Tháng 4, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:30 - 21:00	30,000	88,000	0.0%	8.0	110
+Quán ăn	Gia Hảo The Dimsum	95 Trần Văn Hoài, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:30 - 21:00	10,000	30,000	0.0%	7.9	55
+Quán ăn	SO - Mì Lòng Đào - An Khánh	127 Trần Văn Long, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 20:00	25,000	25,000	0.0%	9.0	3
+Quán ăn	Quán Xưa 2 - Bún Đậu Mắm Tôm	1/9 Đinh Tiên Hoàng, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:00	20,000	135,000	0.0%	7.8	1
+Ăn vặt/vỉa hè	Trúc Quỳnh CT - Kim Bap &amp; Ăn Vặt - Đường 3 Tháng 2	Hẻm 38, 38/2B Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 22:00	12,000	55,000	0.0%	8.1	3
+Café/Dessert	Phúc Long 30/4 Cần Thơ (không có menu)	384 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:45	30,000	50,000	0.0%	8.2	18
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - Vincom Xuân Khánh	P1 - 03 Vincom Xuân Khánh, 209 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:00	33,000	64,000	0.0%	7.7	244
+Quán ăn	ND Quán - Cơm Tấm &amp; Bún Xào	138 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 18:30	20,000	25,000	0.0%	7.9	3
+Ăn vặt/vỉa hè	Trà Sữa Two-Ti - Trần Hưng Đạo	238 Trần Hưng Đạo, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 22:00	10,000	20,000	0.0%	7.8	282
+Café/Dessert, Khu Ẩm Thực	9 Sạch - Bánh Sầu Riêng - Mậu Thân	124 Mậu Thân, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:55	35,000	390,000	0.0%	10.0	673
+Quán ăn	Bún Xào Cô Út - Mậu Thân	41N Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 22:00	20,000	35,000	0.0%	8.5	2
+Quán ăn	Bánh Tầm Cay 777 - Đặc Sản Cà Mau - Nguyễn Văn Cừ 	Cạnh 02 Nguyễn Văn Cừ, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 21:00	20,000	40,000	0.0%	8.2	6
+Quán ăn	Bún Riêu Cua Đồng Cô 5	C96 Trần Khánh Dư, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:30 - 18:00	25,000	40,000	0.0%	9.3	2
+Quán ăn	Bún Thái 68 Phương Tâm	3 Ngô Sĩ Liên, P Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 22:00	20,000	30,000	0.0%	7.4	215
+Quán ăn	Cơm Gà Lê Trang - Nguyễn Văn Linh	406 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:00	25,000	35,000	0.0%	8.0	30
+Café/Dessert	Trà Tiên Hưởng - Nguyễn Văn Cừ	372 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:15 - 22:30	5,000	64,000	0.0%	9.0	1
+Café/Dessert	She's Tea	51 Ngô Văn Sở, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:15 - 21:00	12,000	40,000	0.0%	8.0	10
+Quán ăn	Cơm Gà Lê Trang - Nguyễn Văn Cừ	375 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:30	25,000	35,000	0.0%	1.0	1
+Ăn chay	Thiện Phước 1 - Ẩm Thực Chay	132/26 Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 22:00	25,000	100,000	0.0%	8.8	1
+Ăn vặt/vỉa hè	Sữa Bắp Suba - Mậu Thân	92 Mậu Thân, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 19:45	20,000	20,000	0.0%	8.1	7
+Quán ăn	Quán Xưa 2 - Bún Đậu Mắm Tôm &amp; Bún Chả Hà Nội	132 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:30 - 21:00	20,000	135,000	0.0%	8.5	2
+Café/Dessert	Gia Hảo Feng Huang Shan - Tiệm Trà Hong Kong Thượng Đỉnh - Đồng Khởi	11 Đồng Khởi, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:30 - 21:50	30,000	50,000	0.0%	9.3	5
+Ăn chay	Ẩm Thực Chay Bách Thảo 4	311 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 21:00	15,000	120,000	0.0%	8.0	2
+Café/Dessert	Trà Tiên Hưởng - 10 Mậu Thân	10 Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:15 - 22:30	5,000	64,000	0.0%	4.4	1
+Café/Dessert	Trà Anh - Nguyễn Văn Cừ	177 Nguyễn Văn Cừ, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:40	15,000	30,000	0.0%	8.2	8
+Quán ăn	Cơm Heo Quay Nguyên Khang	15A Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:40 - 19:30	25,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa &amp; Trà Trái Cây Hippopo - Mậu Thân	2I Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 21:55	20,000	50,000	0.0%	8.7	4
+Quán ăn	Cơm Tấm Hương	173 Phạm Ngũ Lão, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 19:00	10,000	40,000	0.0%	8.9	2
+Quán ăn	GangNam Mì Cay - Lẩu Kim Chi - Nguyễn Văn Cừ	B15 - T82 Nguyễn Văn Cừ, P. An Hoà, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 21:00	20,000	40,000	0.0%	7.8	94
+Café/Dessert	P.Juice - Detox &amp; Salad Ăn Kiêng	9/150 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 16:00	15,000	49,000	0.0%	7.5	11
+Café/Dessert	Gia Hảo Feng Huang Shan - Tiệm Trà Hong Kong Thượng Đỉnh - Mậu Thân	126B Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:15 - 21:50	30,000	50,000	0.0%	7.6	1
+Nhà hàng	Pizza Hut - Mậu Thân	11B Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 20:00	40,000	165,000	0.0%	8.0	1
+Café/Dessert	Phúc Long Vincom Cần Thơ	Vincom Cần Thơ, 2 Hùng Vương, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:00	30,000	60,000	0.0%	6.9	4
+Quán ăn	Cơm Gà Lê Trang - Mậu Thân	F8 Mậu Thân, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:30	25,000	35,000	0.0%	7.4	168
+Ăn vặt/vỉa hè	Ăn Vặt Hiền Hiền	12/17/12/11 Nguyễn Trãi, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 19:00	5,000	8,000	0.0%	10.0	1
+Sang trọng	Gà rán KFC - Lotte Mart Cần Thơ	84 Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:30 - 20:30	50,000	500,000	0.0%	4.6	1
+Bar/Pub	Quán 3CE - Bánh Hỏi, Chiên Giòn &amp; Bún Đậu Mắm Tôm - Lộ Ngân Hàng (không có menu)	390 P1 Lộ Ngân Hàng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 21:00	10,000	35,000	0.0%	0	0
+Quán ăn	Tomato - Pad Thai	54 Nam Kỳ Khởi Nghĩa, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 21:30	13,000	83,000	0.0%	7.5	95
+Café/Dessert	Trà Sữa Chin - 399 Nguyễn Văn Cừ Nối Dài (không có menu)	399 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:30 - 22:15	20,000	40,000	0.0%	0	0
+Quán ăn	Quán Cơm Trạng Huỳnh	6/66 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 16:00	30,000	70,000	0.0%	7.4	9
+Quán ăn	Phở Tài 1 - Trần Quang Khải	10-11 Trần Quang Khải, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	999+	00:01 - 02:30 | 06:00 - 23:59	30,000	35,000	0.0%	8.4	2
+Quán ăn	Quán Oppa - Nướng &amp; Lẩu Hàn Quốc Cần Thơ	124/9 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 22:10	50,000	120,000	0.0%	7.5	230
+Nhà hàng	Gà Rán KFC - Big C Hưng Phú Cần Thơ	Lô Số 1 Khu Dân Cư Hưng Phú 1, P. Hưng Phú, Quận Cái Răng, Cần Thơ	4.5	999+	09:30 - 21:00	30,000	88,000	0.0%	7.6	107
+Ăn vặt/vỉa hè	Chè Cô Chu	45A Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	11:00 - 22:00	20,000	30,000	0.0%	4.9	8
+Quán ăn	Heri - Quán Ăn Truyền Thống Hàn Quốc	43 Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 22:00	45,000	295,000	0.0%	9.0	9
+Quán ăn	Quán SinVi - Lẩu &amp; Ăn Vặt	63 Đường Số 4, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 23:00	20,000	179,000	0.0%	8.2	1
+Ăn vặt/vỉa hè	Trà Sữa ACE	20/2 Hồ Bún Xáng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:30 - 22:00	17,000	23,000	0.0%	8.0	1
+Nhà hàng	Lotteria - Cách Mạng Tháng 8	9/1 Cách Mạng Tháng 8, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:25	20,000	200,000	0.0%	7.7	52
+Ăn chay	Cơm Chay Bách Thảo - Đề Thám	86A Đề Thám, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:15 - 21:30	15,000	120,000	0.0%	7.8	137
+Quán ăn	Cơm Phần Út Trinh (không có menu)	85/10/16 Hẻm 5 Đường Trần Vĩnh Kiết, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 18:00	30,000	60,000	0.0%	0	0
+Quán ăn	M.Y.O (ĐẠI HỌC CẦN THƠ) - Hamburger &amp; Salad	15A Đường 3 Tháng 2, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 21:00	25,000	39,000	0.0%	7.3	88
+Quán ăn	Cháo Sò 108	108 Lý Tự Trọng, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:25 - 23:55	20,000	30,000	0.0%	7.6	7
+Quán ăn	Phở Z586 - Nguyễn Văn Linh	279 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:30 - 21:45	30,000	55,000	0.0%	7.0	12
+Café/Dessert	Bánh Flan Ghế Đẩu	6B/1 Hẻm 51 Đường 3 Tháng 2, P. Xuân khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:50	10,000	25,000	0.0%	10.0	187
+Café/Dessert	DOMINO - Trà Sữa &amp; Nước Ép	110/55H Mậu Thân, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	10,000	25,000	0.0%	10.0	1
+Café/Dessert, Ăn vặt/vỉa hè	1893 Dalat Garden - Flower Tea &amp; More	52 Cách Mạng Tháng 8, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 22:00	15,000	18,000	0.0%	6.6	1
+Quán ăn	Hương Việt - Bún Đậu Mắm Tôm - Đồng Văn Cống	275 Đồng Văn Cống, P. An Thới, Quận Bình Thủy, Cần Thơ	4.5	999+	09:30 - 21:00	20,000	40,000	0.0%	7.5	14
+Café/Dessert	Trà Anh - Đường 30 Tháng 4	291 Đường 30/4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:00 - 22:00	15,000	30,000	0.0%	8.5	7
+Ăn vặt/vỉa hè	Matcha Nga - Milk Tea - 329 Nguyễn Văn Linh	329 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:40	20,000	25,000	0.0%	10.0	1
+Ăn chay	Cơm Chay Bách Thảo - Mậu Thân	23 - 25B Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 21:00	4,000	200,000	0.0%	7.3	13
+Quán ăn	Quán Lộc Vừng - Bún Đậu Mắm Tôm - Khu Vực 3	25G2 KV3, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 22:00	10,000	60,000	0.0%	7.6	70
+Ăn vặt/vỉa hè	Easy Salad - Healthy Food Idea	158 Trương Định, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 19:00	30,000	50,000	0.0%	8.5	10
+Café/Dessert	TocoToco Bubble Tea - Đường 3 Tháng 2	27 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 22:00	32,000	56,000	0.0%	7.0	1
+Quán ăn	Gà rán và Mì Ý - Jollibee - Cách Mạng Tháng 8	15A Cách Mạng Tháng 8, P. An Thới, Quận Bình Thủy, Cần Thơ	4.5	999+	08:45 - 21:30	15,000	44,000	0.0%	<span>_._</span>	0
+Quán ăn	Ngọc Ngân - Hủ Tiếu Nam Vang	50 - 52 Nguyễn Khuyến, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 22:00	25,000	35,000	0.0%	7.4	25
+Quán ăn	Diễm My - Kimpap &amp; Ăn Vặt	56 Hẻm 18 Xô Viết Nghệ Tĩnh, P. An Hội, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 23:00	5,000	25,000	0.0%	8.4	18
+Café/Dessert	Trà Sữa Ivy - Đường 3 Tháng 2	112/3 Đường 3 Tháng 2, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	10,000	25,000	0.0%	7.6	1
+Quán ăn	Cơm Tấm Bà Bảy - Nguyễn Văn Cừ	390D Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 19:00	14,000	19,000	0.0%	7.4	85
+Café/Dessert	Lophuong Tea - Nguyễn Văn Linh	331 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:45	17,000	32,000	0.0%	7.7	26
+Café/Dessert	Highlands Coffee - Vincom Cần Thơ	Vincom Cần Thơ, 2 Hùng Vương, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:00	9,000	65,000	0.0%	7.8	128
+Quán ăn	Cơm Gà Hạt Sen - Nguyễn Văn Linh	4 - 5 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 20:00	7,000	35,000	0.0%	9.4	1
+Quán ăn	SO - Mì Lòng Đào - Mạc Thiên Tích	35 Mạc Thiên Tích, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 21:00	20,000	30,000	0.0%	9.2	1
+Quán ăn	Cơm Gà Malaysia	190 Nguyễn Thị Minh Khai, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:00	20,000	45,000	0.0%	3.8	1
+Ăn chay	Lẩu Chay Chế Út	64 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 21:59	49,000	99,000	0.0%	10.0	1
+Café/Dessert	Trà Sữa Qing Chun	114 Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 22:00	17,000	30,000	0.0%	8.8	2
+Café/Dessert	Lumos Coffee &amp; Cake - Phan Văn Trị (không có menu)	6 Phan Văn Trị, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 21:00	16,000	29,000	0.0%	0	0
+Nhà hàng, Sang trọng	The Pizza Company - Sense City Cần Thơ	Tầng 2, Lô L2 - 04 Sense City, 1 Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 21:00	50,000	200,000	0.0%	7.6	170
+Café/Dessert	The Coffee House - Hòa Bình	8 Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 20:30	19,000	55,000	0.0%	8.2	54
+Café/Dessert	Hoya Tea &amp; Coffee	54 Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	50+	00:00 - 03:00 | 07:30 - 23:59	16,000	40,000	0.0%	10.0	1
+Café/Dessert	Lophuong Tea - Đường 30 Tháng 4	63 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:30 - 21:45	33,000	59,000	0.0%	8.4	137
+Café/Dessert	Tiệm Trà Lạ - Mạc Thiên Tích	122/1B Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 22:00	12,000	28,000	0.0%	8.6	13
+Quán ăn	Monaco - Tinh Hoa Ẩm Thực	33 Nguyễn Bình, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 19:00	39,000	75,000	0.0%	8.4	12
+Quán ăn	Sentosa Food - Cháo Ếch Singapore - Đường 30 Tháng 4	277 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 22:30	35,000	75,000	0.0%	7.0	65
+Café/Dessert	Trà Anh - Phạm Hùng	164A Phạm Hùng, P. Lê Bình, Quận Cái Răng, Cần Thơ	4.5	500+	08:30 - 22:00	15,000	30,000	0.0%	8.1	2
+Café/Dessert	Cacao Đẹp Đen - Nguyễn Văn Cừ	145 Nguyễn Văn Cừ, P. An Hoà, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 23:00	20,000	45,000	0.0%	8.6	1
+Café/Dessert, Sang trọng	Phương Hân Coffee - Cà Phê - Nguyễn Văn Linh	211/18A Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	6	06:00 - 22:30	0	0	0.0%	10.0	2
+Quán ăn	Đồng Xanh 2 - Quán Ăn Gia Đình	211 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 22:00	50,000	300,000	0.0%	7.7	182
+Shop Online	Sushi Shop	87 Võ Trường Toản, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	11:00 - 16:10	50,000	200,000	0.0%	7.6	35
+Tiệm bánh	Tiệm Bánh Mơ	22/71/5 Mạc Đĩnh Chi, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 21:00	20,000	90,000	0.0%	8.0	6
+Quán ăn	Cơm Gà Lê Trang - Quang Trung	103 Quang Trung, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:30	10,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Anh - Trần Quang Diệu	158 Trần Quang Diệu, P. An Thới, Quận Bình Thủy, Cần Thơ	4.5	999+	08:00 - 22:00	25,000	40,000	0.0%	6.8	2
+Quán ăn	MêBee - Cơm Tấm Long Xuyên &amp; Trà Sữa	67A Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	12,000	32,000	0.0%	<span>_._</span>	0
+Quán ăn	Diệp Thị Food Cơm Gà Sốt &amp; Cơm Bò Xào - Đường B17 (không có menu)	619 Đường B17, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 19:00	12,000	32,000	0.0%	0	0
+Café/Dessert	Sonder - Tea &amp; Coffee - Trần Hưng Đạo	47 Trần Hưng Đạo, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:30 - 22:00	22,000	36,000	0.0%	9.0	1
+Nhà hàng	Pizza Hut - Big C Cần Thơ	Lô 1 KDC Hưng Phú 1, P. Hưng Phú, Quận Cái Răng, Cần Thơ	4.5	100+	10:00 - 21:10	40,000	165,000	0.0%	7.6	242
+Café/Dessert	The Coffee House - 3 Tháng 2	68 Đường 3 Tháng 2, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 20:30	30,000	60,000	0.0%	8.5	6
+Quán ăn	Nước Mía Mỹ Tho MT68 - Bún A Nhỉu	41 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:00	10,000	20,000	0.0%	7.7	218
+Café/Dessert	Trà Sữa Hồ Nhi - Bế Văn Đàn (không có menu)	11 Bế Văn Đàn, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 21:15	10,000	25,000	0.0%	0	0
+Café/Dessert	Trà Sữa Bobapop - Võ Văn Tần	11 Võ Văn Tần, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:30 - 20:55	28,000	55,000	0.0%	7.5	122
+Café/Dessert, Rạp chiếu phim	Cabin Coffee	Hẻm 116, Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 22:00	20,000	30,000	0.0%	7.8	172
+Quán ăn	Bún Thịt Nướng - Thu Coffee - Nguyễn Việt Hồng (không có menu)	158/45 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 19:30	10,000	38,000	0.0%	0	0
+Ăn vặt/vỉa hè	Tiệm Của An - Bông Lan Trứng Muối - Trần Vĩnh Kiết	282/8F Trần Vĩnh Kiết, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	00:00 - 23:59	60,000	100,000	0.0%	8.8	3
+Tiệm bánh	MiMi House - Bánh Mì Phô Mai Tan Chảy	132B5 Hẻm Liên Tổ 1-2, Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:00 - 23:00	50,000	100,000	0.0%	7.5	2
+Quán ăn	Bún Thái 68 Phương Tâm - Nguyễn Văn Cừ	421A Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 21:30	25,000	35,000	0.0%	6.5	11
+Tiệm bánh	Tiệm Bánh Cô Vân Ú - Hồ Bún Xáng	53A1 Bờ Hồ Bún Xáng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:30	35,000	145,000	0.0%	8.0	81
+Quán ăn	Cơm Hạt Sen - Nguyễn Văn Linh	327 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 20:00	30,000	40,000	0.0%	8.6	2
+Ăn vặt/vỉa hè	Bánh Bạch Tuộc &amp; Bánh Hẹ - Nguyễn Việt Hồng	133 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 21:30	8,000	38,000	0.0%	7.5	11
+Tiệm bánh	Tiệm Bánh Bà Ròm - KDC 148	22 KDC 148, Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 21:00	15,000	45,000	0.0%	8.5	2
+Nhà hàng	Pizza Hut - Nguyễn Thái Học	66 Nguyễn Thái Học, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 21:00	50,000	500,000	0.0%	7.6	102
+Quán ăn	Tiệm Bánh Cô Vân Ú - Xô Viết Nghệ Tĩnh	81 Xô Viết Nghệ Tĩnh, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:30	20,000	80,000	0.0%	8.0	1
+Nhà hàng	Don Chicken - Nhà Hàng Gà Nướng Hàn Quốc - Trần Văn Khéo	42 Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 21:20	50,000	300,000	0.0%	7.3	58
+Quán ăn	Thích Ăn Uống	Mạc Thiên Tích, Quận Ninh Kiều, Cần Thơ	4.5	999+	11:00 - 22:00	30,000	50,000	0.0%	7.2	18
+Café/Dessert	Vado Canteen - Food &amp; Drink	42 Đề Thám, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:45 - 21:45	15,000	50,000	0.0%	6.4	10
+Quán ăn	Quán Cơm Ếch 30K - Ngô Sĩ Liên	21/5 Ngô Sĩ Liên, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 20:00	0	0	0.0%	6.6	1
+Quán ăn	Kiseki - Lẩu Nướng Tự Chọn - Lê Lai	53/8 Lê Lai, P. An Lạc, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 22:00	50,000	200,000	0.0%	7.4	100
+Ăn vặt/vỉa hè	Bánh Mì Đà Lạt	50/19B Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	05:30 - 18:00	10,000	30,000	0.0%	7.4	1
+Quán ăn	Phở Thủy 66 - Phở - 201 Nguyễn Hiền	201 Nguyễn Hiền, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 20:00	20,000	35,000	0.0%	7.6	2
+Quán ăn	Cô Út - Mì Trộn Muối Ớt - Trần Bình Trọng	101 Trần Bình Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 21:00	15,000	70,000	0.0%	7.0	1
+Tiệm bánh	Tiệm Bánh Tora - KDC Metro	68-70 Đường Số 3, KDC Metro, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	5.0	6	13:00 - 20:00	10,000	60,000	0.0%	8.6	1
+Quán ăn	Quán 2 San - Bún Hải Sản	Số 19 Đường số 7 khu cán bộ giảng viên Đại Học Cần Thơ, KV3, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 22:20	25,000	38,000	0.0%	6.0	3
+Ăn vặt/vỉa hè	Minmin Dimsum - Há Cảo 14 Vị	44 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:30 - 21:00	20,000	20,000	0.0%	9.2	25
+Quán ăn	Cơm Gà Lê Dũng 2	63 Xô Viết Nghệ Tĩnh, P. Ta, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:30 - 20:30	5,000	130,000	0.0%	7.8	2
+Quán ăn	Tấn Phát - Mì Vịt Tiềm	24A Lý Thường Kiệt, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	00:01 - 01:30 | 07:00 - 23:59	50,000	100,000	0.0%	5.3	3
+Quán ăn	Bánh Canh Việt - Nguyễn Văn Cừ	342 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	00:00 - 23:59	10,000	45,000	0.0%	7.5	89
+Quán ăn	Lẩu Mắm Kiều Trinh	26 Trần Khánh Dư, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:30 - 20:30	99,000	150,000	0.0%	9.4	8
+Café/Dessert	Mì Cay Vitamin+ - Mạc Thiên Tích	94/23 Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 21:30	18,000	43,000	0.0%	7.9	127
+Tiệm bánh	Momo Kitchen Bakery	166D Phan Đình Phùng, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:30	20,000	150,000	0.0%	9.3	3
+Quán ăn	Khả Hân - Bún Riêu Cua &amp; Ốc	317 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 20:00	18,000	30,000	0.0%	7.5	6
+Quán ăn	Cơm Gà Gia Hân	152 Cách Mạng Tháng 8, P. Bùi Hữu Nghĩa, Quận Bình Thủy, Cần Thơ	4.5	100+	08:30 - 13:15 | 15:30 - 19:45	35,000	38,000	0.0%	9.0	1
+Quán ăn	Ngọc Nhân Quán - Bánh Xèo	119 Phạm Văn Nhờ, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ	4.5	10+	08:00 - 22:00	35,000	150,000	0.0%	9.0	1
+Quán ăn	Res Beefsteak Kiều Đàm - 59 Nam Kỳ Khởi Nghĩa (không có menu)	59 Nam Kỳ Khởi Nghĩa, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 21:30	45,000	45,000	0.0%	0	0
+Quán ăn	Tik Tak - Mì Cay &amp; Trà Sữa	137 Phan Huy Chú, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 21:00	20,000	40,000	0.0%	5.2	4
+Quán ăn	Kim Phụng - Bún Đậu Mắm Tôm	20 Nguyễn Khuyến, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	500+	07:00 - 21:00	50,000	100,000	0.0%	7.7	34
+Quán ăn	Phở Cuốn Cần Thơ	144A Cách Mạng Tháng 8, P. Bùi Hữu Nghĩa, Quận Bình Thủy, Cần Thơ	4.5	100+	07:00 - 17:59 | 18:00 - 23:59	8,000	125,000	0.0%	9.4	84
+Ăn vặt/vỉa hè	Phá Lấu Bò An An - Trần Hoàng Na	622 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 23:00	20,000	25,000	0.0%	7.9	19
+Quán ăn	Lẩu TomYum	108/54 Đường 30 Tháng 4, P. An Lạc, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 22:00	19,000	79,000	0.0%	8.0	32
+Quán ăn	Cơm Gà Lê Trang - Nguyễn Văn Cừ Nối Dài	873 Nguyễn Văn Cừ Nối Dài. P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:30	25,000	35,000	0.0%	3.0	1
+Quán ăn	Cơm Gà Hùng Ký	17A Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 21:30	37,000	70,000	0.0%	7.5	72
+Ăn vặt/vỉa hè	To To - Bánh Tráng Trộn - Trần Văn Hoài	13 Trần Văn Hoài, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:30 - 22:00	15,000	30,000	0.0%	7.9	9
+Quán ăn	Thảo Nhi - Quán Cơm Tấm	9 Quang Trung, P. Hưng Phú, Quận Cái Răng, Cần Thơ	4.5	10+	07:00 - 21:00	10,000	15,000	0.0%	8.0	3
+Quán ăn	Bò Né 3 Ngon - Bò Quanh Lửa Hồng - Đường 30 Tháng 4	352 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 22:00	20,000	35,000	0.0%	7.5	77
+Quán ăn	Lẩu Nướng Hàn Quốc Se-Ong	55 Châu Văn Liêm, P. An Lạc, Quận Ninh Kiều, Cần Thơ	4.5	10+	12:00 - 22:00	49,000	399,000	0.0%	8.9	8
+Café/Dessert	The Polygon Cafe &amp; Bánh Âu	42/32 Trần Việt Châu, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 22:00	12,000	45,000	0.0%	8.2	20
+Ăn vặt/vỉa hè	Gỏi Cuốn &amp; Gỏi Đu Đủ - Nguyễn Hiền	Khu Dân Cư 91B, Nguyễn Hiền, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 19:00	3,000	15,000	0.0%	7.7	63
+Quán ăn	Bún Riêu Phượng	390F9 Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	05:00 - 17:00	25,000	30,000	0.0%	9.4	7
+Quán ăn	Quán Cơm Hai Lúa	132/2 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 19:00	18,000	25,000	0.0%	7.6	41
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Nguyễn Văn Cừ	257 - 259 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 22:15	30,000	50,000	0.0%	7.4	182
+Quán nhậu	Quán Việt Bình - Lẩu Bao Tử Nấu Tiêu	 H17 Đường Số 4 Khu Dân Cư Hưng Phú Mới, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ	4.5	100+	08:00 - 21:00	25,000	180,000	0.0%	8.3	7
+Ăn vặt/vỉa hè	Ăn Vặt Cô Ken - Gỏi Cuốn &amp; Sữa Chua	12/26B Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:00 - 21:00	10,000	20,000	0.0%	7.7	3
+Nhà hàng	Crystal Jade Kitchen - Vincom Xuân Khánh (không có menu)	Vincom Xuân Khánh, 209 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	11:00 - 21:00	100,000	500,000	0.0%	0	0
+Café/Dessert	Trà Sữa Miutea - Trần Chiên	Cạnh 439 Trần Chiên, P. Lê Bình, Quận Cái Răng, Cần Thơ	4.5	100+	08:00 - 21:00	12,000	30,000	0.0%	8.2	2
+Café/Dessert	Sonder - Tea &amp; Coffee - Mậu Thân	41T Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	500+	07:30 - 22:15	22,000	36,000	0.0%	8.0	28
+Café/Dessert	Hồ Nhi CN2 - Trần Hưng Đạo	138/29/24B Hẻm 182 Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 21:30	12,000	35,000	0.0%	8.0	2
+Café/Dessert	Nước Ép 7 Ngày - Nguyễn Văn Linh	329 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	500+	07:40 - 21:20	15,000	20,000	0.0%	6.7	3
+Ăn vặt/vỉa hè	Matcha Nga - Milk Tea - Nguyễn Văn Cừ	163A Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ	5.0	100+	09:00 - 21:30	15,000	20,000	0.0%	6.1	5
+Café/Dessert, Quán ăn	Yuly - Food &amp; Drink - Vincom Xuân Khánh	1E Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	07:00 - 21:00	15,000	50,000	0.0%	7.4	47
+Café/Dessert	Trà Hoa Midori	369 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 23:00	15,000	29,000	0.0%	8.0	1
+Café/Dessert	Sonder - Tea &amp; Coffee - Mạc Thiên Tích	124/11C Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:30 - 22:00	22,000	36,000	0.0%	6.4	2
+Café/Dessert	TocoToco Bubble Tea - Nguyễn Văn Cừ	107 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 21:30	29,000	56,000	0.0%	6.2	2
+Café/Dessert	Kafe’s Box - MilkTea &amp; Coffee	40 Đường Số 3, KDC Đại Ngân, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 22:00	15,000	28,000	0.0%	7.6	7
+Café/Dessert	Phương Hân Coffee House	211/18 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	0.0	3	06:00 - 22:00	9,000	18,000	ShopeeFood</span	9.7	4
+Café/Dessert	Highlands Coffee - Lotte Mart Cần Thơ	84 Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	9,000	65,000	0.0%	7.9	147
+Café/Dessert	1987 Tiệm Trà Chanh Sen - Hàng Xoài	323D Hàng Xoài, P. Lê Bình, Quận Cái Răng, Cần Thơ	4.5	50+	10:00 - 21:00	5,000	45,000	0.0%	10.0	1
+Café/Dessert	Phương Vinh Cafe	30 Nam Kỳ Khởi Nghĩa, P. Tân An, Quận Ninh Kiều, Cần Thơ	5.0	10+	05:00 - 22:00	10,000	30,000	0.0%	10.0	1
+Quán ăn	Nước Ép Sky	83 Lý Tự Trọng, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:00 - 21:00	20,000	20,000	0.0%	10.0	1
+Café/Dessert	Sonder - Tea &amp; Coffee - Nguyễn Văn Cừ Nối Dài	877 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:30 - 22:00	22,000	36,000	0.0%	4.5	2
+Café/Dessert	Highlands Coffee - Vincom Xuân Khánh	Vincom Xuân Khánh, 209 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:30 - 21:00	9,000	65,000	0.0%	8.0	138
+Café/Dessert	The Green Coffee	55 Hùng Vương, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 22:00	14,000	25,000	0.0%	9.5	5
+Café/Dessert	Gani Coffee House	3B Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	0.0	2	09:00 - 20:00	15,000	45,000	0.0%	9.4	1
+Ăn vặt/vỉa hè	Nước Mát Thiên Nhiên - Nguyễn Việt Hồng	133 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 22:00	8,000	20,000	0.0%	9.0	1
+Café/Dessert	OMG - Taiwan Milk Tea	132 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 22:20	20,000	40,000	0.0%	9.6	1
+Café/Dessert	Trà Sữa Wind	260 Cách Mạng Tháng 8, P. An Thới, Quận Bình Thủy, Cần Thơ	4.5	100+	07:00 - 22:00	14,000	28,000	0.0%	8.5	7
+Café/Dessert	Haidi - Latte Dâu	30A Lương Định Của, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 20:00	15,000	23,000	0.0%	9.0	1
+Café/Dessert	Trà Sữa Gấu	127 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 22:00	14,000	35,000	0.0%	7.7	57
+Ăn vặt/vỉa hè	Đá Me Bà 5	300 Tầm Vu, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	50+	08:00 - 20:30	15,000	25,000	0.0%	8.3	6
+Café/Dessert	Trà Sữa Chin - 92 Cách Mạng Tháng Tám	92 Cách Mạng Tháng Tám, P. Bùi Hữu Nghĩa, Quận Bình Thủy, Cần Thơ	4.5	100+	08:30 - 22:00	14,000	25,000	0.0%	8.5	2
+Café/Dessert	Trung Nguyên E Coffee - Nam Kỳ Khởi Nghĩa	56A - 56B Nam Kỳ Khởi Nghĩa, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 22:00	22,000	40,000	0.0%	10.0	1
+Café/Dessert	Highlands Coffee - 1 3/2 Cần Thơ (không có menu)	1 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 21:00	10,000	60,000	0.0%	7.9	36
+Café/Dessert	Trà Bí Đao MIA	40 Xô Viết Nghệ Tĩnh, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	10,000	10,000	0.0%	8.1	43
+Café/Dessert	Trà Tiên Hưởng - Trần Văn Khéo	113 Trần Văn Khéo, P. Cái Khê, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:15 - 22:00	12,000	33,000	0.0%	7.3	62
+Quán ăn	Nguyên Tâm - Bánh Bao &amp; Trà Sữa	360 Lê Bình, P. Lê Bình, Quận Cái Răng, Cần Thơ	4.5	100+	09:00 - 22:30	10,000	30,000	0.0%	8.7	2
+Café/Dessert, Quán ăn	Trà Sữa Te Amo - Trần Văn Khéo	03 Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	24,000	29,000	0.0%	8.2	1
+Café/Dessert	Cội Cà Phê	85 Võ Trường Toản, P. An Hòa, Quận Ninh Kiều, Cần Thơ	5.0	10+	06:00 - 22:30	12,000	29,000	0.0%	9.1	3
+Café/Dessert	Time Cafe	89A Võ Văn Tần, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 22:30	20,000	50,000	0.0%	7.8	59
+Café/Dessert	Highlands Coffee - Sense City Cần Thơ	1 Đại Lộ Hoà Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:00	9,000	65,000	0.0%	8.0	141
+Ăn vặt/vỉa hè	Hai Rau Má - Đại Lộ Hòa Bình	Nhà Văn Hóa Thiếu Nhi Cần Thơ, Đại Lộ Hòa Bình, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:30	15,000	30,000	0.0%	9.4	1
+Café/Dessert	Trung Nguyên Coffee - 259 Đường 30 Tháng 4	259 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	07:00 - 21:00	15,000	95,000	0.0%	7.7	50
+Café/Dessert	Mozzo Coffee	42 Đường 30/4, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 22:00	12,000	25,000	0.0%	8.1	9
+Café/Dessert	Chunky Chunks Coffee	41 Ngô Quyền, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	9	09:00 - 22:00	22,000	40,000	0.0%	10.0	1
+Café/Dessert	Bricoffee Tea - English Coffee - Tea House	28 Hai Bà Trưng, P. Tân An, Quận Ninh Kiều, Cần Thơ	0.0	2	06:00 - 23:59	19,000	55,000	0.0%	8.6	4
+Café/Dessert	Tiệm Cà Phê Ngộ	67 Trần Bình Trọng, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:30 - 20:00	15,000	29,000	0.0%	9.6	4
+Café/Dessert	Trà Sữa Bông - Sữa Tươi Đường Đen	9 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:15 - 22:00	20,000	30,000	0.0%	7.7	57
+Café/Dessert	Min Min Tea - Ngô Thì Nhậm	171 Ngô Thì Nhậm, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	07:00 - 23:00	20,000	25,000	0.0%	7.7	7
+Café/Dessert	Nguyên Vũ ICafe &amp; Cơm Trưa - Lộ Ngân Hàng	Lộ Ngân Hàng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 22:00	20,000	45,000	0.0%	7.5	3
+Ăn vặt/vỉa hè	Trà Sữa Chin - Trần Hưng Đạo	133 Trần Hưng Đạo, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 22:00	14,000	25,000	0.0%	7.4	199
+Café/Dessert	Mag Coffee &amp; Tea	79 Châu Văn Liêm, P. Tân An, Quận Ninh Kiều, Cần Thơ	5.0	1	07:00 - 23:00	20,000	45,000	0.0%	7.2	1
+Café/Dessert	Chè Bưởi THỦY - Food &amp; Drink - 188/1/43 Nguyễn Văn Cừ (không có menu)	188/1/43 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:30 - 23:00	8,000	25,000	0.0%	10.0	1
+Café/Dessert	MrP Bingsu &amp; Tea - Trần Ngọc Quế	9B Trần Ngọc Quế, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	08:30 - 17:00	25,000	45,000	0.0%	7.5	2
+Café/Dessert	Trà Sữa Chin - Quang Trung	83A Quang Trung, P. An Lạc, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 22:00	15,000	30,000	0.0%	7.3	59
+Café/Dessert	Lass - Coffee &amp; Bubble Tea	18 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 22:00	17,000	35,000	0.0%	7.6	6
+Café/Dessert	PERCY - Tea &amp; Cake	184 - 184A Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 22:00	20,000	35,000	0.0%	8.4	1
+Café/Dessert	Trà Sữa Chin - Đường 30 Tháng 4	724 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 22:00	20,000	40,000	0.0%	7.2	4
+Café/Dessert	Chill By Coffee	49 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	08:30 - 23:30	12,000	35,000	0.0%	7.5	2
+Café/Dessert	King Tea - Trà Sữa Đài Loan	381C2 Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 20:00	15,000	30,000	0.0%	10.0	1
+Café/Dessert	Amavo Caffee	16 Nguyễn Thái Học, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 21:00	8,000	15,000	0.0%	7.7	218
+Café/Dessert	Trà Sữa Chin - 81A Cách Mạng Tháng 8	81A Cách Mạng Tháng 8, P. Bùi Hữu Nghĩa, Quận Bình Thủy, Cần Thơ	4.5	999+	09:00 - 21:00	20,000	30,000	0.0%	7.1	3
+Café/Dessert	Trà Sữa Matcha Lục - Hùng Vương	39 Hùng Vương, P. An Hội, Quận Ninh Kiều, Cần Thơ	4.5	10+	11:00 - 21:00	10,000	30,000	ShopeeFood</span	7.8	84
+Café/Dessert	Sinh Nguyễn Coffee	36/AB/5 Hẻm 51, Khu Vực 3, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 21:00	20,000	30,000	0.0%	8.2	1
+Café/Dessert	Ding Tea - Nguyễn Văn Linh (không có menu)	268 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 23:59	25,000	49,000	0.0%	0	0
+Café/Dessert	Tám Milktea - Cafe More	140 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 22:00	15,000	35,000	0.0%	8.2	8
+Café/Dessert	Hưng Coffee	6 Nam Kỳ Khởi Nghĩa, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	5	06:30 - 18:00	10,000	20,000	0.0%	8.1	12
+Café/Dessert	The KanTho Coffee	228A Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	50+	08:00 - 21:00	20,000	50,000	0.0%	8.6	9
+Café/Dessert	The Joy Coffee House	1/1C Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	5.0	1	10:00 - 23:00	30,000	45,000	0.0%	9.6	1
+Café/Dessert	Trà Sữa D-Up Homemade - Trần Chiên	35/5 Trần Chiên, P. Lê Bình, Quận Cái Răng, Cần Thơ	4.5	50+	12:00 - 21:30	10,000	22,000	0.0%	7.4	2
+Café/Dessert	Like - Cafe &amp; Food	16 - 18 Phan Văn Trị, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	00:00 - 23:59	20,000	40,000	0.0%	8.6	1
+Café/Dessert	Trà Sữa Chin - 67 Nguyễn Văn Cừ	67 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:30 - 22:00	14,000	25,000	0.0%	6.7	4
+Café/Dessert, Khu chơi Game	Odin Coffee	L9 Đường B19, P. Hưng Phú, Quận Cái Răng, Cần Thơ	4.5	8	08:00 - 17:00	16,000	39,000	0.0%	9.4	7
+Café/Dessert	Aurora Cafe	419 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 22:00	10,000	35,000	0.0%	7.6	153
+Café/Dessert	Goon Yard Coffee	44 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 21:30	18,000	35,000	0.0%	6.8	2
+Café/Dessert	Infini-T Cafe 	38A Xô Viết Nghệ Tĩnh, P. An Hội, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 21:00	20,000	35,000	0.0%	7.3	122
+Café/Dessert	Kendy's Tea &amp; Food	1/29 Phan Văn Trị, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 22:00	20,000	20,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Trà Anh - Đường 3 Tháng 2	190 Đường 3/2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà ANH - Quang Trung	65 Quang Trung, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 21:40	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Puretea Trà Sữa Tươi - Lý Tự Trọng	52 Lý Tự Trọng, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:50	15,000	28,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bào - Đá Bào Sốt Milo	36 Hai Bà Trưng, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	6	10:00 - 23:00	25,000	25,000	ShopeeFood</span	8.9	3
+Café/Dessert	8X Trà Sữa	68 Xô Viết Nghệ Tĩnh, P. An Hội, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 21:00	15,000	22,000	ShopeeFood</span	7.9	6
+Café/Dessert	Trà Anh - Nguyễn Văn Cừ Nối Dài	138G1 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 21:40	7,000	39,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tea House - Fruit &amp; Milk Tea	35A Xô Viết Nghệ Tĩnh, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	15,000	25,000	0.0%	8.1	20
+Café/Dessert	Ming The Cafe	200 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	19,000	49,000	ShopeeFood</span	7.9	72
+Café/Dessert	Zest Coffee - Phố Ăn Vặt	57 Nguyễn Việt Hồng, P. An Lạc, Quận Ninh Kiều, Cần Thơ	4.5	50+	07:00 - 22:00	14,000	55,000	0.0%	7.4	93
+Café/Dessert	Trà Sữa Muối House - Ba Tháng Hai	110A Ba Tháng Hai, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	50+	08:00 - 22:00	10,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	Kaffeine Coffee House	322 Trần Ngọc Quế, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	25,000	38,000	0.0%	8.0	86
+Café/Dessert	Đẹp Đen - Coffee, Tea &amp; Juice - Nguyễn Văn Cừ	145 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 23:00	15,000	25,000	ShopeeFood</span	7.0	11
+Café/Dessert	TIFF Café &amp; Lounge - Trần Văn Khéo	117 Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 21:30	29,000	75,000	0.0%	<span>_._</span>	0
+Café/Dessert	Coco Coffee - Đường 30 Tháng 4	654 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	0	0	06:00 - 23:00	25,000	45,000	0.0%	0	0
+Café/Dessert	CUA Coffee &amp; Milk Tea - Nguyễn Văn Cừ Nối Dài	261/10 Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 23:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Cream Coffee CHẠM - Cafe Kem - Trần Phú	134 Trần Phú, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	0.0	4	06:00 - 22:00	15,000	25,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Lani - Trà Sữa - 138 Trần Hưng Đạo	138/140A, Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:15 - 22:00	0	0	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Sữa Bảo Anh - Trà Sữa - Đường 1B	60 Đường 1B, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ	4.5	10+	06:00 - 20:30	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Bibi - Sữa Chua &amp; Nước Ép - Cách Mạng Tháng Tám	1/26 Phạm Ngũ Lão, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	50+	07:00 - 22:00	15,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	An Khánh Coffee &amp; Tea - Nguyễn Tri Phương	141 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0.0	4	06:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa IKIGAI - Đường 30/4 (không có menu)	608 Đường 30/4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	20,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Sâm Thảo Mộc An Nhiên Mậu Thân - Sâm Thảo Mộc - Mậu Thân Nối Dài	133C Mậu Thân Nối Dài, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	0	0	0.0%	10.0	1
+Café/Dessert	Trà Sữa IKIGAI - Nguyễn Văn Linh	404 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 22:00	20,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nước Ép MÁT JUICE HEALTHY - Đề Thám	52 Đề Thám, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 18:00	25,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa An Viên - Đường 3 Tháng 2	58 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:00 - 21:30	16,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	MỊN - Trà Sữa Hạt Điều - Trần Hưng Đạo	143B Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	26,000	32,000	0.0%	<span>_._</span>	0
+Quán ăn	Ẩm Thực Chay Minh Khôi - Hồ Bún Xáng	7A/1 Đường Cặp Bờ Kè Hồ Bún Xáng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	08:00 - 21:00	30,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Chay Bình An - Trần Bình Trọng	46 Trần Bình Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 21:00	2,000	150,000	0.0%	<span>_._</span>	0
+Giao cơm văn phòng	Thụy Du - Đồ Thuần Chay - 132/43/54 Hùng Vương (không có menu)	132/43/54 Hùng Vương, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	0	0	07:00 - 19:00	0	0	0.0%	0	0
+Ăn chay	Cơm Chay Bách Thảo - Trần Việt Châu	150 Trần Việt Châu, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:15 - 21:30	4,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Chay Tràng Phan - Mậu Thân Nối Dài	127 Mậu Thân Nối Dài, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 21:00	15,000	20,000	0.0%	<span>_._</span>	0
+Ăn chay	Quán Chay 586	586 Cách Mạng Tháng 8, P. An Thới, Quận Bình Thủy, Cần Thơ	0.0	2	06:30 - 21:00	10,000	30,000	ShopeeFood</span	5.0	1
+Quán ăn	Bỉ Ngạn Viên - Vegetarian Chay - Hẻm 51	47F Hẻm 51 Đường 3/2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	9	10:00 - 21:00	15,000	235,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Chay Liên Huệ - Mậu Thân Nối Dài	676 Mậu Thân Nối Dài, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 20:00	15,000	90,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Chay 594 - Cách Mạng Tháng 8	594 Cách Mạng Tháng 8, P. Bình Thủy, Quận Bình Thủy, Cần Thơ	5.0	2	07:00 - 21:00	13,000	20,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Thiện Duyên - Cơm Chay (không có menu)	262 Đường 30/4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 21:00	20,000	55,000	ShopeeFood</span	8.0	26
+Quán ăn	Hỷ Lạc Chay - Đường 30 Tháng 4 (không có menu)	Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	1,000	30,000	ShopeeFood</span	7.7	33
+Quán ăn, Ăn chay	Cơm Chay Đạt (không có menu)	170 Đường 3/2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	10,000	20,000	ShopeeFood</span	7.6	44
+Quán ăn	Cơm Chay Cường - Đề Thám (không có menu)	9 Đề Thám, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 21:00	20,000	55,000	ShopeeFood</span	7.5	129
+Ăn chay	An An - Thực Phẩm Chay	312/7 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	0	0	09:00 - 20:00	5,000	35,000	ShopeeFood</span	0	0
+Ăn chay	Quán Chay Như Hạnh - Bún Bò Huế Chay - 172 Nguyễn Văn Cừ Nối Dài (không có menu)	172 Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	8	06:00 - 18:00	0	0	0.0%	<span>_._</span>	0
+Tiệm bánh	La Baguette - Võ Văn Tần (không có menu)	1A Võ Văn Tần, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 20:00	20,000	70,000	0.0%	0	0
+Quán ăn	Bún Trộn &amp; Miến Trộn - Bếp Mẹ Sâu Róm - Đường 30 Tháng 4	108/49/82 Đường 30 Tháng 4, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	00:00 - 23:59	15,000	38,000	0.0%	<span>_._</span>	0
+Quán ăn	Buổi Sáng Tuyệt Vời - Bánh Mì &amp; Hamburger	251/26 Trần Ngọc Quế, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 18:00	10,000	23,000	0.0%	<span>_._</span>	0
+Nhà hàng	Pizza Hut - Nguyễn Văn Cừ	202 Nguyễn Văn Cừ, P. An Hoà, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 21:30	50,000	500,000	0.0%	<span>_._</span>	0
+Quán ăn	Teppan Steak	16 Nguyễn Đình Chiểu, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:30 - 20:20	28,000	188,000	0.0%	7.4	4
+Nhà hàng, Café/Dessert	Resto - Nhà Hàng Ý	44 Lý Tự Trọng, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	20,000	132,000	0.0%	8.0	69
+Quán ăn	Yen Pizza - Nguyễn Văn Cừ	306 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	50+	00:00 - 23:59	18,000	135,000	0.0%	<span>_._</span>	0
+Quán ăn	Beno - Đồ Ăn Nhanh	C150 Trần Văn Hoài, Quận Ninh Kiều, Cần Thơ	0	0	07:00 - 20:00	8,000	100,000	0.0%	0	0
+Quán ăn	Pizza Mymy 69K - Mỳ Ý Sốt Phô Mai 29K	26B9 Khu Dân Cư 91B, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:00 - 23:00	69,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	THỊ Food - Drink - Cake - Trần Hoàng Na	49/15A Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	5.0	5	07:30 - 21:30	4,000	290,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Hamburger, Hoành Thánh &amp; Súp Cua - Võ Trường Toản	84 Võ Trường Toản, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 20:00	15,000	50,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Mộc - Pizza &amp; Coffee - Nguyễn Tri Phương	141 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0	0	07:00 - 22:00	10,000	100,000	0.0%	0	0
+Quán ăn	Cơm Tấm 504	504 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	06:00 - 19:30	15,000	15,000	0.0%	7.4	43
+Quán ăn	Cơm Gà Xối Mỡ Ngọc Hằng	69/1 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:00 - 20:00	20,000	30,000	0.0%	7.1	41
+Quán ăn	Cơm Gà &amp; Trà Sữa Hippopo Nguyễn Tri Phương	63 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 21:55	30,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà 89	78 Trần Việt Châu, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 19:30	30,000	38,000	0.0%	1.0	1
+Quán ăn	Bảo Phát - Cơm Gà Xối Mỡ	158/5 Trần Vĩnh Kiết, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 17:30	17,000	35,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Lê Khang - Gà Tiềm Thuốc Bắc	405 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 20:00	38,000	50,000	ShopeeFood</span	2.0	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn - Bà Huyện Thanh Quan	Tầng Trệt, 34/15 Bà Huyện Thanh Quan, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	10,000	20,000	ShopeeFood</span	8.4	2
+Quán ăn	Cơm Tấm Mũm Mỉn	337 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:40 - 22:00	20,000	35,000	0.0%	2.4	1
+Quán ăn	Tiệm Cơm Khuya Cô Vy	128A Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Quán 535 - Cơm Tấm Đêm	535 Trần Quang Diệu, P. An Thới, Quận Bình Thủy, Cần Thơ	3.5	10+	09:00 - 19:00	15,000	20,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Cơm Tấm Mai Anh	390/9 Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:20 - 18:20	25,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Kim Phượng 3 - Cơm Bình Dân	Hẻm 51 Đường 3 Tháng 2, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:00 - 20:00	18,000	20,000	ShopeeFood</span	7.5	5
+Ăn vặt/vỉa hè	Mr. Thịnh - Khoai Lang Lắc &amp; Gà Rán - Phan Chu Trinh	31 Phan Chu Trinh, P. Tân An, Quận Ninh Kiều, Cần Thơ	0	0	12:00 - 20:30	10,000	25,000	0.0%	0	0
+Quán ăn, Giao cơm văn phòng	Cơm Phần Bảo Hân	281 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	0	0	09:00 - 21:00	15,000	20,000	ShopeeFood</span	0	0
+Quán ăn	Quán Cơm 9 Ích (không có menu)	163 Lý Tự Trọng, P. An Cư, Quận Ninh Kiều, Cần Thơ	3.5	5	10:00 - 17:30	20,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Huỳnh Trang - Cơm Gà Xối Mỡ (không có menu)	40 Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 20:30	18,000	30,000	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm Phố Nhỏ - Lê Lai	8 Lê Lai, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:30 - 20:47	35,000	60,000	0.0%	7.2	70
+Quán ăn	Gucha House - Lẩu Mực Khổng Lồ, Mỳ Cay &amp; Trà Sữa	51/12/10 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	0	0	0.0%	7.6	1
+Quán ăn	Thái Street - Lẩu Thái Tomyum &amp; Lẩu Mực Khổng Lồ	Hẻm 107 Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:00 - 22:00	5,000	339,000	0.0%	10.0	1
+Quán ăn	Quán Choén - Lẩu &amp; Ốc	162/6 Trần Ngọc Quế, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 22:00	28,000	88,000	0.0%	5.8	4
+Quán ăn	Bún Ý Em - Lý Tự Trọng	1/76A Lý Tự Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:30 - 19:30	25,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thái 68 Phương Tâm - Nguyễn Hiền	20 Nguyễn Hiền, KDC 91B, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 21:30	25,000	79,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Lẩu Bò 99k, Bún &amp; Cơm - Hân Hân	63/L2 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 23:59	25,000	199,000	0.0%	<span>_._</span>	0
+Quán ăn	Coko - Lẩu Ly, Mì Trộn, Ăn Vặt	147/43 Hoàng Văn Thụ, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 21:00	35,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thái 68 Phương Tâm - Trần Hoàng Na	48 Trần Hoàng Na, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 21:30	20,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Nướng No Nê - Mạc Thiên Tích	122/7 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:30 - 21:30	15,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Kim Liên Quán - Vịt Nấu Chao	Hẻm 1 Lý Tự Trọng, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	50+	10:00 - 23:00	50,000	300,000	0.0%	7.4	9
+Quán ăn	Dê Tươi Tây Sơn - Nguyễn Văn Cừ Nối Dài	335AA Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 23:30	50,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Cẩm Tú - Vịt Nấu Chao	Hẻm 1 Lý Tự Trọng, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:30 - 21:00	100,000	200,000	0.0%	7.4	23
+Quán ăn	Phở Z586 - KDC586	D1-48 Đường 47 KDC 586, P. Phú Thứ, Quận Cái Răng, Cần Thơ	4.5	10+	06:30 - 19:00	30,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Đá Hầm Sả Ngọc Ngân - Gà Đá - H.18 Đường Số 3 KDCVH Tây Đô	H.18 Khu Dân Cư Văn Hoá Tây Đô, Đường Số 3, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ	5.0	6	08:00 - 23:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Mỹ Anh - Food &amp; Drink	122/7C Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	0	0	07:00 - 21:00	5,000	50,000	ShopeeFood</span	0	0
+Quán ăn	Thanh Nhã 1 - Quán Nhậu	63 Huỳnh Cương, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	20,000	88,000	ShopeeFood</span	6.7	8
+Quán ăn	Quán Ngũ Vị - Cơm Niêu &amp; Đồ Nướng - Trần Hoàng Na	102/10 Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.0	10+	07:00 - 22:00	10,000	45,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Shinshu - Xúc Xích Nhật Bản	54 Võ Trường Toản, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 21:00	10,000	15,000	0.0%	7.4	18
+Quán ăn	Sườn Nướng La Cà	118/15A Trần Văn Khéo, P. An Hội, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 22:00	150,000	220,000	ShopeeFood</span	6.9	19
+Quán ăn	Quán Tuấn Phát - Gà Vườn &amp; Ba Ba	Ngô Sĩ Liên, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	60,000	200,000	ShopeeFood</span	7.9	12
+Quán ăn	Đông Dương Xứ Quán - Quán Ăn Gia Đình	432 Võ Văn Kiệt, P. Long Hòa, Quận Bình Thủy, Cần Thơ	4.5	5	09:00 - 22:00	15,000	60,000	0.0%	9.1	3
+Quán ăn	Bò Hé Lo - Bánh Canh Việt - Cách Mạng Tháng 8	2 Cách Mạng Tháng 8, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 23:30	20,000	40,000	0.0%	7.9	12
+Quán ăn, Quán nhậu	Ốc 124	85/2 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 22:00	35,000	60,000	0.0%	8.6	4
+Quán ăn	Chicken Plus - Gà Rán Hàn Quốc - Cách Mạng Tháng 8	70 Cách Mạng Tháng 8, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 21:30	20,000	189,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Tấn Phát - Gà Ác Nướng	54B Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	7	09:00 - 21:00	35,000	35,000	ShopeeFood</span	7.0	1
+Ăn vặt/vỉa hè	Xóm Nướng Ngói - Bờ Hồ Bún Xáng	Hẻm 51 Ba Tháng Hai (Bờ Hồ Bún Xáng), P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	13:00 - 23:59	12,000	69,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Lẩu &amp; Nướng Tomyum	160M6 Hẻm 160 Liên Tổ 13-14-15 Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	00:00 - 23:59	15,000	100,000	0.0%	3.6	1
+Nhà hàng	NHÀ HÀNG HÒA TUỘC - Nguyễn Văn Linh	333 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 22:00	200,000	400,000	0.0%	8.7	3
+Café/Dessert, Quán ăn	Quán Ăn Tỷ Lùn - Cầu Hưng Lợi	12A/3 Khu Vực 2, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ	4.5	10+	10:00 - 21:30	35,000	375,000	0.0%	<span>_._</span>	0
+Quán ăn	Alo Chợ Quán	28B/1 Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	5.0	10+	09:30 - 13:00 | 15:30 - 19:00	20,000	150,000	ShopeeFood</span	8.2	24
+Quán ăn	Lẩu Ngon Sinh Viên	36A Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:00 - 22:00	139,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Ăn Gia Đình Thịnh Phát	36A Nguyễn Văn Cừ, Quận Ninh Kiều, Cần Thơ	0.0	3	08:00 - 22:08	45,000	399,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Nhậu Bình Dân G3	256/3 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	5.0	1	09:00 - 21:00	20,000	55,000	ShopeeFood</span	7.4	5
+Quán ăn	Lẩu Kim Quy - Quán Lẩu - 15/278 Đường Tầm Vu (không có menu)	15/278 Đường Tầm Vu, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	0	0	09:00 - 20:00	0	0	0.0%	0	0
+Quán ăn	Quán Cô Mỹ - Vịt Nấu Chao (Cẩm Tú 3)	1/20A Lý Tự Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 23:59	30,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Mỹ Nhân Ngư - Quán Ăn Hải Sản	2J Trần Văn Hoài, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	0	0	09:00 - 21:00	50,000	500,000	ShopeeFood</span	0	0
+Quán ăn	Lẩu Dê Ngọc Mai - Lê Lợi	31 Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	3.5	5	09:00 - 22:00	50,000	400,000	0.0%	<span>_._</span>	0
+Quán ăn	Viva - Lẩu Mắm &amp; Cháo Lươn Xứ Nghệ - Lê Lợi	192 Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	0	0	10:00 - 23:00	15,000	300,000	0.0%	0	0
+Quán ăn	Ghiền Lẩu - 33 Lê Lợi	33 Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 22:00	45,000	250,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Ăn Vặt Forgetmenot	117/1C Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	3.5	10+	07:00 - 23:00	3,000	30,000	0.0%	<span>_._</span>	0
+Nhà hàng	Alô Dzô 100 - Lẩu, Nướng &amp; Hải Sản	55B1B Khu Vực 2, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:30 - 23:00	49,000	259,000	0.0%	<span>_._</span>	0
+Quán ăn	Dy Cát - Lẩu &amp; Cà Phê	391 Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ	3.5	3	06:00 - 19:00	10,000	119,000	0.0%	<span>_._</span>	0
+Quán nhậu	Hèm - Quán Nhậu Bình Dân	151/16 Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 22:30	20,000	220,000	ShopeeFood</span	<span>_._</span>	0
+Nhà hàng	Ốc Nhé	127 Võ Văn Kiệt, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	10+	00:01 - 02:00 | 11:00 - 23:59	15,000	1,000,000	0.0%	<span>_._</span>	0
+Quán ăn	Phố Núi - Lẩu Dê - Nguyễn Văn Linh	289D Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	3.5	10+	08:00 - 23:00	150,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Ăn Gia Đình Hoàng Vũ - Chuyên Các Món Dê Tươi - Nguyễn Văn Cừ Nối Dài 	167H Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	5.0	2	09:00 - 21:00	40,000	620,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu 2 My - Trần Nam Phú	390N2 Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0	0	08:00 - 20:00	69,000	109,000	0.0%	0	0
+Nhà hàng, Spa/Massage	Quán Mộc Đồng Quê	127 Võ Văn Kiệt, P. An Hòa, Quận Ninh Kiều, Cần Thơ	0	0	09:00 - 23:00	59,000	259,000	0.0%	0	0
+Quán ăn	Gia Ký - Bánh Mì Heo Quay (không có menu)	19/9 Lê Hồng Phong, P. Bình Thủy, Quận Bình Thủy, Cần Thơ	4.5	10+	07:00 - 21:00	15,000	200,000	ShopeeFood</span	8.8	2
+Quán ăn	Bún Gà Chanh Ớt - Đường 3 Tháng 2	12/17/8 Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 19:00	20,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	A Linn - Cơm Cháy &amp; Ăn Vặt	142/55C Mậu Thân, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:30 - 14:00 | 16:00 - 19:30	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Dê Đệ Nhất (không có menu)	108 Võ Văn Kiệt, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	50+	10:00 - 22:00	15,000	500,000	ShopeeFood</span	7.9	11
+Quán ăn	DANNYGREEN BIOMARKT - Đường 30/4 (không có menu)	515 Đường 30/4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	0	0	09:00 - 17:00	100,000	300,000	ShopeeFood</span	0	0
+Quán ăn	Bò Né 3 Ngon - Bò Quanh Lửa Hồng - Đường 3 Tháng 2 (không có menu)	176 Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 13:00 | 16:30 - 22:00	15,000	35,000	ShopeeFood</span	7.5	96
+Quán ăn	6 Đời 5 - Quán Ăn Gia Đình (không có menu)	235/3 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	25,000	88,000	ShopeeFood</span	7.5	28
+Quán ăn	Lẩu Bò 999 (không có menu)	Nguyễn Thị Minh Khai, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 22:00	50,000	200,000	0.0%	7.0	13
+Nhà hàng	6 Đời 3 - Quán Ăn Gia Đình (không có menu)	206/13 Đại Lộ Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 22:00	350,000	550,000	ShopeeFood</span	6.7	41
+Quán ăn	Vịt Xiêm Hương Lúa (không có menu)	80 Võ Văn Kiệt, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 22:00	59,000	360,000	ShopeeFood</span	6.1	12
+Quán ăn	Lẩu Quê Tôi - Bờ Hồ Bún Xáng	57A3 Bờ Hồ Bún Xáng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0	0	10:00 - 22:00	15,000	190,000	ShopeeFood</span	0	0
+Quán ăn	Sò Nướng 10k - Chuyên Món Nướng - Trần Phú	206/3/6/12 Trần Phú, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	0	0	08:00 - 22:00	10,000	300,000	0.0%	0	0
+Café/Dessert, Quán ăn	Quán Ẩm Thực 2 Bình - Võ Nguyên Giáp	539C Võ Nguyên Giáp, P. Phú Thứ, Quận Cái Răng, Cần Thơ	0	0	10:00 - 22:00	99,000	239,000	0.0%	0	0
+Quán ăn	Hưng Ký - Cơm &amp; Lẩu	91 Nguyễn Thông, P. An Thới, Quận Bình Thủy, Cần Thơ	4.5	50+	06:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Shop Online	Hưng Thịnh Phát - Các Món Nướng - 51/12 Đường 3/2 (không có menu)	51/12 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	0	0	09:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	BẾP MẸ BON - Quán Lẩu Take away - KDC 586	B84 KDC 586 Đường Số 57, P. Phú Thứ, Quận Cái Răng, Cần Thơ	0	0	10:00 - 18:00	0	0	0.0%	0	0
+Quán ăn	Kimchi House - Lẩu Kim Chi (không có menu)	43 Quảng Trọng Hoàng, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	0	0	08:00 - 22:00	50,000	150,000	ShopeeFood</span	0	0
+Quán ăn	Quán Cơm Ngọc Yến - Xuân Hồng (không có menu)	Đường Xuân Hồng, P. Long Tuyền, Quận Bình Thủy, Cần Thơ	5.0	1	07:00 - 19:00	30,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Dê Anh Tây - Lộ Vòng Cung (không có menu)	166/5 Lộ Vòng Cung, Khu Vực 3, P. An Bình, Quận Ninh Kiều, Cần Thơ	2.0	2	12:00 - 23:59	10,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Đệ Nhất Lẩu Tôm Càng - Lê Anh Xuân (không có menu)	126A Lê Anh Xuân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	9	09:00 - 23:00	25,000	480,000	0.0%	<span>_._</span>	0
+Quán ăn	Gà Ác Dương Gia Quán	233 Huỳnh Cương, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	500+	14:00 - 21:30	39,000	99,000	0.0%	8.2	21
+Quán ăn	Mr. Bò - Lẩu Bò Sa Tế	Hẻm 51/47/3 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	16:00 - 21:20	5,000	199,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Mẫn - Cá Lóc Nướng	184 Huỳnh Cương, P. An Cư, Quận Ninh Kiều, Cần Thơ	5.0	7	14:00 - 21:00	50,000	100,000	ShopeeFood</span	7.9	10
+Quán ăn	Bò 59 - Quán Nhậu Bình Dân - 3 Tháng 2	Hẻm 124 Đường 3 Tháng 2, Quận Ninh Kiều, Cần Thơ	4.5	10+	15:00 - 21:00	59,000	99,000	ShopeeFood</span	7.8	14
+Quán ăn	Thích Ăn Uống - Trần Hoàng Na	102/14 Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	13:00 - 23:00	20,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Cá Lóc Nướng 77	28 Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	15:00 - 21:30	50,000	350,000	0.0%	7.7	12
+Quán ăn	Lẩu Dê 91B - Nguyễn Văn Linh	211/6 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	15:00 - 21:00	35,000	120,000	ShopeeFood</span	7.8	19
+Quán ăn	Phố Nướng 102 - Quang Trung	Quang Trung, Quận Cái Răng, Cần Thơ	4.5	10+	14:00 - 22:00	30,000	120,000	0.0%	7.6	104
+Nhà hàng	Hotpot &amp; BBQ - Trần Văn Hoài	81/1H Hẻm 15 Trần Văn Hoài, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	16:30 - 21:30	30,000	240,000	0.0%	6.2	1
+Quán ăn	Phở Phương Mai - Võ Nguyên Giáp	A10 - 14 Võ Nguyên Giáp, P. Phú Thứ, Quận Cái Răng, Cần Thơ	4.5	10+	06:00 - 12:00 | 16:00 - 21:00	3,800	250,000	0.0%	<span>_._</span>	0
+Nhà hàng	Tri Kỷ Korean Restaurant	21 Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	5	15:30 - 22:00	20,000	300,000	ShopeeFood</span	8.0	15
+Ăn vặt/vỉa hè	Xóm Nướng Ngói - Đinh Tiên Hoàng	63 Đinh Tiên Hoàng, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	10+	16:00 - 23:59	12,000	69,000	0.0%	<span>_._</span>	0
+Café/Dessert	Sửu Ca - Nướng &amp; Lẩu	85 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	16:00 - 21:00	5,000	49,000	ShopeeFood</span	7.5	95
+Nhà hàng, Tiệc cưới/Hội nghị	Nhà Hàng Sao Mai	41A Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	5.0	7	14:00 - 21:00	100,000	1,000,000	ShopeeFood</span	7.6	11
+Quán ăn	Làng Hải Sản - Bờ Hồ Bún Xáng	51D Hẻm 51 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	0.0	2	14:00 - 22:00	50,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu 39k - Mậu Thân	Hẻm 6 Mậu Thân, Quận Ninh Kiều, Cần Thơ	4.5	50+	16:30 - 21:00	50,000	100,000	ShopeeFood</span	8.0	19
+Quán nhậu	Lẩu Cua Đồng	2/23A Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	5.0	5	14:00 - 21:00	10,000	200,000	ShopeeFood</span	7.4	2
+Quán ăn	Bánh Xèo Ngọc Ngân	Đại Lộ Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	5.0	10+	14:30 - 22:00	50,000	165,000	ShopeeFood</span	7.4	18
+Quán ăn	Gà Ác Hẻm 71	71/23 Lý Tự Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	8	15:00 - 19:00	50,000	100,000	ShopeeFood</span	8.2	5
+Quán ăn	Quán Ăn Ven Sông 35k	135A/6 Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	6	16:00 - 21:00	35,000	69,000	ShopeeFood</span	5.1	3
+Quán ăn	Thị Nở - Quán Ăn Gia Đình	80 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	5.0	1	14:00 - 22:00	50,000	200,000	0.0%	8.0	1
+Quán ăn	Cù Lần - Bò Nướng Ngói	88/19A Đề Thám, P. Tân An, Quận Ninh Kiều, Cần Thơ	5.0	10+	15:00 - 21:00	35,000	65,000	ShopeeFood</span	7.8	90
+Quán nhậu	Quán Nhậu 49 Bờ Hồ	47 - 49 Huỳnh Cương, P. An Cư, Quận Ninh Kiều, Cần Thơ	3.5	10+	15:00 - 21:00	15,000	500,000	ShopeeFood</span	7.7	3
+Quán ăn	Quán Ốc Hoa	42-44 Lương Định Của, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	10+	15:00 - 22:00	15,000	50,000	0.0%	6.5	7
+Quán ăn	Út Ri - Bò Nướng Ngói	140 Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0	0	14:00 - 21:00	50,000	200,000	ShopeeFood</span	0	0
+Ăn vặt/vỉa hè	Nướng Mật - Các Món Nướng - Bông Vang	85 Bông Vang, X. Mỹ Khánh (Đối Diện Chợ Mỹ Khánh), Phong Điền, Cần Thơ	4.5	9	14:00 - 21:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	An Lạc Thôn - Quán Ăn Theo Phong Cách Kiếm Hiệp	242 - 250 Nguyễn Hiền, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	15:00 - 23:59	39,000	249,000	0.0%	6.0	2
+Quán ăn	Nem Nướng Anh Mập	18 Nguyễn An Ninh, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 21:30	50,000	110,000	0.0%	7.4	46
+Quán ăn	Bún Bề Bề	43 Xô Viết Nghệ Tĩnh, P. An Hội, Quận Ninh Kiều, Cần Thơ	4.5	500+	07:00 - 21:30	29,000	35,000	0.0%	7.1	28
+Quán ăn	Bánh Canh Ghẹ Cà Mau - Đường 30 Tháng 4	256 Đường 30 Tháng 4, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 22:00	50,000	60,000	0.0%	7.0	30
+Quán ăn	Cô Bích - Bún Riêu Cua &amp; Bún Ốc	98 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 19:00	20,000	30,000	0.0%	7.6	26
+Café/Dessert	Ca Dao Cafe	2 Phan Văn Trị, P. An Lạc, Quận Ninh Kiều, Cần Thơ	0.0	4	08:00 - 21:00	35,000	55,000	ShopeeFood</span	7.9	38
+Quán ăn	Hương Việt - Bún Đậu Mắm Tôm - Nguyễn Văn Cừ Nối Dài	170/B3 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	09:00 - 21:30	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Mắm - Trương Định	25 Trương Định, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 20:00	15,000	20,000	0.0%	6.8	1
+Quán ăn	Bún Đậu Mắm Tôm 3 Phải - Trần Văn Hoài	146H Trần Văn Hoài, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	09:00 - 20:45	10,000	115,000	0.0%	7.7	11
+Giao cơm văn phòng	Nhà Hàng Quê Tôi - Bún Cá - Trần Văn Khéo (không có menu)	143 Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	0	0	06:00 - 22:00	0	0	0.0%	0	0
+Ăn vặt/vỉa hè	Ăn Vặt Cô Tú - Khu Đô Thị Mới Hưng Phú	Q3B Đường Số 17, Khu Đô Thị Mới Hưng Phú, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ	4.5	10+	09:17 - 20:55	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Mì Xào Hai Anh Em	22 Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:00	5,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Tri Thảo - Bún Cá Châu Đốc	51/12/8 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 22:00	17,000	32,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Mihi - Trần Bình Trọng	32 Trần Bình Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:30 - 21:00	6,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thịt Xào &amp; Bánh Mì Chú Bảo - Đồng Văn Cống	124 Đồng Văn Cống, P. An Thới, Quận Bình Thủy, Cần Thơ	4.5	5	06:00 - 19:00	10,000	34,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Mắm Út Tèo - Hòa Bình	18/84 Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 20:00	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm The Hy A	2 Xuân Thủy, KDC Hồng Phát, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:30 - 21:30	18,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Tố Tố - Gỏi Cuốn &amp; Mì Trộn Tóp Mỡ	53/79/4 Nguyễn Việt Dũng, P. An Thới, Quận Bình Thủy, Cần Thơ	4.5	100+	08:00 - 19:45	5,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Phố Đậu - Bún Đậu Mắm Tôm	48 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	10:00 - 21:00	15,000	299,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm Đầu Bự - Trần Hưng Đạo	218/52 Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 21:30	36,000	116,000	0.0%	<span>_._</span>	0
+Quán ăn	Cháo Family Bánh Mỳ Hambuger Ông Tây - Thức Ăn Mang Đi - Tô Hiến Thành	22 Tô Hiến Thành, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 18:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Xào Chả Giò 68 - Bún Xào &amp; Thức Ăn	68b/4 3 tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 21:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Phở Tài 2 - Nguyễn Văn Cừ	23/3B Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	500+	00:01 - 23:59	30,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Tờ Ri - Trần Hoàng Na	87K Trần Hoàng Na, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 21:30	20,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Xối Mỡ Lâm Ký 4 - Trần Vĩnh Kiết	174 Trần Vĩnh Kiết, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.0	10+	06:00 - 21:00	30,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm Tố Như - Nguyễn Văn Linh	399/9 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	9	06:00 - 20:00	15,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Huế Sông Hương - Nguyễn Văn Cừ	163M/20 Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	07:00 - 22:31	30,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt Mihi - Mì Trộn Tóp Mỡ - Bờ Hồ Bún Xáng	51/14/2 Bờ Hồ Bún Xáng, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thịt Nướng Bao Ngon - Nguyễn Việt Hồng	158/43 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 19:30	10,000	110,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Trộn Mr Thọ - Mạc Thiên Tích	43B Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Mai - 37 Mậu Thân	37 Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:00 - 23:30	30,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Đặc Sản Mì Quảng Huyền - Nguyễn Khuyến	12 Nguyễn Khuyến, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 21:00	8,000	75,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Hồng Phát - Bánh Cuốn Nóng &amp; Bún Chả Hà Nội	Đường số 5, Khu Dân Cư Hồng Phát, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 20:30	40,000	55,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Han Tea - Gỏi Bò Cay	27/14 Trần Bình Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	100+	11:00 - 21:00	10,000	20,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm Cô Hương - Nguyễn Văn Cừ Nối Dài	138S Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:30	35,000	135,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Cua Ngô Khang - Đề Thám	21 Đề Thám, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:30 - 22:00	20,000	40,000	0.0%	6.5	26
+Quán ăn	Sáu Quỳnh - Bún Riêu &amp; Bún Xào - Bờ Hồ Búng Xáng	10A/1 Bờ Hồ Búng Xáng, Hẻm 51, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Bò Huế Sông Hương 2 - Nguyễn Văn Linh	8 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:30 - 22:00	30,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Sườn Chiên D&amp;D	314/21 Cách Mạng Tháng Tám, P. Bùi Hữu Nghĩa, Quận Bình Thủy, Cần Thơ	4.5	100+	06:00 - 23:59	20,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Ăn Vặt &amp; Mì Trộn Ti Ta - Hẻm Liên Tổ 12-20	152C1/16 Khu Vực 1, Hẻm Liên Tổ 12-20, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:30 - 22:30	12,000	59,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm Xưa 2 - Bờ Hồ Bún Xáng	39/51 Bờ Hồ Bún Xáng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:00	7,000	99,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cuội - Bún Đậu Mắm Tôm	20 Mậu Thân, P. An Hoà, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 22:00	35,000	65,000	0.0%	4.0	2
+Quán ăn	BÚN CÁ KIÊN GIANG NGỘ - Bún Cá Kiên Giang - Trần Bình Trọng	67 Trần Bình Trọng, P.  An Phú, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:30 - 20:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Quậy Mai Lộc - Huỳnh Cương	211 - 213 Huỳnh Cương, P.  An Cư, Quận Ninh Kiều, Cần Thơ	4.5	50+	07:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cô Linh - Bún Chả Hà Nội	36 Hồ Búng Xáng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 13:00 | 16:00 - 21:00	30,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Xưa Cần Thơ - Trần Văn Hoài	5 Trần Văn Hoài, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Mì Trộn - Sâm Bổ Lượng Tao Bao	25/9 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:00 - 20:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	3 Hiền - Bún Đậu Mắm Tôm - Ngô Văn Sở	25 Ngô Văn Sở, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 20:45	10,000	35,000	0.0%	7.5	102
+Quán ăn	Bún Bò Huế Như Ý - Nguyễn Văn Cừ Nối Dài	295B Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 22:00	45,000	55,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Phú Trung 2	92 - 94 Trần Bạch Đằng, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 13:00 | 16:30 - 19:00	25,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mẹt Phố Cổ - Đường D25	81 Đường D25, KDC Hồng Loan, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ	4.5	10+	09:00 - 21:00	10,000	89,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Chả Hà Nội Kim Anh - Trương Định	50 Trương Định, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 22:00	30,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Thái 79 - Nguyễn Văn Cừ Nối Dài	388/B5 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	5.0	10+	06:00 - 22:00	40,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Mắm Tôm - Quán Của Gấu - Nguyễn Đệ	182 Nguyễn Đệ, P. An Thới, Quận Bình Thủy, Cần Thơ	0.0	2	08:00 - 22:00	3,000	115,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Mì Vạn Phát - 337A Nguyễn Văn Linh	337a Khu Vực 5, Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	00:00 - 23:59	15,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Cá Châu Đốc Dì Năm - Nguyễn Văn Cừ Nối Dài	163B Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0.0	4	06:00 - 21:00	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	3 Hiền - Bún Đậu Mắm Tôm - Đường 3 Tháng 2	146A Ba Tháng Hai, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	999+	10:00 - 20:45	20,000	85,000	0.0%	7.3	163
+Quán ăn	Quán Cơm Tiền Ký - Nguyễn Văn Cừ Nối Dài	295 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 23:00	15,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Nàng Bếp	133B Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 22:00	40,000	250,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Mắm &amp; Bò Bít Tết - Câu Lạc Bộ Hưu Trí	30A Mậu Thân, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 18:30 | 18:31 - 22:00	20,000	40,000	0.0%	7.0	5
+Quán ăn	Bún Đậu Mắm Tôm Cô Cook - Nguyễn Chí Thanh	24 Nguyễn Chí Thanh, P. Trà Nóc, Quận Bình Thủy, Cần Thơ	0.0	1	09:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Bún Vịt Nấu Tiêu Cô Bảy - KDC Đại Ngân	36 Đường Số 2, KDC Đại Ngân, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0.0	1	06:00 - 19:00	10,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Cô Phượng - Bún Măng &amp; Cơm	23/3A Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	7	00:00 - 04:00 | 07:00 - 23:59	20,000	30,000	ShopeeFood</span	7.7	15
+Quán ăn	Quán Cuội - Bún Đậu Mắm Tôm - Nguyễn Văn Cừ Nối Dài	371A Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	10:00 - 22:00	35,000	65,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Chả Cua Phú Quốc - Cách Mạng Tháng Tám	69/2 Cách Mạng Tháng Tám, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	0.0	3	07:45 - 13:00 | 16:00 - 19:00	35,000	42,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Càng Cúm - Nguyễn Văn Cừ Nối Dài	390 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 21:00	15,000	65,000	0.0%	<span>_._</span>	0
+Quán ăn	Sunny Food &amp; Drink - Trần Văn Long	109 Trần Văn Long, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	07:30 - 20:30	15,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Hủ Tiếu Mì &amp; Bún Riêu Bờ Hồ	239 Huỳnh Cương, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	15,000	20,000	ShopeeFood</span	7.9	31
+Shop/Cửa hàng	Nhà Hàng Ngân Long - Chuyên Món Việt - Trần Văn Khéo	147 Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 19:00	30,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Thượng Thượng Ký	Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 21:00	25,000	30,000	ShopeeFood</span	8.4	1
+Quán ăn	Mì Ốc Hến 365A - Nguyễn Văn Cừ Nối Dài	365a Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	11:00 - 21:00	10,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Hùng Ký - Cơm &amp; Mì HongKong - Lý Thái Tổ	B104 Lô A Chung Cư Hưng Phú 1, Đường Lý Thái Tổ, P. Hưng Phú, Quận Cái Răng, Cần Thơ	4.5	8	06:30 - 21:00	45,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Yumi - Mì Cay, Trà Sữa &amp; Ăn Vặt - Nguyễn Khuyến	40 Nguyễn Khuyến, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	10+	06:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Cua 374 - Khu Giảng Viên ĐHCT	27 Đường Số 7, Khu Giảng Viên ĐHCT, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 21:30	10,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Quyến Luyến 3 Coffee	28 Nguyễn Văn Cừ (nối dài), P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.0	2	09:00 - 21:00	15,000	50,000	ShopeeFood</span	8.2	7
+Quán ăn	Quán Cơm 68 - Cơm Gà Sài Gòn - 158Q Liên Tổ 12-20	158q Hẻm Liên Tổ 12-20, P. An khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	08:00 - 18:00	18,000	20,000	0.0%	7.6	5
+Quán ăn	Vĩnh Phát - Vịt Quay &amp; Cơm Phần - Nguyễn Đệ	118 Nguyễn Đệ, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:30 - 19:30	10,000	280,000	0.0%	9.0	1
+Quán ăn	Chú Lùn - Quán Cơm	79 Phan Đăng Lưu, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 20:00	20,000	20,000	0.0%	7.8	14
+Quán ăn	Cơm Tấm Long Xuyên Sinh Viên (không có menu)	138/29/24 Hẻm 182 Trần Hưng Đạo, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 20:00	22,000	25,000	0.0%	10.0	1
+Quán ăn	Kim Tiên - Cơm Gà Xối Mỡ - Đường 30 Tháng 4	42/64C Đường 30 Tháng 4, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	10:30 - 19:00	30,000	45,000	0.0%	8.6	2
+Quán ăn	Phương Dung - Quán Cơm Gà	301 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	10:00 - 19:00	18,000	25,000	0.0%	7.6	7
+Ăn vặt/vỉa hè	Má Bảy - Cơm Cháy Kho Quẹt - Hai Bà Trưng	126 Hai Bà Trưng, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	50+	11:00 - 23:00	35,000	50,000	0.0%	4.4	2
+Quán ăn	Cơm Tấm Phương Nhi (Cây Khế)	65 Bờ Kè Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:00 - 18:00	15,000	25,000	0.0%	7.4	42
+Quán ăn	Cơm Xiên Nướng Nguyễn - Mậu Thân	Hẻm 95/20 Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 19:30	20,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert, Quán ăn	Xôi Mặn Dì Loan	71/2 Quang Trung, P. An Lạc, Quận Ninh Kiều, Cần Thơ	4.5	500+	06:30 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Xiên Nướng Nguyễn - Phạm Ngũ Lão	40 Phạm Ngũ Lão, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 19:30	10,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Malaysia - Hà Vy's Kitchen - Nam Cao	96 Nam Cao, P. An Khánh, Quận Ninh Kiều, Cần Thơ	5.0	100+	09:30 - 21:00	30,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Cơm Nhật - Trần Phú	122 Trần Phú, P. Cái Khế, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:30 - 20:00	25,000	69,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán 225 - Quán Nhậu Đồng Quê	225 Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	8	09:00 - 21:00	200,000	330,000	ShopeeFood</span	8.1	3
+Quán ăn	Căn Tin Khoa Môi Trường - Trường Đại Học Cần Thơ	Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	3	09:00 - 13:00 | 16:00 - 18:30	18,000	25,000	ShopeeFood</span	7.5	2
+Quán ăn	Cơm Bếp Nhỏ - Cơm Trưa Văn Phòng - Võ Trường Toản	Hẻm 44 Võ Trường Toản, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 18:00	15,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Lê Trang - Cổng A Đại Học Cần Thơ	Cổng A Đại Học Cần Thơ, 94 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	500+	08:30 - 21:00	25,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Xing Food - Tiệm Cơm Healthy (không có menu)	117/1C Đường 3/2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	999+	07:00 - 21:40	25,000	45,000	0.0%	0	0
+Quán ăn	Kim Ngân - Cơm Sườn Muối Sả - Lê Bình	393C Khu Vực Yên Hạ, Đường Lê Bình, P. Lê Bình, Quận Cái Răng, Cần Thơ	4.5	10+	10:30 - 20:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Lê Trang - 330 Cách Mạng Tháng 8	330 Cách Mạng Tháng 8, P. Bùi Hữu Nghĩa, Quận Bình Thủy, Cần Thơ	4.5	100+	09:00 - 21:30	25,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Lê Trang - 425AA Nguyễn Văn Cừ	425AA Nguyễn Văn Cừ, P. An Bình, Quận Ninh Kiều, Cần Thơ	4.5	100+	08:30 - 21:30	25,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Mẹ Nấu - Cơm Tấm Sườn Muối Xã Ớt Nướng - Phan Đăng Lưu	67/12 Phan Đăng Lưu, P. Thới Bình, Quận Ninh Kiều, Cần Thơ	4.5	100+	06:00 - 18:00	0	0	0.0%	<span>_._</span>	0
+Shop Online	Gold Nutrition - Cơm Healthy Eat Clean Giảm Cân	133/7 Trần Hưng Đạo, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	999+	08:45 - 17:50	20,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Tiền Ký - Nguyễn Văn Cừ	269 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 23:00	15,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Minh Ký - Cơm Heo Quay &amp; Vịt Quay	48B Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 20:00	30,000	300,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm 383 Bis	383BIS Nguyễn Văn Cừ, An Hòa, Quận Ninh Kiều, Cần Thơ	0	0	08:30 - 19:00	17,000	25,000	ShopeeFood</span	0	0
+Quán ăn	Cơm Gà Xối Mỡ Lâm Ký 2 - Trần Chiên	9 Trần Chiên, P. Lê Bình, Quận Cái Răng, Cần Thơ	3.5	10+	06:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Cháo &amp; Cơm Bò Cậu Ba - Trần Hoàng Na	Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 19:00	15,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Toàn - Đường 3 Tháng 2	132A Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	07:00 - 18:30	20,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	TheCanTeen - Cơm Văn Phòng - Đường 30 Tháng 4	16/4D Hẻm 16 Đường 30 Tháng 4, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	8	09:00 - 20:00	25,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà A Khánh - Nguyễn Tri Phương	50 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:00 - 22:00	28,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Tiệm Cơm Ngô Gia - Phan Đình Phùng	192/32/5 Phan Đình Phùng, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:30 - 19:00	15,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bigchick - Gà Rán Khổng Lồ Đài Loan - Xô Viết Nghệ Tĩnh	17 Xô Viết Nghệ Tĩnh, P. An Cư, Quận Ninh Kiều, Cần Thơ	4.5	100+	09:00 - 21:00	12,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Thố Gia Hân - Lê Hồng Phong	86/15 Hẻm 18C Lê Hồng Phong, P. Bình Thủy, Quận Bình Thủy, Cần Thơ	4.5	10+	07:00 - 20:00	15,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Cháo, Cơm Bò Cậu Ba - Nguyễn Văn Cừ Nối Dài	163D6 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	0.0	3	09:00 - 19:00	15,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Xối Mỡ 68 - Nguyễn Văn Linh	290 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 21:00	13,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Cây Sung ( Cũ ) - Cơm Gà Ta - Phan Đình Phùng	112 Phan Đình Phùng, P. Tân An, Quận Ninh Kiều, Cần Thơ	4.5	50+	06:00 - 19:30	0	0	0.0%	<span>_._</span>	0
+Quán ăn	Chả Lụa Tuấn Cường - Đồng Khởi	7 Đồng Khởi, P. Tân An, Quận Ninh Kiều, Cần Thơ	5.0	10+	06:00 - 21:30	10,000	180,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm Ngọc Thảo	388 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ	3.5	4	08:00 - 20:00	15,000	20,000	0.0%	8.0	1
+Quán ăn	GGFOOD - Mạc Thiên Tích	86a Mạc Thiên Tích, Đường 3/2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	100+	07:00 - 20:40	10,000	27,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Tấm Hưởng - Ba Mươi Tháng Tư	748 Ba Mươi Tháng Tư, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	0.0	2	05:00 - 19:00	20,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà Lê Dũng 4	173A Phạm Hùng, P. Lê Bình, Quận Cái Răng, Cần Thơ	4.5	100+	07:00 - 21:00	35,000	200,000	0.0%	7.2	1
+Quán ăn	Cơm Tấm 79 - Nguyễn Văn Linh	28 Nguyễn Văn Linh, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ	5.0	5	07:30 - 20:00	30,000	39,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm Tiền Ký - Ba Tháng Hai	51/1 Ba Tháng Hai, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ	4.5	50+	09:15 - 22:45	15,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm Tiền Ký - Cách Mạng Tháng 8	372 Cách Mạng Tháng 8, P. Bùi Hữu Nghĩa, Quận Bình Thủy, Cần Thơ	4.5	10+	09:00 - 23:00	15,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Bình Dân - Cơm Sườn &amp; Hủ Tiếu	125 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ	4.5	10+	09:00 - 20:00	15,000	30,000	ShopeeFood</span	8.0	14
+Quán ăn	Đặc Sản Xứ Quảng - Mì Quảng &amp; Bún Mắm	103/19 Nguyễn Trường Tộ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	06:00 - 22:00	7,000	25,000	0.0%	7.5	11
+Quán ăn	Donald Trung - Bánh Ướt &amp; Bánh Cuốn Thịt Heo	28 Hoàng Văn Thụ, P. An Đông, Tp. Huế, Huế	4.5	999+	07:30 - 21:30	25,000	40,000	0.0%	8.3	27
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - Nguyễn Huệ	121 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	08:30 - 22:00	45,000	60,000	0.0%	7.8	210
+Café/Dessert	Trà Sữa Tocotoco - Nguyễn Khuyến	38 Nguyễn Khuyến, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	08:00 - 21:30	25,000	40,000	0.0%	7.7	20
+Nhà hàng	Nhà Cám - Bún Đậu Mắm Tôm - Nguyễn Lương Bằng	33 Nguyễn Lương Bằng, P. Phú Hội, Tp. Huế, Huế	4.5	999+	09:30 - 21:30	25,000	120,000	0.0%	7.6	30
+Ăn vặt/vỉa hè	Takoyaki Hotto - Hai Bà Trưng (không có menu)	34 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	07:15 - 21:50	15,000	15,000	0.0%	0	0
+Ăn vặt/vỉa hè	Trà Sữa Hân Hy	22 Hà Huy Tập, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	08:30 - 23:00	10,000	32,000	0.0%	6.9	129
+Quán ăn	Gà rán và Mì Ý - Jollibee - Hùng Vương	Tầng 4, Tầng 4, Vincom Plaza, 50A Hùng Vương, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	10:00 - 21:00	7,000	139,000	0.0%	7.3	12
+Café/Dessert	Highlands Coffee - Park View Huế	Park View Hotel, 9 Ngô Quyền, P. vĩnh Ninh, Tp. Huế, Huế	4.5	999+	07:00 - 21:30	19,000	65,000	0.0%	8.7	23
+Café/Dessert	The Alley - Chung Cư Aranya	Lô 3 Chung Cư Aranya, Dương Khuê, Tp. Huế, Huế	4.5	999+	05:00 - 23:00	45,000	60,000	0.0%	5.8	23
+Café/Dessert	Highlands Coffee - Mường Thanh Huế	Mường Thanh Hotel, 38 Lê Lợi, P. Phú Hội, Tp. Huế, Huế	4.5	999+	07:00 - 22:00	19,000	65,000	0.0%	8.2	46
+Quán ăn	Ohlala Coffee, Milktea &amp; Vua Bún Đậu	122 Trường Chinh, P. An Đông, Tp. Huế, Huế	4.5	999+	08:00 - 21:31	20,000	100,000	0.0%	9.8	68
+Quán ăn	Cô Chang - Cơm Tấm &amp; Cơm Chiên	114 Nguyễn Sinh Cung, P. Vỹ Dạ, Tp. Huế, Huế	4.5	999+	10:00 - 13:58 | 16:00 - 19:35	5,000	35,000	0.0%	9.8	1
+Quán ăn	Quán Chay Hồng Nga	3 Hàn Thuyên, P. Thuận Thành, Tp. Huế, Huế	4.5	999+	06:30 - 19:30	15,000	150,000	0.0%	9.3	24
+Quán ăn	Bánh Chi - Bánh Bèo &amp; Nậm &amp; Lọc - Hoàng Diệu	Kiệt 64 nhà số 2 Hoàng Diệu, P. Tây Lộc, Tp. Huế, Huế	4.5	100+	13:00 - 18:00	20,000	100,000	0.0%	9.2	5
+Café/Dessert	Trà Sữa P.P Tea	221 Trần Hưng Đạo, Tp. Huế, Huế	4.5	999+	07:30 - 22:00	25,000	30,000	0.0%	9.4	32
+Ăn vặt/vỉa hè, Shop Online	Trà Bí Đao Chia Chia - 08 Tố Hữu (110 Bà Triệu)	08 Tố Hữu, P. Phú Hội, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	10,000	10,000	0.0%	9.1	7
+Café/Dessert	Nhà Trâm Số 21 - Nước Ép Nhà Làm	11 Quốc Sử Quán, P. Thuận Thành, Tp. Huế, Huế	4.5	999+	07:20 - 21:00	10,000	15,000	0.0%	8.3	32
+Café/Dessert	Mr Viet - Coffee &amp; Fastfood	29 Bùi Xuân Phái, P. Thủy Dương, Thị xã Hương Thủy, Huế	4.5	100+	06:00 - 22:00	10,000	25,000	0.0%	9.8	2
+Nhà hàng, Café/Dessert	Azerai La Residence Cafe - Bánh Mì &amp; Pizza - 05 Lê Lợi	5 Lê Lợi, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	50+	06:30 - 21:00	25,000	170,000	0.0%	9.1	2
+Quán ăn	Gardenia Kitchen - 20 Hai Bà Trưng	20 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	06:30 - 20:00	13,000	25,000	0.0%	10.0	1
+Shop Online	Pizza Style - Trần Phú	25B Kiệt 150 Ngự Bình, P. Phước VĨnh, Tp. Huế, Huế	4.5	50+	08:00 - 22:00	65,000	110,000	0.0%	9.1	8
+Café/Dessert	Hi Fern Coffee - Tiệm Cà Phê Dương Xỉ	308 Phan Chu Trinh, P. An Cựu, Tp. Huế, Huế	4.5	500+	07:15 - 21:50	14,000	50,000	0.0%	8.7	17
+Café/Dessert	Bongo Coffee &amp; Milk Tea - Trần Phú	55 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	05:00 - 22:00	10,000	77,000	0.0%	8.1	3
+Café/Dessert	SH Milk Tea - Nhật Lệ	111 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	50+	07:30 - 22:00	15,000	15,000	0.0%	8.8	1
+Ăn vặt/vỉa hè	Tiệm Ăn Vặt 1999	21 Kiệt 116 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	999+	10:00 - 22:00	5,000	99,000	0.0%	8.8	2
+Café/Dessert	Laph Coffee (không có menu)	4 Trương Định, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	06:30 - 21:30	10,000	30,000	0.0%	0	0
+Quán ăn	Nori Kimpap (không có menu)	24 Kiet 154 Bà Triệu, Tổ 4, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	09:00 - 20:50	5,000	45,000	0.0%	0	0
+Café/Dessert	Zozo Tea - Bảo Quốc	Số 3 Bảo Quốc, P. Đúc, Tp. Huế, Huế	4.5	100+	09:00 - 22:00	5,000	28,000	0.0%	8.5	3
+Ăn vặt/vỉa hè	Bánh Ép Huệ	1/145 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	999+	11:00 - 19:30	15,000	30,000	0.0%	8.4	6
+Quán ăn	Bánh Chi - Bánh Bèo &amp; Nậm &amp; Lọc - Nguyễn Trãi	65 Nguyễn Trãi, P. Thuận Hòa, Tp. Huế, Huế	4.5	100+	13:00 - 19:00	2,000	15,000	0.0%	9.0	1
+Café/Dessert	Cà Phê Muối - Đặng Thái Thân	142 Đặng Thái Thân, P. Thuận Hòa, Tp. Huế, Huế	4.5	999+	06:40 - 22:00	8,000	25,000	0.0%	7.7	118
+Quán ăn	Pizza Huy	19 Kiệt 84 Lê Thánh Tôn, Tp. Huế, Huế	4.5	500+	11:00 - 21:30	50,000	200,000	0.0%	8.1	4
+Café/Dessert	CAMAS Rau Má, Coffee &amp; Tea - Hà Nội	27 Hà Nội, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	07:00 - 22:00	10,000	39,000	0.0%	8.1	2
+Café/Dessert	Viên Cát Nhỏ - Trà Sữa &amp; Ăn Vặt	70 Đặng Huy Trứ, P. Trường An, Tp. Huế, Huế	4.5	500+	07:30 - 23:15	5,000	35,000	0.0%	8.7	5
+Ăn vặt/vỉa hè	Chang - Thai Cuisine	69 Ông Ích Khiêm, P. Thuận Hòa, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	5,000	35,000	0.0%	8.1	8
+Quán ăn	Nướng Cay Cute - Ăn Vặt &amp; Trà Sữa	40 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	999+	00:00 - 06:59 | 10:00 - 23:59	12,000	100,000	0.0%	7.5	25
+Quán ăn	Bếp Ở HẺM 34	7/34 Nguyễn Tri Phương, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	10:00 - 21:00	17,000	45,000	0.0%	8.5	2
+Nhà hàng	Pizza Kat	43 Kiệt 42 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	999+	10:30 - 22:00	49,000	110,000	0.0%	8.3	82
+Ăn vặt/vỉa hè	Amy - Bánh Tráng Trộn Sài Gòn - Trường Chinh	46 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	09:00 - 21:30	15,000	20,000	0.0%	6.8	6
+Café/Dessert	Trà Sữa Popping Tea	147 Bà Triệu, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	6,000	42,000	0.0%	7.5	43
+Café/Dessert	Coffit - Tiệm Trà Sữa	3 Trần Hưng Đạo, P. Phú Hòa, Tp. Huế, Huế	4.5	999+	07:00 - 22:00	12,000	30,000	0.0%	8.1	2
+Nhà hàng	Hoa Viên - Nhà Hàng Chay - 4A Võ Thị Sáu	4A Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	4.5	100+	08:00 - 20:00	35,000	200,000	0.0%	8.5	3
+Quán ăn	Heksa (Kim Sa) - Đặc Sản Các Món Cuốn Chấm Mắm Nêm	34 Kiệt 176 Phan Chu Trinh, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	10:30 - 22:00	20,000	45,000	0.0%	8.3	4
+Café/Dessert	Milligram The Tea House - Hai Bà Trưng	20 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	07:15 - 21:15	5,000	38,000	0.0%	9.4	3
+Café/Dessert	Bluehands - Sinh Tố &amp; Nước Ép Trái Cây	35 Chu Văn An, P. Phú Hội, Tp. Huế, Huế	4.5	999+	08:30 - 22:30	25,000	40,000	0.0%	8.6	1
+Quán ăn	Doo Tokbokki (không có menu)	4 Kiệt 21 Ngô Gia Tự, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	07:30 - 20:30	5,000	65,000	0.0%	0	0
+Café/Dessert	Tiệm Rau Má RAMIX - Chu Văn An	62 Chu Văn An, P. Phú Hội, Tp. Huế, Huế	4.5	999+	07:30 - 22:15	7,000	42,000	0.0%	8.2	1
+Café/Dessert	Tiệm Trà Chanh TAB - Trà Sữa &amp; Ăn Vặt	64 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	06:30 - 22:00	10,000	40,000	0.0%	7.8	5
+Café/Dessert	The Coffee House - Võ Thị Sáu	61 Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	4.5	500+	07:00 - 20:30	29,000	65,000	0.0%	7.9	28
+Ăn vặt/vỉa hè	Bà Mẹ Quê - Nước Mía Sầu Riêng, Nước Ép &amp; Sinh Tố - 146 Điện Biên Phủ	146 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	999+	08:00 - 23:15	6,000	15,000	0.0%	8.1	2
+Quán ăn	Dung Ngô - Bánh Ướt Xứ Truồi	54 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	100+	09:00 - 22:00	20,000	50,000	0.0%	7.3	27
+Ăn vặt/vỉa hè, Giao cơm văn phòng	Cơm Hến Hoa Đông	64 Kiệt 7 Ưng Bình, P. Vỹ Dạ, Tp. Huế, Huế	4.5	500+	07:00 - 22:00	7,000	10,000	0.0%	8.1	73
+Ăn vặt/vỉa hè	Ngọc Chè Bưởi - Nguyễn Huệ	7A Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	09:00 - 22:00	15,000	30,000	0.0%	6.8	13
+Café/Dessert, Quán ăn	Gardenia Coffee n Bakery - 27 Bến Nghé	27 Bến Nghé, P. Phú Hội, Tp. Huế, Huế	4.5	500+	07:00 - 21:30	15,000	50,000	0.0%	8.6	2
+Café/Dessert	Merry Smoothies - Nước Ép &amp; Sinh Tố Healthy (không có menu)	02 Dương Văn An, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	07:00 - 22:30	35,000	44,000	0.0%	0	0
+Quán ăn	Bánh Lọc Đào Tấn Dì Huệ 2	Kiệt 42 Ngõ 2, Số 32 Đào Tấn, P. Phước Vĩnh, Tp. Huế, Huế	4.5	500+	11:30 - 17:30	10,000	10,000	0.0%	8.7	2
+Quán ăn	Bánh Lọc Phương Chi	86 Nguyễn Lộ Trạch, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	07:00 - 19:00	30,000	30,000	0.0%	8.5	3
+Quán ăn	The Beti Food - Bibimbap - 40 Nguyễn Lộ Trạch	40 Nguyễn Lộ Trạch, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	09:00 - 21:30	30,000	60,000	0.0%	7.6	9
+Café/Dessert	Yang Tea &amp; Coffee - 15/15 Đống Đa (không có menu)	15/15 Đống Đa, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	06:30 - 21:30	12,000	35,000	0.0%	8.4	1
+Quán ăn	Quán Cơm Kim Chung	68 Trần Quang Khải, P. Phú Hội, Tp. Huế, Huế	4.5	100+	10:00 - 20:30	5,000	35,000	0.0%	8.2	1
+Café/Dessert	Trà Sữa Lắk Lắk - Trường Chinh	31 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	500+	08:00 - 22:00	10,000	22,000	0.0%	8.0	72
+Quán ăn	Kinh Bắc - Bún Đậu Mắm Tôm	16/6 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	10:00 - 21:30	20,000	39,000	0.0%	7.3	114
+Quán ăn	Quán Bánh Chi - Lê Viết Lượng	52 Lê Viết Lượng, P. Xuân Phú, Tp. Huế, Huế	4.5	500+	09:00 - 19:30	15,000	50,000	0.0%	7.9	18
+Quán ăn	Bến Ngự Quán - Bún Đậu Mắm Tôm &amp; Bún Chả Nướng	7/14 Đoàn Hữu Trưng, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	10:00 - 21:00	20,000	30,000	0.0%	7.5	15
+Quán ăn	Kim Đồng - Bún Bò Huế - Hai Bà Trưng	56 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	06:00 - 22:00	20,000	30,000	0.0%	7.4	6
+Ăn vặt/vỉa hè	Alpha Go - Fast Food &amp; More - Nguyễn Huệ	138 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	11:00 - 21:00	7,000	15,000	0.0%	7.2	169
+Café/Dessert	NOA Coffee - Lê Huân	19 Lê Huân, P. Thuận Hòa, Tp. Huế, Huế	4.5	10+	06:00 - 23:59	12,000	75,000	0.0%	9.2	3
+Café/Dessert	Đường Đường Milo Bar	47 Ông Ích Khiêm, P. Thuận Hòa, Tp. Huế, Huế	4.5	999+	07:00 - 23:00	5,000	35,000	0.0%	8.8	1
+Quán ăn	Tiệm Bánh Vanilla - Chuyên Bông Lan Trứng Muối	Tầng 2, 9 Lê Quý Đôn, P. Phú Hội, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	0	0	0.0%	7.7	6
+Quán ăn	Bếp Khói - Bánh Tráng Thịt Heo Đại Lộc	12 Hà Huy Tập, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	08:00 - 21:30	6,000	90,000	0.0%	7.5	9
+Café/Dessert	Vitamin+ - Sinh Tố - Nước Ép &amp; Trái Cây Sạch	21 Đống Đa, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	15,000	35,000	0.0%	6.7	12
+Café/Dessert	Mọt Inspiration	13/64 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	100+	07:30 - 21:30	10,000	38,000	0.0%	7.4	78
+Ăn vặt/vỉa hè	Sương Sa Dừa - Lâm Hoằng	57 Lâm Hoằng (21/2 Kiệt 37 Hàn Mặc Tử cũ), P. Vỹ Dạ, Tp. Huế, Huế	4.5	999+	08:40 - 21:45	1,000	20,000	0.0%	7.6	125
+Quán ăn	Trang Bùi - Món Ăn Hàn Quốc - Trần Thúc Nhẫn	63 Trần Thúc Nhẫn, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	08:31 - 13:45 | 15:00 - 21:00	5,000	80,000	0.0%	7.1	7
+Café/Dessert	Trà Sữa Green Tea (không có menu)	1 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	08:00 - 22:30	15,000	30,000	0.0%	0	0
+Café/Dessert	Mr Rado Milktea &amp; Bakery - Chu Văn An (không có menu)	48 Chu Văn An, P. Phú Hội, Tp. Huế, Huế	4.5	999+	07:30 - 23:00	15,000	30,000	0.0%	0	0
+Nhà hàng	Lotteria - Huế Big C	Tầng 1, Tầng 1, Big C Huế, 172 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	999+	09:00 - 21:00	30,000	70,000	0.0%	7.0	73
+Quán ăn	Cuốn - Bún Đậu Mắm Tôm	247 Nguyễn Trãi, P. Tây Lộc, Tp. Huế, Huế	4.5	999+	10:00 - 21:45	5,000	50,000	0.0%	7.8	1
+Café/Dessert, Quán ăn	Cháo Ếch Singapore Ghiền - Chi Nhánh Huế	51 Lê Lợi, P. Phú Hội, Tp. Huế, Huế	4.5	100+	10:00 - 22:00	12,000	80,000	ShopeeFood</span	7.8	1
+Shop Online	Chè Thái Bà Liên Đà Nẵng - Mỹ Linh	Kiệt 8 Ngõ 18 Nhà 6 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế	4.5	500+	08:00 - 21:00	20,000	25,000	0.0%	7.2	1
+Café/Dessert	Ki-ốt Trà	161 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	07:30 - 21:45	5,000	28,000	0.0%	6.0	4
+Café/Dessert	Đông Sương Sầu - Chè Thái &amp; Ăn Vặt - Nguyễn Huệ	89 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	08:00 - 21:30	19,000	19,000	0.0%	7.6	85
+Café/Dessert	Trà Sữa Won Cha - Tố Hữu	Shophouse B3, Đường Số 4 Khu Đô Thị The Manor Crown, 62 Tố Hữu, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	10,000	25,000	0.0%	7.4	165
+Café/Dessert	Tiệm Rau Má RAMIX - Trần Phú	135 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	5,000	32,000	0.0%	6.3	6
+Café/Dessert	Gardenia Coffee n Bakery - Hà Huy Tập	10 Hà Huy Tập, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	07:00 - 21:45	12,000	35,000	0.0%	7.3	12
+Café/Dessert	Cơm Chất - Hàm Nghi	48 Hàm Nghi, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	10:00 - 14:30 | 17:00 - 20:00	10,000	70,000	0.0%	6.7	15
+Quán ăn	Nến Coffee - Triệu Quang Phục	76A Triệu Quang Phục, P. Thuận Hòa, Tp. Huế, Huế	0.0	2	06:00 - 23:00	10,000	45,000	0.0%	7.8	1
+Quán ăn	Quán Chay Mộc Nhiên	1 Hàn Thuyên, P. Phú Hậu, Tp. Huế, Huế	4.5	500+	06:00 - 21:00	7,000	35,000	0.0%	8.0	17
+Nhà hàng	Gà Rán KFC - Big C Huế	Tầng 4, Tầng 4, Big C, 181 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	999+	09:00 - 21:00	29,000	179,000	0.0%	7.7	70
+Café/Dessert	Ta Cafe &amp; Bakery	44 Phạm Ngũ Lão, P. Phú Hội, Tp. Huế, Huế	4.5	10+	07:00 - 22:00	25,000	45,000	0.0%	8.3	24
+Ăn vặt/vỉa hè	Kem Xông Khói Tồ Tồ	67 Nguyễn Huệ, Tp. Huế, Huế	4.5	999+	07:40 - 22:00	15,000	50,000	0.0%	7.0	186
+Shop/Cửa hàng	3B Sản Phẩm Sạch An Toàn Cho Mọi Nhà	63 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	06:30 - 21:20	20,000	35,000	0.0%	7.1	6
+Café/Dessert	Trà Sữa Lick N Bite -&nbsp;Lê Quang Đạo	03 Lê Quang Đạo, Tp. Huế, Huế	4.5	999+	09:30 - 21:30	19,000	30,000	0.0%	7.3	156
+Quán ăn	Mỳ Cọng	18 Kiệt 254 Phan Chu Trinh, P. An Cựu, Tp. Huế, Huế	4.5	999+	07:00 - 21:40	10,000	50,000	0.0%	5.9	7
+Ăn vặt/vỉa hè	Chân Gà Huyền Trang Gốc	3 Kiệt 125A Nguyễn Lộ Trạch, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	11:15 - 22:00	20,000	50,000	0.0%	6.5	7
+Café/Dessert	Royaltea - Piano cafe n'Bakery	11 Trần Thúc Nhẫn, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	07:00 - 22:00	15,000	33,000	0.0%	7.5	18
+Quán ăn	Cơm Tấm Sườn Que Mật Ong - Trần Phú	16 Trần Phú, P. An Cựu, Tp. Huế, Huế	4.5	500+	09:00 - 20:00	5,000	43,000	0.0%	6.5	4
+Quán ăn	Shino - Sushi &amp; BBQ - Nguyễn Sinh Cung	77 Nguyễn Sinh Cung, P. Vỹ Dạ, Tp. Huế, Huế	4.5	500+	09:30 - 21:30	35,000	120,000	0.0%	7.9	27
+Café/Dessert	Sữa Chua Trân Châu Cô Ly	23 Tam Thai, P. Trường An, Tp. Huế, Huế	4.5	100+	08:00 - 23:00	5,000	25,000	0.0%	9.2	2
+Café/Dessert	Trà Sữa Cheskee - Nguyễn Hữu&nbsp;Thọ	66 Nguyễn Hữu Thọ, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	25,000	50,000	0.0%	6.4	54
+Shop Online	Tiệm Chè Sầu Riêng Cô Dung - Nguyễn Huệ	56 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	07:30 - 21:50	70,000	150,000	0.0%	5.5	41
+Nhà hàng	The Pizza Company - Vincom Plaza Huế	Tầng 1, Tầng 1, Vincom Plaza, 50A Hùng Vương, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	10:00 - 21:00	30,000	179,000	0.0%	6.9	31
+Shop Online	Cơm Nắm Cơm Cuộn Kinh Thành - Thạch Hãn	128 Thạch Hãn, Tp. Huế, Huế	4.5	500+	06:00 - 20:30	15,000	39,000	0.0%	8.0	1
+Shop Online	Chân Gà Mạ Cali (không có menu)	102 Nguyễn Trường Tộ, Tp. Huế, Huế	4.5	999+	11:00 - 22:00	30,000	65,000	0.0%	0	0
+Ăn vặt/vỉa hè	Xoài Non Bé Như	316 Đinh Tiên Hoàng, P. Thuận Lộc, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	10,000	25,000	0.0%	6.4	6
+Quán ăn	Nhà Hàng Gạo - Hai Bà Trưng	60 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	50+	06:30 - 22:00	10,000	500,000	0.0%	9.8	1
+Quán ăn	Shino - Sushi &amp; BBQ - Nguyễn Công Trứ	32/42 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	500+	09:30 - 21:30	0	0	0.0%	8.6	1
+Café/Dessert	Ki-ốt Trà - Đoàn Thị Điểm	05 Đoàn Thị Điểm, P. Thuận Thành, Tp. Huế, Huế	4.5	999+	07:30 - 21:40	5,000	35,000	0.0%	4.8	2
+Quán ăn	Bánh Canh Cua Rời Hương	30 Phạm Hồng Thái, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	06:00 - 21:00	20,000	30,000	0.0%	7.5	21
+Ăn vặt/vỉa hè	Bánh Rán Chị Huệ	6/87 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	500+	11:00 - 23:00	5,000	25,000	0.0%	6.0	1
+Ăn vặt/vỉa hè	Chị Đấu - Bánh Mì Nguyễn Huệ	62 Nguyễn Huệ, Tp. Huế, Huế	4.5	10+	05:00 - 22:00	5,000	10,000	0.0%	7.6	5
+Quán ăn	Ăn Vặt 169	169 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	5,000	20,000	0.0%	5.5	43
+Quán ăn	Bún Đậu Mắm Tôm Gia Di	97 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	11:00 - 21:00	35,000	65,000	0.0%	6.2	79
+Nhà hàng	Nhà Hàng Phước Thạnh - 30 Phạm Ngũ Lão	30 Phạm Ngũ Lão, P. Phú Hội, Tp. Huế, Huế	0.0	4	10:00 - 19:30	50,000	300,000	0.0%	7.8	2
+Quán ăn	Làng Ốc - 105 Thạch Hãn	105 Thạch Hãn, P. Thuận Hòa, Tp. Huế, Huế	4.5	10+	10:00 - 22:00	8,000	140,000	0.0%	8.4	1
+Café/Dessert	The Alley - Trà Sữa Đài Loan - Nguyễn Huệ	12 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	08:30 - 22:00	35,000	65,000	0.0%	7.0	4
+Quán ăn	Cơm A Cà - Nước Ép &amp; Ăn Vặt - Nguyễn Huệ	56 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	10:00 - 22:00	20,000	25,000	0.0%	5.6	13
+Ăn vặt/vỉa hè	Amy - Bánh Tráng Trộn Sài Gòn	181 Mai Thúc Loan, P. Phú Hậu, Tp. Huế, Huế	4.5	999+	09:00 - 21:30	15,000	20,000	0.0%	6.0	24
+Quán ăn	Gà Ủ Muối Lê Ngọc - Hùng Vương	33/246 Hùng Vương, P. An Cựu, Tp. Huế, Huế	5.0	100+	08:00 - 21:30	30,000	250,000	0.0%	5.0	1
+Café/Dessert	Ding Tea - Taiwan Bubble Tea - Chu Văn An	15 Chu Văn An, P. Phú Hội, Tp. Huế, Huế	4.5	999+	08:00 - 22:30	20,000	50,000	0.0%	7.8	118
+Quán ăn	Bún Nghệ - Trần Quang Khải	19 Trần Quang Khải, P. Phú Hội, Tp. Huế, Huế	4.5	500+	12:30 - 20:00	10,000	15,000	0.0%	6.5	7
+Quán ăn	Xôi Nấm Mối Cô Thảo - Hải Triều	8 Hải Triều, P. An Cựu, Tp. Huế, Huế	4.5	100+	09:00 - 21:00	5,000	50,000	0.0%	9.5	2
+Café/Dessert	AT Coffee - Phan Chu Trinh	214A Phan Chu Trinh, P. Phước Vĩnh, Tp. Huế, Huế	4.5	7	06:30 - 22:00	13,000	36,000	0.0%	5.0	1
+Quán ăn	K Food - Gà Đồi Ủ Muối &amp; Chân Gà Ủ Muối - Nguyễn Văn Cừ	11 Nguyễn Văn Cừ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	07:22 - 22:00	65,000	230,000	0.0%	5.0	1
+Nhà hàng	Lotteria - Huế CoopMart	6 Trần Hưng Đạo, P. Phú Hóa, Tp. Huế, Huế	4.5	999+	09:00 - 21:00	30,000	88,000	0.0%	7.2	71
+Café/Dessert	Milo Dầm Cô Thân - Đặng Thái Thân	86 Đặng Thái Thân, P. Thuận Hòa, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	3,000	25,000	0.0%	5.1	2
+Café/Dessert	Highlands Coffee - Imperial Hotel Huế	Imperial Hotel Huế, 8 Hùng Vương, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	07:00 - 21:00	15,000	65,000	0.0%	9.3	3
+Ăn vặt/vỉa hè	Bánh Mì Chả Cá Cô Tiên	295 Huỳnh Thúc Kháng, P. Phú Bình, Tp. Huế, Huế	4.5	100+	06:00 - 21:00	0	0	0.0%	10.0	35
+Ăn vặt/vỉa hè	Rina - Bánh Khoái, Bún Thịt Nướng &amp; Nem Lụi - Nguyễn Khuyến	54A Nguyễn Khuyến, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	07:15 - 21:00	5,000	20,000	0.0%	5.1	8
+Café/Dessert	Quán Nhậu Xà Bần - Nguyễn Tri Phương	40 Nguyễn Tri Phương, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	06:30 - 23:30	8,000	50,000	0.0%	8.0	15
+Quán ăn	An Nhiên Garden - Nhà Hàng Chay - Tỉnh Lộ 10	Tỉnh Lộ 10, X.  Phú Thượng, Phú Vang, Huế	4.5	10+	10:00 - 20:30	55,000	355,000	0.0%	7.6	3
+Ăn vặt/vỉa hè	Xôi Gà Huyền Nhi	44/4 Dương Văn An, Tp. Huế, Huế	4.5	999+	00:00 - 01:30 | 06:45 - 23:59	0	0	0.0%	5.0	13
+Quán ăn	Bà Tám - Món Ngon 3 Miền	3 Lương Thế Vinh, P. Phú Hội, Tp. Huế, Huế	4.5	999+	07:00 - 21:20	20,000	35,000	0.0%	8.4	2
+Quán ăn, Giao cơm văn phòng	Cơm Gà Bùi A Sơn - Chi Lăng	21 Chi Lăng, P. Phú Cát, Tp. Huế, Huế	4.5	999+	10:00 - 22:00	20,000	45,000	0.0%	6.1	11
+Quán ăn	Lò Bánh - Nguyễn Trãi	29 Nguyễn Trãi, P. Thuận Hòa, Tp. Huế, Huế	4.5	999+	06:00 - 21:55	6,000	25,000	0.0%	7.0	17
+Café/Dessert	Deja Vu Coffee - Sư Liễu Quán	6B Sư Liễu Quán, Tp. Huế, Huế	4.5	100+	07:30 - 21:00	24,000	50,000	0.0%	9.2	4
+Quán ăn	Lò Bánh - Phan Chu Trinh	118 Phan Chu Trinh, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	06:00 - 21:54	6,000	25,000	0.0%	5.1	7
+Quán ăn	Bún Riêu Hạt Tiêu	56 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	06:30 - 21:30	20,000	50,000	0.0%	7.1	11
+Café/Dessert	Juscee - Sinh Tố &amp; Nước Ép	57 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	06:00 - 21:45	12,000	35,000	0.0%	8.9	3
+Café/Dessert	By M Tea &amp; Coffee - Đinh Tiên Hoàng (không có menu)	200 Đinh Tiên Hoàng, P. Thuận Thành, Tp. Huế, Huế	4.5	100+	08:30 - 21:30	5,000	39,000	0.0%	0	0
+Quán ăn	Quán Chay Tỉnh Thức	110 Ngự Bình, P. An Cựu, Tp. Huế, Huế	4.5	100+	06:30 - 13:30 | 16:00 - 19:30	15,000	45,000	0.0%	8.1	12
+Café/Dessert	Thảo Uyên Cafe	239 Tăng Bạt Hổ, P. Phú Bình, Tp. Huế, Huế	4.5	10+	06:00 - 22:00	8,000	25,000	0.0%	8.3	6
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Nguyễn Huệ	104 Nguyễn Huệ, Tp. Huế, Huế	4.5	500+	08:30 - 22:00	20,000	35,000	0.0%	5.3	4
+Quán ăn	Mân - Bánh Canh Bột Lộn	66 Ngô Đức Kế, P. Thuận Thành, Tp. Huế, Huế	4.5	999+	06:30 - 13:00 | 14:30 - 18:30	15,000	33,000	0.0%	7.4	21
+Ăn vặt/vỉa hè	Huế Xưa - Bánh Bèo - Nậm &amp; Lọc	1 Nguyễn Bỉnh Khiêm, P. Phú Cát, Tp. Huế, Huế	4.5	10+	10:00 - 21:00	15,000	25,000	ShopeeFood</span	9.1	44
+Café/Dessert	Tiệm Nước Chou	B11 - B12 Kiệt 44 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế	4.5	50+	07:27 - 21:00	5,000	25,000	0.0%	9.8	1
+Café/Dessert	Anh Kafe Infinitive - Nguyễn Lương Bằng	34 - 36 Nguyễn Lương Bằng, P. Phú Hội, Tp. Huế, Huế	4.5	10+	07:00 - 21:30	15,000	35,000	0.0%	9.6	1
+Shop Online	Kem Gelato MEC 3 - Shop Online (không có menu)	15/02 La Sơn Phu Tử, P. Tây Lộc, Tp. Huế, Huế	4.5	10+	09:00 - 21:00	65,000	65,000	0.0%	8.2	8
+Quán ăn	Bánh Canh - 78 Hàn Thuyên	78 Hàn Thuyên, P. Phú Hậu, Tp. Huế, Huế	4.5	50+	08:00 - 23:00	10,000	15,000	ShopeeFood</span	8.0	8
+Quán ăn	KIDO BBQ	1 Nguyễn Văn Huyên, P. Phú Nhuận, Tp. Huế, Huế	4.5	50+	11:30 - 13:30 | 15:30 - 21:45	25,000	458,000	0.0%	8.4	5
+Quán ăn	Phở Tuyết Ninh	107 Nguyễn Trường Tộ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	08:00 - 21:00	25,000	35,000	0.0%	5.5	13
+Nhà hàng, Café/Dessert	La Maison Cafe &amp; Restaurant	9 Phó Đức Chính, P. Phú Hội, Tp. Huế, Huế	4.5	50+	11:00 - 22:00	18,000	149,000	0.0%	7.0	56
+Quán ăn	Bún Chả Cá Nhà Làm Như Ý	58 Mai Thúc Loan, P. Thuận Lộc, Tp. Huế, Huế	4.5	100+	13:00 - 22:00	20,000	20,000	0.0%	9.8	3
+Nhà hàng	Lotteria - Nguyễn Huệ (không có menu)	9 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	09:00 - 21:30	40,000	150,000	0.0%	0	0
+Shop Online	Su Kem Ngọc Nhi - Shop Online	Số Nhà 2, Ngõ 23, Kiệt 131 Trần  Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	07:00 - 21:00	10,000	20,000	0.0%	8.0	28
+Shop Online	Chè Thái Bà Liên Đà Nẵng - Phan Châu Trinh	1/254 Phan Chu Trinh, P. Phước Vĩnh, Tp. Huế, Huế	4.5	100+	08:00 - 22:30	25,000	25,000	0.0%	8.0	1
+Quán ăn	Cơm Gà Hội An - Phó Đức Chính	7 Phó Đức Chính, P. Phú Hội, Tp. Huế, Huế	4.5	999+	10:20 - 19:30	6,000	40,000	0.0%	2.6	2
+Quán ăn	Bánh Canh Bà Đợi - Nguyễn Trãi	69 Nguyễn Trãi, P. Thuận Hòa, Tp. Huế, Huế	4.5	100+	06:30 - 22:00	15,000	33,000	0.0%	7.5	16
+Ăn vặt/vỉa hè	Torki Food - Trường Chinh	30 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	500+	06:30 - 21:00	17,000	22,000	0.0%	6.7	7
+Quán ăn	Cơm Gà Xối Mỡ - Nguyễn Huệ	71 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	09:30 - 21:00	20,000	35,000	0.0%	7.2	59
+Shop/Cửa hàng, Shop Online	Yến Sào Cố Đô Huế	Số 9 Kiệt 72 Đào Tấn, P. Phước Vĩnh, Tp. Huế, Huế	3.5	7	07:00 - 22:00	65,000	4,000,000	0.0%	10.0	1
+Quán ăn	Quán Tý - Miến &amp; Phở Hà Nội	3 Lê Lợi, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	07:00 - 23:00	20,000	30,000	0.0%	8.0	5
+Quán ăn	Gốc Bánh Bèo Bà Cư	23/177 Phan Đình Phùng, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	07:15 - 19:30	20,000	30,000	0.0%	7.3	10
+Café/Dessert	Momo's Cafe (không có menu)	97 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	50+	06:30 - 22:00	10,000	60,000	0.0%	0	0
+Quán ăn	Cháo Dinh Dưỡng - Phương	159 Trường Chinh, P. An Đông, Tp. Huế, Huế	4.5	10+	06:00 - 19:00	15,000	25,000	0.0%	9.6	1
+Quán ăn	Bún Thịt Nướng O Cải	35 Ngự Bình, P. An Cựu, Tp. Huế, Huế	4.5	100+	11:00 - 22:00	15,000	15,000	0.0%	7.6	1
+Nhà hàng, Quán ăn	The Magnolia Restaurant - Cơm Tấm (không có menu)	30 Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	4.5	999+	10:00 - 21:00	50,000	250,000	0.0%	0	0
+Café/Dessert	Loan Chè Bưởi - Nguyễn Khoa Chiêm	36 Nguyễn Khoa Chiêm, P. An Cựu, Tp. Huế, Huế	4.5	50+	09:00 - 22:00	12,000	180,000	0.0%	10.0	1
+Tiệm bánh	Bánh Kem Bờm Tèo - Điện Biên Phủ	104 Điện Biên Phủ, P. Tường An, Tp. Huế, Huế	4.5	10+	07:00 - 20:00	100,000	500,000	0.0%	7.4	1
+Bar/Pub	DMZ Bar &amp; Restaurant (không có menu)	60 Lê Lợi, P. Phú Hội, Tp. Huế, Huế	4.5	100+	07:00 - 15:58 | 16:00 - 23:30	12,000	200,000	0.0%	0	0
+Nhà hàng	Kicochi House - BBQ &amp; Hotpot - Nguyễn Thái Học (không có menu)	27 Nguyễn Thái Học, P. Phú Hội, Tp. Huế, Huế	4.5	50+	10:00 - 21:30	12,000	299,000	0.0%	0	0
+Quán ăn	A ONE - Vịt &amp; Heo Quay Lá Mắc Mật	111 Trường Chinh, P. An Đông, Tp. Huế, Huế	4.5	500+	09:00 - 22:00	30,000	200,000	0.0%	9.3	3
+Café/Dessert	Tiệm Sữa Chua Hara - Trần Thúc Nhẫn	5 Trần Thúc Nhẫn, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	08:00 - 22:00	15,000	30,000	0.0%	7.8	1
+Quán ăn	Mr. Thịnh - Gà Rán &amp; Khoai Lang Lắc - Lê Thánh Tôn	27A Lê Thánh Tôn, P. Thuận Thành, Tp. Huế, Huế	4.5	100+	08:00 - 22:00	10,000	45,000	ShopeeFood</span	10.0	1
+Quán ăn	Phở Lý Quốc Sư - Công Viên Kim Đồng	Số 3, Đường Hà Nội, Tp. Huế, Huế	4.5	100+	06:00 - 21:52	45,000	60,000	0.0%	7.5	2
+Quán ăn	Cơm Chiên Hải Đức - Đoàn Hữu Trưng	22 Đoàn Hữu Trưng, P. Phước Vĩnh, Tp. Huế, Huế	4.5	500+	10:00 - 14:00 | 16:00 - 21:00	10,000	35,000	0.0%	6.5	3
+Quán ăn	Bún Nghệ O Két - Cơ Sở 1	10/154 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	50+	11:00 - 22:00	5,000	15,000	ShopeeFood</span	7.4	8
+Ăn vặt/vỉa hè, Giao cơm văn phòng	Cơm Hến Quỳnh	265 Chi Lăng, Tp. Huế, Huế	4.5	50+	08:30 - 21:00	7,000	10,000	0.0%	9.0	1
+Quán ăn	Nhạn - Bún Hến - Bánh Bèo - Nậm &amp; Lọc	95 Mai Thúc Loan, P. Đông Ba, Tp. Huế, Huế	4.5	100+	08:00 - 23:00	8,000	50,000	0.0%	8.4	2
+Ăn vặt/vỉa hè	Ê Mập - Bánh Chuối Chiên Sài Gòn	59 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	100+	08:00 - 22:00	10,000	30,000	0.0%	8.5	3
+Shop Online	Bánh Lọc &amp; Bánh Bao Huyền Phương	10/92 Dương Văn An, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	06:00 - 22:00	3,000	15,000	0.0%	7.5	5
+Nhà hàng	Pizza Karoo	102 Khu C2 Vicoland, P. Xuân Phú, Tp. Huế, Huế	4.0	100+	11:00 - 20:15	50,000	200,000	0.0%	5.5	7
+Quán ăn	Trung Bộ - Bánh Bèo &amp; Bánh Nậm	16 Tô Hiến Thành, P. Phú Cát, Tp. Huế, Huế	4.5	50+	06:30 - 19:30	10,000	15,000	ShopeeFood</span	8.9	12
+Quán ăn	Pizza Amour	Số 3 Kiệt 21 Lê Quý Đôn,  P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	00:00 - 23:59	8,000	120,000	0.0%	7.0	53
+Ăn chay	Tịnh Tâm Đinh Vũ - Coffee &amp; Ẩm Thực Chay	168 Trịnh Công Sơn, P. Phú Cát, Tp. Huế, Huế	4.5	100+	06:30 - 20:00	7,000	30,000	0.0%	8.2	1
+Quán ăn	Quán Lươn Xứ Nghệ	20 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	06:00 - 22:00	15,000	120,000	0.0%	7.2	1
+Quán ăn	Bà Đỏ - Bánh Bèo - Nậm &amp; Lọc	8 Nguyễn Bỉnh Khiêm, P. Phú Cát, Tp. Huế, Huế	4.5	100+	08:40 - 21:00	10,000	50,000	ShopeeFood</span	7.0	103
+Tiệm bánh	Tiệm Bánh Âu Bloom Cakes	18 Kiệt 25 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	08:00 - 20:45	5,000	250,000	0.0%	7.8	72
+Quán ăn, Giao cơm văn phòng	Cơm Gà Bùi A Sơn - Nguyễn Sinh Cung	44 Nguyễn Sinh Cung, P. Vỹ Dạ, Tp. Huế, Huế	4.5	999+	11:00 - 22:00	25,000	45,000	0.0%	7.9	15
+Nhà hàng	ShivaShakti Indian Restaurant	27 Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	4.5	10+	09:00 - 21:00	50,000	200,000	ShopeeFood</span	8.5	17
+Quán ăn	Chè Hẻm - Hùng Vương	Số 1 Kiệt 29 Hùng Vương, P. Phú Hội, Tp. Huế, Huế	4.5	100+	10:00 - 22:00	12,000	12,000	0.0%	6.8	1
+Quán ăn	Ngọc Chè Bưởi - Trương Định	9 Trương Định, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	08:30 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Nhà hàng	Kicochi House - BBQ &amp; Hotpot - Bà Triệu	98 Bà Triệu, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	10:00 - 21:45	12,000	299,000	0.0%	7.2	66
+Quán ăn	Bánh Canh Bà Đợi - Dương Văn An	1 Dương Văn An, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	06:45 - 22:00	15,000	20,000	0.0%	7.6	19
+Quán ăn	Bánh Khoái Hạnh (không có menu)	11 Phó Đức Chính, P. Phú Hội, Tp. Huế, Huế	4.5	100+	10:00 - 20:00	20,000	55,000	ShopeeFood</span	0	0
+Quán ăn	Cơm Chiên Liễu Quán	4 Sư Liễu Quán, P. Trường An, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	20,000	25,000	0.0%	1.0	1
+Café/Dessert	Zocoby - Kem Bơ Dừa - Tôn Đức Thắng	21 Tôn Đức Thắng, P. Phú Hội, Tp. Huế, Huế	4.5	100+	09:00 - 21:45	15,000	30,000	0.0%	8.1	2
+Café/Dessert	Tiên Tea - Lương Thế Vinh	5 Lương Thế Vinh, P. Phú Hội, Tp. Huế, Huế	4.5	999+	07:30 - 22:30	10,000	30,000	0.0%	4.2	3
+Ăn vặt/vỉa hè	King - Tea &amp; Food	13 Nguyễn Trãi, P. Thuận Hòa, Tp. Huế, Huế	4.5	999+	07:00 - 22:00	7,000	45,000	0.0%	7.3	18
+Café/Dessert	Lúa Coffee &amp; Cold Beer	14 Hùng Vương, P. Phú Hội, Tp. Huế, Huế	5.0	10+	06:00 - 22:00	15,000	50,000	0.0%	9.8	1
+Café/Dessert	Mr Good Tea - Trần Phú	78 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	999+	08:30 - 21:30	20,000	40,000	0.0%	8.3	3
+Café/Dessert	Highlands Coffee - Vincom Huế	Tầng 1, Tầng 1, Vincom Plaza, 50A Hùng Vương, P. Phú Nhuận, Tp. Huế, Huế	4.5	500+	08:00 - 20:45	19,000	69,000	0.0%	8.1	13
+Café/Dessert	LAGO Coffee House	10 Lê Hồng Phong, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	06:30 - 21:30	17,000	40,000	0.0%	8.6	15
+Café/Dessert	Root Coffee	43 Ngô Quyền, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	8,000	30,000	0.0%	7.5	72
+Shop Online	Sữa Bắp Nhà Làm Thiên Ngân - Shop Online	28/42 Phạm Thị Liên, P. Kim Long, Tp. Huế, Huế	5.0	10+	08:30 - 21:00	10,000	20,000	0.0%	8.4	4
+Café/Dessert	Lá Cọ Cafe	1 Trần Nhật Duật, P. Thuận Lộc, Tp. Huế, Huế	4.5	10+	06:00 - 22:00	0	0	0.0%	7.8	1
+Café/Dessert	BlueBerry Coffee	3 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	14,000	45,000	0.0%	7.6	103
+Café/Dessert	Palm Coffee	2 Đoàn Thị Điểm, P. Phú Hậu, Tp. Huế, Huế	5.0	8	06:00 - 22:00	12,000	30,000	0.0%	9.5	12
+Café/Dessert	Highlands Coffee - TNL Plaza Huế	6 Trần Hưng Đạo, P. Phú Hòa, Tp. Huế, Huế	4.5	500+	07:00 - 21:00	19,000	65,000	0.0%	6.7	2
+Café/Dessert	Trà sữa Mixue - Lý Thường Kiệt	47 Lý Thường Kiệt, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	07:30 - 22:00	15,000	35,000	0.0%	7.9	2
+Café/Dessert, Tiệm bánh	Anh KaFe Infinitive - Hai Bà Trưng	68 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	07:00 - 21:30	25,000	45,000	0.0%	8.7	16
+Café/Dessert	Diamond Coffee	115A Lê Huân, P. Thuận Hòa, Tp. Huế, Huế	4.5	10+	06:30 - 22:00	17,000	35,000	0.0%	8.2	13
+Café/Dessert	Huyền Phương - Nước Ép &amp; Ăn Vặt (không có menu)	10 Kiệt 92 Dương Văn An, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	06:00 - 22:00	10,000	30,000	0.0%	10.0	2
+Khu chơi Game	Kids Kingdom - Khu Vui Chơi Trẻ Em 	120 Triệu Quang Phục, P. Thuận Hoà, Tp. Huế, Huế	5.0	3	06:30 - 22:00	10,000	50,000	0.0%	9.2	3
+Café/Dessert	T.A Coffee	199 Huỳnh Thúc Kháng, P. Phú Hòa, Tp. Huế, Huế	4.5	10+	06:15 - 21:30	10,000	35,000	0.0%	8.6	2
+Café/Dessert	Mr Good Tea - Nhật Lệ	108 Nhật Lệ, P. Thuận Lộc, Tp. Huế, Huế	4.5	999+	09:00 - 22:00	15,000	35,000	0.0%	7.4	117
+Café/Dessert	Aloha Cafe	145 Phan Văn Trường, Tp. Huế, Huế	4.5	10+	06:00 - 18:30	12,000	27,000	0.0%	9.8	4
+Café/Dessert	Anh KaFe - Nguyễn Huệ	5 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	06:30 - 22:00	15,000	30,000	0.0%	8.5	193
+Café/Dessert, Ăn vặt/vỉa hè	Trà Sữa M’s Jolly - Hà Huy Tập	3 Hà Huy Tập, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	4,000	29,000	0.0%	7.3	329
+Café/Dessert	Cộng Cà Phê - Bến Nghé	22 Bến Nghé, P. Phú Hội, Tp. Huế, Huế	4.5	100+	07:00 - 23:00	20,000	55,000	0.0%	8.2	23
+Café/Dessert	Mộc Cà Cafe - Lê Huân	18 Lê Huân, P. Thuận Hòa, Tp. Huế, Huế	4.5	10+	06:30 - 20:00	10,000	30,000	0.0%	10.0	1
+Café/Dessert	Holic Cafe	9 Trương Định, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	10+	06:00 - 22:00	20,000	40,000	0.0%	9.0	1
+Café/Dessert	Trà Sữa Bumbo	65 Thạch Hãn, P. Thuận Hòa, Tp. Huế, Huế	4.5	100+	08:00 - 22:00	17,000	25,000	0.0%	9.4	1
+Café/Dessert	Quán Chùa - Trái Cây Tô &amp; Nước Ép Sinh Tố	330 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	500+	08:00 - 23:00	10,000	30,000	0.0%	1.6	1
+Café/Dessert	Bull Cafe	99 Bùi Thị Xuân, P. Đúc, Tp. Huế, Huế	4.5	50+	06:00 - 22:00	10,000	26,000	0.0%	8.2	8
+Café/Dessert	Sanh Cafe	16 Điện Biên Phủ, P. Vĩnh Ninh, Tp. Huế, Huế	5.0	100+	07:00 - 22:00	10,000	32,000	0.0%	7.7	39
+Café/Dessert	Trà Chanh 1975	5 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	07:00 - 22:30	5,000	69,000	0.0%	9.0	1
+Café/Dessert	Mr Good Tea - Trần Thúc Nhẫn	05 Trần Thúc Nhẫn, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	09:00 - 22:00	15,000	35,000	0.0%	7.1	28
+Café/Dessert	Tiệm Trà Chanh Layla - Nguyễn Hữu Thọ	58 Nguyễn Hữu Thọ, P. Xuân Phú, Tp. Huế, Huế	4.5	50+	08:00 - 22:00	15,000	30,000	0.0%	10.0	3
+Café/Dessert	Mũm Mĩm Tea &amp; Food	73 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	100+	12:30 - 22:30	18,000	70,000	0.0%	7.8	1
+Café/Dessert	Nước Ép Sạch ABC+	74 Phạm Thị Liên, P. Kim Long, Tp. Huế, Huế	4.5	100+	09:00 - 21:00	13,000	15,000	0.0%	9.5	14
+Café/Dessert	OWL Cafe	B8-15 KQH Xuân Phú, P. Xuân Phú, Tp. Huế, Huế	5.0	7	06:45 - 22:00	7,000	20,000	0.0%	7.9	114
+Café/Dessert	Tan.cafe - 14 Phạm Hồng Thái	14 Phạm Hồng Thái, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	10,000	28,000	0.0%	8.2	15
+Café/Dessert	Trọng - Tiệm Trà Chanh	B9-B10, 44 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế	4.5	50+	07:00 - 22:00	10,000	30,000	0.0%	7.6	1
+Café/Dessert	Ki-ốt Trà - Chi Lăng	30 Chi Lăng, P. Phú Cát, Tp. Huế, Huế	4.5	100+	07:30 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ki-ốt Trà - Bà Triệu	02 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	500+	07:30 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ki-ốt Trà - Trần Thúc Nhẫn	22 Trần Thúc Nhẫn, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	07:30 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Nối Coffee &amp; Milktea	11 Lý Thường Kiệt, P. Phú Nhuận, Tp. Huế, Huế	5.0	100+	06:30 - 21:30	12,000	35,000	0.0%	7.1	14
+Café/Dessert	Ding Tea Takeaway - Fresh Tea -  Chu Văn An	14 Chu Văn An, P. Phú Hội, Tp. Huế, Huế	4.5	999+	08:30 - 22:30	25,000	50,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Bà Mẹ Quê - Nước Mía Sầu Riêng, Nước Ép &amp; Sinh Tố - 129 Điện Biên Phủ	129 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	100+	08:00 - 22:00	10,000	30,000	0.0%	1.0	1
+Ăn vặt/vỉa hè	Nước Mía Sầu Riêng Nhà Rốt	38 Trần Nguyên Hãn, P. Thuận Hòa, Tp. Huế, Huế	4.5	50+	09:00 - 21:00	10,000	30,000	0.0%	9.5	2
+Café/Dessert	July Coffee &amp; Milktea - Nguyễn Huệ	109 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	06:30 - 22:00	10,000	35,000	0.0%	7.8	122
+Café/Dessert	Hue Chilling House 	35 Hà Nội, P. Phú Nhuận, Tp. Huế, Huế	4.5	500+	08:00 - 22:00	15,000	50,000	0.0%	8.2	48
+Ăn vặt/vỉa hè	Rau Câu Dừa &amp; Kem Flan	3 Kiệt 29 Hùng Vương, P. Phú Hội, Tp. Huế, Huế	4.5	100+	08:00 - 23:00	5,000	5,000	0.0%	7.1	10
+Café/Dessert	Ngang Cafe - 21/235 Bà Triệu (không có menu)	21 Kiệt 235 Bà Triệu, P. Xuân Phú, Tp. Huế, Huế	0.0	4	07:00 - 22:00	15,000	40,000	0.0%	8.0	1
+Café/Dessert	Trí Coffee	26 Yết Kiêu, P. Thuận Hòa, Tp. Huế, Huế	4.5	10+	06:00 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Ty Ty	321 Chi Lăng, P. Phú Hiệp, Tp. Huế, Huế	4.5	100+	09:00 - 21:00	12,000	28,000	0.0%	<span>_._</span>	0
+Café/Dessert	Clover Coffee Signature - Võ Thị Sáu	1A Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	4.5	10+	06:30 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	Bongo Coffee &amp; Milk Tea - Bà Triệu	151 Bà Triệu, P. Xuân Phú, Tp. Huế, Huế	4.5	500+	06:00 - 22:00	10,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Chuyện Cafe - Nguyễn Chí Thanh - Shop Online	123 Nguyễn Chí Thanh, P. Phú Hiệp, Tp. Huế, Huế	4.5	50+	07:00 - 21:00	19,000	32,000	0.0%	<span>_._</span>	0
+Café/Dessert	Leng Keng - Sinh Tố, Trà &amp; Ăn Vặt	46/35 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	12,000	24,000	0.0%	<span>_._</span>	0
+Café/Dessert	Orange Coffee	11A Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	8	07:00 - 22:30	19,000	55,000	0.0%	6.3	3
+Café/Dessert	B Coffee - Khúc Thừa Dụ	136 Khúc Thùa Dụ, P. Thủy Dương, Thị xã Hương Thủy, Huế	4.5	10+	07:00 - 22:00	5,000	32,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	Trà Bí Đao Plus - Bà Triệu	3/263 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	50+	07:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Thiên Hưng Garden - Cafe &amp; Trà Sữa - Nguyễn Lương Bằng	27 Nguyễn Lương Bằng, P. Phú Hội, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	20,000	45,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiệm Trà Nại Chá - Lê Hồng Phong	25c Lê Hồng Phong, Tp. Huế, Huế	4.5	100+	08:00 - 21:30	18,000	39,000	0.0%	<span>_._</span>	0
+Café/Dessert	Juvenile Coffee - Take Away	15 Nguyễn Bính, P. Phú Hội, Tp. Huế, Huế	4.5	500+	07:30 - 21:00	12,000	25,000	0.0%	7.8	1
+Café/Dessert	DOPE Cafe	67 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	50+	06:30 - 22:00	18,000	75,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Gun Dam - Tôn Thất Dương Kỵ	01 Tôn Thất Dương Kỵ, P. An Cựu, Tp. Huế, Huế	4.5	10+	08:00 - 22:00	0	0	0.0%	<span>_._</span>	0
+Café/Dessert	An Phước - Nước Ép &amp; Sinh Tố	66 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	500+	07:30 - 22:00	10,000	20,000	0.0%	<span>_._</span>	0
+Café/Dessert	Milo Dầm Cô Thân - Trần Quang Khải	70 Trần Quang Khải, P. Phú Hội, Tp. Huế, Huế	4.5	999+	08:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tiger Hill - Bà Triệu	 3/263 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	999+	09:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Trà Sữa Tiger Sugar - Bà Triệu	3/263 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	500+	09:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Litchi - Nước Ép &amp; Ăn Vặt - Nhật Lệ	130 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	10+	10:00 - 22:30	12,000	23,000	0.0%	<span>_._</span>	0
+Café/Dessert	Bongo Coffee &amp; Milk Tea - An Dương Vương	98 An Dương Vương, P. An Cựu, Tp. Huế, Huế	4.5	100+	05:00 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cà Phê Muối Nhà Sóc	26/6 Kiệt 147 Phan Đình Phùng, P. Phú Nhuận, Tp. Huế, Huế	5.0	999+	06:00 - 21:00	12,000	20,000	0.0%	<span>_._</span>	0
+Café/Dessert	Tiamo Cafe	207 Phan Bội Châu, P. Trường An, Tp. Huế, Huế	4.5	10+	06:30 - 22:00	15,000	50,000	0.0%	7.5	3
+Café/Dessert	Trà Sữa Mr Trum - Tăng Bạt Hổ	294 Tăng Bạt Hổ, P. Phú Bình, Tp. Huế, Huế	5.0	10+	07:00 - 22:00	6,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	TàTua Tea - Lê Hồng Phong	13 Lê Hồng Phong, P. Phú Nhuận, Tp. Huế, Huế	0.0	1	08:00 - 22:00	15,000	32,000	0.0%	<span>_._</span>	0
+Café/Dessert	Mint Tea - Trần Quang Khải	35 Trần Quang Khải, P. Phú Hội, Tp. Huế, Huế	4.5	10+	07:00 - 21:45	12,000	29,000	0.0%	<span>_._</span>	0
+Quán ăn	Bongo Coffee &amp; Milk Tea - Phan Chu Trinh	26 Phan Chu Trinh, P. Phường Đúc, Tp. Huế, Huế	5.0	10+	05:30 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0
+Café/Dessert	BoBacTea - Nhật Lệ	2A Nhật Lệ, Thuận Thành, Huế, Tp. Huế, Huế	4.5	5	08:00 - 22:00	5,000	29,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Havana &amp; Coffee - 31 Trần Phú	31 Trần Phú, P. An Cựu, Tp. Huế, Huế	4.5	8	07:30 - 22:00	5,000	35,000	0.0%	<span>_._</span>	0
+Café/Dessert	Bongo Coffee &amp; Milk Tea - Bùi Thị Xuân	159 Bùi Thị Xuân, P. Đúc, Tp. Huế, Huế	4.5	50+	05:00 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Hùng Vương (không có menu)	106 Hùng Vương, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	08:30 - 22:00	20,000	45,000	0.0%	0	0
+Shop Online	TaTu Food &amp; Coffee - Đặng Tất - Shop Online (không có menu)	3 Kiệt 35 Đặng Tất, P. An Hòa, Tp. Huế, Huế	4.5	100+	07:00 - 13:59 | 14:00 - 21:00	12,000	15,000	0.0%	0	0
+Café/Dessert	Trà Sữa M.50 Tea - Nguyễn Công Trứ (không có menu)	44 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	999+	07:30 - 23:30	15,000	25,000	0.0%	<span>_._</span>	0
+Café/Dessert	Saigon Phin	197 Đặng Tất, X. Hương Vinh, Hương Trà, Huế	4.5	10+	06:00 - 23:56	5,000	30,000	0.0%	<span>_._</span>	0
+Café/Dessert	Hiên Coffee - Đặng Huy Trứ	26B Kiệt 68 Đặng Huy Trứ, P. Trường An, Tp. Huế, Huế	5.0	10+	06:30 - 21:30	12,000	33,000	0.0%	<span>_._</span>	0
+Café/Dessert, Bar/Pub	No1 Coffee	72 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	10+	07:00 - 23:00	15,000	100,000	ShopeeFood</span	7.5	38
+Café/Dessert	Connect Coffee - Lâm Hoằng	13 Lâm Hoằng, P. Vỹ Dạ, Tp. Huế, Huế	5.0	9	07:00 - 21:00	10,000	40,000	0.0%	<span>_._</span>	0
+Café/Dessert	Ms Nấm Milktea &amp; Bakery	2/86 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	10+	06:00 - 22:00	12,000	350,000	0.0%	7.4	1
+Café/Dessert	Dreamer Coffee &amp; Tea - Tỉnh Lộ 10A	Tỉnh Lộ 10A, X. Phú Mỹ, Phú Vang, Huế	4.5	10+	08:00 - 21:30	15,000	40,000	0.0%	7.6	1
+Café/Dessert	Ghiền Coffee - 01 Tố Hữu	01 Tố Hữu, P. Phú Nhuận, Tp. Huế, Huế	5.0	9	07:00 - 21:00	15,000	60,000	0.0%	<span>_._</span>	0
+Café/Dessert	Góc Của Hoàng Thị Coffee - Hùng Vương	27 Kiệt 246 Hùng Vương, P. An Cựu, Tp. Huế, Huế	4.5	10+	07:00 - 22:00	15,000	40,000	0.0%	8.2	1
+Café/Dessert	Tiệm Trà &amp; Nước Ép Cô Cam - Phan Chu Trinh	398 Phan Chu Trinh, P. An Cựu, Tp. Huế, Huế, Tp. Huế, Huế	4.5	10+	08:00 - 22:00	10,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Mỡ Minitea - Ngự Bình	27 Ngự Bình, P. An Cựu, Tp. Huế, Huế	4.5	100+	08:00 - 22:00	15,000	18,000	0.0%	<span>_._</span>	0
+Café/Dessert	Út Cà Phê Muối - Trần Phú	7 Kiệt 17 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	100+	06:30 - 22:00	12,000	29,000	0.0%	<span>_._</span>	0
+Ăn chay	Ẩm Thực Chay Thiên Ý	255 Nguyễn Trãi, P. Tây Lộc, Tp. Huế, Huế	4.5	10+	06:00 - 19:00	15,000	55,000	ShopeeFood</span	7.4	2
+Nhà hàng	Sân Mây - Món Chay	8 Thanh Tịnh, P. Vỹ Dạ, Tp. Huế, Huế	4.5	100+	07:00 - 20:30	10,000	100,000	ShopeeFood</span	7.9	12
+Ăn chay	CHAY Corner - Vietnamese Dumplings - Shop Online	21/2/44 Lê Ngô Cát, P. Trường An, Tp. Huế, Huế	4.5	10+	10:00 - 14:00 | 17:00 - 20:30	10,000	165,000	0.0%	<span>_._</span>	0
+Quán ăn	Mayla - Healthy Bread &amp; Mart - Nguyễn Thái Học	37B Nguyễn Thái Học, P. Phú Hội, Tp. Huế, Huế	4.5	100+	06:45 - 22:00	9,000	65,000	0.0%	<span>_._</span>	0
+Nhà hàng	Liên Hoa Thư Quán - Món Chay	3 Lê Quý Đôn, P. Phú Nhuận, Tp. Huế, Huế	4.5	999+	07:00 - 21:00	15,000	55,000	0.0%	7.2	61
+Café/Dessert	Nhất Chi Mai Garden - Nguyễn Hữu Thọ	9 Nguyễn Hữu Thọ, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	07:30 - 21:00	23,000	95,000	0.0%	<span>_._</span>	0
+Ăn chay	Quán Chay Phương Nam - Ưng Bình	4/15 Kiệt 12 Ưng Bình, P. Vỹ Dạ, Tp. Huế, Huế	4.5	50+	06:30 - 22:00	10,000	130,000	0.0%	<span>_._</span>	0
+Nhà hàng	Loving Hut - Món Chay	128 An Dương Vương, P. An Cựu, Tp. Huế, Huế	4.5	10+	07:00 - 21:00	20,000	80,000	ShopeeFood</span	6.1	11
+Quán ăn	Quán Chay Nhất Tâm - Duy Tân	143 Duy Tân, P. An Cựu, Tp. Huế, Huế	4.5	500+	08:00 - 19:00	15,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Ăn Chay Trường An - Phan Bội Châu	304 Phan Bội Châu, P. Trường An, Tp. Huế, Huế	4.5	50+	07:30 - 18:30	15,000	120,000	0.0%	<span>_._</span>	0
+Ăn chay	Ẩm Thực Chay Đức Chánh - Ngự Bình	14 Ngự Bình, P. An Cựu, Tp. Huế, Huế	4.5	100+	06:00 - 21:00	20,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Chay Diệu Âm	184 Tôn Thất Thiệp, P. Tây Lộc, Tp. Huế, Huế	4.5	100+	08:00 - 19:00	10,000	15,000	0.0%	2.0	1
+Quán ăn	Quán Chay - Thanh Hải	4 Thanh Hải, P. Trường An, Tp. Huế, Huế	5.0	5	06:30 - 19:00	20,000	120,000	0.0%	<span>_._</span>	0
+Ăn chay	Quán Hiền - Bún Chay &amp; Mì Ốp La - Nguyễn Khoa Chiêm	07 Nguyễn Khoa Chiêm, P. An Cựu, Tp. Huế, Huế	4.5	50+	06:00 - 12:00 | 14:00 - 19:00	15,000	25,000	0.0%	<span>_._</span>	0
+Nhà hàng	Pizza Hut - Go Huế	174 Bà Triệu, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	10:00 - 21:15	50,000	500,000	0.0%	<span>_._</span>	0
+Quán ăn	Pizza Kat - Đinh Tiên Hoàng	196 Đinh Tiên Hoàng, P. Thuận Thành, Tp. Huế, Huế	4.5	999+	11:00 - 22:00	39,000	139,000	0.0%	<span>_._</span>	0
+Café/Dessert	Sweet Kingdom	5 Phạm Ngũ Lão, P. Phú Hội, Tp. Huế, Huế	4.5	10+	07:00 - 22:00	10,000	40,000	ShopeeFood</span	7.8	66
+Nhà hàng, Café/Dessert	Nhà Hàng &amp; Cafe B41	38 Trần Cao Vân, P. Vĩnh Ninh, Tp. Huế, Huế	0	0	08:40 - 21:00	30,000	150,000	ShopeeFood</span	0	0
+Nhà hàng, Bar/Pub	Alez Boo - Backpacker Restaurant	25 Trần Cao Vân, P. Phú Hội, Tp. Huế, Huế	4.0	2	08:40 - 21:00	35,000	175,000	ShopeeFood</span	7.0	6
+Shop Online	Pizza ~6 - Shop Online	81 Bến Nghé, Tp. Huế, Huế	5.0	2	09:00 - 19:00	25,000	40,000	0.0%	<span>_._</span>	0
+Nhà hàng	Amy Restaurant 	5/14 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.0	1	09:00 - 22:00	25,000	95,000	0.0%	<span>_._</span>	0
+Nhà hàng	Pumpkin Restaurant	53 Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	0	0	10:00 - 22:00	39,000	150,000	0.0%	0	0
+Quán ăn	Pizza Cono - Lê Lợi	51 Lê Lợi, P. Phú Hội, Tp. Huế, Huế	4.5	50+	16:00 - 22:00	29,000	99,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Mắm - Lẩu Mắm &amp; Lẩu Sứa	17 Kiệt 15 Thạch Hãn, P. Thuận Hòa, Tp. Huế, Huế	4.5	100+	07:00 - 21:00	20,000	120,000	0.0%	7.7	54
+Shop/Cửa hàng	Gong Wuan Hotpot Restaurant - Bến Nghé	14 Bến Nghé, P. Phú Hội, Tp. Huế, Huế	4.5	10+	10:30 - 22:00	10,000	119,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Bò A Cứ 4	9 Nguyễn Khoa Chiêm, P. An Cựu, Tp. Huế, Huế	4.5	50+	09:00 - 22:00	20,000	130,000	ShopeeFood</span	7.5	2
+Nhà hàng	Nhà Hàng Quê - Ẩm Thực Đồng Quê	Lô B7-21, Đường Số 2, KQH Xuân Phú, P. Xuân Phú, Tp. Huế, Huế	5.0	1	09:00 - 21:00	50,000	999,000	ShopeeFood</span	10.0	1
+Quán ăn	Thế Giới Đồ Cuốn - Hít Hà - Trần Cao Vân	24 Trần Cao Vân, P. Phú Hội, Tp. Huế, Huế	4.5	100+	10:00 - 22:00	10,000	115,000	0.0%	<span>_._</span>	0
+Quán ăn	Yummy BBQ	24 Trương Gia Mô, P. Vỹ Dạ, Tp. Huế, Huế	4.5	10+	06:00 - 23:00	30,000	249,000	0.0%	8.5	42
+Quán ăn	Muối Ớt - Món Ăn Hàn Quốc	74a Lê Ngô Cát, P. Thủy Xuân, Tp. Huế, Huế	4.5	10+	08:40 - 21:00	30,000	100,000	0.0%	7.1	47
+Quán ăn	Elly - Sụm Lào &amp; Coffee - Mai Thúc Loan	63 Mai Thúc Loan, P. Thuận Thành, Tp. Huế, Huế	4.5	10+	06:30 - 23:59	6,000	140,000	0.0%	<span>_._</span>	0
+Quán ăn	Lẩu Phố - Nguyễn Trãi	14 Nguyễn Trãi, P. Thuận Hòa, Tp. Huế, Huế	0.0	2	09:00 - 22:00	19,000	450,000	0.0%	<span>_._</span>	0
+Nhà hàng	Cocodak - Nhà Hàng Hải Sản	50 Tố Hữu, P. Xuân Phú, Tp. Huế, Huế	0	0	11:00 - 21:00	20,000	180,000	0.0%	0	0
+Quán ăn	Ớt BBQ - Lẩu &amp; Nướng Hàn Quốc	2/84 Lê Ngô Cát, P. Thủy Xuân, Tp. Huế, Huế	0	0	11:00 - 21:00	5,000	99,000	ShopeeFood</span	0	0
+Nhà hàng, Quán ăn	7 Hên Restaurant - Ẩm Thực Hong Kong	23 Lê Quang Đạo, P. An Đông, Tp. Huế, Huế	4.5	10+	11:00 - 23:00	25,000	300,000	0.0%	8.5	4
+Quán ăn	Nhà Hàng Hợp Phố - Chi Lăng	442 Chi Lăng, P. Phú Hậu, Tp. Huế, Huế	5.0	10+	11:00 - 21:00	10,000	350,000	0.0%	<span>_._</span>	0
+Nhà hàng	Sườn Cay Grill &amp; Beer	27 Lê Quang Đạo, P. An Đông, Tp. Huế, Huế	4.5	5	09:00 - 22:00	50,000	300,000	ShopeeFood</span	7.7	42
+Quán nhậu	Hoàng Lộc - Nhậu Bình Dân - Lê Minh	38 Lê Minh, P. An Đông, Tp. Huế, Huế	4.5	100+	10:30 - 22:00	25,000	170,000	0.0%	7.3	37
+Quán ăn	Quán Nướng Sumo	244 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	10+	08:00 - 21:00	50,000	88,000	ShopeeFood</span	7.4	24
+Quán ăn	King BBQ - Vincom	Vincom, 50A Hùng Vương, P. Phú Nhuận, Tp. Huế, Tp. Huế, Huế	0	0	10:00 - 20:30	19,000	129,000	0.0%	0	0
+Nhà hàng	Buffalo Restaurant	68 Nguyễn Hữu Thọ, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	10:00 - 23:00	40,000	400,000	ShopeeFood</span	7.3	10
+Quán nhậu	Bờm Gà Quán - Gà &amp; Hải Sản	08/159 Hàn Mặc Tử (Gần Bệnh Viện Mắt), P. Vỹ Dạ, Tp. Huế, Huế	0.0	2	09:00 - 23:00	30,000	200,000	ShopeeFood</span	4.0	1
+Quán ăn	Nông Thôn Quán - Đào Duy Anh	167 Đào Duy Anh, P. Thuận Lộc, Tp. Huế, Huế	4.5	8	10:30 - 22:00	15,000	150,000	0.0%	<span>_._</span>	0
+Quán ăn	Vịt Thái Minh - Ưng Bình	7 Kiệt 18 Ưng Bình, P. Vỹ Dạ, Tp. Huế, Huế	0.0	1	12:00 - 23:00	30,000	260,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Nhậu Thiên Phát - Khu Quy Hoạch Lịch Đợi	G31 Khu Quy Hoạch Lịch Đợi, P. Đúc, Tp. Huế, Huế	4.5	9	09:00 - 22:00	20,000	250,000	0.0%	<span>_._</span>	0
+Quán nhậu	Quán Minh Ngọc - Lẩu Cua (không có menu)	9 Đặng Thùy Trâm, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	11:00 - 22:00	25,000	170,000	ShopeeFood</span	0	0
+Quán ăn	Cây Gòn Quán	4 Đặng Thùy Trâm, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	10:00 - 22:00	8,000	50,000	ShopeeFood</span	7.5	20
+Nhà hàng	Hoa Sứ Restaurant - Lẩu Hơi	79 Nguyễn Sinh Cung, P. Vỹ Dạ, Tp. Huế, Huế	0	0	08:40 - 21:00	35,000	300,000	ShopeeFood</span	0	0
+Nhà hàng	Lửa Việt Restaurant - Cơm Niêu	39 Nguyễn Thái Học, P. Phú Hội, Tp. Huế, Huế	4.5	10+	08:30 - 14:00 | 16:30 - 21:00	25,000	200,000	ShopeeFood</span	5.9	11
+Quán ăn, Quán nhậu	Xí Mập - Lẩu &amp; Nướng	59 Thạch Hãn, P. Thuận Hòa, Tp. Huế, Huế	4.5	100+	13:00 - 22:30	35,000	170,000	ShopeeFood</span	7.0	22
+Nhà hàng	Shuxiang - Buffet Lẩu Đài Loan	Lầu 4 Vincom - 50A Hùng Vương, P. Phú Nhuận, Tp. Huế, Huế	0	0	09:30 - 22:00	139,000	250,000	ShopeeFood</span	0	0
+Café/Dessert	Quán Phượt - Xiên Nướng	13/64 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	6	08:00 - 22:00	10,000	35,000	ShopeeFood</span	7.3	67
+Quán ăn	Quán Nướng - 263 Điện Biên Phủ	263 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	6	07:00 - 22:00	12,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Grill BBQ - Trường Chinh	30 Trường Chinh, P. Xuân Phú, Tp. Huế, Huế	0	0	10:00 - 22:00	15,000	395,000	0.0%	0	0
+Quán ăn, Rạp chiếu phim	NHÀ HÀNG Góc Phố - Hải Sản Tươi Sống	18 Lê Quang Đạo, P. An Đông, Tp. Huế, Huế	4.5	10+	10:00 - 22:00	80,000	220,000	ShopeeFood</span	4.8	7
+Nhà hàng	The Unit Restaurant - Ẩm Thực Thái Lan	70 Hoàng Văn Thụ, P. An Đông, Tp. Huế, Huế	5.0	2	10:00 - 21:00	10,000	100,000	ShopeeFood</span	5.6	1
+Shop/Cửa hàng	Dế Mèn BBQ - Bà Triệu	46 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	10+	11:00 - 23:00	5,000	250,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Mắm Nêm Bé Xù - Nguyễn Tri Phương	32 Nguyễn Tri Phương, P. Phú Nhuận, Tp. Huế, Huế	4.5	50+	12:00 - 20:00	20,000	20,000	0.0%	<span>_._</span>	0
+Shop Online	Hàm Nướng &amp; Càng Rang Muối Vy Anh - 257 Bùi Thị Xuân	257 Bùi Thị Xuân, P. Đúc, Tp. Huế, Huế	0	0	10:00 - 22:00	0	0	0.0%	0	0
+Quán ăn	Lò Nướng 9 Món Phúc Lợi	230 Phan Chu Trinh, P. An Cựu, Tp. Huế, Huế	4.5	100+	10:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Diệp - Bún Mắm Nêm &amp; Bún Thịt Nướng - Lê Thánh Tôn	17 Lê Thánh Tôn, P. Thuận Thành, Tp. Huế, Huế	4.5	10+	06:00 - 19:00	15,000	20,000	0.0%	<span>_._</span>	0
+Quán ăn	Bia Lạnh 81 - Bảo Quốc	Số 8 Kiệt 1 Bảo Quốc, P. Đúc, Tp. Huế, Huế	0.0	4	10:00 - 22:00	30,000	150,000	0.0%	<span>_._</span>	0
+Nhà hàng	Lẩu Bò A Cứ 2	18 Lê Ngô Cát, P. Trường An, Tp. Huế, Huế	4.5	10+	09:00 - 21:00	20,000	130,000	ShopeeFood</span	<span>_._</span>	0
+Ăn vặt/vỉa hè	Dì Đài - Bánh Cuốn &amp; Bún Thịt Nướng	74 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	9	11:00 - 19:00	15,000	20,000	ShopeeFood</span	<span>_._</span>	0
+Quán nhậu	New Gió Đồng	38 Nguyễn Sinh Sắc, P. Vỹ Dạ, Tp. Huế, Huế	4.0	2	10:00 - 22:00	40,000	350,000	ShopeeFood</span	<span>_._</span>	0
+Quán nhậu	Thành Nhân - Nhậu Bình Dân	4 Hải Triều, P. An Cựu, Tp. Huế, Huế	4.5	5	11:00 - 23:00	80,000	150,000	0.0%	<span>_._</span>	0
+Café/Dessert	Alba - Café 12 - Trần Quang Khải	29 Trần Quang Khải, P. Phú Hội, Tp. Huế, Huế	0.0	1	06:00 - 22:00	25,000	260,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Đệ Nhất Thỏ - KQH Hương Sơ	Lô FHR4 + GH4 KQH Hương Sơ, P. Hương Sơ, Tp. Huế, Huế	0	0	12:00 - 23:00	25,000	550,000	0.0%	0	0
+Quán ăn, Quán nhậu	Quán Nhậu Minh Hằng - Châu Thượng Văn	8A Châu Thượng Văn, P. Thủy Dương, Thị xã Hương Thủy, Huế	3.5	2	10:00 - 22:00	35,000	240,000	0.0%	<span>_._</span>	0
+Quán ăn	Minh Anh Quán - 66 Hải Triều	66 Hải Triều, P. An Đông, Tp. Huế, Huế	0	0	09:30 - 23:00	0	0	0.0%	0	0
+Quán ăn	Hải Dương Quán - Nguyễn Bính	1 Nguyễn Bính, P. Xuân Phú, Tp. Huế, Huế	0	0	10:00 - 22:00	30,000	150,000	0.0%	0	0
+Quán ăn	Sườn Cao Bồi - Sườn Xốt BBQ - Lê Hồng Phong (không có menu)	Kiệt 34 Lê Hồng Phong, P. Phú Nhuận, Tp. Huế, Huế	5.0	5	10:00 - 21:00	169,000	259,000	0.0%	<span>_._</span>	0
+Quán ăn	Nhà Hàng Newlife	15 Hoàng Văn Thụ, P. An Đông, Tp. Huế, Huế	0	0	12:00 - 22:00	15,000	255,000	0.0%	0	0
+Nhà hàng	Green Garden Coffee &amp; Restaurant	97B Nguyễn Hoàng, P. Hương Long, Tp. Huế, Huế	0	0	07:00 - 22:00	100,000	150,000	ShopeeFood</span	0	0
+Quán nhậu	Lions - Foods &amp; Beer	59 Tố Hữu, P. Xuân Phú, Tp. Huế, Huế	5.0	1	09:00 - 21:00	0	0	ShopeeFood</span	<span>_._</span>	0
+Quán ăn	Bò Lê La	37 Nguyễn Thái Học, P. Phú Hội, Tp. Huế, Huế	0	0	08:00 - 23:00	50,000	300,000	0.0%	0	0
+Quán ăn	Quán Tý Xíu - 80 Mạc Đĩnh Chi	80 Mạc Đĩnh Chi, P. Phú Cát, Tp. Huế, Huế	3.5	3	11:00 - 22:00	25,000	350,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Nhậu Sơn Tùng	61 Lê Thánh Tôn, P. Thuận Lộc, Tp. Huế, Huế	4.5	100+	16:00 - 22:20	25,000	95,000	0.0%	7.8	2
+Quán ăn	Bò Nhúng Ớt Gì Thạch - Ông Ích Khiêm	51 Ông Ích Khiêm, P. Thuận Hòa, Tp. Huế, Huế	4.5	10+	15:00 - 22:00	5,000	40,000	0.0%	9.2	2
+Quán ăn	Ốc 35K Đồng Giá - Hoàng Quốc Việt	30A Hoàng Quốc Việt, Tp. Huế, Huế	4.5	100+	17:30 - 22:00	35,000	60,000	0.0%	8.3	4
+Quán ăn	Chả Cá Lăng Hà Nội	65 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	10+	16:00 - 22:00	79,000	120,000	ShopeeFood</span	8.8	4
+Quán ăn	Hải Sản 66 - Nguyễn Chí Diểu	69 Nguyễn Chí Diểu, P. Thuận Thành, Tp. Huế, Huế	4.5	50+	16:00 - 23:00	30,000	70,000	ShopeeFood</span	9.3	2
+Quán ăn	Ốc Sài Gòn - Hai Bà Trưng	46 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	16:00 - 22:00	30,000	150,000	0.0%	5.9	22
+Quán ăn	Quán 79 - Đặc Sản Lẩu Bò	79 Ngô Thế Lân, P. Tây Lộc, Tp. Huế, Huế	4.5	10+	16:00 - 23:00	100,000	500,000	ShopeeFood</span	8.3	3
+Quán nhậu	Lóc Cóc Quán - Lẩu Cua Bình Dân	48 Tố Hữu, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	14:00 - 23:59	20,000	19,500	ShopeeFood</span	10.0	1
+Quán ăn	Pat Seafood And Grill	11 Đặng Thùy Trâm, P. Xuân Phú, Tp. Huế, Huế	4.5	5	16:00 - 21:30	10,000	299,000	0.0%	8.3	3
+Quán ăn	Nướng Mẹt	209 Hùng Vương, P. An Cựu, Tp. Huế, Huế	4.5	10+	17:00 - 21:00	25,000	200,000	ShopeeFood</span	9.1	2
+Quán ăn	Over 9 - Lẩu &amp; Nướng	23 Ngô Gia Tự, P. Vĩnh Ninh, Tp. Huế, Huế	3.5	3	15:00 - 22:00	8,000	115,000	0.0%	10.0	1
+Quán ăn	City Nướng - 56 Nguyễn Công Trứ	56 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	50+	16:00 - 22:00	7,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Nhậu Cây Nhãn - Bùi Thị Xuân	141 Bùi Thị Xuân, P. Đúc, Tp. Huế, Huế	4.5	10+	16:00 - 22:00	23,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Ẩm Thực Gia Vũ - Nguyễn Khánh Toàn	4 Nguyễn Khánh Toàn, P. An Cựu, Tp. Huế, Huế	4.5	8	14:00 - 23:59	20,000	220,000	0.0%	<span>_._</span>	0
+Quán ăn	Nướng Cay 89 - Bà Triệu	83 Bà Triệu, P. Xuân Phú, Tp. Huế, Huế	0.0	3	14:00 - 23:59	12,000	110,000	0.0%	<span>_._</span>	0
+Ăn vặt/vỉa hè	BO - Pizza &amp; Lẩu Ốc Cay	Lô D41, Khu Quy Hoạch Bầu Vá 1, P. Thủy Xuân, Tp. Huế, Huế	3.5	10+	17:00 - 22:00	5,000	80,000	0.0%	7.9	25
+Quán ăn	Hẻm Hong Kong - Trần Văn Ơn	06 Trần Văn Ơn, P. Xuân Phú, Tp. Huế, Huế	3.0	2	15:00 - 23:00	15,000	250,000	0.0%	<span>_._</span>	0
+Quán ăn	Nướng Cay Cây Dừa	16 Trường Chinh, P. An Đông, Tp. Huế, Huế	4.5	10+	16:00 - 22:00	20,000	50,000	ShopeeFood</span	7.6	14
+Quán ăn	Topokki One BBQ	5/175 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	100+	16:00 - 22:00	15,000	110,000	ShopeeFood</span	7.8	117
+Quán ăn	Quán Nướng Đợi - Đinh Tiên Hoàng	366 Đinh Tiên Hoàng, P. Thuận Lộc, Tp. Huế, Huế	5.0	5	16:00 - 21:30	6,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Tằm Sụm - Ẩm Thực Thái &amp; Lào - Chung Cư Xuân Phú	Khu 2A, Chung Cư Xuân Phú, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	15:00 - 21:00	10,000	200,000	0.0%	<span>_._</span>	0
+Quán ăn	Mợ BBQ - Các Món Nướng	59 Nguyễn Chí Diểu, P. Phú Hậu, Tp. Huế, Huế	4.5	100+	06:00 - 10:00 | 16:00 - 22:00	20,000	90,000	ShopeeFood</span	7.7	69
+Nhà hàng	Nhà Hàng Mây - Ẩm Thực 3 Miền	7 Lê Quang Đạo, P. Xuân Phú, Tp. Huế, Huế	4.5	4	15:00 - 21:00	25,000	100,000	ShopeeFood</span	7.0	2
+Quán ăn	Đô 5K - BBQ Buffet - Nhật Lệ	9/71 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.0	1	15:00 - 21:00	5,000	55,000	ShopeeFood</span	7.4	133
+Quán ăn	Quán Chồi - Gà Nhà Thả Vườn - Phan Bội Châu	11 Ngõ 15 Kiệt 101 Phan Bội Châu, P. Phước Vĩnh, Tp. Huế, Huế	4.5	10+	10:00 - 20:00	55,000	290,000	0.0%	<span>_._</span>	0
+Quán ăn	Bếp Nhà Dola - Phan Bội Châu	14 Kiệt 214 Phan Bội Châu, P. Trường An, Tp. Huế, Huế	4.5	10+	08:30 - 21:30	20,000	70,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Sài Gòn - Nguyễn Văn Cừ	10 Nguyễn Văn Cừ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	999+	06:00 - 21:30	25,000	40,000	0.0%	6.9	18
+Quán ăn	Bún Chả Hà Nội Hạ Băng - Hùng Vương	195 Hùng Vương, P. An Cựu, Tp. Huế, Huế	4.5	10+	10:30 - 21:00	30,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu - LISA HOMEMADE	81 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	500+	10:20 - 23:59	10,000	45,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Nguyễn - Phở, Cơm Chiên &amp; Mì Xào	10 Kiệt 39 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	4.5	100+	10:00 - 23:00	5,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Ram Gạo Lức - 105 Nguyễn Trường Tộ	105 Nguyễn Trường Tộ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	10+	06:00 - 20:00	4,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Bắc Tràng An	347 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	20,000	33,000	0.0%	7.1	13
+Quán ăn	Mệ Thẻo - Bún Mắm Nêm &amp; Bánh Ướt Cuốn Thịt Heo	64 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	500+	09:00 - 21:00	20,000	35,000	0.0%	6.6	30
+Quán ăn	Châu Nhi - Bún Hến &amp; Cơm Hến	1 Kiệt 89 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	06:00 - 20:00	10,000	10,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Riêu An Tâm - Nguyễn Công Trứ	03 Kiệt 33 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	100+	07:00 - 19:30	10,000	160,000	0.0%	<span>_._</span>	0
+Quán ăn	Kinh Bắc - Bún Đậu Mắm Tôm - Lê Quang Đạo	Số 2 Lê Quang Đạo, P. An Đông, Tp. Huế, Huế	4.5	100+	10:00 - 21:30	7,000	64,000	0.0%	<span>_._</span>	0
+Quán ăn	Nhà Cám - Bún Đậu Mắm Tôm - Phan Chu Trinh (không có menu)	160 Phan Chu Trinh, P. Phước Vĩnh, Tp. Huế, Huế	4.5	100+	07:00 - 20:30	25,000	120,000	0.0%	0	0
+Quán ăn	Ăn Vặt Đậu Đậu - Lê Quý Đôn	15 Kiệt 9 Lê Quý Đôn, P. Phú Hội, Tp. Huế, Huế	4.5	100+	09:00 - 23:00	10,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Bò Né 3 Ngon - Nguyễn Thái Học	39 Nguyễn Thái Học, P. Phú Hội, Tp. Huế, Huế	4.5	100+	06:00 - 22:00	0	0	0.0%	5.6	2
+Ăn vặt/vỉa hè	Ăn Vặt Mlem Mlem - Hồ Đắc Di	69 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế	4.5	100+	09:00 - 22:00	3,000	129,000	0.0%	<span>_._</span>	0
+Café/Dessert, Ăn vặt/vỉa hè	Zone 7 Cafe &amp; Restaurant (không có menu)	1 Phong Châu, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	07:00 - 22:00	20,000	80,000	0.0%	0	0
+Quán ăn	Cơm Hến Đập Đá	1 Hàn Mặc Tử, P. Vỹ Dạ, Tp. Huế, Huế	4.5	10+	06:00 - 21:00	10,000	20,000	ShopeeFood</span	6.9	6
+Nhà hàng	Nhà Hàng Ớt Đỏ - Red Chilli 	12 Chu Văn An, P. Phú Hội, Tp. Huế, Huế	0	0	09:00 - 22:00	40,000	250,000	0.0%	0	0
+Quán ăn	Tiệm Bánh Khánh Hoàng - Khải Định	1 Khải Định, Tp. Huế, Huế	0.0	3	06:00 - 20:00	3,000	40,000	0.0%	<span>_._</span>	0
+Quán ăn	Chị Mừng - Cơm Hến &amp; Bún Hến	8 Nguyễn Khuyến, P. Phú Nhuận, Tp. Huế, Huế	4.5	500+	06:00 - 22:01	7,000	12,000	0.0%	<span>_._</span>	0
+Quán ăn	Phố Mì Cay Seoul 12 Cấp Độ - Bà Triệu	96 Bà Triệu, P. Xuân Phú, Tp. Huế, Huế	4.5	999+	10:00 - 21:30	5,000	42,000	0.0%	6.5	267
+Quán ăn	Phở Yến	44 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	06:00 - 22:00	20,000	30,000	ShopeeFood</span	6.4	9
+Quán ăn	Quán 24 - Bánh Canh &amp; Cơm Hến - Đặng Huy Trứ	24 Đặng Huy Trứ, P. Trường An, Tp. Huế, Huế	4.5	100+	10:00 - 23:59	10,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Hương Bắc - 90 An Dương Vương	90 An Dương Vương, P. An Cựu, Tp. Huế, Huế	4.5	500+	09:00 - 21:30	10,000	209,000	0.0%	<span>_._</span>	0
+Quán ăn	Phở Bắc Ngọc Giàu - KQH Bàu Vá	Lô B7 KQH Bàu Vá, P. Thủy Xuân, Tp. Huế, Huế	4.5	9	05:30 - 21:30	25,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Nhà Hàng 7M - Thanh Tịnh	51 Thanh Tịnh, P. Vỹ Dạ, Tp. Huế, Huế	0.0	1	11:00 - 23:00	9,000	28,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu Nhà Ta - 96 Nhật Lệ	96 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	50+	10:00 - 22:30	7,000	119,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Liên - Bánh Canh Nam Phổ &amp; Bún Mắm Nêm	29 Kiệt 134 Bà Triệu, P. Phú Hội, Tp. Huế, Huế	4.5	10+	11:00 - 19:00	7,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Nhà Lúa - Bún Đậu Mắm Tôm - Duy Tân	11 Ngõ 30 Kiệt 16 Duy Tân, P. An Cựu, Tp. Huế, Huế	4.5	100+	07:37 - 23:59	8,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Mệ Bừ - Bún Thịt Nướng &amp; Nem Lụi 	115 Bà Triệu, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	10:00 - 22:00	15,000	30,000	0.0%	3.9	3
+Quán ăn	Bánh Canh Thanh Thanh - Trần Phú	38 Ngõ 20 Kiệt 130 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	0.0	4	06:15 - 21:00	15,000	15,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm Gà Mắm Tỏi A Bình - Lịch Đợi	19 Kiệt 33 Lịch Đợi, P. Đúc, Tp. Huế, Huế	4.5	10+	07:00 - 23:59	10,000	210,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Cua Rời Nga - 32 Phạm Hồng Thái	32 Phạm Hồng Thái, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	10+	06:00 - 20:00	5,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	TAKE Japanese Restaurant - 34 Trần Cao Vân	34 Trần Cao Vân, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	10:30 - 21:30	8,000	600,000	0.0%	<span>_._</span>	0
+Quán ăn	Bún Đậu O Chín - 96 Nguyễn Lộ Trạch	96 Nguyễn Lộ Trạch, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	10:30 - 21:00	25,000	100,000	0.0%	<span>_._</span>	0
+Nhà hàng	Nhà Hàng Tre	4/42 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	5.0	1	07:00 - 23:00	35,000	150,000	ShopeeFood</span	8.4	8
+Quán ăn	Nice Snacks - Trà Sữa &amp; Ăn Vặt - Nguyễn Thái Học	22B Kiệt 41 Nguyễn Thái Học, P. Phú Hội, Tp. Huế, Huế	4.5	10+	09:30 - 23:45	13,000	60,000	0.0%	<span>_._</span>	0
+Quán ăn	Cháo Dinh Dưỡng Cô Hiền - Đinh Tiên Hoàng	100 Đinh Tiên Hoàng, P. Thuận Thành, Tp. Huế, Huế	4.5	10+	06:00 - 20:00	15,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Gà A Thiện - Nguyễn Sinh Cung	67 Nguyễn Sinh Cung, P. Vỹ Dạ, Tp. Huế, Huế	4.5	10+	10:00 - 20:30	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Bánh Canh Cá Lóc Trâm - Dương Văn An	85 Dương Văn An, P. Xuân Phú, Tp. Huế, Huế	4.5	10+	05:45 - 22:30	7,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Hẻm 74 - Bún Thịt Nướng &amp; Nem Lụi	74 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	5	11:00 - 19:00	9,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Bếp Nhà ABC - Ngô Quyền	48 Ngô Quyền, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	10+	05:00 - 21:00	10,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Thúy - Bánh Canh Nam Phổ	16 Phạm Hồng Thái, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	12:00 - 20:00	5,000	10,000	ShopeeFood</span	7.4	79
+Quán ăn	Bánh Canh Cá Lóc Quảng Trị - Minh Trang - 181 Bùi Thị Xuân	181 Bùi Thị Xuân, P. Đúc, Tp. Huế, Huế	4.5	50+	06:00 - 22:00	25,000	25,000	0.0%	<span>_._</span>	0
+Quán ăn	Mệ Chút - Bún Thịt Nướng &amp; Bún Mắm Nêm	7 Kiệt 81 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	4.5	50+	10:30 - 21:00	10,000	20,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Bún Tý - Võ Thị Sáu	14 Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	0.0	1	06:00 - 22:00	12,000	40,000	0.0%	<span>_._</span>	0
+Nhà hàng	Tân Hương Sen	 96B Nguyễn Trãi, P. Thuận Hòa, Tp. Huế, Huế	0.0	4	07:00 - 21:00	300,000	550,000	ShopeeFood</span	7.3	6
+Quán ăn	A Đạt - Cơm Chiên Gà Xối Mỡ - Trần Phú	227 Trần Phú, P. Trường An, Tp. Huế, Huế	3.5	10+	00:00 - 23:59	19,000	35,000	0.0%	<span>_._</span>	0
+Quán ăn	Cháo Dinh Dưỡng Cô Hiền - Hoàng Quốc Việt	15A Hoàng Quốc Việt, P. An Đông, Tp. Huế, Huế	4.5	10+	06:00 - 20:00	15,000	30,000	0.0%	<span>_._</span>	0
+Quán ăn	Hue Cuisine &amp; Cafe - Bèo, Nậm, Lọc - Bún Bò Huế	44 Hoàng Quốc Việt, P. An Đông, Tp. Huế, Huế	4.5	50+	06:00 - 21:00	10,000	200,000	0.0%	2.8	1
+Ăn vặt/vỉa hè	Mì Quảng Lành	111 Mai Thúc Loan, P. Phú Hậu, Tp. Huế, Huế	4.5	50+	06:00 - 23:00	15,000	20,000	0.0%	7.5	3
+Quán ăn	Quán Tý - Xôi Gà &amp; Cháo Gà - Trần Quang Khải	44 Trần Quang Khải, P. Phú Hội, Tp. Huế, Huế	4.5	100+	07:00 - 23:00	30,000	50,000	0.0%	<span>_._</span>	0
+Quán ăn	Quán Cơm Hến - 03 Hàn Mặc Tử	3 Hàn Mặc Tử, P. Vỹ Dạ, Tp. Huế, Huế	0.0	3	06:30 - 20:30	13,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	Cơm Chiên Đông Phương - Trần Phú	225 Trần Phú, P. Phước Vĩnh, Tp. Huế, Huế	0.0	1	00:00 - 23:59	6,000	100,000	0.0%	<span>_._</span>	0
+Quán ăn	La Cà Quán - Cơm Nia - Trà Sữa &amp; Ăn Vặt	37 Trần Phú, P. An Cựu, Tp. Huế, Huế	4.5	100+	10:00 - 22:00	10,000	35,000	0.0%	6.1	2
+Quán ăn	Quán Vũ Bếp - Gà &amp; Vịt Quay Tây Bắc - Điện Biên Phủ	314 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	5.0	9	11:00 - 22:00	10,000	200,000	0.0%	<span>_._</span>	0
