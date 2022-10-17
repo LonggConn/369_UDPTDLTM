@@ -1,0 +1,4 @@
+,Food,Price
+0,Tiramisu,"55,000"
+1,Bento fruit cake,"60,000"
+2,Bánh su dai (bánh su dẻo),"50,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh mì đặc biệt,"20,000"
+1,Bánh mì ốp la pa tê,"15,000"
+2,Bánh mì thịt nguội,"15,000"
+3,Bánh mì chả cá,"15,000"
+4,Bánh mì trứng chiên xúc xích,"15,000"
+5,Bánh mì xíu mại,"15,000"
+6,Bánh mì thịt đỏ sa tế,"15,000"
+7,Bánh mì cá hộp,"15,000"
+8,Sandwich thịt nguội,"15,000"

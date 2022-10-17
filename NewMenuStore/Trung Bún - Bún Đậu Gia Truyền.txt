@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún Chả Hà Nội,"60,000"
+1,Bún Chả Hà Nội (Đặc Biệt),"80,000"
+2,Bún Nem Cua Biển,"70,000"
+3,Bún Cá Rô,"60,000"
+4,Bánh Đa Cua,"60,000"
+5,Bún Cá Dọc Mùng,"60,000"
+6,Bún Riêu Cua Biển,"60,000"
+7,Bún Tôm Hải Phòng,"60,000"
+8,Nem Cua Biển,"30,000"
+9,Bún sợi,"8,000"

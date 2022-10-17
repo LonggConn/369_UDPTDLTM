@@ -1,0 +1,13 @@
+,Food,Price
+0,10 CHÂN GÀ SẢ TẮC RÚT XƯƠNG MIX CÓC HOẶC XOÀI KÈM SỐT CHẤM,"75,000"
+1,10 CHÂN GÀ. SỐT THÁI TO MIX CÓC HOẶC XOÀI  kèm sốt chấm,"78,000"
+2,Chân gà xả tắc rút xương 10 chân mix cóc hoặc xoài kèm sốt chấm,"75,000"
+3,Sốt chấm thêm 1 hộp,"4,000"
+4,5 CHÂN GÀ RÚT XƯƠNG SẢ TẮC TO + cóc+ sốt chấm,"40,000"
+5,10 CHÂN GÀ SẢ ỚT RÚT XƯƠNG TO mix CÓC HOẶC XOÀI CỤC KÈM SỐT CHẤM THẦN THÁNH,"75,000"
+6,5 CHÂN GÀ SỐT THÁI MIX XOÀI Hoăc CÓC ĐẬM VỊ KHÔNG KÈM SỐT CHẤM,"40,000"
+7,Cóc dầm,"23,000"
+8,10Chân gà rút xương lắc xoài hoặc cóc chua ngọt to (11-12 chân nếu bé )10 chân),"75,000"
+9,Thêm cóc ăn kèm,"7,000"
+10,Bạch tuộc sốt thái kèm sốt chấm và cóc lắc,"72,000"
+11,Khăn ướt 1 cái,"3,000"

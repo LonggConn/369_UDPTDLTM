@@ -1,0 +1,11 @@
+,Food,Price
+0,Sữa tươi trân châu đường đen,"20,000"
+1,Trà sữa truyền thống trân châu đen,"20,000"
+2,Sữa tươi matcha trân châu đường đen,"25,000"
+3,Sữa tươi trứng muối trân châu đường đen,"28,000"
+4,Trà đào,"25,000"
+5,Sữa chua việt quất trân châu,"25,000"
+6,Trà nhiệt đới,"30,000"
+7,Trà sữa đào trân châu trắng,"25,000"
+8,Trà sữa matcha đậu đỏ,"25,000"
+9,Sữa chua trân châu đường đen,"25,000"

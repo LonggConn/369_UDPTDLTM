@@ -1,0 +1,8 @@
+,Food,Price
+0,Cà Phê Sữa Đá,"18,000"
+1,Cacao Đá ,"18,000"
+2,Trà Kiwi,"18,000"
+3,Trà Việt Quất,"18,000"
+4,Trà Hạt Chia,"18,000"
+5,Cacao Sữa ,"22,000"
+6,Cà Phê Đá,"15,000"

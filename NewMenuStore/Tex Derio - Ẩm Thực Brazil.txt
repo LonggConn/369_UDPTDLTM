@@ -1,0 +1,8 @@
+,Food,Price
+0,Bít Tết Bò Sốt Nấm,"175,000"
+1,Bánh Mì,"10,000"
+2,Mỳ Dẹt Bò Nướng,"120,000"
+3,Tuna Salad,"65,000"
+4,Bít Tết Bò Sốt Quả Bơ,"170,000"
+5,Bolognaise Spaghetti,"105,000"
+6,Cơm Cháy Bò Sốt,"115,000"

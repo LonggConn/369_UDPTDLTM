@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún chả HN + Nước Mơ,"68,000"
+1,Cơm Rang Dưa Bò ,"65,000"
+2,Bún Cá Rô + Nước Mơ,"65,000"
+3,Bún giả cầy ,"75,000"
+4,Bún chả lá lốt + Nước Mơ,"68,000"
+5,Bún nem HN + Nước Mơ ,"68,000"
+6,Cơm Gà Góc Tư,"75,000"

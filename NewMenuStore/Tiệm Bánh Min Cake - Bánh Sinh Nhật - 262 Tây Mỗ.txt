@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh bông lan trứng muối,"60,000"
+1,Bánh bông lan ruốc gà cay,"55,000"
+2,Mouse chanh leo,"65,000"

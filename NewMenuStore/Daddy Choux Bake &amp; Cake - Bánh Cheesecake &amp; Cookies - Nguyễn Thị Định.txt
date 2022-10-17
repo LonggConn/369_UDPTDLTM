@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh mì bơ tỏi,"50,000"
+1,Bánh su kem tươi - hộp 8 cái,"45,000"
+2,Bánh mì hoa cúc,"72,000"
+3,Bánh mì lava trứng muối - hộp 2 cái,"45,000"
+4,Bông lan phô mai Nhật Bản,"22,000"
+5,Bông lan trứng muối,"72,000"

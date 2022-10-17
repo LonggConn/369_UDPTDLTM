@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm đùi gà lớn,"30,000"
+1,Cơm thêm,"3,000"
+2,Cơm má đùi lớn,"30,000"
+3,Cơm đùi gà ta,"45,000"
+4,đùi góc tư công nghiệp,"50,000"
+5,Cơm má đùi nhỏ,"30,000"
+6,Cơm cánh gà ta,"45,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà Đào,"30,000"
+1,Trà Vải,"30,000"
+2,Trà Sữa Thái,"20,000"
+3,Đá Chanh,"25,000"
+4,Cafe Đen,"18,000"
+5,Cafe Sữa,"20,000"
+6,Cacao Đá,"25,000"
+7,Sinh Tố Xoài,"30,000"
+8,Yaourt Đá,"25,000"
+9,Nước Ép Chanh Dây,"25,000"
+10,Nước Ép Cam,"25,000"
+11,Nước Ép Cam Cà Rốt,"25,000"

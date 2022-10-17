@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún Bò 1 Món,"40,000"
+1,Bún Bò 2 Món,"50,000"
+2,Bún Bò Giò Đặc Biệt,"55,000"
+3,Bún Bò Đặc Sắc Tá Lả,"60,000"
+4,Bún Bò Sườn Sụn,"60,000"
+5,Bún Thịt Xào,"38,000"
+6,Bún Thịt Luộc Mắm Nêm,"38,000"
+7,Bún Bì Thịt,"38,000"

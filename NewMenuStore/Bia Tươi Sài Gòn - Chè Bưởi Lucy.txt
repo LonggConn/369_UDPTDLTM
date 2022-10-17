@@ -1,0 +1,10 @@
+,Food,Price
+0,(ƯỚP SỆT) Bia Tươi Vina Sài Gòn HỒ LÔ (500ml) CHÍNH HÃNG,"12,000"
+1,(ƯỚP LẠNH) Bia Tươi Vina Sài Gòn HỒ LÔ (500ml) CHÍNH HÃNG,"11,500"
+2,(ƯỚP SỆT) 900ml Bia Tươi Bến Thành Sài Gòn (CHÍNH HÃNG),"18,000"
+3,(NGUỘI) 1100ml Bia Tươi Vina Sài Gòn KHỔNG LỒ (CHÍNH HÃNG),"16,000"
+4,(NGUỘI) 900ml Bia Tươi Bến Thành Sài Gòn (CHÍNH HÃNG),"16,000"
+5,(ƯỚP LẠNH) 900ml Bia Tươi Bến Thành Sài Gòn (CHÍNH HÃNG),"17,000"
+6,(ƯỚP LẠNH) 1100ml Bia Tươi Vina Sài Gòn KHỔNG LỒ (CHÍNH HÃNG),"17,000"
+7,(ƯỚP SỆT) 1100ml Bia Tươi Vina Sài Gòn KHỔNG LỒ (CHÍNH HÃNG),"18,000"
+8,(NGUỘI) Bia Tươi Vina Sài Gòn HỒ LÔ (500ml) CHÍNH HÃNG,"11,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Yến hũ chưng đường ăn kiêng,"140,000"
+1,"Yến hũ chưng hạt chia, đông trùng hạ thảo","150,000"
+2,Yến tinh chế,"2,550,000"
+3,Combo 5 yến hũ chưng thập cẩm,"650,000"
+4,"Yến hũ chưng hạt chia, táo đỏ","140,000"
+5,"Yến hũ chưng hạt chia, long nhãn","140,000"
+6,"Yến hũ chưng hạt chia, kỷ tử","140,000"

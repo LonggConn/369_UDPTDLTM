@@ -1,0 +1,10 @@
+,Food,Price
+0,Combo B3,"169,000"
+1,Combo A2,"149,000"
+2,Combo A3,"149,000"
+3,Combo C,"215,000"
+4,Combo A4,"149,000"
+5,Combo D,"215,000"
+6,Combo B1,"169,000"
+7,Combo B2,"169,000"
+8,Combo B4,"169,000"

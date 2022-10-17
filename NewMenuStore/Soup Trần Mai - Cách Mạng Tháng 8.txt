@@ -1,0 +1,13 @@
+,Food,Price
+0,Súp thập cẩm,"45,000"
+1,Súp óc heo,"45,000"
+2,Súp thường,"35,000"
+3,Súp bách  thảo,"45,000"
+4,Súp óc heo 1 bộ,"100,000"
+5,Hồng trà tắc giải nhiệt mùa nắng %,"15,000"
+6,Thịt gà,"10,000"
+7,Hồng trà thơm ngon giải nhiệt %,"15,000"
+8,Bách  thảo,"15,000"
+9,Bắp,"10,000"
+10,Trứng cút,"10,000"
+11,Óc heo 1 bộ,"80,000"

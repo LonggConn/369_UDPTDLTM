@@ -1,0 +1,15 @@
+,Food,Price
+0,Cơm cá hú kho,"35,000"
+1,Cơm canh chua cá hú,"40,000"
+2,Cơm thịt kho trứng,"35,000"
+3,Cơm canh chua cá lóc,"40,000"
+4,Cơm gà luộc,"40,000"
+5,Cơm tôm ram,"35,000"
+6,Cơm cá lóc kho tiêu,"35,000"
+7,Cốc Lết Chiên,"35,000"
+8,Canh Gà Lá Giang,"40,000"
+9,Cơm cá trê chiên mắm gừng,"35,000"
+10,Tôm Gam+Ba Rọi,"35,000"
+11,Thịt Luộc Mắm Tôm,40
+12,Cá Bac Má Muối Chiên,"3,500"
+13,Ếch Xào Sả Ớt,"35,000"

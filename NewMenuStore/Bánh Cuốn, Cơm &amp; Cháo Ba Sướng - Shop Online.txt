@@ -1,0 +1,29 @@
+,Food,Price
+0,Bún mọc,"45,000"
+1,Mì tim cật,"45,000"
+2,Bún mọc thịt heo,"48,000"
+3,Bún măng ngan,"48,000"
+4,Cháo Thịt Băm,"42,000"
+5,Cháo Tim Cật,"45,000"
+6,Cháo Cật,"42,000"
+7,Cháo Gà,"45,000"
+8,Cháo Thập Cẩm,"45,000"
+9,Cháo Tim,"45,000"
+10,Nước Cam Tươi Quả to,"20,000"
+11,Nước Chanh Leo,"15,000"
+12,Nước Ép Dứa Quả Nhỏ,"15,000"
+13,Nước Ép Dứa Quả To,"20,000"
+14,Nước Chanh Tươi,"15,000"
+15,Trà Quất,"15,000"
+16,Trà Chanh,"15,000"
+17,Nước tăng lực Sting hương dâu tây đỏ,"15,000"
+18,Nước uống có ga 7up,"15,000"
+19,Nước tăng lực Sting vàng,"15,000"
+20,Nước uống có ga Pepsi,"15,000"
+21,Nước uống có ga Mirinda vị Soda Kem,"15,000"
+22,Trà Ô long Tea + Plus,"15,000"
+23,Nước uống có ga Mirinda hương cam,"15,000"
+24,Ăn Hạt Tiêu,1
+25,Ăn Ớt Bột,1
+26,Không Ăn Hành ,1
+27,Không Ăn Tía Tô,1

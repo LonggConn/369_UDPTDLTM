@@ -1,0 +1,13 @@
+,Food,Price
+0,GỎI ĐU ĐỦ BA KHÍA + Bún Kèm,"85,000"
+1,GỎI ĐU ĐỦ TÔM KHÔ,"75,000"
+2,GỎI MIẾN HẢI SẢN,"99,000"
+3,Gỏi Đu Đủ Hải Sản Ba Khía+ Kèm Bún,"139,000"
+4,GỎI CHÂN GÀ RÚT XƯƠNG,"89,000"
+5,CÁ  TRỨNG CHIÊN GIÒN,"119,000"
+6,Nghêu Hấp Thái,"75,000"
+7,MỰC HẤP SỐT THÁI,"169,000"
+8,LẨU THÁI   THẬP CẨM,"200,000"
+9,Lẩu  thái thập cẩm 300,"300,000"
+10,Lẩu thái thập cẩm 500,"500,000"
+11,Lẩu  thái thập cẩm 400,"400,000"

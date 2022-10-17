@@ -1,0 +1,7 @@
+,Food,Price
+0,Cháo bò gân,"30,000"
+1,Cháo đặc biệt,"45,000"
+2,Cháo lòng bò,"30,000"
+3,Cháo cật gân,"30,000"
+4,Cháo mắt,"38,000"
+5,Lòng nhồi bóp chua  cay,"50,000"

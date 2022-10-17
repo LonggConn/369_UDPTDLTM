@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm sườn sốt Chua Ngọt,"45,000"
+1,Cơm Thịt Kho Tàu,"45,000"
+2,Cơm thịt rang cháy cạnh,"45,000"
+3,Cơm cá kho tộ,"45,000"
+4,Cơm MựcXào Cần Tỏi,"85,000"
+5,Cơm Chả Lá Lốt,"40,000"
+6,Cơm Chả Thịt Băm,"40,000"
+7,Cơm Tôm Rang Mặn Ngọt,"40,000"
+8,Coca,"20,000"
+9,Fanta,"20,000"

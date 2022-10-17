@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún bò Huế đầy đủ,"52,000"
+1,Bún bò Huế Ko Móng,"45,000"
+2,Bún Bò Huế Đặc Biệt,"58,000"
+3,Quẩy,"10,000"
+4,Bún mọc,"37,000"
+5,Nước cam,"20,000"
+6,Coca Chai,"15,000"
+7,Nem Chua Thanh Hóa,"42,000"
+8,Coca lon,"20,000"
+9,Bò húc,"20,000"
+10,Pepsi Chai,"15,000"

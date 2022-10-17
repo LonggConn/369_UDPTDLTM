@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh mì,"3,000"
+1,Gà nướng 1(con),"180,000"
+2,Gà nướng (nửa con),"90,000"

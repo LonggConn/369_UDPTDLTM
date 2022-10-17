@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh mì phô mai tan chảy,"65,000"
+1,Bánh bao xá xíu phô mai,"36,000"
+2,Crepe Mini ( 2cai),"22,000"
+3,Bánh crepe sầu riêng,"79,000"
+4,Bông lan trứng muối sốt phô mai,"79,000"

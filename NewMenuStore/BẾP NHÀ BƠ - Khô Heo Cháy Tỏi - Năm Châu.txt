@@ -1,0 +1,9 @@
+,Food,Price
+0,Set 10 hủ Yaourt Sữa Chua (Tặng 1 hủ),"60,000"
+1,Set 5 hủ Yaourt Sữa Chua,"30,000"
+2,Yaourt Sữa Chua 1 hủ,"6,000"
+3,Khô heo cháy tỏi - 500g,"215,000"
+4,Set 2 khô heo - 500gr (tặng 1 - 50gr),"430,000"
+5,Khô heo cháy tỏi - 250g,"115,000"
+6,Khô Heo Cháy Tỏi - 50gr,"35,000"
+7,Bánh tráng dẻo chấm sốt muối - 250gr,"50,000"

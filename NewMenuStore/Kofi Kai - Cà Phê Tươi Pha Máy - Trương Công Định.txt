@@ -1,0 +1,10 @@
+,Food,Price
+0,Cafe Sữa Pha Máy,"18,700"
+1,Cafe Đen Pha Máy,"15,300"
+2,Cafe Bạc Xỉu ,"21,250"
+3,Sữa Tươi Cafe ,"21,250"
+4,Cacao Sữa Đá,"21,250"
+5,Trà Tắc  ,"12,750"
+6,Trà Chanh Tươi ,"17,000"
+7,Combo 2 Ly Sữa Tươi ,"38,250"
+8,Combo 2ly Bạc Xỉu ,"38,250"

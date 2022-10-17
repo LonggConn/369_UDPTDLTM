@@ -1,0 +1,6 @@
+,Food,Price
+0,Cánh gà nướng,"20,000"
+1,Chân gà nướng,"18,000"
+2,Gà quay nguyên con,"180,000"
+3,Chim cút nướng,"25,000"
+4,Đùi gà góc tư nướng,"40,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Cafe kem,"25,000"
+1,Chai Cafe Sữa,"65,000"
+2,Cafe đá,"18,000"
+3,Cafe sữa đá,"21,000"
+4,Cafe Muối,"25,000"
+5,Bạc xỉu,"22,000"
+6,Chai Bạc Xỉu,"70,000"
+7,Chai Cafe Muối,"75,000"
+8,Cafe Bạc Hà,"30,000"
+9,Chai Cafe Đen Không Đường,"95,000"

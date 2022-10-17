@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh mì thập cẩm,"26,000"
+1,Bánh mì bò sốt tiêu đen ,"28,000"
+2,Bánh mì xá xíu ,"26,000"
+3,Bánh mì gà nướng ,"25,000"
+4,Bánh mì trứng ,"16,000"
+5,Milo ,"15,000"
+6,Trà đào ,"12,000"
+7,Trà quất ,"12,000"
+8,Sữa đậu ,"12,000"
+9,Trà chanh ,"12,000"

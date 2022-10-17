@@ -1,0 +1,10 @@
+,Food,Price
+0,Mì trộn tóp mỡ,"25,000"
+1,Lẩu 1 người,"36,000"
+2,Đá me,"16,000"
+3,Thập cẩm sốt mắm me,"50,000"
+4,Tắc xí muội,"16,000"
+5,Lẩu 4 người,"150,000"
+6,Hồng trà sữa,"20,000"
+7,Nước chanh dây,"16,000"
+8,Mẹt chiên,"50,000"

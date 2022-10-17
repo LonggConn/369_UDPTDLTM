@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh tráng hành phi,"85,000"
+1,Bánh Tráng Satế ,"85,000"
+2,Bánh tráng tỏi phi,"85,000"
+3,Khô Heo Cháy Tỏi Lớn,"275,000"
+4,Khô Gà Lá Chanh Lớn,"210,000"
+5,Khô Gà Cay Lớn,"210,000"
+6,Da Heo Chiên Giòn Tỏi Ớt,"130,000"
+7,Cơm cháy chà bông phô mai,"90,000"
+8,Cơm cháy sốt trứng muối,"95,000"
+9,Cơm sấy chà bông truyền thống,"85,000"
+10,Rong biển cháy tỏi,"65,000"
+11,Combo 5 Túi Rong Biển Cháy Tỏi,"290,000"

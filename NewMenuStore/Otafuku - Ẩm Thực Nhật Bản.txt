@@ -1,0 +1,8 @@
+,Food,Price
+0,Set Cơm Cá Sanma,"130,000"
+1,Set Cơm Thịt Bò Nướng,"150,000"
+2,Set Cơm Cá Hồi,"170,000"
+3,Set Cơm Bò Súp Hến,"130,000"
+4,Cơm Thịt Gà Trứng,"130,000"
+5,Set Cơm Thịt Lợn,"68,000"
+6,Set Cơm Thịt Bò,"110,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh kem túi tiền,"320,000"
+1,Bánh kem xe hơi,"470,000"
+2,Bánh kem hoa hồng vàng,"190,000"
+3,Bánh kem Doremon,"400,000"

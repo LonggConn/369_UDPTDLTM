@@ -1,0 +1,5 @@
+,Food,Price
+0,Original castella,"89,250"
+1,Salt york cheese castella,"119,250"
+2,Cheese castella,"111,750"
+3,Bánh Phô Mai Hạnh Nhân,"111,750"

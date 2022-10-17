@@ -1,0 +1,5 @@
+,Food,Price
+0,Đậu hủ thập cẩm,"20,000"
+1,Đậu hủ thập cẩm đậu xanh,"20,000"
+2,Che bưởi truyền thống,"20,000"
+3,Chè bưởi hạt sen,"20,000"

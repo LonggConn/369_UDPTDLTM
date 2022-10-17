@@ -1,0 +1,6 @@
+,Food,Price
+0,Chè bưởi cốc nhỏ,"20,000"
+1,Sốt ướp thịt nướng BBQ,"45,000"
+2,Trà xanh kem tươi chai 1 lít,"65,000"
+3,Hồng trà phúc long kem tươi 1 lít,"85,000"
+4,Nước chấm thần thánh,"45,000"

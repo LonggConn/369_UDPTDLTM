@@ -1,0 +1,9 @@
+,Food,Price
+0,Nước Ép Cóc - Ambarella Juice,"25,000"
+1,Nước Ép Dưa Hấu - Watermelon Juice,"25,000"
+2,Nước Ép Dứa - Pineapple Juice,"25,000"
+3,Nước Ép Cà Chua - Tomato Juice,"25,000"
+4,Nước Ép Cà Rốt - Carrots Juice,"25,000"
+5,Cà Phê Sữa Đá,"22,000"
+6,Bạc Xỉu,"20,000"
+7,Cà Phê Đen,"20,000"

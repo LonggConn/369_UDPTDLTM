@@ -1,0 +1,3 @@
+,Food,Price
+0,Cafe Sữa pha máy ,"16,000"
+1,Cafe Đen Đá pha máy,"14,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh giò heo băm nấm mèo 7 trứng cute,"30,000"
+1,Bánh giò heo băm nấm mèo  3 trứng cute,"25,000"
+2,Bánh giò xá xíu trứng muối 2 trứng,"35,000"
+3,Bánh giò gà xé nấm đông cô 7 trứng cute,"30,000"
+4,Bánh giò gà xé nấm đông cô 3 trứng cute,"25,000"
+5,Bánh giò chay 6 loại nấm,"25,000"
+6,Combo 3 Bì cuốn,"33,000"
+7,Combo 5 Bì cuốn,"55,000"
+8,Đu đủ ngâm chua,"5,000"
+9,Sâm bông cúc (chai 330ml),"15,000"
+10,Chè dưỡng nhan đường phèn ( chai 330ml),"30,000"

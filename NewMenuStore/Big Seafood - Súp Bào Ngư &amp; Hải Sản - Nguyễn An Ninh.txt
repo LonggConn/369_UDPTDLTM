@@ -1,0 +1,8 @@
+,Food,Price
+0,Súp Bào Ngư RUBY,"270,000"
+1,Súp Bào Ngư RUBY+,"370,000"
+2,Súp Bào Ngư RUBY 2,"510,000"
+3,Súp Bào Ngư Vi Cá DIAMOND+,"570,000"
+4,Súp Bào Ngư Hải Sâm GOLD,"369,000"
+5,Súp Bào Ngư Hải Sâm Vi Cá GOLD DIAMOND,"615,000"
+6,Súp Bào Ngư Hải Sâm Vi Cá Tổ Yến RED DIAMOND,"810,000"

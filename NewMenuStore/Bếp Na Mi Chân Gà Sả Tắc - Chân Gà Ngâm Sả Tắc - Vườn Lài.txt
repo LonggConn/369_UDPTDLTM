@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân Gà Rút  Sốt Thái ,"200,000"
+1,Chân Gà Rút Sốt Thái ,"120,000"
+2,Chân Gà Rút  ,"150,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Basque burnt cheesecake,"160,000"
+1,Creme brulee,"55,000"
+2,Tiramisu,"180,000"

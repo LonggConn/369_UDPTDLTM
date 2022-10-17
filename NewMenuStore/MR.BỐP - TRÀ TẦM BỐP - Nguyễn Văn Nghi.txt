@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà Sữa Truyền Thống (M),"9,000"
+1,Trà Sữa Truyền Thống (L),"24,000"
+2,Trà Dâu Tằm Mr Bốp,"9,000"
+3,Trà Dâu Tây dằm (L),"24,000"
+4,Trà Tầm Bóp (L),"39,000"
+5,Trà Dâu Tằm (L),"24,000"
+6,Trà Tầm Bốp (M),"30,000"
+7,Trà Dâu Tây dằm (M),"21,000"
+8,Nước ép Tầm Bóp (L),"39,000"
+9,Trà Dâu Tằm (M),"21,000"
+10,Nước ép Tầm Bốp (M),"30,000"

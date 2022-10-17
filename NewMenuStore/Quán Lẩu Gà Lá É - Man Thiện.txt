@@ -1,0 +1,9 @@
+,Food,Price
+0,Lẩu Gà Lá é ,"250,000"
+1,Lẩu gà lá giang,"250,000"
+2,Gỏi lòng gà,"140,000"
+3,Gà lá chanh 1/2 con,"180,000"
+4,Lẩu gà nấu nấm,"250,000"
+5,Cháo gỏi gà 1/2 con,"200,000"
+6,Vịt luộc 1/2 con,"180,000"
+7,Cháo gỏi vịt 1/2 con,"200,000"

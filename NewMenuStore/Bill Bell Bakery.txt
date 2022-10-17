@@ -1,0 +1,3 @@
+,Food,Price
+0,ComBo  3 Bánh Bao,"60,000"
+1,Bánh Bao Nhân Thịt Trứng Cút,"22,000"

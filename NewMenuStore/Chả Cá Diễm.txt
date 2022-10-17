@@ -1,0 +1,7 @@
+,Food,Price
+0,Chả cá thu chiên (500gr),"75,000"
+1,Chả cá thu chiên (200gr),"30,000"
+2,Chả cá basa 200gr,"24,000"
+3,Chả cá thu chiên  (1kg),"150,000"
+4,Chả cá basa (500gr),"60,000"
+5,Chả cá basa (1kg),"120,000"

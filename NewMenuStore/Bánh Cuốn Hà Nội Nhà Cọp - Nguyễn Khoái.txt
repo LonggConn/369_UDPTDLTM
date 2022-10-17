@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh cuốn thịt nướng Hà Nội (  Đặc Biệt ),"50,000"
+1,Nước sâm lạnh,"13,000"
+2,Bún chả hà nội ( Đặc Biệt ),"50,000"
+3,Thịt nướng thêm ,"24,000"
+4,Bánh cuốn mắm cà cuống,"65,000"
+5,Nem cua bể,"60,000"
+6,Bánh cuốn cà cuống,"130,000"

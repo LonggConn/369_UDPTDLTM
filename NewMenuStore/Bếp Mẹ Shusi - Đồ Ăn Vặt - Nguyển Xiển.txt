@@ -1,0 +1,3 @@
+,Food,Price
+0,Khoai lang mật sống,"60,000"
+1,Khoai  mật nướng,"65,000"

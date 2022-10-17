@@ -1,0 +1,9 @@
+,Food,Price
+0,Bông lan trứng muối phô mai ruốc  ,"68,000"
+1,Bánh trân châu đường đen kem cheese,"65,000"
+2,Bánh milo kem cheese hê hê,"65,000"
+3,Bánh bông lan trứng muối sốt phô mai,"68,000"
+4,Bánh mì bơ tỏi phô mai ,"55,000"
+5,Bánh mì bơ tỏi phomai size M,"52,000"
+6,Bánh bông lan sốt ruốc gà cay ,"60,000"
+7,Combo bánh bltm sốt phô mai + bánh mì bơ tỏi phô mai,"120,000"

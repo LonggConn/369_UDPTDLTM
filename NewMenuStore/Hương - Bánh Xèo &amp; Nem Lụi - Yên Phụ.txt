@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh Xèo,"54,000"
+1,Nem lụi,"40,000"
+2,Nem chua rán,"40,000"
+3,Khoai lang kén,"40,000"
+4,Khoai Tây Chiên,"40,000"
+5,Coca lon,"15,000"
+6,Cam lon,"15,000"

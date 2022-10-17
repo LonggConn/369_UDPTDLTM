@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún chả cá thu đà nẵng,"32,000"
+1,"Bún sứa, chả cá, cá thu","52,000"
+2,Bánh canh chả cá,"32,000"
+3,Bún sứa chả cá,"42,000"
+4,Bún cá thu,"52,000"
+5,Bún sứa cá thu,"52,000"
+6,Bún đầu cá thu,"70,000"

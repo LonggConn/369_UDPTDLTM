@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh đa cua đồng thập cẩm,"50,000"
+1,Bánh đa cua đồng chả lá lốt,"40,000"
+2,Bánh đa chả các loại,"40,000"
+3,"Bánh đa cá, tôm, bề bề ","50,000"
+4,Bánh đa tôm bề bề,"50,000"
+5,Bún cá thập cẩm ,"50,000"
+6,Quẩy,"10,000"
+7,Chân móng giò ,"80,000"

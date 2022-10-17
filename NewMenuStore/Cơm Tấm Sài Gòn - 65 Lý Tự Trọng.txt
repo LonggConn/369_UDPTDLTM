@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm gà chiên mắm,"40,000"
+1,Cơm sườn nướng,"45,000"
+2,Cơm thịt trứng kho tàu,"35,000"
+3,Cơm sườn xào chua ngọt,"45,000"
+4,Cơm tôm rang thịt lợn,"35,000"
+5,Cơm cá nục kho keo,"35,000"
+6,Cơm đậu phụ nhồi thịt sốt cà,"35,000"
+7,Cơm gà xối mỡ,"45,000"
+8,Cơm gà rang sả ớt,"40,000"

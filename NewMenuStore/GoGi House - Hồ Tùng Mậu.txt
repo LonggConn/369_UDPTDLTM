@@ -1,0 +1,2 @@
+,Food,Price
+0,Mì lạnh trộn cay,"99,000"

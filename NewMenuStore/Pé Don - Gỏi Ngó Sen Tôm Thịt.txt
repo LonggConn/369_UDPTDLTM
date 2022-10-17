@@ -1,0 +1,11 @@
+,Food,Price
+0,Gỏi cuốn,"12,000"
+1,Gỏi ngó sen tôm thịt,"65,000"
+2,Gỏi đu đủ tôm thịt,"55,000"
+3,Trà tắc,"15,000"
+4,Chân gà xã tắc trộn ngó sen,"65,000"
+5,Gỏi ngó sen đặc biệt .,"170,000"
+6,Chân gà xã tắc ,"130,000"
+7,Chân gà rút  xương trộn cóc non sốt tháii,"80,000"
+8,"Râu câu lá dứa , nước cốt dừa ","120,000"
+9,Tai Heo trộn cóc non  sốt tháii,"80,000"

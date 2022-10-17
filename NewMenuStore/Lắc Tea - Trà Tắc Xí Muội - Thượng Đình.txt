@@ -1,0 +1,11 @@
+,Food,Price
+0,Cafe Sữa,"18,000"
+1,Cafe đen,"15,000"
+2,Bạc xỉu,"21,000"
+3,Cacao sữa,"21,000"
+4,Sữa nóng,"15,000"
+5,Trà Tắc Xí Muội - Ly Khổng Lồ,"18,000"
+6,Trà Tắc Xí Muội - Ly Thường,"13,500"
+7,Xí muội chua ngọt,"25,000"
+8,Khô Gà Lá Chanh Nha Trang,"32,000"
+9,Bò Khô,"35,000"

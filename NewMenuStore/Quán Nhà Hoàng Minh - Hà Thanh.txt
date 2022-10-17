@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún thịt nướng đầy đủ,"34,000"
+1,Chả ram - 1 cái ,"4,000"
+2,Thịt xiên nướng - 1 xiên,"11,000"
+3,Cơm tấm thịt xiên la,"34,000"
+4,Cơm tấm sườn la,"36,000"
+5,Chả ram rau sống ,"33,000"
+6,Trứng chiên ốp la - 1 trứng ,"8,000"
+7,Trứng luộc,"8,000"
+8,Cơm tấm sườn cốt lết ,"34,000"
+9,Cơm thêm,"7,000"

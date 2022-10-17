@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân Gà Sốt Mắm Thái,"110,000"
+1,Heo khô cháy tỏi,"130,000"
+2,Nộm Đu Đủ Thái Lan,"52,000"

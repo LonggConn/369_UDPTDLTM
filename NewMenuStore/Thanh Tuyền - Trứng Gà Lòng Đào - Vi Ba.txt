@@ -1,0 +1,6 @@
+,Food,Price
+0,Trứng gà lòng đào,"7,000"
+1,Sữa chua dẻo,"10,000"
+2,Sữa Chua  phô mai dẻo,"12,000"
+3,Đá me dẻo,"20,000"
+4,Nước  Mía,"10,000"

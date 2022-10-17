@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún bắp bò Đà Lạt nhỏ,"45,000"
+1,Bún bắp bò Đà Lạt đặc biệt,"75,000"
+2,Bún bắp bò Đà Lạt lớn,"60,000"
+3,Sâm lạnh ,"8,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Cháo ếch phần 2 con,"75,000"
+1,Cháo ếch phần 3 con,"105,000"
+2,Cháo ếch phần 1 con,"45,000"
+3,Rau Luộc,"10,000"
+4,Bánh Mì,"5,000"
+5,Cháo Thêm,"10,000"
+6,Ếch Thêm (2 Con),"65,000"
+7,Ếch Thêm (3 Con),"95,000"
+8,Ếch Thêm (1 Con),"35,000"

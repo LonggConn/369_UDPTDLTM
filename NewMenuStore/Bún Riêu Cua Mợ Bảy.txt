@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún riêu ốc,"37,000"
+1,Bún riêu tô đặc biệt,"50,000"
+2,Bún Riêu Mợ 7,"32,000"
+3,Bún ốc,"32,000"
+4,Riêu Cua Giò Heo ,"45,000"
+5,Trà tắc sả,"10,000"
+6,Trà chanh sả,"10,000"

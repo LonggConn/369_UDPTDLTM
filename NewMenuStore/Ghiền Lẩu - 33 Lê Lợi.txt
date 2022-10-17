@@ -1,0 +1,11 @@
+,Food,Price
+0,MÌ XÀO HẢI SẢN,"30,000"
+1,Mì Lẩu Chả,"25,000"
+2,Bún Lẩu Chả,"25,000"
+3,BÚN LẨU THÁI ĐẶC BIỆT,"35,000"
+4,CƠM ĐÙI GÀ SỐT NƯỚC MẮM,"25,000"
+5,MÌ LẨU THÁI ĐẶC BIỆT,"35,000"
+6,Bún Lẩu Thái Tô Thường,"25,000"
+7,Bún Lẩu Thái Đặc Biệt,"35,000"
+8,Mì Lẩu Thái Tô Thường,"25,000"
+9,MÌ ĐÙI GÀ SỐT NƯỚC MẮM,"25,000"

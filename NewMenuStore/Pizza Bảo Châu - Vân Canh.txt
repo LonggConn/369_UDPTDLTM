@@ -1,0 +1,11 @@
+,Food,Price
+0,Pizza hải sản - size M,"85,000"
+1,Pizza hải sản - size L,"115,000"
+2,Pizza bò bằm - size XXL,"140,000"
+3,Pizza xúc xích - size M,"85,000"
+4,Pizza bò bằm - size L,"115,000"
+5,Pizza hải sản - size XXL,"140,000"
+6,Pizza bò bằm - size M,"85,000"
+7,Mì Ý sốt bò băm,"55,000"
+8,Pizza xúc xích - size XXL,"140,000"
+9,Pizza xúc xích - size L,"115,000"

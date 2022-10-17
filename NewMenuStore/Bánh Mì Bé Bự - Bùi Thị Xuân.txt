@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh mì  ốp la,"25,000"
+1,Bánh mì thịt nướng,"25,000"
+2,Bánh mì thập cẩm ,"25,000"
+3,Bánh mì xíu mại,"25,000"
+4,Bánh Mì Thịt Xắp Xắp  ,"25,000"
+5,Bánh mì gà,"25,000"
+6,Bánh mì chả,"25,000"
+7,Bánh mì xúc xích Đức,"25,000"

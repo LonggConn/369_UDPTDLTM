@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún chả Obama,"45,000"
+1,Nem chua rán,"25,000"
+2,Phở cuốn,"50,000"
+3,Bún Đậu Mắm Tôm,"55,000"
+4,Chân gà xả tắc,"55,000"
+5,Cốm xào dừa non,"60,000"
+6,Chả cốm,"90,000"
+7,Cốm tươi,"100,000"
+8,Bún Ốc,"35,000"
+9,Bún Canh Fulltopping,"45,000"
+10,Bún Mọc Dọc Mùng ( San Hà ) ,"35,000"
+11,Bún Riêu Cua,"35,000"

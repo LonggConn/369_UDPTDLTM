@@ -1,0 +1,9 @@
+,Food,Price
+0,Dừa Xiêm,"20,000"
+1,Thạch Dừa Xiêm,"28,000"
+2,Nước dừa,"40,000"
+3,Thạch dừa cốc,"15,000"
+4,Dừa Nước,"18,000"
+5,Cùi dừa non làm mứt,"70,000"
+6,Cùi bánh tẻ làm mứt,"50,000"
+7,Dừa bánh tẻ làm mứt,"15,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh Su Kem,"35,000"
+1,Bánh tráng muối hành phi,"8,000"
+2,Bánh Bông Lan Nho,"20,000"
+3,Kim chi hủ 800g,"65,000"
+4,Kim chi hủ 500g,"40,000"
+5,Bánh Flan,"5,000"
+6,Rau Câu Viên,"20,000"
+7,Chè Dưỡng Nhan,"30,000"
+8,Nước Sâm,"5,000"
+9,Trà Sữa Thạch,"25,000"

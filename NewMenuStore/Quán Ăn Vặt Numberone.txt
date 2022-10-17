@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh tráng trộn sốt me,"70,000"
+1,Bánh tráng tôm khô trứng muối,"220,000"
+2,Trà tắc việt,"30,000"
+3,Trà sữa tươi,"40,000"
+4,Cam vắt mật ong,"45,000"

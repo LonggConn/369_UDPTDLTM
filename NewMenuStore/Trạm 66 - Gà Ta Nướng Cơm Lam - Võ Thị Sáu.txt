@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm lam - 1 ống,"19,000"
+1,Nửa con gà nướng,"105,000"
+2,Gà nướng - nguyên con,"199,000"
+3,Lòng mề - 1 xiên,"25,000"

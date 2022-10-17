@@ -1,0 +1,6 @@
+,Food,Price
+0,Tàu hủ trân châu đường đen ,"23,000"
+1,Bánh bao bò ngô phô mai,"27,000"
+2,Bánh bao gà nấm phô mai,"27,000"
+3,Bánh bao truyền thống 2 trứng cút ,"22,000"
+4,Bánh bao cốm thịt,"22,000"

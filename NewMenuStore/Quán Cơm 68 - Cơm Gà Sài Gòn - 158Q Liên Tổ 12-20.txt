@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm gà ,"32,000"
+1,Cơm chiên ba rọi ,"32,000"
+2,Cơm chiên ba rọi trứng (đặc biệt),"38,000"
+3,Súp rong biển thịt bằm,"10,000"
+4,Cơm trứng chiên thịt bằm,"28,000"
+5,Cơm  Gà  Luộc Muối  Tiêu,"32,000"
+6,Mì xào bò,"32,000"
+7,Cơm xào bò ,"32,000"

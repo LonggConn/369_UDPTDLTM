@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Chiên Dưa Bò,"40,000"
+1,Cơm Chiên Thập Cẩm,"33,500"
+2,Cơm Chiên Đùi Gà,"53,000"
+3,Cơm Chiên Sườn Rim,"53,000"
+4,Cơm Chiên Trứng Ốp La,"36,000"
+5,Cơm Chiên Hải Sản,"53,000"

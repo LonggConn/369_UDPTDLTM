@@ -1,0 +1,12 @@
+,Food,Price
+0,Khói seafood pizza,"180,000"
+1,Sliced beef pizza,"180,000"
+2,Mushroom pizza,"150,000"
+3,CHEESE GORGON & APPES PIZZA,"140,000"
+4,Pizza xúc xích Ý 1/2,"160,000"
+5,Phô mai thêm 100gr,"40,000"
+6,MARGHERITTA PIZZA,"120,000"
+7,PIZZA rau củ và trái oliu đen,"130,000"
+8,Rau củ thêm,"25,000"
+9,SPAGHETTI AMATRICIANA,"120,000"
+10,SPAGHETTO TOMATOES SAUCE,"90,000"

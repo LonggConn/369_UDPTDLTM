@@ -1,0 +1,13 @@
+,Food,Price
+0,"Bánh bèo (bánh bèo lép, bánh bèo xoáy )","20,000"
+1,Thập Cẩm,"25,000"
+2,Chả(1cây),"4,000"
+3,Bánh bột lọc nem+chả,"25,000"
+4,Bánh Ram Ít Bột Lọc Chả Chiên,"25,000"
+5,Nem(1cây),"4,000"
+6,Bánh bèo Ướt Nem+Chả,"25,000"
+7,Chả Chiên(1lát),"5,000"
+8,bánh bột lọc nhân tôm,"20,000"
+9,Miến Chay,"22,000"
+10,Mì Quảng Chay,"22,000"
+11,Bún Nước Chay,"22,000"

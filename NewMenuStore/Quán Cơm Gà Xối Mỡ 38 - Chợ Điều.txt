@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm chiên gà xối mỡ đùi nhỏ,"35,000"
+1,Cơm chiên gà xối mỡ má đùi,"35,000"
+2,Cơm chiên gà xối mỡ góc tư đùi,"60,000"
+3,Cơm chiên bò xào cải,"45,000"
+4,Cơm chiên bò xào dưa,"45,000"
+5,Cơm chiên cá mặn,"35,000"
+6,Cơm chiên bò xào hành,"45,000"
+7,Cơm chiên lạp xưởng trứng,"35,000"
+8,Cơm chiên trứng ốp la,"25,000"
+9,Cơm chiên dương châu,"35,000"

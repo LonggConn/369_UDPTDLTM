@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún chả  truyền thống,"40,000"
+1,Bún chả chấm đặc biệt,"50,000"
+2,Cocacola,"15,000"
+3,Nước cam,"15,000"
+4,Bún chả viên,"40,000"
+5,10 viên truyền thống+ xương xông,"40,000"
+6,Bia Sài Gòn,"20,000"

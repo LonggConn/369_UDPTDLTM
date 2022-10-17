@@ -1,0 +1,3 @@
+,Food,Price
+0,2 Hộp Cơm Chiên Da Gà,"50,000"
+1,Cơm chiên da gà,"25,000"

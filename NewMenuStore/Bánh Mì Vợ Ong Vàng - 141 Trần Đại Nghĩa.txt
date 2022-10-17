@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh Mì Thập Cẩm,"21,000"
+1,Bánh Mì Sốt Bơ,"9,000"
+2,Bánh Mì Pate,"13,000"
+3,Bánh Mì Gà Ngô,"23,000"
+4,Trà Quất,"9,000"
+5,Trà nhài sữa,"19,000"
+6,Hồng trà sữa,"19,000"

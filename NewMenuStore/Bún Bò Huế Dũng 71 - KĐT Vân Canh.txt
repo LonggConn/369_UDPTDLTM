@@ -1,0 +1,5 @@
+,Food,Price
+0,Bát xanh,"50,000"
+1,Bát trắng,"45,000"
+2,Bát xanh đặc biệt,"60,000"
+3,Bún đậu mắm tôm,"45,000"

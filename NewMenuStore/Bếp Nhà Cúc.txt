@@ -1,0 +1,3 @@
+,Food,Price
+0,Xúc xích heo - 1kg,"220,000"
+1,Thịt chưng mắm tép - hộp 0.5kg,"150,000"

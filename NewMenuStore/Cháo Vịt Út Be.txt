@@ -1,0 +1,6 @@
+,Food,Price
+0,Gỏi vịt nửa con,"180,000"
+1,Cháo thịt vịt,"30,000"
+2,Gỏi vịt nguyên con,"370,000"
+3,Gỏi gà nửa con,"150,000"
+4,Gỏi gà nguyên con,"350,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Heo lên mẹt (phần nhỏ),"200,000"
+1,Cơm lam,"20,000"
+2,Heo lên mẹt (phần vừa),"300,000"
+3,Heo lên mẹt (phần lớn),"500,000"
+4,Gà nướng Tây Bắc,"300,000"

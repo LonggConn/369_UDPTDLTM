@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún riêu ốc + ốc + chả ,"45,000"
+1,Bún riêu ốc + ốc + chả + giò ,"55,000"
+2,Bún riêu ốc,"35,000"
+3,Thêm Dụng Cụ Ăn Uống ,"5,000"
+4,Cafe sữa đá,"18,000"

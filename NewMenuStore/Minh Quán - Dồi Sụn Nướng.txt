@@ -1,0 +1,4 @@
+,Food,Price
+0,Vịt nướng mắc mật,"240,000"
+1,Ga ta,"220,000"
+2,Cá nướng rau rừng ,"150,000"

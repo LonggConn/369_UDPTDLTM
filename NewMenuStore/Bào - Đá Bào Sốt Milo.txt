@@ -1,0 +1,3 @@
+,Food,Price
+0,Đá bào sốt milo,"25,000"
+1,Đá bào sốt matcha,"25,000"

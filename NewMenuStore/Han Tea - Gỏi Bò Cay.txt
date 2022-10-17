@@ -1,0 +1,7 @@
+,Food,Price
+0,Trà tắc xí muội,"13,000"
+1,Bánh bột chiên khoai cao,"25,000"
+2,Gỏi bò cay ( size M ),"28,000"
+3,Gỏi bò cay ( size S ),"24,000"
+4,Gỏi bò cay ( Bigsize ),"60,000"
+5,Khô bò  ( 100g ),"45,000"

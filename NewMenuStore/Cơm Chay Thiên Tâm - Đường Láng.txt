@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Xuất ,"35,000"
+1,Cơm Văn Phòng,"40,000"
+2,Cơm Sườn Áp Chảo Chay,"50,000"
+3,Cơm Rang Thập Cẩm,"45,000"
+4,Bún Thịt Nướng Chay,"40,000"
+5,Bún Bò Nam Bộ Chay,"45,000"

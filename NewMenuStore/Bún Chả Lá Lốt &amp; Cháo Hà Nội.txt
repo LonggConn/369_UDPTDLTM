@@ -1,0 +1,11 @@
+,Food,Price
+0,Cháo Lòng Thập Cẩm,"45,000"
+1,Cháo Huyết,"25,000"
+2,Cháo Thịt Má Heo Thái Lát,"48,000"
+3,Đĩa Lòng Thập Cẩm ( Lớn),"250,000"
+4,Cháo Tim,"60,000"
+5,Đĩa Lòng Thập Cẩm ( Nhỏ),"130,000"
+6,Cháo Dồi Luộc,"40,000"
+7,Đĩa Dồi Luộc,"115,000"
+8,Cháo Lưỡi,"60,000"
+9,Đĩa Đầu Lòng,"350,000"

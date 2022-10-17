@@ -1,0 +1,8 @@
+,Food,Price
+0,Set bò bía có dừa,"39,000"
+1,Dừa tươi nạo sợi ,"12,000"
+2,Set bò bía không dừa,"30,000"
+3,Kẹo mạch nha,"12,000"
+4,Vừng đen,"5,000"
+5,Bánh quế tuổi thơ,"30,000"
+6,Combo  3 set bò bía có dừa,"115,000"

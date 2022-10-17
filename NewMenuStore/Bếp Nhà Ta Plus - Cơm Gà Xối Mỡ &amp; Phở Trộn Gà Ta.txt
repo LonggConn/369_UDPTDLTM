@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà xối mỡ,"72,000"
+1,Cơm rang dưa bò,"62,000"
+2,Cơm sườn sốt chua ngọt,"67,000"
+3,Cơm Gà Xối Mỡ + 01 Coca Cola,"83,000"
+4,Cơm Sườn Chua Ngọt + 1 Coca Cola,"83,000"
+5,Cơm Rang Dưa Bò + 1 Coca Cola,"83,000"

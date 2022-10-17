@@ -1,0 +1,10 @@
+,Food,Price
+0,Cháo ếch có đôi có cặp siêu ngon,"81,000"
+1,Cơm ếch...rau luộc,"60,000"
+2,Cháo ếch cô đơn siêu ngon,"62,000"
+3,Combo cháo ếch Hạ Vỹ 1 con siêu to + 1 nước sâm,"75,000"
+4,Cháo ếch cuộc tình tay 3 siêu ngon,"110,000"
+5,Combo cháo ếch Singapore Hạ Vỹ 2 con siêu to + 1 nước sâm,"100,000"
+6,Combo cháo ếch Hạ Vỹ 3 con siêu to + 1 nước sâm,"120,000"
+7,Cháo thêm,"10,000"
+8,Sốt thêm,"8,000"

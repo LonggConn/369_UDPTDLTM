@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún riêu Cua đặt biệt,"50,000"
+1,Bún riêu cua ốc ,"37,000"
+2,Bún riêu cua cầu suối ,"30,000"
+3,Bún quậy đặc biệt ,"55,000"
+4,Bún riêu ốc ,"30,000"
+5,Bún riêu cua - giò,"45,000"
+6,Bún quậy chả tôm +  Mực,"39,000"
+7,Bún quậy chả cá + mực ,"39,000"
+8,Bún quậy chả cá - chả tôm ,"35,000"
+9,Bún quậy chả cá ,"28,000"
+10,Bún quậy chả tôm ,"28,000"

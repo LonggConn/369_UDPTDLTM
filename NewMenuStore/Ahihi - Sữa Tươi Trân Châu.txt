@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà Vải,"30,000"
+1,Thêm trân châu ,"5,000"
+2,Trà sữa truyền thống ,"30,000"
+3,Trà OLong milk foam ,"30,000"
+4,Trà Lài  milk foam ,"30,000"
+5,Sữa tươi trân châu đường nâu hoàng kim,"25,000"
+6,Sữa tươi trân châu đường nâu socola,"30,000"
+7,Sữa tươi trân châu đường nâu trà xanh,"30,000"
+8,Sữa tươi trân châu đường nâu hoa đậu biếc,"30,000"
+9,Sữa tươi Trân châu hoàng kim ,"35,000"
+10,Cofee đen đá,"20,000"
+11,Cofee Sữa,"25,000"

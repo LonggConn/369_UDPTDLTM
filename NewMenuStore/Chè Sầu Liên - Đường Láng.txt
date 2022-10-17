@@ -1,0 +1,13 @@
+,Food,Price
+0,Chè Thái Sầu Riêng,"30,000"
+1,Chè Dừa Dầm ,"25,000"
+2,Chè Thái Bưởi,"30,000"
+3,Chè Bưởi An Giang,"25,000"
+4,Chè Dừa Non,"20,000"
+5,Chè Thái Không Sầu,"28,000"
+6,Pho Mai Sâm Dứa,"25,000"
+7,Caramen Cốt Dừa,"15,000"
+8,Tàu Hũ Sầu Riêng,"25,000"
+9,Chè   Thốt Nốt,"30,000"
+10,Chè Khúc Bạch,"30,000"
+11,Tàu Hũ Nếp,"20,000"

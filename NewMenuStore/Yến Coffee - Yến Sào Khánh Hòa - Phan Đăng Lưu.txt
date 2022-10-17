@@ -1,0 +1,4 @@
+,Food,Price
+0,Nước yến hầm thuốc bắc - 75ml,"35,000"
+1,Bồ câu hầm yến nguyên con,"350,000"
+2,Yến chưng hầm thuốc bắc,"100,000"

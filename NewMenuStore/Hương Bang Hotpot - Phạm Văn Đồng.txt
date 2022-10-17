@@ -1,0 +1,11 @@
+,Food,Price
+0,Combo Hương Bang,"179,000"
+1,Gà rán Hương Bang,"30,000"
+2,Cánh gà Hương Bang,"54,000"
+3,Viên chiên thập cẩm,"66,000"
+4,Mirinda Kem,"15,000"
+5,Trà sữa Truyền thống,"24,000"
+6,Chanh xí muội Huong Bang ,"30,000"
+7,Pepsi ,"15,000"
+8,Trà sữa Thái Xanh,"24,000"
+9,Chanh xí muội Hương Bang,"24,000"

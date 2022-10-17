@@ -1,0 +1,6 @@
+,Food,Price
+0,Gà nướng mật ong ,"170,000"
+1,Chân giò heo rút xương nướng - lớn,"400,000"
+2,Vịt quay lá móc mật,"260,000"
+3,Chân giò heo rút xương nướng - nhỏ,"360,000"
+4,Gà nướng muối ớt ,"170,000"

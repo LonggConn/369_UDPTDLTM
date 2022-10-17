@@ -1,0 +1,4 @@
+,Food,Price
+0,Cà Phê Nâu Xay Lớn,"20,000"
+1,Cà Phê Sữa Đá Đặc Biệt,"25,000"
+2,Cà Phê Đen Xay Lớn,"20,000"

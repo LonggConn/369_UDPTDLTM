@@ -1,0 +1,13 @@
+,Food,Price
+0,Sashimi cá hồi nauy tươi ngon (5 miếng) - đầy đủ nước chấm,"99,000"
+1,"Sashimi set thập cẩm - 100 gr cá hồi, 5 sò đỏ, 5 bạch tuộc, 1/2 thanh cá trích","350,000"
+2,Sashimi cá hồi cá trích tươi ngon- Đầy đủ nước chấm,"99,000"
+3,"Sashimi set 7 - 200 gr cá hồi, 1/2 thanh cá trích, 5 miếng bạch tuộc","350,000"
+4,"Sashimi set 5 - 200 gr cá hồi, 6 miếng sò đỏ, 1/2 thanh cá trích","370,000"
+5,Sashimi set 1 - 300 gr cá hồi - 1 thanh cá trích,"450,000"
+6,"Sashimi set 2- 300 gr cá hồi, 10 miếng sò đỏ, 5 miếng bạch tuộc","550,000"
+7,"Sashimi set 3 - 200 gr cá hồi, 10 miếng sò đỏ, 10 miếng bạch tuộc","600,000"
+8,Set sashimi đặc biệt thập cẩm size lớn,"600,000"
+9,"Sashimi set 4 - 200 gr cá hồi, 1 thanh cá trích","370,000"
+10,"Sashimi set 8 - 200 gr cá hồi, 1 thanh cá trích, 5 miếng bạch tuộc","420,000"
+11,"Sashimi set 6- 200 gr cá hồi, 10 miếng sò đỏ, 1 thanh cá trích","550,000"

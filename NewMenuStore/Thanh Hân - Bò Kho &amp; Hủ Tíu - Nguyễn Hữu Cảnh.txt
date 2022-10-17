@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún riêu cua đồng,"35,000"
+1,Bánh canh sườn,"35,000"
+2,Hủ tiếu xương,"35,000"
+3,Hủ tiếu bò kho,"40,000"
+4,Hủ tiếu mì xương,"35,000"
+5,Bánh mì bò kho,"40,000"
+6,Bánh canh giò,"35,000"
+7,Hủ tiếu giò,"35,000"
+8,Hủ tiếu mì giò,"35,000"

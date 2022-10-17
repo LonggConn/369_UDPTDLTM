@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún hến,"13,000"
+1,Cơm hến,"13,000"
+2,Mì hến,"13,000"
+3,Bánh nậm,"30,000"
+4,Khay bánh bèo nhỏ,"30,000"
+5,Bánh lọc,"30,000"
+6,Cháo hến,"13,000"
+7,Khay bánh bèo lớn,"60,000"

@@ -1,0 +1,18 @@
+,Food,Price
+0,Coca - Cola,1
+1,Bánh Mì Đặc Biệt,"59,000"
+2,Bánh Bao,"30,000"
+3,Chả Lụa Đặc Biệt (0.5kg),"135,000"
+4,Chà Bông Đặc Biệt (0.5kg),"295,000"
+5,Bơ Tươi 200gr,"60,000"
+6,Chả Chiên Đặc Biệt (0.5kg),"135,000"
+7,Dăm Bông Vai Vuông (0.5kg),"135,000"
+8,Bơ Tươi (0.5kg),"135,000"
+9,Giò Thủ Trắng (0.5kg),"135,000"
+10,Dăm Bông Vai Tròn (0.5kg),"135,000"
+11,Xúc Xích Tỏi (0.5kg),"135,000"
+12,Giò Thủ Đỏ (0.5kg),"135,000"
+13,Xúc Xích Tỏi Xông Khói (0.5kg),"135,000"
+14,"Thịt Heo Xá Xíu (0,5kg)","250,000"
+15,"Pate Huynh Hoa (0,5kg)","135,000"
+16,Cơm Cháy 250gr,"50,000"

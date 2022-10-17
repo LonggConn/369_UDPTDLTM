@@ -1,0 +1,7 @@
+,Food,Price
+0,Gà nướng muối ớt + bánh bao,"195,000"
+1,Bánh   Bao,"20,000"
+2,Gà phủ ớt + bánh bao,"195,000"
+3,Nước chấm    Ớt đỏ,"55,000"
+4,Gà nướng mật ong + bánh bao,"195,000"
+5,Gà nướng sốt mắm nhĩ+ bánh bao,"195,000"

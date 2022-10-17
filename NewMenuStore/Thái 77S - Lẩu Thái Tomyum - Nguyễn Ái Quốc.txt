@@ -1,0 +1,7 @@
+,Food,Price
+0,CỐT LẨU THÁI TOMYUM,"120,000"
+1,CỐT LẨU TRƯỜNG SINH,"110,000"
+2,SỐT CHẤM HOA TIÊU ĐỎ  400ml/chai,"95,000"
+3,CỐT LẨU NẤM BỔ DƯỠNG,"120,000"
+4,CỐT LẨU TỨ XUYÊN,"120,000"
+5,SỐT CHẤM HOA TIÊU XANH 400ml/chai,"85,000"

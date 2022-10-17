@@ -1,0 +1,13 @@
+,Food,Price
+0,Hủ tiếu Nam Vang khô,"55,000"
+1,Hủ tiếu Nam Vang nước,"55,000"
+2,Hủ tiếu Nam Vang hải sản,"55,000"
+3,"Hủ tiếu nam vang nước,xí quách","60,000"
+4,Hủ tiếu mì tươi thập cẩm,"55,000"
+5,Mì nam vang nước,"55,000"
+6,Hủ tiếu mì xí quách,"60,000"
+7,Mì tươi thập cẩm,"55,000"
+8,Hủ tiếu bò viên,"55,000"
+9,"Hủ Tiếu Nam Vang Khô, Xí Quách","60,000"
+10,Nước Mát,"10,000"
+11,Mì Nam Vang Khô,"55,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún Bò Đặc Biệt ( tái nạm chả),"60,000"
+1,"Bún Bò Hoa ( nạm , chả ) ","50,000"
+2,Chén Tái Hột Gà,"25,000"
+3,Hộp Nhựa,"5,000"
+4,Bò Kho/ Hủ Tiếu/ Mì Tươi / Bánh  Mì,"50,000"
+5,Bún Mắm,"60,000"
+6,Chả Lá Chuối,"55,000"
+7,Chả Lá Đặc Biệt,"120,000"

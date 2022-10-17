@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm tấm sườn bì trứng,"45,000"
+1,Cơm tấm sườn bì,"40,000"
+2,Trà Tắc Xí muội ,"20,000"

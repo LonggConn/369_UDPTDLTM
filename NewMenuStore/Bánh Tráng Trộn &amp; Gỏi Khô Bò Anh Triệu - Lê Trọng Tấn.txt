@@ -1,0 +1,8 @@
+,Food,Price
+0,Gỏi khô bò Anh Triệu,"30,000"
+1,Bánh tráng trộn Anh Triệu,"30,000"
+2,Sting chai,"18,000"
+3,Ôlong chai,"18,000"
+4,7 up chai,"15,000"
+5,Coca chai,"15,000"
+6,Nước suối,"10,000"

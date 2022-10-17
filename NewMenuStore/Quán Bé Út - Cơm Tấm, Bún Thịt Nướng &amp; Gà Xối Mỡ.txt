@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Tấm Sườn Trứng ,"40,000"
+1,Cơm Tấm Sườn ,"35,000"
+2,Bún thịt nướng,"35,000"
+3,Cơm Tấm Ba Rọi Nướng+Trứng ,"40,000"
+4,Cơm Tấm Ba Rọi Nướng ,"35,000"
+5,Nước mía siêu sạch ,"15,000"
+6,Trà Sữa ,"30,000"
+7,Cơm tấm sườn chả ,"40,000"
+8,Cơm tấm sườn bì chả ,"45,000"
+9,Trà tắc ,"15,000"
+10,Cơm tấm sườn bì ,"40,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Khô gà lá chanh ít cay 300g,"160,000"
+1,Khô gà lá chanh ít cay 500g,"250,000"
+2,Khô gà lá chanh ít cay 250g,"135,000"

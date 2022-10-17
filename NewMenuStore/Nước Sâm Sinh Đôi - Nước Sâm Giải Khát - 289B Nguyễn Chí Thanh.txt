@@ -1,0 +1,9 @@
+,Food,Price
+0,1 Chai Sâm 24 vị ,"20,000"
+1,1 Chai Sâm rong biển ,"15,000"
+2,1 Chai Sâm bông cúc ,"15,000"
+3,1 Chai Sâm mía lau ,"15,000"
+4,Combo 10 Chai Rong Biển,"139,000"
+5,Combo 10 Chai Bông Cúc ,"139,000"
+6,Combo 10 Chai Mía Lau,"139,000"
+7,Combo 10 Chai 24 Vị,"179,000"

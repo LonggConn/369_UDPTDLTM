@@ -1,0 +1,10 @@
+,Food,Price
+0,Soup cua,"10,000"
+1,Hamburger thập cẩm,"30,000"
+2,Nui hoành thánh,"10,000"
+3,Hamburger bò trứng,"20,000"
+4,Hamburger bò,"15,000"
+5,Hamburger trứng,"10,000"
+6,Mì thịt,"10,000"
+7,Hamburger xúc xích trứng,"20,000"
+8,Hamburger xúc xích,"15,000"

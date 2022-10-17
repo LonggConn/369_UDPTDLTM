@@ -1,0 +1,4 @@
+,Food,Price
+0,"Bánh đa cua, chả lá lốt","50,000"
+1,Bún cá chả lá lốt,"50,000"
+2,Bún riêu cua chả lá lốt,"50,000"

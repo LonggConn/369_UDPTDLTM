@@ -1,0 +1,4 @@
+,Food,Price
+0,Khuôn đậu sốt cà ,"40,000"
+1,Canh chua rong biển ,"45,000"
+2,Căn xơ kho sả ,"80,000"

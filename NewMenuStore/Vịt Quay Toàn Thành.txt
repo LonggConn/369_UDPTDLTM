@@ -1,0 +1,10 @@
+,Food,Price
+0,Vịt Quay sốt tiêu đen (1/2 con),"230,000"
+1,Vịt quay truyền thống (1/2 con),"220,000"
+2,Vịt quay truyền thống (1 con),"440,000"
+3,Bánh Bao Chiên,"30,000"
+4,300gr Heo Quya Da Giòn,"135,000"
+5,Bánh Bao Hấp,"25,000"
+6,500gr  Heo Quay Da Giòn,"220,000"
+7,Vịt Quay Sốt Tiêu ,"460,000"
+8,Heo quay da giòn (kg),"440,000"

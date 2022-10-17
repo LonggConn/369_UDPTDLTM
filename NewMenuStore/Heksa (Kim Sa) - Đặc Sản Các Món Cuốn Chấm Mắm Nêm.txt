@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh tráng cuốn thịt heo quay,"55,000"
+1,Bánh tráng cuốn thịt heo luộc,"50,000"
+2,Bánh tráng cuốn thịt bê thui,"60,000"
+3,Bánh Tráng Cuốn Heo Quay + Luộc,"55,000"
+4,Lẩu Bắp Bò Nhúng Cao Sản,"90,000"
+5,Bún mắm heo quay,"28,000"
+6,Bún mắm nêm đặc biệt 1,"30,000"
+7,Bún mắm nêm bê thui,"30,000"
+8,Bánh ướt Heo quay(Nước Mắm Chua Ngọt),"55,000"
+9,Bánh ướt thịt heo luộc (chấm nước mắm chua ngọt),"50,000"

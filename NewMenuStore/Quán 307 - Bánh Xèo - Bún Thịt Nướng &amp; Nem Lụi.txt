@@ -1,0 +1,7 @@
+,Food,Price
+0,Combo Bao No 2,"35,000"
+1,Combo Bao No 1,"38,000"
+2,Bánh xèo,"9,000"
+3,Nem lụi,"7,000"
+4,Bún thịt nướng,"27,000"
+5,Bò lá lốt,"12,000"

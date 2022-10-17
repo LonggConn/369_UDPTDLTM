@@ -1,0 +1,13 @@
+,Food,Price
+0,Gà nướng lu,"160,000"
+1,GÀ NƯỚNG MUỐI ỚT,"160,000"
+2,Vịt nướng lá mắc mật,"260,000"
+3,GÀ QUY LÁ MÓC MẬT,"160,000"
+4,VỊT NƯỚNG MUỐI ỚT,"260,000"
+5,Lòng heo nướng sate 1 phần ,"40,000"
+6,Lỗ tai heo 1 cái ,"50,000"
+7,Me gà Nướng sate 1 phần ,"40,000"
+8,Luoi vịt nướng sate 1 phần ,"40,000"
+9,Ma heo nướng muối ớt ( mà trên ma dưới),"140,000"
+10,Gio heo nướng rút xương 1 cái,"300,000"
+11,Heo quay 1kg ,"300,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Cháo sườn Quẩy Ruốc,"35,000"
+1,Cháo Sườn Sụn quẩy ruốc,"40,000"
+2,Cháo sườn Quẩy,"30,000"
+3,Cháo trắng,"25,000"
+4,Cháo Sườn Sụn Quẩy,"35,000"
+5,Cháo sườn Ruốc,"30,000"
+6,Quẩy ăn thêm,"5,000"
+7,Ruốc thịt ăn thêm,"5,000"

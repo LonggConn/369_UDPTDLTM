@@ -1,0 +1,4 @@
+,Food,Price
+0,Gỏi cuốn đặc biệt,"9,000"
+1,Hột vịt lộn,"10,000"
+2,Xôi mặn,"25,000"

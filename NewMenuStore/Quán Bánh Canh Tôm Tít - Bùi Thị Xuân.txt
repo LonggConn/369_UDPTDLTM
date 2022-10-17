@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh canh tôm tít đặc biệt,"55,000"
+1,Bánh canh tôm tít đầy đủ,"45,000"
+2,Trà xanh 0 Độ,"15,000"
+3,Pepsi,"15,000"
+4,Cocacola,"15,000"

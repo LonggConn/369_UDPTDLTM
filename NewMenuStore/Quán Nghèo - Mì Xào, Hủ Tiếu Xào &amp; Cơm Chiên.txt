@@ -1,0 +1,9 @@
+,Food,Price
+0,Mì xào giòn,"55,000"
+1,Hủ tiếu xào,"55,000"
+2,Cơm chiên dương châu,"55,000"
+3,Mì xào mềm,"55,000"
+4,Cơm chiên Hải sản ,"65,000"
+5,Thập Cẩm cơm xào,"55,000"
+6,Cơm chiên Tôm,"65,000"
+7,Cơm chiên Mực,"65,000"

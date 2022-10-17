@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh mỳ thập cẩm,"13,000"
+1,Bánh mỳ chả nướng,"13,000"
+2,Bánh bao hấp loại to Gần 2 Lượng Gấp Đôi Bánh Bình Thường,"13,000"
+3,Bánh mỳ pate ,"13,000"
+4,Bánh Mì Không Đặc Ruột,"3,000"
+5,Bánh mỳ trứng,"13,000"
+6,Bánh mỳ xúc xích Đức Việt,"13,000"
+7,Patee – 300g,"40,000"
+8,Bánh mì bò khô nhà làm,"13,000"
+9,Pate – 500g,"65,000"
+10,Bánh mì gà khô nhà làm,"13,000"
+11,Bánh mì ruốc bông nhà làm,"13,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún chả Hà Nội,"50,000"
+1,Bánh đa cua Hải Phòng,"45,000"
+2,Bún cá dọc mùng,"45,000"
+3,Bún nem cua biển,"50,000"
+4,Bún tôm Hải Phòng,"45,000"
+5,Bún sườn heo,"45,000"
+6,Nem thêm,"25,000"

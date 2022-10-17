@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm Gà Má Đùi,"37,000"
+1,Cơm Thêm,"5,000"
+2,Cơm Gà Góc Tư,"47,000"
+3,Cơm Gà Đùi Nhỏ,"37,000"
+4,Cơm Chiên Trứng,"30,000"

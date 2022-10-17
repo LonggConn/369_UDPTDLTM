@@ -1,0 +1,9 @@
+,Food,Price
+0,1 Bạch Tuộc Lớn + 1 Phô Mai Nhỏ,"85,000"
+1,Takoyaki Bạch Tuộc ( Lớn) Takoyaki Bạch Tuộc (Nhỏ),"85,000"
+2,(hộp nhỏ) Đặc Biệt,"35,000"
+3,(hộp nhỏ) Bạch Tuộc,"30,000"
+4,(hộp nhỏ) Phô Mai,"30,000"
+5,(hộp lớn) Bạch Tuộc,"60,000"
+6,(hợp lớn) Đặc Biệt,"70,000"
+7,(hộp lớn) Phô Mai,"60,000"

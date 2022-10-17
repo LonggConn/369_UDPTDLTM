@@ -1,0 +1,12 @@
+,Food,Price
+0,Cháo tự chọn - lớn,"67,000"
+1,Cháo thập cẩm - lớn,"67,000"
+2,Bánh cháo quẩy - 1 cái,"6,000"
+3,Cháo tự chọn - nhỏ,"47,000"
+4,Cháo thập cẩm - nhỏ,"47,000"
+5,Trứng bắc thảo,"12,000"
+6,Bánh Cháo Quẩy - nửa cái,"3,000"
+7,Cháo hải sản - lớn,"67,000"
+8,Cháo hải sản - nhỏ,"47,000"
+9,Combo Cháo Thập Cẩm lớn + Coca Cola,"74,000"
+10,Combo Cháo Thập Cẩm lớn + Sprite,"74,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,6 Bánh + Cá Bào + Sốt Takoyaki,"35,000"
+1,4 Bánh + Cá Bào + Sốt Takoyaki,"25,000"
+2,4 Bánh + Rong Nho + Sốt Đặc Biệt,"30,000"
+3,6 Bánh + Rong Nho + Sốt Đặc Biệt,"40,000"
+4,6 Bánh + Phomai + Sốt Phomai,"40,000"
+5,4 Bánh + Phomai + Sốt Phomai,"30,000"
+6,Bánh cá Taiyaki vị Phomai xúc xích,"9,000"
+7,Bánh cá  Taiyaki thanh cua,"9,000"
+8,Bánh cá Taiyaki Socola,"9,000"
+9,Bánh Cá Taiyaki Matcha,"9,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún Hải Sản Đặc Biệt,"55,000"
+1,Bún tomyum bò ba chỉ cuốn nấm,"40,000"
+2,Bún tôm bề bề,"45,000"
+3,Bún cá,"35,000"
+4,Bún Bề Bề,"45,000"
+5,Bún siêu chất,"70,000"
+6,Bún cá bề bề,"45,000"
+7,Bún cá - Lớn,"50,000"
+8,Bún tôm,"45,000"
+9,Tôm bề bề - Lớn,"60,000"
+10,Bún bề bề - Lớn,"60,000"

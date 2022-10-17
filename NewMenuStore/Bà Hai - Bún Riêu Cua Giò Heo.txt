@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún riêu cua thập cẩm,"37,000"
+1,Bún riêu cua đặc biệt (Giò + Thập cẩm),"47,000"
+2,Huyết Thêm,"10,000"
+3,Tàu Hủ Thêm,"10,000"
+4,Sâm lạnh,"10,000"

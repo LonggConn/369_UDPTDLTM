@@ -1,0 +1,10 @@
+,Food,Price
+0,Chân gà ủ muôi rút xương,"85,000"
+1,Gà ủ muối nửa con ,"100,000"
+2,Chân gà rút xương ,"90,000"
+3,Vú heo uop sẵn ,"170,000"
+4,Mực 1 nắng,"115,000"
+5,Râu bạch tuộc,"110,000"
+6,Bắp giò heo rút xương,"145,000"
+7,Trứng gà non,"175,000"
+8,Vó  heo rút xương,"120,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Gà ủ muối nguyên con,"320,000"
+1,Chân gà rút xương ủ muối,"145,000"

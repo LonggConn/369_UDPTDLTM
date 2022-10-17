@@ -1,0 +1,6 @@
+,Food,Price
+0,CHÁO THỊT HEO,"20,000"
+1,CHÁO THẬP CẨM,"20,000"
+2,Gói Cháo Trắng,"8,000"
+3,CHÁO CUA ĐỒNG,"20,000"
+4,Cháo Tươi Doremi,"13,000"

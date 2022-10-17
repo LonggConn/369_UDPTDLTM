@@ -1,0 +1,10 @@
+,Food,Price
+0,Salad Trái Cây ,"120,000"
+1,Sườn nướng Hàn Quốc (4 người),"520,000"
+2,Sườn nướng kiểu Mỹ (2 người),"360,000"
+3,Salad trái cây,"80,000"
+4,Giò heo Tứ Xuyên (4 người),"495,000"
+5,Salad cải kale ,"120,000"
+6,Gà nướng ngũ vị (4 người),"350,000"
+7,Sườn nướng Hàn Quốc (2 người),"360,000"
+8,Sườn nướng kiểu Mỹ (4 người),"520,000"

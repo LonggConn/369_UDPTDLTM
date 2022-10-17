@@ -1,0 +1,7 @@
+,Food,Price
+0,Ram tôm đất Bình Định,"110,000"
+1,Chả heo,"110,000"
+2,Chả giò chay,"55,000"
+3,Nước mắm lọc nguyên chất,"100,000"
+4,Chả bò gân,"120,000"
+5,Mắm cái cá cơm,"60,000"

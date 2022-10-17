@@ -1,0 +1,9 @@
+,Food,Price
+0,Combo 2,"30,000"
+1,Rau má đậu xanh sữa dừa,"25,000"
+2,Combo 1,"28,000"
+3,Rau má sữa dừa,"20,000"
+4,Rau má khoai môn sữa dừa,"25,000"
+5,Rau má đậu xanh MACCHIATO,"30,000"
+6,Combo 3,"35,000"
+7,Rau má nguyên chất,"17,000"

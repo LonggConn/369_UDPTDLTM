@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh Mì Bò Kho,"40,000"
+1,Bánh Mì Không,"7,000"

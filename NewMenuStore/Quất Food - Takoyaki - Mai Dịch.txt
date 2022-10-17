@@ -1,0 +1,5 @@
+,Food,Price
+0,Takoyaki kem trứng set 6viên,"35,000"
+1,Takoyaki truyền thống set 6viên,"35,000"
+2,Takoyaki mè rang rong vụn set 6viên,"35,000"
+3,Takoyaki rong tươi set 6viên,"35,000"

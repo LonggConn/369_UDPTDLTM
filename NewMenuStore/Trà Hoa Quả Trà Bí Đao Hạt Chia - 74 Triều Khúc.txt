@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà bí đao hạt chia Size M,"22,500"
+1,Trà Bí Đao Hạt Chia Size L,"27,000"
+2,Trà Đào Thạch Size L,"27,000"
+3,Trà Măng Cụt Size L,"27,000"
+4,Trà Đào Thạch Size M,"22,500"
+5,Trà  Măng Cụt Size M,"22,500"
+6,Trà Sữa Đào Pudding Size M,"22,500"
+7,Trà Dưa Lưới size M,"22,500"
+8,Trà Táo Pinky Size M,"22,500"
+9,Trà dưa lưới Size L,"27,000"
+10,Trà Táo Pinky Size L,"27,000"
+11,Trà Sữa Đào Pudding Size L,"27,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Đặc Biệt - 1 SIZE LY 700ML F95,"28,500"
+1,Dừa Tắc - 1 SIZE LY 700ML F95,"23,750"
+2,Dừa Lạnh - Chai 350ml,"23,750"
+3,Dừa Đác - 1 SIZE LY 700ML F95 ,"26,600"
+4,Dừa Tắc - Chai 350ml,"28,500"
+5,Đác Rim Thơm,"10,000"
+6,Đác Rim Chanh Dây,"10,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm Gà Mắm,"32,000"
+1,Cơm Sườn Rang Tiêu,"32,000"
+2,Cơm Thập Cẩm Gà Rán,"32,000"
+3,Cơm Rang Thập Cẩm Thịt Kho Tàu,"32,000"
+4,Cơm Rang Gà Rán,"32,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Cháo lòng,"30,000"
+1,Dĩa lòng,"50,000"

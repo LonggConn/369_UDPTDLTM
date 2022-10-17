@@ -1,0 +1,4 @@
+,Food,Price
+0,Gà Nướng Muối Ớt,"170,000"
+1,Gà Nướng Muối Ớt Không Cay,"170,000"
+2,Chân Gà Tươi,"60,000"

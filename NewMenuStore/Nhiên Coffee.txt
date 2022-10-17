@@ -1,0 +1,10 @@
+,Food,Price
+0,Trà Chanh Sả,"25,000"
+1,Sữa Chua Đánh Nếp Cẩm,"30,000"
+2,Sữa Chua Đánh Chanh Leo,"30,000"
+3,Sữa Chua Đác Chanh Leo,"35,000"
+4,Sữa Chua Đác Dứa,"35,000"
+5,Quất Xí Muội,"30,000"
+6,Sữa Chua Đánh Đá,"25,000"
+7,Trà Quất,"25,000"
+8,Sữa Chua Đánh Dâu Mứt,"30,000"

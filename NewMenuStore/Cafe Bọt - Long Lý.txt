@@ -1,0 +1,10 @@
+,Food,Price
+0,Cafe Bọt,"15,000"
+1,Milo Sủi Bọt,"20,000"
+2,Cacao Sủi Bọt,"20,000"
+3,Cafe Nâu,"15,000"
+4,Cafe Đen,"15,000"
+5,Cà Phê Muối,"21,000"
+6,Một Lon Coca Có Đá Lạnh,"15,000"
+7,Một Lon Bò Húc Lạnh Có Đá,"17,000"
+8,Một Chai Không Độ,"12,000"

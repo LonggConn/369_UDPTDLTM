@@ -1,0 +1,10 @@
+,Food,Price
+0,Khoai lang,"20,000"
+1,Khoai lang - điều,"32,000"
+2,Khoai lang - đậu xanh,"30,000"
+3,Điều - than tre,"30,000"
+4,Hạt điều,"25,000"
+5,Đậu xanh,"18,000"
+6,Đậu xanh - điều,"32,000"
+7,Kombucha Táo,"45,000"
+8,Sữa Chua Uống Nguyên Vị,"30,000"

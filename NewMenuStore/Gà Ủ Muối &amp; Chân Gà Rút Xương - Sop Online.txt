@@ -1,0 +1,7 @@
+,Food,Price
+0,Chân Gà Rút Xương Ngâm Sả Ớt,"120,000"
+1,Gà Ủ Muối Hun Khói Nửa Con,"120,000"
+2,Chân Gà Ngâm Sả Ớt,"100,000"
+3,Gà Ủ Muối Hun Khói Nguyên Con,"240,000"
+4,Tai Heo Ngâm Mắm Tỏi,"80,000"
+5,Cơm Cháy Sài Gòn,"130,000"

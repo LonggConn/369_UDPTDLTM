@@ -1,0 +1,8 @@
+,Food,Price
+0,Phơi sương muối tắc,"17,000"
+1,Phơi sương tóp mỡ,"22,000"
+2,Hành phi muối nhuyễn,"17,000"
+3,Phơi sương sate tôm,"17,000"
+4,Phơi sương sốt me,"22,000"
+5,Cơm cháy siêu chà bông (cay vừa),"85,000"
+6,Cơm cháy siêu chà bông (không cay),"85,000"

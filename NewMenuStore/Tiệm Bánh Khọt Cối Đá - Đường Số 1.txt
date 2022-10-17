@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh khọt tôm tươi,"111,000"
+1,Bánh khọt trứng cút,"74,000"
+2,Đậu hũ trân châu đường đen,"44,000"
+3,Bánh khọt thập cẩm hải sản,"149,000"
+4,Bánh khọt sò điệp,"99,000"
+5,Bánh khọt mực,"99,000"
+6,Bánh Khọt Thịt Heo,"99,000"
+7,Don,"86,000"
+8,Đặc biệt bánh khọt tôm càng,"186,000"
+9,Bánh khọt thanh cua,"99,000"
+10,Bánh Khọt Hàu Sữa,"99,000"
+11,Bánh Khọt Trứng Muối Cjaf Bông,"99,000"

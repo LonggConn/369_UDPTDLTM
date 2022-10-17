@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Mỳ Chả Nướng,"15,000"
+1,Bánh Mỳ Xúc Xích,"15,000"
+2,Bánh Mỳ Ruốc Bông,"15,000"

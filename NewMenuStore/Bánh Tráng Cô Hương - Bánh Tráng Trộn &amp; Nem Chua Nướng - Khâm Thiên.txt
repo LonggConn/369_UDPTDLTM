@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh tráng cuốn sốt bơ,"23,000"
+1,Bánh tráng nướng phô mai ,"28,000"
+2,Bánh tráng trộn ,"23,000"
+3,Bánh tráng cuốn sốt Me,"23,000"
+4,Bánh tráng cuốn mix sốt ,"25,000"
+5,Bánh tráng cuốn sốt mayonnaise,"23,000"
+6,Bánh tráng trộn bơ,"27,000"
+7,Heo khô cháy tỏi,"30,000"

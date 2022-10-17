@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm lam ,"17,000"
+1,Thịt xiên,"16,000"
+2,Gà tộc nướng,"270,000"
+3,Trà Gừng,"110,000"
+4,Mật Ong Hoa Cà Phê Nguyên Chất ,"150,000"
+5,Mật Ong Rừng Tự Nhiên Nguyên Chất,"200,000"

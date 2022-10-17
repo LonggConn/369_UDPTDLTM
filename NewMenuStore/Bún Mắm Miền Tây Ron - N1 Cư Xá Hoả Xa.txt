@@ -1,0 +1,5 @@
+,Food,Price
+0,500g Bánh Canh Bột Gạo sắc,"15,000"
+1,1kg bánh canh bột gạo sắc,"29,000"
+2,Hủ tiếu tươi sa đéc,"35,000"
+3,hủ tiếu tươi sa đéc 3kg,"100,000"

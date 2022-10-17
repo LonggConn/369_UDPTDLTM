@@ -1,0 +1,8 @@
+,Food,Price
+0,Lẩu gà tiềm ớt hiểm,"159,000"
+1,Lẩu hải sản,"259,000"
+2,Lẩu cá lạp xạp,"259,000"
+3,Lẩu đuôi bò ,"259,000"
+4,Lẩu vịt nấu chao,"199,000"
+5,Lẩu cua đồng,"159,000"
+6,Lẩu cá khoai,"159,000"

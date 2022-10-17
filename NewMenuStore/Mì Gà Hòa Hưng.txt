@@ -1,0 +1,6 @@
+,Food,Price
+0,Mì Gà Xé,"55,000"
+1,Mì Gà Đặc Biệt,"65,000"
+2,Mì Trứng Non + Lòng,"55,000"
+3,Đùi Gà Thêm,"25,000"
+4,Cánh Gà Thêm,"20,000"

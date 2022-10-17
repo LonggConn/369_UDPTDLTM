@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh mỳ lạt,"3,000"
+1,Bánh mỳ thịt,"20,000"
+2,Hamburger,"20,000"
+3,sandwich,"22,000"
+4,Cua phô mai,"12,000"
+5,Cha lua thịt  heo,"220,000"
+6,Bánh mỳ thổ nhĩ kỳ,"27,000"
+7,Sandwich ,"22,000"
+8,Kẹp chà bông,"15,000"
+9,Bánh ngọt,"15,000"
+10,Xúc xích chà bông,"12,000"
+11,Thịt nguội,"280,000"

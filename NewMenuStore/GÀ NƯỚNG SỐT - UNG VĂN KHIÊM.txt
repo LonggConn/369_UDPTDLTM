@@ -1,0 +1,12 @@
+,Food,Price
+0,Chân gà,"13,000"
+1,Chim cút nướng,"19,000"
+2,Mề Gà,"12,000"
+3,Cánh gà,"19,000"
+4,Đậu bắp,"10,500"
+5,Phao câu,"12,000"
+6,Gà nướng nửa con,"85,000"
+7,Gà Nướng Nguyên Con,"165,000"
+8,Cổ gà,"11,000"
+9,Combo gà nướng sốt Bà Yum ,"190,000"
+10,Heo rừng nướng,"150,000"

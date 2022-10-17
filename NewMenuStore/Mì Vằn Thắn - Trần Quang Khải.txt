@@ -1,0 +1,11 @@
+,Food,Price
+0,Mì Cảo Thập Cẩm,"30,000"
+1,Cảo Rán,"40,000"
+2,MÌ Thập Cẩm,"30,000"
+3,Cơm Rang,"30,000"
+4,Mì Xào,"50,000"
+5,Mì Viên,"30,000"
+6,Cơm Thịt Trắng Kho Tàu,"35,000"
+7,Mì Xá Xíu,"30,000"
+8,Cơm Tôm Rim Mắm Tiêu,"35,000"
+9,Cơm Thịt Nạc Vai Rán,"35,000"

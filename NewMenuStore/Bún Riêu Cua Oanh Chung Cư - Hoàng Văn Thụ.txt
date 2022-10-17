@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún riêu cua ,"32,000"
+1,Bún riêu cua khoanh giò ,"40,000"
+2,Mì riêu cua ,"32,000"
+3,Mì riêu cua khoanh giò ,"40,000"

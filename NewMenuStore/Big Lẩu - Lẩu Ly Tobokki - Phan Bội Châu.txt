@@ -1,0 +1,10 @@
+,Food,Price
+0,Lẩu ly Tobokki,"55,000"
+1,Lẩu ly chả cá,"55,000"
+2, Miến xào bò HQ,"59,000"
+3, Gà rán rắc phô mai,"55,000"
+4, Gà rán sốt gia vị,"55,000"
+5,Mực chiên giòn,"55,000"
+6,Cơm cuộn Mayak,"55,000"
+7, Gà rán nước tương,"55,000"
+8, Gà rán truyền thống,"55,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Gà Ta Bó Xôi Ôm Trứng Non,"240,000"
+1,"Gà Ta Bó Xôi Truyền Thống(Tặng 1 Chai Nước Ngọt)con 1,3kg-1,4kg","189,000"
+2,"Gà Ta Bó Xôi Ôm Chà Bông(TẶNG 1 CHAI NƯỚC NGỌT)CON1,4KG*","209,000"
+3,Trứng non,"60,000"
+4,Gà Ta Luộc (1con),"160,000"
+5,Gà Ủ Muối Hoa Tiêu 1/2con,"95,000"

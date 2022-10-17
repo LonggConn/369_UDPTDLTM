@@ -1,0 +1,2 @@
+,Food,Price
+0,Pepsi 330ml,"12,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Chè thảo mộc truyền thống sữa creamer,"45,000"
+1,Cao quy linh khoai sữa,"50,000"
+2,Chè thảo mộc thập cẩm sữa,"60,000"
+3,Chè thảo mộc truyền thống,"40,000"
+4,Cao quy linh thập cẩm sữa,"65,000"
+5,Cao quy linh đường đen,"35,000"
+6,Cao quy linh với khoai,"45,000"
+7,Chè thảo mộc thập cẩm đường đen,"55,000"
+8,Thạch thảo mộc đường đen với sữa creamer,"35,000"
+9,Cao quy linh thập cẩm đường đen,"60,000"
+10,Cao quy linh với sữa creamer,"40,000"
+11,Thạch thảo mộc đường đen,"30,000"

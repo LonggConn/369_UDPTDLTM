@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Trộn Hàn Quốc,"40,000"
+1,Cơm Trộn Thịt Heo,"40,000"
+2,Cơm Đùi Gà Chiên Mắm Tỏi,"40,000"
+3,Cơm Đùi Gà Sốt BBQ,"40,000"
+4,Cơm Đùi Gà Rán,"40,000"
+5,Miến Trộn Hàn Quốc,"45,000"
+6,Coca-Cola,"13,000"
+7,Fanta,"13,000"
+8,Pepsi,"13,000"

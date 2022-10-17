@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh Tráng Sốt Mix,"25,000"
+1,BT Sốt Me Cay,"20,000"
+2,BT Sốt Tỏi,"20,000"
+3,BT Muối Ớt Tôm,"20,000"
+4,Bánh Tráng Lá Vị Tỏi,"25,000"
+5,BT Sợi Tôm Hành,"18,000"

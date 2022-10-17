@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm ba chỉ rang cháy cạnh,"55,000"
+1,Cơm đậu nhồi thịt sốt cà chua,"45,000"
+2,Sườn xào chua ngọt,"55,000"
+3,Cơm cá basa kho tộ ,"55,000"
+4,Cơm gà quay giòn bì,"55,000"
+5,Cơm bò xào cần tỏi,"65,000"
+6,Cơm sườn cháy tỏi,"55,000"
+7,Cơm chả cá thu sốt,"55,000"
+8,Cơm tôm rim tiêu,"65,000"
+9,Cơm thịt kho tàu,"55,000"
+10,Cơm tôm sốt cà chua,"65,000"
+11,Cơm cá trắm kho,"55,000"

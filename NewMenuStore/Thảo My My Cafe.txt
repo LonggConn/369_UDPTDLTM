@@ -1,0 +1,10 @@
+,Food,Price
+0,Bạc Sỉu,"15,000"
+1,Cafe Nâu Sài Gòn,"15,000"
+2,Nước Chanh Ô Mai,"15,000"
+3,Sữa Chua Đánh Đá,"15,000"
+4,Sữa Chua Chanh Leo,"20,000"
+5,Cacao Đá,"15,000"
+6,Cafe Đen Sài Gòn,"15,000"
+7,Trà Đào,"15,000"
+8,Trà Chanh,"15,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh tráng chiên 20k,"20,000"
+1,Bánh tráng chiên 30k,"30,000"
+2,Bánh tráng chiên 40k,"40,000"
+3,Bánh tráng chiên 50k,"50,000"
+4,Bánh tráng chiên 60k,"60,000"
+5,Bánh tráng chiên 80k,"80,000"
+6,Bánh tráng chiên 100k,"100,000"

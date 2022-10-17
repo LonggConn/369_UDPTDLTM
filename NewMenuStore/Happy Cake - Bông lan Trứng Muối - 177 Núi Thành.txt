@@ -1,0 +1,10 @@
+,Food,Price
+0,Bông lan trứng muối sinh nhật 16cm ( HIỆN TẠI TIỆM HẾT BÒ  KHÔ CHO NÊN BÁNH SẼ KO CÓ BÒ KHÔ NHƯ THƯỜNG LỆ ) ,"140,000"
+1,Bông lan trứng muối hộp chữ nhật nhỏ,"65,000"
+2,Bông lan trứng muối sinh nhật 20cm ( HIỆN TẠI TIỆM HẾT BÒ KHÔ CHO NÊN BÁNH SẼ KO CÓ BÒ KHÔ NHƯ THƯỜNG LỆ ),"190,000"
+3,Nến số  5000/số,"5,000"
+4,Bông lan trứng muối 16cm ( BÁNH ĂN ),"140,000"
+5,Bông lan ruốt gà cay,"50,000"
+6,Bông lan trứng muối  20cm ( BÁNH ĂN ),"190,000"
+7,Bánh mỳ nhân phô mai,"60,000"
+8,Su kem,"65,000"

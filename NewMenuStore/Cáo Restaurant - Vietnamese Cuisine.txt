@@ -1,0 +1,12 @@
+,Food,Price
+0,Cá Đồng Kho Khế,"80,000"
+1,Củ Quả Kho Quyẹt,"60,000"
+2,Canh Chua Dưa Bò,"45,000"
+3,Canh Ngao Nấu Chua,"40,000"
+4,Đậu Non Sốt Thịt Băm,"70,000"
+5,Chả Ram Tôm Đất,"60,000"
+6,Ba Chỉ Luộc Chấm Mắm Tép,"80,000"
+7,Combo Lẩu Ếch Măng Cay,"390,000"
+8,Tai Cuốn Lưỡi Heo,"150,000"
+9,Cá Rán Giòn,"80,000"
+10,Lẩu Gà Ngô Nấm,"390,000"

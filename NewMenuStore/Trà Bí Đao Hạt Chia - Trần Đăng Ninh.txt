@@ -1,0 +1,4 @@
+,Food,Price
+0,Trà bí đao Full Topping Thạch Hạt Chia,"10,000"
+1,Combo Mua 4 Tặng 1 Trà Bí Đao Full Topping Thạch +Hạt Chia,"80,000"
+2,Trân Châu 3Q Giòn Dai,"7,000"

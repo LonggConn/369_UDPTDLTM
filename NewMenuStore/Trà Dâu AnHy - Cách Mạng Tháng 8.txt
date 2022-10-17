@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh tráng tóp mỡ,"22,000"
+1,Sữa chua dâu tây,"30,000"
+2,Sữa chua dâu tằm,"30,000"
+3,Trà dâu tươi,"30,000"
+4,Trà dâu tằm,"30,000"
+5,Trà Nhãn ủ lạnh,"35,000"
+6,Trà Đào ủ lạnh,"35,000"

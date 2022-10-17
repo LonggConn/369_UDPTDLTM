@@ -1,0 +1,12 @@
+,Food,Price
+0,Thốt nốt dừa sáp,"38,250"
+1,Chè đậu xanh thốt nốt,"30,000"
+2,Thốt nốt riêm sữa,"30,000"
+3,"Chè hạt sen, nha đam , thốt nốt","30,000"
+4,Thốt nốt sữa tươi,"30,000"
+5,"Hạt chia , mũ chôm , thốt nốt","30,000"
+6,Cà Na đập muối ớt,"30,000"
+7,Thốt nốt tươi,"30,000"
+8,Nước thốt nốt,"25,000"
+9,Bánh bò thốt nốt,"20,000"
+10,Đường thốt nốt nguyên chất,"100,000"

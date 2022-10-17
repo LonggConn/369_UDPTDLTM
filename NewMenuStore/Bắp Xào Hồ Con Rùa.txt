@@ -1,0 +1,4 @@
+,Food,Price
+0,Bắp xào vừa,"35,000"
+1,Bắp xào lớn,"45,000"
+2,Bắp xào nhỏ,"25,000"

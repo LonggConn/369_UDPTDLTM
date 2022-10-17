@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Vàng Thập Cẩm dừa + cadé ,"42,000"
+1,Bánh Vàng Nhân dừa rim ,"37,000"
+2,Bánh Vị Lá Dứa Thập Cẩm dừa + cadé ,"47,000"
+3,Bánh Vàng Dừa + Cadé ( nửa ổ),"27,000"
+4,Bánh Vị Lá Dứa nhân dừa rim,"42,000"
+5,Bánh Vàng Nhân Cadé ,"45,000"
+6,Bánh Vàng Dừa (nửa ổ),"24,000"
+7,Bánh Vị Lá Dứa Nhân cadé ,"50,000"
+8,Vị Lá Dứa Đặc Biệt ( Nhiều Nhân ) ,"65,000"
+9,Vàng Truyền Thống Đặc Biệt ( Nhiều Nhân ) ,"60,000"
+10,Bánh Vị Lá Dứa Nhân Cadé ( Đặc Biệt ),"60,000"
+11,Vàng Truyền Thống Nhân Cadé ( Đặc Biệt ) ,"55,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Lẩu bò dã chiến,"300,000"
+1,Cục nướng lò đất thập cẩm,"300,000"
+2,Gân bò hấp sả,"200,000"
+3,Gân nướng lò đất,"200,000"
+4,Phèo nướng than,"150,000"
+5,Gân bò tiềm thuốc bắc,"250,000"
+6,Bín bò tiềm thuốc bắc,"400,000"

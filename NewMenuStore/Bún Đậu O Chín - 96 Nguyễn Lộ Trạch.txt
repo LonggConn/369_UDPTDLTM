@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún Đậu Mắm Tôm Mẹt Đơn,"27,000"
+1,Bún Đậu Mắm Tôm Mẹt Đôi,"60,000"
+2,COMBO Bún Đậu Mắm Tôm Đặc Biệt + 2 Chai CoCa,"100,000"
+3,Cơm sườn,"25,000"
+4,Cơm chiên đùi gà,"30,000"
+5,Cơm chiên sườn,"25,000"
+6,Cơm đùi gà,"30,000"
+7,Cơm sườn trứng,"30,000"
+8,Nước Cam,"12,000"
+9,Coca Cola,"15,000"
+10,Sprite,"15,000"
+11,Yaourt Đá,"12,000"

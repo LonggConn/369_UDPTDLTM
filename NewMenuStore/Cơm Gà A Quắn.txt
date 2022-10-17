@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm đùi gà chiên nước mắm,"38,000"
+1,Cơm gà xối mỡ đùi,"38,000"
+2,Cơm Gà Mắm Tỏi Đùi Gà,"38,000"

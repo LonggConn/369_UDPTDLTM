@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún bò (tô thường),"35,000"
+1,Tô đặc biệt,"55,000"
+2,Bún bắp tái,"40,000"
+3,Bún bò giò heo,"40,000"
+4,Bún bò (tô nhỏ),"30,000"
+5,Bún sườn bò,"50,000"
+6,Bún giò heo,"35,000"
+7,Bò kho bánh mì ;chủ nhật mới bán,"35,000"
+8,Chả thẻ Huế,"35,000"

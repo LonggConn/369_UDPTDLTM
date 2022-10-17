@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Hộp Chay,"40,000"
+1,Phở cuốn chay,"4,000"
+2,Nấm Kim Cuộn Rong Biển,"4,000"
+3,Lẩu Chay 2 Người,"200,000"
+4,Mâm Cỗ Chay 8 món,"500,000"
+5,Mâm Cỗ Chay 9 món,"600,000"

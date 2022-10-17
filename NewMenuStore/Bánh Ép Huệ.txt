@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh ép (1 cái),"4,500"
+1,Bánh ép 1 hộp ,"32,000"
+2,Bánh ép 1 hộp (10cái),"45,000"
+3,Mỳ  ép pate 1phần (2ổ),"25,000"
+4,Bánh Ép PATE,"32,000"
+5,Mỳ  ép trứng thịt ,"17,000"
+6,Bánh ép khô,"35,000"
+7,Bánh thập Cẩm 1 cái,"6,500"

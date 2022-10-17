@@ -1,0 +1,13 @@
+,Food,Price
+0,Cà phê đen,"24,000"
+1,Bạc xỉu,"28,000"
+2,Cà phê sữa,"25,000"
+3,Cà phê caramel muối biển,"40,000"
+4,Cà phê sữa cam khói,"48,000"
+5,Trà sữa truyền thống,"38,000"
+6,Trà chanh tahiti,"42,000"
+7,Trà đào cam khói,"42,000"
+8,Trà ổi hồng dâu tây,"42,000"
+9,Trà sữa caramel muối biển,"46,000"
+10,Bim bim que đậu,"36,000"
+11,Khoai tây phô mai,"36,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,BÚN BÒ CHẢ,"50,000"
+1,BÚN BÒ GIÒ CHẢ,"60,000"
+2,BÚN BÒ TÁI,"50,000"
+3,BÚN SƯỜN BÒ,"60,000"
+4,BÚN BÒ XÀO NAM BỘ,"50,000"
+5,BÚN BÒ TÁI BẮP HOA,"60,000"
+6,TÔ BÚN THÊM + NƯỚC LÈO BÚN BÒ ,"20,000"
+7,GÂN BÒ XÀO SA TẾ,"150,000"
+8,BÒ XÀO LÁ QUẾ,"150,000"
+9,CAFE SỮA ĐÁ,"18,000"
+10,CAFE ĐÁ,"15,000"

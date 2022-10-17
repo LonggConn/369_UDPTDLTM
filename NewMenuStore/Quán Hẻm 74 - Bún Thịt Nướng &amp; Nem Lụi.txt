@@ -1,0 +1,4 @@
+,Food,Price
+0,Nem lụi,"9,000"
+1,Bún thịt nướng,"25,000"
+2,Bánh ướt thịt nướng,"25,000"

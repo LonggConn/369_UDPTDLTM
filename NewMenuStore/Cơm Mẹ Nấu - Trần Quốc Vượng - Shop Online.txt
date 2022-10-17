@@ -1,0 +1,12 @@
+,Food,Price
+0,Gà Ủ Muối 1/2 Con,"70,000"
+1,Xôi Trắng,"18,000"
+2,Gà Hấp Lá Chanh 1/2 Con,"70,000"
+3,Gà Ủ Muối 1  Con,"140,000"
+4,Gà Hun Khói 1/2 Con,"70,000"
+5,Gà Ủ Muối 1/2 +Xôi+Cô Ca,"95,000"
+6,"Gà Ủ MUỐI 1/2 Con, Gà HUN KHÓI 1/2 Con","140,000"
+7,Gà Hấp Lá Chanh 1 Con,"140,000"
+8,Gà Ủ Muối  1 Con +  Xôi+2 Cô Ca,"175,000"
+9,Gà Hun Khói 1 Con,"140,000"
+10,Coca-Cola,"10,000"

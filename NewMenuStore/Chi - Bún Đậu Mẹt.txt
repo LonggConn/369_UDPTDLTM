@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún Đậu Đầy Đủ,"45,000"
+1,Bún Đậu Chả Cốm,"35,000"
+2,Bún Đậu Thịt Chân Giò,"35,000"
+3,Bún Đậu,"22,000"
+4,Bún Đậu Nem Rán,"35,000"
+5,Bún Đậu Dồi Chiên,"35,000"
+6,Combo 2 Đủ 2 Trà Tắc,"110,000"
+7,Combo 2 Đủ 2 Pepsi,"110,000"
+8,Trà Tắc,"10,000"
+9,sữa đậu nành,"10,000"
+10,Cocacola Lon,"12,000"
+11,Pepsi Lon,"12,000"

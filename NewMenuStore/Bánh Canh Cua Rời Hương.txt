@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh canh cua rời,"40,000"
+1,Bánh canh cua rời chả,"45,000"
+2,Bánh canh đặc biệt không giò,"60,000"
+3,Bánh canh cua rời giò,"50,000"
+4,Bánh canh chả cua giò,"45,000"
+5,Bánh Canh Sườn Non Cua Rời,"50,000"
+6,Bánh canh chả cua,"40,000"
+7,Bánh Canh Đặc Biệt Có Giò ,"65,000"
+8,Bánh Canh Sườn Non Chả Cua,"45,000"

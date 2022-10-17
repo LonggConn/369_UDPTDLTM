@@ -1,0 +1,7 @@
+,Food,Price
+0,Chè Thập Cẩm (Lớn),"12,000"
+1,Chè Đậu Đen (Lớn),"12,000"
+2,Chè Đậu Xanh Hột (Lớn),"12,000"
+3,"Sương Sa, Sương Sáo (Lớn)","12,000"
+4,Sương Sâm (lớn),"12,000"
+5,Chè Táo Soạn (Lớn),"12,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Trà sữa kem trứng dừa nướng,"30,000"
+1,Trà sữa trân châu đường đen,"25,000"
+2,Trà sữa truyền thống,"25,000"
+3,Trà sữa gạo rang,"30,000"
+4,Trà sữa trân châu đen,"25,000"
+5,Trà sữa trân châu trắng,"25,000"

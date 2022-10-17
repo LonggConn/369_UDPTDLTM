@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh lộn xộn + chả,"15,000"
+1,Bánh lộn xộn,"10,000"
+2,Bánh tôm,"10,000"
+3,Bánh đậu,"10,000"
+4,Bánh tôm + chả,"15,000"
+5,Bánh đậu + chả,"15,000"
+6,Bánh đậu chay,"10,000"

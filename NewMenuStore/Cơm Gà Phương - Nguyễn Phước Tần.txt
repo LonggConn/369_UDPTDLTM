@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm gà quay đùi,"55,000"
+1,Cơm Gà quay cánh,"50,000"
+2,Cơm gà xé nhỏ,"40,000"
+3,Cơm gà chiên mắm,"32,000"
+4,Cơm sườn,"32,000"
+5,Cơm Gà xé lớn,"45,000"
+6,Cơm gà luộc đùi,"55,000"
+7,Cơm gà luộc cánh,"50,000"
+8,Cơm thêm,"5,000"
+9,Gà 1/2 con,"100,000"
+10,Gà nguyên con,"190,000"
+11,Chân gà sống 1kg ,"50,000"

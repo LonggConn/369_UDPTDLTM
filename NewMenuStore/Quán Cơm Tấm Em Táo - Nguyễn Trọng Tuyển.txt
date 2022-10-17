@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm Sườn Trứng,"47,000"
+1,Cơm Sườn Bì Chả,"52,000"
+2,Cơm Sườn Chả,"47,000"
+3,Sườn không,"37,000"
+4,Cơm Sườn Bì,"47,000"
+5,Món ngon hàng ngày ( Xíu mại ),"37,000"
+6,Cơm tấm Chả,"37,000"
+7,Cơm tấm Bì,"27,000"
+8,Cơm tấm Ốp la,"27,000"
+9,Cơm tấm Sườn,"42,000"
+10,Cơm tấm Chả Ốp la,"37,000"
+11,Cơm tấm Chả Bì,"37,000"

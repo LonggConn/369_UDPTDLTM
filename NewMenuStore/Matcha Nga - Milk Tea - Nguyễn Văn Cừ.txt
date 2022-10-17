@@ -1,0 +1,5 @@
+,Food,Price
+0,Trà sữa  Matcha,"22,000"
+1,Trà sữa truyền thống (700ml),"22,000"
+2,Sữa tươi trân châu đường đen,"25,000"
+3,Trà olong  đào chanh dây,"17,000"

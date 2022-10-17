@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà xé,"40,000"
+1,Cơm đùi gà rô ti,"60,000"
+2,Cơm gà rô ti nhỏ,"40,000"
+3,Cơm đùi gà luộc,"60,000"
+4,Cơm sườn trứng,"35,000"
+5,Cơm Gà Xé + Sprite,"50,000"

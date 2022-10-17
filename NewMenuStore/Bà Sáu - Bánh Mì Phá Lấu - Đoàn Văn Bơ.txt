@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh mì phá lấu,"30,000"
+1,Phá lấu (Phần),"49,000"
+2,Bánh mì không,"4,000"
+3,Bánh mì Trứng,"20,000"
+4,Bánh Mì Phá Lấu Đặc Biệt,"50,000"
+5,Phá Lấu Phần (200g),"99,000"
+6,Phá Lấu Phần (500g),"249,000"
+7,Da heo cháy mắm tỏi (Hũ),"69,000"
+8,Cơm Cháy Khô Gà (Hũ),"79,000"
+9,Nước Sâm,"9,000"
+10,Chè Dưỡng Nhan,"25,000"

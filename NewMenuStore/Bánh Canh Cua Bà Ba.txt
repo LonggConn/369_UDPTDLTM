@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh canh cua + Bánh quẩy,"55,000"
+1,Bánh canh cua + Giò heo,"65,000"
+2,Bánh canh cua + Bánh quẩy + Giò heo ,"70,000"
+3,Bánh canh cua + Bánh quẩy + Chả cá,"65,000"
+4,Bánh canh cua,"50,000"
+5,Bánh canh nồi,"100,000"
+6,Bánh quẩy,"5,000"
+7,Chả Cua,"10,000"
+8,Giò heo,"15,000"
+9,Chả Cá,"10,000"
+10,Xương,"15,000"

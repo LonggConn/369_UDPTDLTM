@@ -1,0 +1,10 @@
+,Food,Price
+0,Gỏi cuốn,"12,000"
+1,Bánh khọt (có tôm)còn vỏ ,"62,000"
+2,Bánh xèo,"55,000"
+3,Bánh khọt (có thịt),"55,000"
+4,Bánh khọt (không tôm),"35,000"
+5,Bánh khọt có tôm(tôm lột),"62,000"
+6,Nha đam đường phèn,"12,000"
+7,Rau thêm/1phần,"12,000"
+8,Nước Sâm,"10,000"

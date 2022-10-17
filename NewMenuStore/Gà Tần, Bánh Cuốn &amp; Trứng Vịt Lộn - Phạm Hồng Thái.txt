@@ -1,0 +1,6 @@
+,Food,Price
+0,Trứng Vịt Lộn,"8,000"
+1,Bánh Cuốn Trứng Chả Quế,"30,000"
+2,Bánh Cuốn Trứng,"20,000"
+3,Gà Tần,"65,000"
+4,Bánh Cuốn Trứng Lạp Xưởng,"35,000"

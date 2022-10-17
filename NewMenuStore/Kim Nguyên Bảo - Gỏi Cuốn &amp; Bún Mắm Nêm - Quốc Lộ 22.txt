@@ -1,0 +1,12 @@
+,Food,Price
+0,Combo 10 Cuốn Mix,"75,600"
+1,Combo 10 Cuốn Mix + Trà Tắc,"85,500"
+2,10 Gỏi Cuốn Tôm Thịt + Trà Tắc,"81,000"
+3,Gỏi cuốn tôm thịt ,"7,200"
+4,Gỏi cuốn tôm ,"9,000"
+5,Gỏi Cuốn Baby (Không Rau),"6,300"
+6,Gỏi cuốn Lỗ tai heo ,"7,200"
+7,Gỏi cuốn thịt luộc,"7,200"
+8,"Bún Mắm Nêm Thịt Luộc, Lỗ Tai Heo","31,500"
+9,Trà tắc Ly Lớn,"13,500"
+10,Trà bí đao hạt chia,"13,500"

@@ -1,0 +1,23 @@
+,Food,Price
+0,Cơm cháy siêu chà bông 250g - 2 miếng to,"67,000"
+1,Rong biển cháy mè tỏi mè (Hủ),"28,000"
+2,Mít sấy loại 1- 250g/túi zip,"67,000"
+3,Chuối sấy Đà Lạt loại 1 - 250g/túi zip,"35,000"
+4,Me lào kèm muối tôm Tây Ninh- 500g,"72,000"
+5,Da heo cháy mắm tỏi ớt,"42,000"
+6,KHÔNG CÓ BÁN NHA,1
+7,Chuối sấy dẻo mật ong nguyên trái,"60,000"
+8,Bánh tráng sa tế tắc,"10,000"
+9,Bánh tráng bơ khô bò,"16,000"
+10,Bánh tráng muối nhuyễn Xike bịch to,"12,000"
+11,Bánh tráng hành phi,"16,000"
+12,Bánh tráng cuộn khô bò,"16,000"
+13,Bánh tráng tỏi ớt,"16,000"
+14,Bánh tráng chà bông,"16,000"
+15,Bánh tráng rong biển cháy tỏi,"16,000"
+16,Bánh tráng phô mai,"16,000"
+17,NGON KHÔNG NÈ,1
+18,Muối tôm Tây Ninh loại ngon,"33,000"
+19,Muối nhuyễn Tây Ninh loại ngon,"33,000"
+20,Muối tiêu lốp Tây Ninh,"18,000"
+21,Mắm ruốc ăn trái cây,"35,000"

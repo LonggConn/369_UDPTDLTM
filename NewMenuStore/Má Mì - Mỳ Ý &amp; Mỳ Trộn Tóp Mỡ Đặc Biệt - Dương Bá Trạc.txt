@@ -1,0 +1,12 @@
+,Food,Price
+0,Coca-Cola chỉ 1Đ,1
+1,Combo 1 Mỳ Trộn Tóp Mỡ (Phần 2 trứng) + 1 Coca-Cola,"42,500"
+2,1 Coca-Cola Chai,"13,500"
+3,Combo 1 Mỳ Ý Bò Bằm Xúc Xích + 1 Coca-Cola,"42,500"
+4,Combo 2 Mỳ Trộn Tóp Mỡ (Phần 2 trứng) +2 Coca-Cola,"85,000"
+5,Combo 2 Mỳ Ý Bò Bằm Xúc Xích + 2 Coca-Cola,"85,000"
+6,2 Coca-Cola Chai,"27,000"
+7,Mỳ Trộn Tóp Mỡ Trứng Chảy Đặc Biệt,"25,000"
+8,Mỳ Ý Bò Bằm Xúc Xích,"30,000"
+9,Coca (kèm ly đá),"12,000"
+10,Sprite (kèm ly đá),"12,000"

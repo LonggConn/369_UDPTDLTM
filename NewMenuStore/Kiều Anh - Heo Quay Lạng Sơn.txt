@@ -1,0 +1,4 @@
+,Food,Price
+0,Heo quay,"300,000"
+1,Vịt quay,"300,000"
+2,Gà quay,"140,000"

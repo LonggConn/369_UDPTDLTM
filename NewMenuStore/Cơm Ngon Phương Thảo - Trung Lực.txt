@@ -1,0 +1,18 @@
+,Food,Price
+0,Cơm Thit Kho.,"40,000"
+1,Lac Rang,1
+2,Thit Ran.,"40,000"
+3,Chả Lá Lốt,"40,000"
+4,Coca Lon,"15,000"
+5,Thịt Bằm Chưng Mắm Tép,"40,000"
+6,Thịt Luộc,"40,000"
+7,Đậu Sốt,"40,000"
+8,Cá Thu Rán,"40,000"
+9,Sprite,"15,000"
+10,Chả Cá Sốt,"40,000"
+11,Combo Cơm Thịt Kho Tàu + 1 Coca,"55,000"
+12,Tôm Kho Tiêu,"40,000"
+13,Gà Luộc,"40,000"
+14,Combo Cơm Thịt Kho Tàu + 1 Sprite ,"55,000"
+15,Sườn Chua Ngọt,"40,000"
+16,Combo Cơm Sườn + 1 Nước Cam Splash,"55,000"

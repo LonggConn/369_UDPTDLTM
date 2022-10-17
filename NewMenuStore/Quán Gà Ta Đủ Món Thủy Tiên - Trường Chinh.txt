@@ -1,0 +1,4 @@
+,Food,Price
+0,Gà Ủ Muối 1/2 Con,"145,000"
+1,Gà Ủ Muối Nguyên Con ,"280,000"
+2,Gà Bó Xôi ,"320,000"

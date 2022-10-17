@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh mì heo quay,"18,000"
+1,Bánh mì heo quay chà bông gà,"20,000"
+2,Bánh mì chà bông gà,"18,000"

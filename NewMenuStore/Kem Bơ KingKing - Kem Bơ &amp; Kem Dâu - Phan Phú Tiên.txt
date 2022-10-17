@@ -1,0 +1,10 @@
+,Food,Price
+0,Combo 3 Vị Kem Và Topping Ăn Kèm,"89,000"
+1,Combo 2 Hộp Kem Vị Tuỳ Chọn Và Topping Ăn Kèm,"62,000"
+2,Kem Dâu Tây Và Topping Ăn Kèm,"32,000"
+3,Kem Dâu Tây - Strawberry IceCream,"30,000"
+4,Topping Kẹo Bi Trái Cây,"3,000"
+5,Topping - Chocolate Cereal - Ngũ Cốc Socola KoKo Krunch,"3,000"
+6,Topping - Cereal - Ngũ Cốc Kellogg’s,"3,000"
+7,Topping - Cốm Socola,"3,000"
+8,Pudding Thỏ Dâu Tây - Berry Puddinng,"30,000"

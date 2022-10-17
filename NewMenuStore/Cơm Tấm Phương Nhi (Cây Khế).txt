@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm sườn bì chả,"30,000"
+1,Cơm sườn mỡ,"30,000"
+2,Cơm gà,"30,000"
+3,Cơm gà + chả,"34,000"
+4,Sườn cọng muối xã nướng,"35,000"
+5,Cơm thêm,"2,000"
+6,Trứng chiên,"7,000"
+7,Chả thêm,"7,000"
+8,Miếng sườn thêm,"18,000"
+9,Sườn cọng không cơm,"22,000"
+10,Sườn mỡ thêm,"18,000"
+11,Đùi gà không cơm,"20,000"

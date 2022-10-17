@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Tráng Nướng,"25,000"
+1,Bánh Tráng Cuộn Bơ,"25,000"
+2,bánh tráng nướng sốt bò phô mai,"30,000"
+3,Bánh Tráng Trộn,"25,000"
+4,bánh tráng trộn suất đặc biệt,"30,000"
+5,combo 50k tặng 1 ly trà tắc or tào phớ.,"68,000"
+6,combo 70k tặng 1 tào phớ or trà chanh,"85,000"
+7,Trà Tắc,"10,000"

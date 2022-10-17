@@ -1,0 +1,9 @@
+,Food,Price
+0,Dê nướng tảng ,"200,000"
+1,Dê tái chanh,"150,000"
+2,Lẩu dê thuốc bắc,"500,000"
+3,Dê jấp,"200,000"
+4,Xê xào lăng,"150,000"
+5,Lẩu cua dê,"500,000"
+6,Dê chao tỏi,"200,000"
+7,Gà hấp lá chanh,"90,000"

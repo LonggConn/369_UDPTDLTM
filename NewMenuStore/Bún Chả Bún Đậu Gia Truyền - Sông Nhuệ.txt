@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún Chả,"35,000"
+1,Bún Chả Suất Lớn,"40,000"
+2,Bún Chả Suất Lớn+ Coca,"55,000"
+3,Bún Chả+ Coca,"50,000"
+4,Trà Tắc,"7,000"
+5,Trà Sâm,"5,000"
+6,Coca,"15,000"

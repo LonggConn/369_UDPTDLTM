@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh su kem,"3,000"
+1,Đậu xanh nướng,"12,000"
+2,Cà phê sữa,"12,000"
+3,Cà phê đen,"8,000"

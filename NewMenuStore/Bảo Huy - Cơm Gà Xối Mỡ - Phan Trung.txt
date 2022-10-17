@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm chiên gà xối mỡ,"35,000"
+1,Cơm đùi gà góc tư,"50,000"
+2,Cơm chiên bò xào,"45,000"
+3,Nui xào bò,"50,000"
+4,Cơm chiên cá mặn,"30,000"
+5,Mỳ xào bò,"50,000"
+6,Cơm chiên tỏi trứng,"30,000"

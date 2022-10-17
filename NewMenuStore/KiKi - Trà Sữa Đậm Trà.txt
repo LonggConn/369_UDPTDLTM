@@ -1,0 +1,9 @@
+,Food,Price
+0,Sữa Tươi Trân Châu Đường Đen,"28,000"
+1,Trà Sữa Khoai Môn,"28,000"
+2,Trà sữa matcha,"28,000"
+3,Trà sữa truyền thống,"25,000"
+4,Trà Sữa Thái Xanh,"25,000"
+5,Trà Sữa Ô Long ,"29,000"
+6,Trà Sữa Thái Đỏ,"25,000"
+7,Trà sữa đậm trà - full topping,"28,000"

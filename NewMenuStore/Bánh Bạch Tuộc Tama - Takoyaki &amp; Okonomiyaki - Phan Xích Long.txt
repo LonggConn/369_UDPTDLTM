@@ -1,0 +1,12 @@
+,Food,Price
+0,Tako - 5 Viên Râu Bạch tuộc,"35,000"
+1,Tako 8 Viên,"56,000"
+2,Takoyaki 1 Viên,"8,000"
+3,4 viên bạch tuộc + phô mai,"40,000"
+4,Tako 10 viên râu bạch tuộc,"70,000"
+5,Tako - 4 Viên Râu Bạch tuộc,"30,000"
+6,8 viên  Bạch tuộc + phô mai,"86,000"
+7,Thêm - Cá Bào Katsuo & Rong Biển Onori,"8,000"
+8,Trà Dâu Tây,"27,000"
+9,Trà sữa Olong - Bestseller,"22,000"
+10,Hồng trà Olong ,"22,000"

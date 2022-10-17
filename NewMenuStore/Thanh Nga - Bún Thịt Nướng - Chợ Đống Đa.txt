@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún thịt nướng  ,"30,000"
+1,Bún Thịt Nướng Đặc Biệt,"40,000"
+2,Bánh ướt chả  ,"20,000"
+3,Bột Lọc Tôm 15 Cái,"20,000"
+4,Bánh đúc  chả  ,"25,000"
+5,Bánh gói nậm 4 cái ,"20,000"
+6,Mì Quảng Tôm Thịt Trứng,"30,000"
+7, Bánh bèo chả  ,"25,000"
+8,Nem,"5,000"
+9,Chả,"5,000"

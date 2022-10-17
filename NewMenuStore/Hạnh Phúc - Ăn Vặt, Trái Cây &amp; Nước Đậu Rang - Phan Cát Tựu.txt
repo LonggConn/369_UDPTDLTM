@@ -1,0 +1,8 @@
+,Food,Price
+0,Râu Bạch Tuộc Size To Đại 1kg,"125,000"
+1,Lõi Vai Bò Úc 500gr (Loại ngon),"164,000"
+2,Sườn Sụn Heo 500gr (Nhập Khẩu),"52,000"
+3,Bắp Giò Nạc Heo 500gr (Nhập Khẩu),"51,000"
+4,Lạp Xưởng Tươi Miền Tây 500gr (Ngon Loại 1),"151,000"
+5,Ba Chỉ Bò Úc 500gr (Loại Ngon),"158,000"
+6,Dồi Sụn Hà Thành,"88,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,3 xuất + 1 coca,"115,500"
+1,5 xuất + 1 coca,"192,500"
+2,2 xuất + 2 coca,"100,000"
+3,1 xuất + 1 coca,"50,000"
+4,Nem Nướng Nha Trang,"38,500"
+5,Coca,"12,000"
+6,Lavie,"10,000"

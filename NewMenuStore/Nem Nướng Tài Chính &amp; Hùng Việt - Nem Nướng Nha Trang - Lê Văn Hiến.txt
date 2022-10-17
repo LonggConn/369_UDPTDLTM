@@ -1,0 +1,13 @@
+,Food,Price
+0,Nem Nướng Nha Trang (Suất Thường),"39,000"
+1,Nem Nướng Nha Trang (Suất lớn),"59,000"
+2,Bún Trộn Bò Nướng,"36,000"
+3,Cuốn Nem Lụi(1 cuốn),"15,000"
+4,Combo 2 Suất Nem Nướng Nha Trang (suất thường),"77,000"
+5,Combo 3 Suất Nem Nướng Nha Trang (suất thường),"116,000"
+6,Combo 5 Suất Nem Nướng Nha Trang (suất thường),"191,000"
+7,Combo 10 Suất Nem Nướng Nha Trang (suất thường),"380,000"
+8,Thêm nước chấm,"3,000"
+9,Thêm Nem,"20,000"
+10,Trà chanh,"10,000"
+11,Pepsi,"15,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh canh chả cá - sườn,"40,000"
+1,Bánh  canh chả cá - sườn ( kèm dụng cụ ăn uống),"45,000"
+2,Bánh canh chả cá - sườn đặc biệt ,"60,000"
+3,Chả cá thêm,"25,000"
+4,Chả cá miếng,"70,000"
+5,Nước ngọt các loại ,"15,000"
+6,Muối ớt Hải sản 1hủ,"30,000"
+7,Sườn thêm,"25,000"

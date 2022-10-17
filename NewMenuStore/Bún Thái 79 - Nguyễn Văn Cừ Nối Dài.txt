@@ -1,0 +1,7 @@
+,Food,Price
+0,Bún Thái đặc biệt,"45,000"
+1,Bún Thái thập cẩm 40k,"40,000"
+2,Hủ tiếu mực đặc biệt: ,"45,000"
+3,Hủ tiếu mực,"35,000"
+4,Mì khô hải sản ,"45,000"
+5,Mì khô,"35,000"

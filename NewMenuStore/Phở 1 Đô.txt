@@ -1,0 +1,13 @@
+,Food,Price
+0,bánh quẩy,"3,000"
+1,"bắp ,đuôi, sườn hầm","65,000"
+2,chén tiết,"20,000"
+3,chén trứng,"10,000"
+4,gà thường,"40,000"
+5,"má đùi, đùi","50,000"
+6,"pho mot loai thit( tái,nạm,gầu,gân,vien,sụn)","50,000"
+7,thêm bò 1loại thịt,"50,000"
+8,thêm gà thường,"40,000"
+9,"thêm phở, miến","20,000"
+10,thập cẩm,"80,000"
+11,"tô hai loại thịt( tái, nạm, gầu, gân, viên ,gà, sụn)","65,000"

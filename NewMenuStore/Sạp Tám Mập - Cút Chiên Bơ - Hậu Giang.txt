@@ -1,0 +1,7 @@
+,Food,Price
+0,Cút ôm trứng chiên bơ,"35,000"
+1,Bánh Bao Bơ Tỏi,"25,000"
+2,Cút ôm trứng chiên mắm tỏi,"37,000"
+3,Combo 3 Cút chiên mắm tỏi,"110,000"
+4,Combo 4 Cút ôm trứng chiên bơ,"140,000"
+5,Trứng non mắm tỏi,"40,000"

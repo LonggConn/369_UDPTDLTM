@@ -1,0 +1,5 @@
+,Food,Price
+0,100g Phô mai Mozzarella cube,"35,000"
+1,Combo 20v PMV Đông Lạnh ,"105,000"
+2,250g Phô Mai Mozarrella,"90,000"
+3,10v PMV Đông Lạnh ,"55,000"

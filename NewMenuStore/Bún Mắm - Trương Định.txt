@@ -1,0 +1,4 @@
+,Food,Price
+0,Bún Mắm Thập Cẩm,"30,000"
+1,Hột Vịt Lộn,"7,000"
+2,Đầu cá lớn,"22,000"

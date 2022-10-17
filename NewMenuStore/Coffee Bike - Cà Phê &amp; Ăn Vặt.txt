@@ -1,0 +1,10 @@
+,Food,Price
+0,Cà phê sữa,"18,000"
+1,Bạc xỉu (Có Sữa Tươi),"18,000"
+2,Cà phê đen,"16,000"
+3,Cacao sữa đá,"20,000"
+4,Dừa tắc hạt chia,"26,000"
+5,Dừa Xiêm Mát Lạnh,"25,000"
+6,Trà Chanh,"20,000"
+7,Cam tươi - Size L,"25,000"
+8,Nước chanh mát lạnh,"20,000"

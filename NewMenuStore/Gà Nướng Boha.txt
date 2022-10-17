@@ -1,0 +1,11 @@
+,Food,Price
+0,Gà nướng nguyên con,"198,000"
+1,Gà nguyên con + xôi,"230,000"
+2,Nửa con gà + xôi,"165,000"
+3,Combo Gà Nướng+ Chân gà sả tắc+ Lòng mề xào,"230,000"
+4,Mẹt gà 5 món,"375,000"
+5,Nộm chân gà,"95,000"
+6,"Miến Xào Lòng Mề ( cần đặt trước 30p để chế biến , chuẩn bị ) ","80,000"
+7,Gà Rang Muối,"250,000"
+8,Gà Chiên Mắm ,"250,000"
+9,Gà Xào Sả Ớt,"175,000"

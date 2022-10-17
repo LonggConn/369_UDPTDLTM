@@ -1,0 +1,4 @@
+,Food,Price
+0,Shikuwasa 100,"65,000"
+1,Hirami 8,"50,000"
+2,Shikuwasa 10,"45,000"

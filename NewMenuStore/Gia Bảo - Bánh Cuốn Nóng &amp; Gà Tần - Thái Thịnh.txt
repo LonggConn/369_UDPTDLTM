@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Cuốn Chả Quế,"37,000"
+1,Bánh cuốn chả nướng,"43,000"
+2,Gà Ác Tần,"80,000"
+3,Bánh cuốn trứng 1 quả ko chả,"20,000"
+4,Mì Gà Tần,"90,000"
+5,Bánh cuốn trứng 2 quả+ chả quế,"40,000"
+6,Bánh cuốn trứng 2 quả+ chả nướng,"43,000"
+7,Bánh cuốn chay chả nướng,"40,000"

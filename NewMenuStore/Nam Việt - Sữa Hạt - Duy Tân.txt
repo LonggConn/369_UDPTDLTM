@@ -1,0 +1,6 @@
+,Food,Price
+0,Hạt điều - Lúa mạch - Cacao,"33,200"
+1,Óc Chó - Hạt Sen - Hạt điều,"40,500"
+2,Kê vàng - Hạt sen - Bí đỏ,"30,800"
+3,Hạnh nhân - Hạt điều - Hạt Bí xanh ,"42,800"
+4,Macca - Đậu xanh - Yến mạch,"48,200"

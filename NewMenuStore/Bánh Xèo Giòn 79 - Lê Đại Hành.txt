@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh xèo tôm - mực - trứng cút,"47,000"
+1,Bánh xèo mực - trứng cút,"47,000"
+2,Bánh xèo tôm - trứng cút,"47,000"
+3,Bánh xèo tôm - mực - trứng cút - thịt bò,"67,000"
+4,Sữa đậu nành,"14,000"
+5,Bánh xèo trứng cút,"40,000"
+6,Nước rau má,"14,000"

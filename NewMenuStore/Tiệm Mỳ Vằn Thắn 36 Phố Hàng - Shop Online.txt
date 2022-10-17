@@ -1,0 +1,12 @@
+,Food,Price
+0,Mì Vằn Thắn,"60,000"
+1,Mì Vằn Thắn Tôm Tươi,"70,000"
+2,Há cảo,"7,000"
+3,Bánh Bao Xá Síu Phô Mai,"35,000"
+4,Sủi Luộc,"15,000"
+5,Mỳ Vằn Thắn trộn,"60,000"
+6,Sủi Cảo,"60,000"
+7,Sủi cảo tôm tươi,"70,000"
+8,Mỳ Vằn Thắn trộn tôm tươi,"70,000"
+9,Tôm  Tươi,"15,000"
+10,Sữa đậu nành,"18,000"

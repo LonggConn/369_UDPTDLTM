@@ -1,0 +1,9 @@
+,Food,Price
+0,Cháo vịt,"25,000"
+1,Vịt quay Lạng Sơn (1/2 con),"150,000"
+2,Vịt quay Lạng Sơn,"300,000"
+3,Lòng mề trộn,"30,000"
+4,"Lưỡi vịt, chân vịt","15,000"
+5,Vịt luộc (1/2 con),"150,000"
+6,Gà quay,"250,000"
+7,Vịt luộc,"280,000"

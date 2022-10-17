@@ -1,0 +1,8 @@
+,Food,Price
+0,Sâm atiso táo đỏ thanh nhiệt,"15,000"
+1,Sâm 9 vị Quý phi,"15,000"
+2,Chè Dưỡng Nhan,"39,000"
+3,Trà Hoa Cúc Gạo Lứt ,"17,000"
+4,Trà Khô 9 Vị,"16,000"
+5,Chè Bưởi,"29,000"
+6,Bánh Plan,"15,000"

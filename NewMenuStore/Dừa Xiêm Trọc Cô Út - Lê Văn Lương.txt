@@ -1,0 +1,8 @@
+,Food,Price
+0,Dừa Xiêm Size 3 (500-600g),"180,000"
+1,Dừa Xiêm Size 1 (300-400g),"140,000"
+2,Dừa Xiêm VIP >600g,"220,000"
+3,Set 5 trái,"110,000"
+4,Set 10 trái,"200,000"
+5,1 Chai 330ml,"35,000"
+6,Set 3 chai,"90,000"

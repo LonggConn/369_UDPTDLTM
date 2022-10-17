@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Cuốn,"30,400"
+1,Bánh Ướt,"30,400"
+2,Cam Vắt Nguyên Chất,"20,000"
+3,Trà Chanh Giải Nhiệt,"15,000"
+4,Sâm Lạnh Bông Cúc ( Nhà Làm),"12,000"
+5,Chả Chiên Thêm (1 Miếng),"6,000"
+6,Nem Chua Thêm (1 Miếng) ,"6,000"
+7,Chả Lụa Thêm (1 Miếng),"7,000"

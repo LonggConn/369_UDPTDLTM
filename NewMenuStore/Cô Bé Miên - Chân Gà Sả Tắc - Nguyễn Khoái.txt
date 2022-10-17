@@ -1,0 +1,7 @@
+,Food,Price
+0,Combo 2 Hộp Chân Gà Sả Tắc Cóc + 1 Rong Nho Tách nước,"270,000"
+1,COMBO 1 Chân Gà Sả Tắc Cóc + 1 Rong Nho Tách Nước,"155,000"
+2,Chân gà sả tắc  cóc non,"130,000"
+3,Rong Nho Tách Nước,"35,000"
+4,Khô Bò,"225,000"
+5,Ghẹ sốt bơ tỏi,"210,000"

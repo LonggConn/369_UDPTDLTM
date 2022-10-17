@@ -1,0 +1,5 @@
+,Food,Price
+0,Trà Sâm Bí Đao Hạt Chia ,"15,000"
+1,Trà Dưa Gang Hạt Chia,"15,000"
+2,Trà Đào Cam Sả  ,"30,000"
+3,Trà Dâu Đông Du ,"35,000"

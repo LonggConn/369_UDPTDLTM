@@ -1,0 +1,8 @@
+,Food,Price
+0,Sữa Chua Uống Dâu,"37,000"
+1,Sữa Chua Uống Việt Quất,"37,000"
+2,Sữa Chua Uống KiWi,"37,000"
+3,Sữa Chua Uống Xoài,"37,000"
+4,Sữa Chua Uống Cam,"37,000"
+5,Sữa Chua Uống Đào ,"37,000"
+6,Sữa Chua Uống Chanh Dây ,"37,000"

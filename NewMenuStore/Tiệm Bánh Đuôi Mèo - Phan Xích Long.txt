@@ -1,0 +1,6 @@
+,Food,Price
+0,Combo 10 Choux kem,"50,000"
+1,Combo 3 Choux Nhật,"42,000"
+2,Chunky cherry panna cotta,"40,000"
+3,Chocolate brownies,"50,000"
+4,Combo 10 Chouquette,"40,000"

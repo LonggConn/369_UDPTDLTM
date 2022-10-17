@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân gà sả tắc,"80,000"
+1,Cà ri đùi ếch,"25,000"
+2,Ếch lá chanh,"180,000"

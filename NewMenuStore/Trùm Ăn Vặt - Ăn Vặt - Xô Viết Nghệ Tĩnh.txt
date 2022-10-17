@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh tráng bơ dẻo tôm,"10,000"
+1,Muối tôm hảo hạng,"10,000"
+2,Bánh tráng cuốn thịt,"25,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún Mắm Nêm,"20,000"
+1,Bún Đậu Mắm tôm Nhỏ,"25,000"
+2,Bún Chả Cá,"25,000"
+3,Bún Đậu Mắm tôm Tôm Lớn,"50,000"

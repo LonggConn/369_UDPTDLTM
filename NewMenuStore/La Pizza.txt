@@ -1,0 +1,11 @@
+,Food,Price
+0,Mỳ Spaghetti Bò Băm,"33,500"
+1,P9 - Pizza Hải Sản Ocean. 25cm cắt 8,"103,000"
+2,P8 - Pizza Meat Lover. 25cm cắt 8,"103,000"
+3,P7 - Pizza 4 Cheese. 25cm cắt 8,"103,000"
+4,Cocacola chai,"15,000"
+5,Mì spaghetti bò băm + 01 chai coca,"79,000"
+6,Pizza 4 cheese Mật ong + 01 chai coca,"136,000"
+7,Combo Mì spaghetti bò băm + Pizza 4 cheese Mật ong + Salad Gà (Sốt Chanh Leo) + 2 chai coca,"251,000"
+8,Combo 02 Pizza 4 cheese Mật ong + 02 chai coca,"255,000"
+9,Combo 02 Mì spaghetti bò băm + 02 chai coca + 02 Salad Gà ( Sốt Chanh Leo ),"248,000"

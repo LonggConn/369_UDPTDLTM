@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm sườn,"25,000"
+1,Cơm gà chiên,"25,000"
+2,Cơm thập cẩm,"25,000"
+3,Cơm gà bóp,"25,000"
+4,Cơm thịt luộc,"25,000"
+5,Cơm thịt kho tàu,"25,000"
+6,Cơm thịt kho tôm,"25,000"
+7,Cơm cá bống,"25,000"
+8,Cơm gà kho,"25,000"
+9,Cơm cá ngừ,"25,000"
+10,Cơm cá bớp kho,"25,000"

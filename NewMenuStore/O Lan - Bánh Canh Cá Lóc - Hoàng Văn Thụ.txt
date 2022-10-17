@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh canh cá lóc tô đặc biệt,"35,000"
+1,Bánh canh cá lóc tô lớn,"30,000"
+2,Bánh canh cá lóc tô nhỏ,"25,000"
+3,Chả Huế,"5,000"
+4,Đầu lòng (phần lớn),"50,000"
+5,Bánh tráng,"5,000"
+6,Đầu lòng nhỏ,"50,000"

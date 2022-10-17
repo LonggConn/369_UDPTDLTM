@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà tắc + thạch,"15,300"
+1,Gỏi xoài da heo,"20,700"
+2,Cơm cháy   Nhà làm,"18,000"
+3,Bánh tráng trộn,"18,000"
+4,Khoai tây chiên,"15,300"
+5,Bánh tráng cuốn,"18,000"
+6,Lòng đào,"6,300"
+7,Há cảo hấp,"6,300"
+8,Trà sữa  truyền thống + thạch,"24,300"
+9,Cá viên chiên,"15,300"
+10,Trà  thái xanh + thạch +,"24,300"

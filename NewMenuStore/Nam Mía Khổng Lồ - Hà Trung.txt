@@ -1,0 +1,8 @@
+,Food,Price
+0,Nước Mía,"10,000"
+1,Nước Mía Trân Châu Dừa,"18,000"
+2,Nước Mía Bạc Hà Trân Châu Dừa,"20,000"
+3,Nước Mía Vải Trân Châu Dừa,"20,000"
+4,Nước Mía Đào Trân Châu Dừa,"20,000"
+5,Nước Mía Chanh Leo Trân Châu Dừa,"20,000"
+6,Nước Mía Táo Trân Châu Dừa,"20,000"

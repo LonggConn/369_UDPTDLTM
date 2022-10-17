@@ -1,0 +1,12 @@
+,Food,Price
+0,Thêm huyết,"20,000"
+1,Thêm Riêu Cua,"25,000"
+2,Thêm đậu hủ,"20,000"
+3,Thêm chả Cá,"25,000"
+4,Thêm giò móng,"35,000"
+5,Bún Riêu Cua Truyền Thống,"50,000"
+6,Canh Bún Truyền Thống,"50,000"
+7,Bún riêu truyền thống + Giò móng,"60,000"
+8,Canh bún truyền thống + Giò móng,"60,000"
+9,Trà Lipton Sả Tắc,"17,000"
+10,Cám vắt ,"25,000"

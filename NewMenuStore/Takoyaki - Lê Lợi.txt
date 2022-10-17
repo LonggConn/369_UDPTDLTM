@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh bạch tuộc (10 viên),"35,000"
+1,Bánh bạch tuộc (6 viên),"20,000"
+2,Bánh bạch tuộc (4 viên),"15,000"

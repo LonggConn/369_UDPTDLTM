@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Set Theo Ngày,"50,000"
+1,Bánh Bao Vỏ Lứt Nhân Nấm,"23,000"
+2,Sữa Hạt Dinh Dưỡng,"30,000"
+3,Caramen Bí Đỏ,"13,000"
+4,Bánh Bao Vỏ Lứt Nhân Phô Mai,"27,000"
+5,Bánh Bao Vỏ Lứt Nhân Trứng Muối,"27,000"

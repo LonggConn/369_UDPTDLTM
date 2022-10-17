@@ -1,0 +1,13 @@
+,Food,Price
+0,Thịt xiên nướng,"22,000"
+1,Cơm lam ,"18,000"
+2,Combo 2 Thịt Xiên Nướng 1 Cơm Lam Ống Tre Nước Cốt Dừa,"59,000"
+3,Combo 5 Thịt Xiên Nướng 2 Cơm Lam Nước Cốt Dừa 1 Trà Sữa,"159,000"
+4,Trà sữa thái xanh trân châu ( trắng hoặc đen ),"25,000"
+5,Combo 4 Thịt Xiên Nướng 2 Cơm Lam Ống Tre Nước Cốt Dừa,"119,000"
+6,Trà sữa truyền thống trân châu ( trắng hoặc đen ) ,"25,000"
+7,Trà Sữa Truyền Thống,"20,000"
+8,Trà Sữa Thái Đỏ,"20,000"
+9,Combo 10 Thịt Xiên Nướng 5 Cơm Lam Ống Tre Nước Cốt Dừa,"299,000"
+10,Trà Sữa Thái Xanh,"20,000"
+11,Trà Sữa Thái Đỏ trân châu ( trắng hoặc đen ),"25,000"

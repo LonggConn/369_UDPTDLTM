@@ -1,0 +1,7 @@
+,Food,Price
+0,Hủ tiếu nước thập cẩm,"60,000"
+1,Hủ tiếu khô thập cẩm,"60,000"
+2,Hủ tiếu khô sườn,"60,000"
+3,Hủ tiếu nước sườn,"60,000"
+4,Hủ tiếu khô xương,"60,000"
+5,Hủ tiếu nước xương,"60,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Vịt Quay Bắc Kinh,"140,000"
+1,Vịt Quay Lạng Sơn,"140,000"
+2,Vịt Cháy Tỏi,"145,000"
+3,Nộm Chân Vịt,"79,000"
+4,Vịt Rang Muối,"145,000"
+5,Vịt Rang Giềng,"145,000"
+6,Nộm Vịt,"79,000"
+7,Canh Măng Tiết,"40,000"
+8,Bún Thêm,"15,000"
+9,Miến Xào Lòng Mề,"60,000"
+10,Cơm Rang Vịt,"45,000"

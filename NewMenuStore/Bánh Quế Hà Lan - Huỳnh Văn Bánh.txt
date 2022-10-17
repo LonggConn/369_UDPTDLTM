@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Biscotti Dark Chocolate - Hộp 195gr,"99,000"
+1,Bánh Biscotti Truyền Thống - Hộp 195gr,"99,000"
+2,Biscotti Nam Việt Quất - Hộp 195gr,"120,000"

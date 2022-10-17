@@ -1,0 +1,6 @@
+,Food,Price
+0,Mì Gà Tần,"31,500"
+1,Trứng Vịt Lộn,"6,500"
+2,Gà Tần,"25,000"
+3,Trứng Vịt Lộn Ngải Cứu,"7,500"
+4,Súp Gà,"20,000"

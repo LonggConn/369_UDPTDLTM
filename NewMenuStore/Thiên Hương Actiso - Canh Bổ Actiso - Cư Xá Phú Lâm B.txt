@@ -1,0 +1,7 @@
+,Food,Price
+0,Gà ác tiềm Actiso,"69,000"
+1,Canh bổ Actiso hầm sườn non,"69,000"
+2,Canh bổ Actiso hầm giò/móng,"69,000"
+3,Súp bổ Actiso,"35,000"
+4,Trà detox lá tươi Actiso củ sen,"10,000"
+5,Bánh Flan cao Actiso ( size L),"10,000"

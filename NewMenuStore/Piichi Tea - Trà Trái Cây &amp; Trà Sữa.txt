@@ -1,0 +1,11 @@
+,Food,Price
+0,Trà sữa Piichi,"25,000"
+1,Trà sữa Ôlong ,"25,000"
+2,Trà sữa Lài ,"25,000"
+3,Trà sữa Matcha ,"25,000"
+4,Trà đác thơm ,"35,000"
+5,Trà Bưởi Mật Ong,"35,000"
+6,Trà đào cam nhãn ,"35,000"
+7,Trà ổi hồng nha đam,"35,000"
+8,Trà thạch vải ,"35,000"
+9,Sữa tươi trân châu đường đen,"30,000"

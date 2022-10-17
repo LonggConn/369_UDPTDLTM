@@ -1,0 +1,11 @@
+,Food,Price
+0,Trà xanh vị dâu tây - size M,"32,000"
+1,Trà xanh kiwi - size M,"32,000"
+2,Trà xanh vị dâu tây - size L,"39,000"
+3,Trà xanh kiwi - size L,"39,000"
+4,Nước kiwi lô hội - size M,"37,000"
+5,Nước kiwi lô hội - size L,"44,000"
+6,Trà xanh vị đào - size M,"32,000"
+7,Trà xanh vị đào - size L,"39,000"
+8,Trà đen vị đào - size M,"32,000"
+9,Trà đen vị đào - size L,"39,000"

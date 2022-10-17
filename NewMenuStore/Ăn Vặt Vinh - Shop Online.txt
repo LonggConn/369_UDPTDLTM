@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh Gấu Nhân Kem 500g,"60,000"
+1,Mắm Dưa Cà,"40,000"
+2,Bánh Tráng Bò Khô,"35,000"
+3,Bánh Tráng Ruốc,"35,000"

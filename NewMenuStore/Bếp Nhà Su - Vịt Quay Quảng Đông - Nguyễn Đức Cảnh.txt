@@ -1,0 +1,13 @@
+,Food,Price
+0,Vịt quay Quảng Đông ,"140,000"
+1,Vịt Quay Quảng Đông ( Nguyên Con) Tặng 6 BBao Chiên,"280,000"
+2,Gà quay lu Quảng Đông,"120,000"
+3,Gà quay 1 con tặng 6 banh bao,"220,000"
+4,Bánh Bao Chiên,"4,000"
+5,Canh măng tiết,"30,000"
+6,Bún,"15,000"
+7,Dồi sụn,"30,000"
+8,Xôi vịt nhỏ,"40,000"
+9,Xôi gà nhỏ,"40,000"
+10,Xôi gà to,"70,000"
+11,Xôi vịt to,"70,000"

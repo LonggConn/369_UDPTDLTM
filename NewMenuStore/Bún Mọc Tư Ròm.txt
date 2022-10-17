@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún mọc chả,"30,000"
+1,Bún sườn mọc chả,"40,000"
+2,Bún giò heo mọc chả,"45,000"
+3,Bún đặc biệt,"55,000"
+4,Bún xương mọc chả,"40,000"

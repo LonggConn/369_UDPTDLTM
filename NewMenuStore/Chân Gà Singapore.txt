@@ -1,0 +1,5 @@
+,Food,Price
+0,Chân gà xì dầu chua cay,"8,000"
+1,Chân vịt Singapore,"6,000"
+2,"Đầu cổ vịt, hấp xì dầu (lạng)","20,000"
+3,Tai mũi heo phá lấu (lạng),"28,000"

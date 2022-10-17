@@ -1,0 +1,7 @@
+,Food,Price
+0,bún đậu đặc biệt,"55,000"
+1,combo 2 người kèm trà tắc,"120,000"
+2,mẹt lớn 4 người ăn ,"210,000"
+3,Trà tắc,"10,000"
+4,Trà chanh ,"10,000"
+5,coca,"15,000"

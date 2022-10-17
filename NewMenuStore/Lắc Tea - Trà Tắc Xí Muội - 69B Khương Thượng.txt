@@ -1,0 +1,6 @@
+,Food,Price
+0,Trà Tắc Xí Muội - Ly Khổng Lồ,"18,000"
+1,Trà Tắc Xí Muội - Ly Thường,"13,500"
+2,Xí Muội Chua Ngọt,"25,000"
+3,Khô Gà Lá Chanh Nha Trang,"32,000"
+4,Bò Khô,"35,000"

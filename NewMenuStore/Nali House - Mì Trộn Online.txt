@@ -1,0 +1,3 @@
+,Food,Price
+0,Mì Chay Vegetarian,"35,000"
+1,Mì Ý Sốt Thịt Bằm,"50,000"

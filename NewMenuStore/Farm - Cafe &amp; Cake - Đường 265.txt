@@ -1,0 +1,11 @@
+,Food,Price
+0,Nước Mát Hội An- Tặng Son Lipbalm Korea,"25,000"
+1,Combo 5 bánh Pía kim sa-Tặng son lì,"45,000"
+2,Combo 3 bông lan matcha - Tặng son lì,"45,000"
+3,Sâm Bí Đao Đường Phèn - Tặng son korea,"25,000"
+4,Combo 3 sandwich kẹp phô mai sữa  chua - Tặng son Korea,"45,000"
+5,Nước ép Lê Đài Loan - Tặng son tươi Korea,"65,000"
+6,Nước ép đào Đài Loan - Tặng son tươi Korea,"65,000"
+7,Combo 2 bông lan trứng sữa Đài Loan,"50,000"
+8,Bông lan trứng sữa Đài Loan 1 cái - Mua 1 Tặng 1,"25,000"
+9,Bông lan kem cuộn trà xanh 1 cái,"16,000"

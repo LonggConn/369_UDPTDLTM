@@ -1,0 +1,11 @@
+,Food,Price
+0,CaFe cốt dừa,"25,000"
+1,Dừa dầm,"25,000"
+2,Trà tắc thảo mộc,"25,000"
+3,Dừa Dầm cafe,"28,000"
+4,Sữa chua  dầm caphe,"25,000"
+5,Chè thái,"25,000"
+6,Chè thái dầm cafe,"28,000"
+7,Bánh  dừa nướng,"25,000"
+8,Gà  gà xé khô,"36,000"
+9,Bánh quế,"25,000"

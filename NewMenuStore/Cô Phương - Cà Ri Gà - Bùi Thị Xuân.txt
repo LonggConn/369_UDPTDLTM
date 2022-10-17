@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Mì Cà Ri Gà,"40,000"
+1,Bún Tươi Cà Ri Gà,"40,000"
+2,Mì Gói Cà Ri Gà,"40,000"
+3,NƯỚC SÂM LẠNH,"12,000"
+4,Bánh Mì thêm,"5,000"
+5,Cà Ri Gà thêm ,"36,000"
+6,Bún Tươi thêm,"5,000"
+7,Mì Gói Thêm,"7,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Canh bún,"27,000"
+1,Bún riêu,"27,000"
+2,Cà phê sữa,"20,000"
+3,Cà phê đen,"16,000"
+4,Trà tắc ly khổng lồ,"17,000"
+5,Chanh muối,"15,000"
+6,Cacao sữa,"20,000"
+7,Bò húc,"18,000"
+8,Sting dâu,"15,000"
+9,Coca,"15,000"
+10,Boncha tắc,"15,000"

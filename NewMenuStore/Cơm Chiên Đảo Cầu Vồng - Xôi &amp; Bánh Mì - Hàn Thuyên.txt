@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm xá xíu thập cẩm đặc biệt ,"29,000"
+1,Cơm xá xíu chả lụa,"29,000"
+2,Cơm chiên trứng ốp la,"22,000"
+3,Cơm trứng thịt xá xíu,"29,000"
+4,Cơm xá xíu nem nướng,"29,000"
+5,Cơm xá xíu chà bông,"29,000"

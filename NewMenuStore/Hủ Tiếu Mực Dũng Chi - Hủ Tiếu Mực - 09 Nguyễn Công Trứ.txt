@@ -1,0 +1,6 @@
+,Food,Price
+0,Hủ tiếu mực ,"60,000"
+1,Hủ tiếu đặc biệt,"85,000"
+2,Hủ tiếu nam vang,"60,000"
+3,Hủ tiếu mực tôm,"75,000"
+4,Hủ tiếu xương ống,"60,000"

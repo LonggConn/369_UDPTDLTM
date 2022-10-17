@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm Mì Căn Sả,"25,000"
+1,Cơm Sườn Chay,"25,000"
+2,Bún Bì Chả Giò,"35,000"
+3,Cà Pháo Thêm,"7,000"
+4,Cơm Thêm,"4,000"
+5,Sườn Chay Thêm,"15,000"
+6,Rau Thêm,"15,000"
+7,Đậu Hủ Sả Thêm ,"10,000"
+8,Mì Căn Thêm,"15,000"
+9,Nước Sâm Bông Cúc Hạt Chia,"15,000"

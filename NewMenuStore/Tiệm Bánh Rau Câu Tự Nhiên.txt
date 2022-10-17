@@ -1,0 +1,8 @@
+,Food,Price
+0,Rau Cau bánh sinh nhật,"300,000"
+1,Bánh sinh nhật rau câu 4D,"300,000"
+2,Bánh kem rau câu sinh nhật và các ngày lễ ,"300,000"
+3,Bánh  rau câu sinh nhật và các ngày lễ ,"300,000"
+4,Bánh kem rau câu sinh Nhật và các ngày lễ,"300,000"
+5,Bánh kem rau câu sinh nhật ,"300,000"
+6,Kẹo Chip Chip Nhà làm 500gr,"150,000"

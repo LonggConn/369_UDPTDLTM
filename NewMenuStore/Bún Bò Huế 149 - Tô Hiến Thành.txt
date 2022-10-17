@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún bò thập cẩm không giò (tô nhỏ),"57,800"
+1,"Bún bò thập cẩm không giò, có chả bò (tô lớn)","74,800"
+2,Bún bò tái chả,"57,800"
+3,Bún bò tái,"57,800"
+4,Bún bò chả,"57,800"
+5,Combo Đẩy lùi Covid 3 tô bún bò chả đầy đủ +3 viên chả cua ,"173,400"
+6,Bún bò không giò tô nhỏ,"57,800"
+7,Bún chả ( chả heo chả cua),"57,800"
+8,Chả cây ,"10,200"
+9,"Chả đòn heo 0,5kg","93,500"

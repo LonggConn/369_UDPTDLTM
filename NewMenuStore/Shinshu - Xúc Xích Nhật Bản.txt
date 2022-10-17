@@ -1,0 +1,7 @@
+,Food,Price
+0,Xúc xích nướng,"12,000"
+1,Bánh mì xúc xích,"17,000"
+2,Xúc xích cuộn sandwich chiên xù,"11,000"
+3,Shushi chiên,"11,000"
+4,Bánh rán đôrêmon,"11,000"
+5,Shushi,"11,000"

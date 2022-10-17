@@ -1,0 +1,5 @@
+,Food,Price
+0,Chân gà có xương sốt Thái,"60,000"
+1,Chân gà rút xương sốt thái,"87,000"
+2,Chân gà có xương chua cay,"60,000"
+3,Chân gà rút xương chua cay,"87,000"

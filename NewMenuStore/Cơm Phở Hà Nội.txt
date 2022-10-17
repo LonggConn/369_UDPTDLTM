@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm sườn nướng,"40,000"
+1,Cơm sườn non ram,"35,000"
+2,Cơm gà kho sả,"35,000"
+3,Cơm tôm kho thịt,"35,000"
+4,Cơm thịt kho tàu,"35,000"
+5,Canh khổ qua,"20,000"
+6,Cơm cá kho,"35,000"
+7,Cơm thịt kho mực,"35,000"
+8,Cơm đậu hủ sốt cà chua,"35,000"
+9,Cơm cá chiên,"35,000"

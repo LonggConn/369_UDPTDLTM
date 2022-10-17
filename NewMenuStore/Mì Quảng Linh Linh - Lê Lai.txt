@@ -1,0 +1,12 @@
+,Food,Price
+0,Mì Quảng Heo quay ,"50,000"
+1,Mì Quảng Xường Non ,"45,000"
+2,"Bún Bò Huế ,","45,000"
+3,Cam Vắt ,"30,000"
+4,Mì Quảng Gà ta Xé ,"50,000"
+5,Mì Quảng Sứa ,"45,000"
+6,Mì Quảng Bò Tái,"45,000"
+7,Mì Quảng Thập Cẩm 4 Món,"50,000"
+8,Mì Quảng Bò Viên,"45,000"
+9,Mì Quảng Đùi Gà Ta ,"60,000"
+10,Mì Quảng Chả Cá Nha Trang ,"45,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún Đậu Thập Cẩm Đầy Đủ,"45,000"
+1,Bún Đậu Thịt Chân Giò,"30,000"
+2,sữa đậu nành tươi,"10,000"
+3,Bún Đậu Chả Cốm,"30,000"
+4,Bún Đậu Thịt Chả Nem,"40,000"
+5,Bún Đậu Dồi Sụn Rán,"35,000"
+6,Bún Đậu Nem Rán,"30,000"
+7,Cocacola lon 235ml,"10,000"
+8,Combo 2 Bún đậu thập cẩm đầy đủ + 2 coca lon 235ml,"110,000"
+9,Combo 1 Bún đậu thập cẩm đầy đủ + 1 cocacola lon 235ml,"55,000"

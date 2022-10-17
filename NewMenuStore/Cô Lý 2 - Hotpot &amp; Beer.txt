@@ -1,0 +1,13 @@
+,Food,Price
+0,Cá lóc mắm  xoài,"170,000"
+1,Ếch Xào xả ớt,"100,000"
+2,Tôm tít sốt bơ tỏi,"130,000"
+3,Bạch  tuộc hấp,"150,000"
+4,Tôm càng xanh sốt bơ tỏi,"135,000"
+5,Tai mui Trộn,"100,000"
+6,Khoai Tây chiên,"60,000"
+7,Gà nướng ,"200,000"
+8,Tai Mui Nướng,"90,000"
+9,Dồi heo nướng,"85,000"
+10,Xương Má hàm Nướng ,"150,000"
+11,Ba chỉ nướng ,"95,000"

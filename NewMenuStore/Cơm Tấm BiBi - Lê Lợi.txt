@@ -1,0 +1,10 @@
+,Food,Price
+0,Sườn trứng,"40,000"
+1,Cơm sườn bì chả trứng,"50,000"
+2,Sườn bì chả,"45,000"
+3,Sườn không,"35,000"
+4,Sườn chả,"40,000"
+5,Sườn bì,"40,000"
+6,Cơm thịt kho  hột vịt,"40,000"
+7,Cánh gà - đùi gà chiên nước mắm,"35,000"
+8,Cơm gà kho sả ớt,"40,000"

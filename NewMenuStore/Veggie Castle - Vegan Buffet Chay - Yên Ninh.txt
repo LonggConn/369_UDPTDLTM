@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm suất gạo lứt - Brown rice set,"70,000"
+1,Cơm suất gạo trắng - Rice set,"70,000"
+2,Nước Ép Dưa Hấu Nguyên Chất,"30,000"
+3,Nước Chanh Bạc Hà,"20,000"
+4,Nước ép cam,"30,000"
+5,Nước ép táo,"30,000"
+6,Nước ép củ đậu carot,"30,000"
+7,Nước ép ổi,"30,000"

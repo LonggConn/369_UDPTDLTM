@@ -1,0 +1,13 @@
+,Food,Price
+0,Súp Bào Ngư Vi Cá  Tăng Lực Đại Bổ 1 (Tặng Thố Đất),"390,000"
+1,Súp Bào Ngư Tăng Lực Đại Bổ,"250,000"
+2,Súp Bào Ngư Hầm 2 con Đông Trùng Hạ Thảo tươi Siêu Bổ( Tặng thố Đất),"550,000"
+3,Súp Bào Ngư Hầm Đuôi Tôm Hùm Úc ,"499,000"
+4,Súp Bào Ngư Hải Sâm  Tăng Lực Đại Bổ( Tặng Thố Đất),"349,000"
+5,Súp Bào Ngư Vi Cá Tăng lực Đại Bổ 2 (Tặng Thố Đất),"550,000"
+6,Súp Bào Ngư vi cá Đông Trùng Hải Sâm Siêu Bổ ( Tặng Thố Đất),"1,500,000"
+7,Súp Bào Ngư Tăng Lực Đại Bổ (Tặng thố Đất),"449,000"
+8,"Gà Ác Hầm Bào Ngư, Sò Điệp","299,000"
+9,Gà Ác Hầm Bào Ngư Đại Bổ,"250,000"
+10,Gà ác hầm báo ngư Plus,"429,000"
+11,Ốc Bulot Pháp siêu giòn ngọt ,"299,000"

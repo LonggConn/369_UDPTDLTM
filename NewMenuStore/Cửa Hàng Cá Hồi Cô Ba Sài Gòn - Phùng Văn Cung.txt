@@ -1,0 +1,8 @@
+,Food,Price
+0,Rong biển trộn mè Nhật,"77,400"
+1,Nori,"6,000"
+2,Shiso oba,"1,000"
+3,Combo gia vị,"30,000"
+4,Gừng sushi,"28,000"
+5,Wasabi tươi,"15,000"
+6,Rong nho,"30,000"

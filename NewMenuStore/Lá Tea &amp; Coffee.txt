@@ -1,0 +1,9 @@
+,Food,Price
+0,Flan Castella Sponge Cake,"165,000"
+1,Tiramisu,"95,000"
+2,Bánh Mì Hoa Cúc Siêu Mềm,"95,000"
+3,Bánh Bông Lan Chuối,"85,000"
+4,Bánh Bông Lan Trứng Muối 2 Loại Sốt,"125,000"
+5,Bánh Tiramisu,"300,000"
+6,Bánh Mì Nguyên Cám Hạt Ngũ Cốc,"65,000"
+7,Bánh Bông Lan Phô Mai Nhật Bản,"125,000"

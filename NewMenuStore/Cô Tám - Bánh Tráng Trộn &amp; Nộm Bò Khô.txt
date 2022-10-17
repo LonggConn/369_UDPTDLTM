@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh tráng cuốn sốt bơ,"22,500"
+1,Bánh tráng trộn sốt me,"22,500"
+2,Bánh tráng cuốn sốt me,"22,500"
+3,Bánh tráng trộn sốt bơ,"22,500"
+4,Bánh tráng cuốn sốt mayonnaise,"22,500"
+5,Bánh tráng trộn sốt mayonnaise,"22,500"
+6,Trà Quất Nha Đam,"13,500"
+7,Trà Chanh Nha Đam,"13,500"

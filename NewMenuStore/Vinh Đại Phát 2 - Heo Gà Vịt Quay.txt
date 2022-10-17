@@ -1,0 +1,12 @@
+,Food,Price
+0,Heo quay da giòn( nửa kg),"152,250"
+1,Xá xíu (nửa kg),"152,250"
+2,Vịt quay Mật Ong loại 1 (1 con),"330,600"
+3,Vịt quay mật ong loại 1 (nửa con),"165,300"
+4,Vịt quay mật ong  loại 2 (1 con),"304,500"
+5,Vịt quay mật ong  loại 2 (nửa con),"152,250"
+6,Bánh mì xá xíu,"23,500"
+7,Heo quay da giòn( 1kg),"304,500"
+8,Xá xíu (1kg),"304,500"
+9,Gà quay mật ong,"174,000"
+10,Bánh mì heo quay,"23,500"

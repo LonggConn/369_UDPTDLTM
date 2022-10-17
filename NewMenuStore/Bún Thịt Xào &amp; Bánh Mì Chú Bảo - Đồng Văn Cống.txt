@@ -1,0 +1,10 @@
+,Food,Price
+0,"BÁNH MÌ TRỨNG, GAN, XÍU MẠI","32,000"
+1,Bún xào,"27,000"
+2,Bánh mì chảo,"32,000"
+3,Bánh ướt,"27,000"
+4,XÍ MẠI ,"32,000"
+5,Combo- bánh mi-trứng-xiu mại-1 chai coca,"42,000"
+6,Combo-banh mì- trứng - gan-1 chai coca,"42,000"
+7,Combo Bánh Mi-xíu mại- 1 chai coca,"42,000"
+8,Nước ngọt coca,"15,000"

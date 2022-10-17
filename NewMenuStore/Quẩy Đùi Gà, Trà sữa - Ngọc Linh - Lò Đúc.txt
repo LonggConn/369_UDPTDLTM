@@ -1,0 +1,5 @@
+,Food,Price
+0,Quẩy Đùi Gà Ngọc Linh (Túi 30 Cái),"50,000"
+1,Quẩy Đùi Gà Ngọc Linh (Túi 10 cái),"17,000"
+2,Quẩy Đùi Gà Ngọc Linh (Túi 50 cái),"85,000"
+3,Quẩy Đùi Gà Ngọc Linh (Túi 100 cái),"165,000"

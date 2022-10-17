@@ -1,0 +1,5 @@
+,Food,Price
+0,Cá bóng nướng,"60,000"
+1,Cá chỉ vàng nướng,"60,000"
+2,Mực chiên bơ tỏi,"200,000"
+3,Mực nướng loại 1,"150,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Nướng Phô Mai Truyền Thống,"39,000"
+1,Bánh Nướng Phô Mai Socola,"39,000"
+2,Bánh Nướng Phô Mai Oreo,"42,000"
+3,Trà Sữa Trân Châu,"42,000"
+4,Sữa Tươi Trân Châu Đường Đen,"49,000"

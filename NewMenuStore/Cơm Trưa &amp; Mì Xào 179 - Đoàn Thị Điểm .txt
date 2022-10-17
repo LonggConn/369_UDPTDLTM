@@ -1,0 +1,12 @@
+,Food,Price
+0,Lẩu bắp bò tập tạ - bò viên gân,"170,000"
+1,Lẩu bò tùm lum ăn ngon đàng quàng,"170,000"
+2,Lòng đen thêm,"90,000"
+3,Nạm thêm thêm,"80,000"
+4,Lá mía thêmmm,"80,000"
+5,Lá xách trắng,"90,000"
+6,Tàu hủ ki,"25,000"
+7,Rau thêm,"25,000"
+8,Mì trứng thêm,"12,000"
+9,Thịt lòng thập cẩm,"100,000"
+10,Bò viên gân gân gân,"70,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm gà phần lớn + Tặng 01 Pepsi 0đ (Hoặc nước khác),"55,000"
+1,Pepsi,"12,000"
+2,Cơm gà phần vừa,"40,000"
+3,Cơm gà  phần nhỏ,"35,000"
+4,Cơm gà 1/4,"60,000"
+5,Cơm thêm,"5,000"
+6,Gà  Thêm,"35,000"
+7,Nước Ngọt,"12,000"
+8,Cơm Gà Lớn BigSize,"45,000"
+9,1/4 không cơm,"50,000"

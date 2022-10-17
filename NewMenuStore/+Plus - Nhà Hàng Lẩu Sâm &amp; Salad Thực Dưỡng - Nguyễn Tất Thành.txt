@@ -1,0 +1,6 @@
+,Food,Price
+0,Mỳ Sâm,"45,000"
+1,Combo Lẩu sâm Mộc Nhật,"379,000"
+2,Combo Lẩu sâm Hoả Thái,"379,000"
+3,Combo Lẩu sâm Kim Hàn,"359,000"
+4,Combo Lẩu sâm Thổ Việt,"399,000"

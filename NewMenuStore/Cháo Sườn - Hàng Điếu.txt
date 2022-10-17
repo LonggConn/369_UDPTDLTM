@@ -1,0 +1,11 @@
+,Food,Price
+0,Cháo Sườn Sụn Quẩy Ruốc,"37,000"
+1,Cháo Sườn Sụn Quẩy,"32,000"
+2,Cháo Sườn Sụn Ruốc,"32,000"
+3,Chè Đỗ Đen,"13,000"
+4,Cháo Sườn Sụn,"27,000"
+5,Nước Đỗ Đen Không Đường(1 chai),"13,000"
+6,Bánh Giò,"16,000"
+7,Cháo sườn sụn trứng vịt lộn,"34,000"
+8,Quẩy thêm,"6,000"
+9,Ruốc thêm,"6,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún riêu cua,"25,000"
+1,Bún riêu thập cẩm,"35,000"
+2,Bún riêu cua giò,"30,000"
+3,Bún riêu cua bò,"30,000"
+4,Bánh canh bò,"30,000"
+5,Bánh canh cua,"25,000"
+6,Bánh canh thập cẩm,"35,000"
+7,Bánh canh giò,"30,000"

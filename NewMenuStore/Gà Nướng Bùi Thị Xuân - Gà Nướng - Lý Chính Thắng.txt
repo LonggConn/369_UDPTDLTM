@@ -1,0 +1,7 @@
+,Food,Price
+0,Xôi chiên,"3,000"
+1,Chân gà nướng (cặp),"25,000"
+2,Cánh gà nướng (cái),"27,000"
+3,Mề gà (cái),"21,000"
+4,Đùi gà nướng (cái),"35,000"
+5,Gà nguyên con,"225,000"

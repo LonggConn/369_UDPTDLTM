@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún mắm nêm thập cẩm,"25,000"
+1,Bún thịt nướng,"25,000"
+2,Bún mắm nêm nem chả,"25,000"
+3,Bánh ướt thịt nướng,"25,000"

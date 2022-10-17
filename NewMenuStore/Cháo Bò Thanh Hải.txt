@@ -1,0 +1,8 @@
+,Food,Price
+0,Cháo bò Thanh Hải,"25,000"
+1,Cháo bò,"25,000"
+2,Cháo phèo,"25,000"
+3,Cháo gân,"25,000"
+4,Cháo giò,"25,000"
+5,Cháo mắt,"30,000"
+6,Cháo heo,"25,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Lẩu Gà Lá E,"250,000"
+1,Lẩu Hải Sản Chua Cay,"250,000"
+2,Lẩu Gà Lá É,"300,000"

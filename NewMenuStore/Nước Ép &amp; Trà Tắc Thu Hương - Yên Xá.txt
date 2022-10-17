@@ -1,0 +1,13 @@
+,Food,Price
+0,Nước ép dứa,"25,000"
+1,Nước chanh leo,"25,000"
+2,"Nước cam không đá, không đường","25,000"
+3,Sinh tố bơ,"35,000"
+4,Nước cam đá,"25,000"
+5,Nước sấu,"15,000"
+6,Nước ép dưa hấu,"25,000"
+7,Trà tắc + thạch,"20,000"
+8,Trà tắc,"15,000"
+9,Trà đào cam xả ,"20,000"
+10,Lipton thạch,"20,000"
+11,Nước chanh tươi,"15,000"

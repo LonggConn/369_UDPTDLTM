@@ -1,0 +1,9 @@
+,Food,Price
+0,Trà Tắc Xanh - Ly Khổng Lồ 1L,"19,000"
+1,Xá xíu phomai,"25,000"
+2,Cốm dừa,"15,000"
+3,Gạo lứt gà nấm phô mai,"27,000"
+4,Trà sữa xanh,"21,000"
+5,Trà sữa đỏ,"21,000"
+6,Trà Thái xanh,"16,000"
+7,Trà Thái đỏ,"16,000"

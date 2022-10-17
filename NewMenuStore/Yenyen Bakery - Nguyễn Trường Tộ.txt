@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh su kem Pháp,"30,000"
+1,Bánh kem cuộn trà xanh,"48,000"
+2,Bánh kem cuộn phủ socola,"75,000"

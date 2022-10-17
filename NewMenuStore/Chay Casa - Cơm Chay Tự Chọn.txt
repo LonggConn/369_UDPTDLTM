@@ -1,0 +1,7 @@
+,Food,Price
+0,Giò Lụa Chay (0.5kg),"75,000"
+1,Giò Nấm (0.5kg),"80,000"
+2,Sườn Dừa (0.5kg),"75,000"
+3,Chả Quế Chay (0.5kg),"75,000"
+4,Ruốc Nấm Casa (0.5kg),"125,000"
+5,Dồi Chay (0.5kg),"75,000"

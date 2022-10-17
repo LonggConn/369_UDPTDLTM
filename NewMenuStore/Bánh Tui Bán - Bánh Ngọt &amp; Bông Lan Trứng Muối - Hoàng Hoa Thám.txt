@@ -1,0 +1,6 @@
+,Food,Price
+0,Bông lan trứng muối,"120,000"
+1,Bông lan sữa chua,"80,000"
+2,Bánh mì tươi homemade,"6,000"
+3,Bông lan sốt bơ trứng,"50,000"
+4,Bông lan trứng muối nhuyễn,"60,000"

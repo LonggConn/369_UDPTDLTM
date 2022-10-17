@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Thịt Bò Sào,"25,000"
+1,Cơm Cá Biển Sốt Tiêu,"25,000"
+2,Cơm Thịt Kho Đậu,"25,000"
+3,Cơm Tôm Rang La Chanh,"25,000"
+4,Cơm Gà Sốt Chua Ngọt,"25,000"
+5,Cơm Thịt Gà Rang,"25,000"
+6,Bê Xào Xả Ớt,"25,000"
+7,Cơm Thịt Kho Dừa,"25,000"
+8,Cơm Gà Sào Sả Ớt,"25,000"
+9,Cơm Ga Chiên Mắm,"25,000"
+10,Cơm Mướp Đắng Nhồi Thịt,"25,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,1/2 Kg Gio Heo Rút xương ,"150,000"
+1,Má Heo Nướng ,"85,000"
+2,Gà nướng muối ớt,"169,000"
+3,1/2 Vịt nướng tieu mắc Mật ,"150,000"
+4,Giò heo rút xương nướng mắc mật - hạt rổi,"279,000"
+5,Vit Nướng Lá Mắc Mật ,"280,000"
+6,Gà nướng sa tế,"169,000"
+7,Vịt nướng tiêu,"280,000"
+8,Vịt Nướng Lạng Sơn ,"280,000"
+9,Bắp giò heo rút xương,"289,000"

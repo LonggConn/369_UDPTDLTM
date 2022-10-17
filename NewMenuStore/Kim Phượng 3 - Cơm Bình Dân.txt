@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm thịt muối sả chiên,"22,000"
+1,Cơm gà xối mỡ,"20,000"
+2,Cơm xá xíu,"20,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Cháo lòng,"34,000"
+1,Dĩa lòng + Cháo,"60,000"
+2,Cháo lòng đặc biệt,"45,000"
+3,Bún lòng,"40,000"
+4,Bún lòng đặc biệt,"50,000"
+5,Bún thịt nướng,"40,000"
+6,Bún thịt nướng đặc biệt,"50,000"
+7,Cơm tấm sườn trứng đặc biệt,"55,000"
+8,Cơm tấm sườn,"40,000"
+9,Cơm tấm sườn đặc biệt,"50,000"
+10,Cơm tấm sườn trứng,"45,000"

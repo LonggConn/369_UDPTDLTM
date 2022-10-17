@@ -1,0 +1,13 @@
+,Food,Price
+0,CƠM SƯỜN NON NƯỚNG,"45,000"
+1,CƠM SƯỜN NON CHIÊN SỐT MẮM,"45,000"
+2,CƠM BÒ XÀO,"47,000"
+3,CƠM SƯỜN CỐT LẾT RIM,"40,000"
+4,CƠM CHIÊN EM BÉ,"25,000"
+5,CƠM ĐÙI GÀ MẮM TỎI,"45,000"
+6,CƠM GÓC TƯ GÀ MẮM TỎI,"55,000"
+7,CƠM XÁ XÍU,"45,000"
+8,CANH RAU - CỦ,"5,000"
+9,ĐỒ CHUA,"1,000"
+10,CƠM NGHỆ CHIÊN ,"5,000"
+11,TRỨNG CHIÊN,"7,000"

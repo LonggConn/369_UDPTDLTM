@@ -1,0 +1,4 @@
+,Food,Price
+0,BÁNH TAM GIÁC KEBAB 🌮,"35,000"
+1,BÁNH CUỘN KEBAB 🌯,"40,000"
+2,BÁNH MÌ QUE TAKKI 🥖,"25,000"

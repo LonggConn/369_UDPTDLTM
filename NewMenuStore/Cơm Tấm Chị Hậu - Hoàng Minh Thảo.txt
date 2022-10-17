@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm sườn nướng thập cẩm đặc biệt ,"55,000"
+1,Cơm tấm sườn nướng ,"50,000"
+2,Cơm Sườn Nướng Thập Cẩm Đặc Biệt+1 Lon Coca,"75,000"
+3,Cơm Tấm Sườn Nướng+1 Lon Coca,"70,000"
+4,Cơm Tấm Sườn Nướng+ 1 Chai Coca,"65,000"
+5,1 Chai Coca 390ml,"15,000"
+6,1 Lon Coca,"20,000"
+7,1 Lon Sprite,"20,000"

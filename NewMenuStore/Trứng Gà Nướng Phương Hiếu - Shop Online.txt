@@ -1,0 +1,3 @@
+,Food,Price
+0,Trứng gà nướng,"7,000"
+1,Muối chấm  ,"60,000"

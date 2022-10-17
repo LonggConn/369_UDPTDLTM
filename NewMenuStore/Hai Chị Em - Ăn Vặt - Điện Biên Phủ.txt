@@ -1,0 +1,12 @@
+,Food,Price
+0,Chân Gà rút xương sốt Thái chua cay (500gr),"100,000"
+1,Chân Gà  rút xương ngâm sả tắc truyền thống 500gr,"100,000"
+2,Chân gà rút xương sốt bơ tỏi 500gr   mix xoài cóc,"100,000"
+3,Chân gà rút xương sốt  Pattaya 500gr,"100,000"
+4,Chân gà rút xương sốt thái chua cay-1kg,"200,000"
+5,Chân gà rút xương ngâm xả tắc 1kg,"200,000"
+6,chân gà rút xương sốt me   500gr mix xoài cóc,"100,000"
+7,Chân gà rút xương sốt sate -500,"100,000"
+8,Chân gà rút xương sốt Pattaya 1kg,"200,000"
+9,Chân gà rút xương sốt sate 1kg,"200,000"
+10,chân gà trộn Thái  mix trái cây ,"100,000"

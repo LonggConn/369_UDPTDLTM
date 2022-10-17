@@ -1,0 +1,6 @@
+,Food,Price
+0,Nộm Xoài Tai Heo 500g,"120,000"
+1,Nem nắm Giao Thủy Một Quả ,"45,000"
+2,Nộm Sứa 500g,"90,000"
+3,Ba Chỉ Rút Xườn Nướng 500g,"175,000"
+4,Thỏ rang muối ớt đặt trước 20p. 500g,"290,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Chay Thập Cẩm,"34,000"
+1,Nha Đam Mủ Trôm,"20,000"
+2,Sữa Bắp,"19,000"
+3,Bò Cụng,"19,000"
+4,Trà Xanh Không Độ,"16,000"
+5,Sting,"17,000"
+6,Trà Olong Tea+,"17,000"
+7,7 Up Chai 390ml,"14,000"
+8,Pepsi Chai 390ml,"14,000"

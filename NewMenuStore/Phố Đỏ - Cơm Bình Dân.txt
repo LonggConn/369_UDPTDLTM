@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Gà Rang,"35,000"
+1,Cơm Cá Kho Tộ,"35,000"
+2,Cơm Cá Kho,"35,000"
+3,Cơm Thịt Kho Tộ,"35,000"
+4,Cơm Rang,"35,000"
+5,Cơm Thịt Chiên Xào,"35,000"

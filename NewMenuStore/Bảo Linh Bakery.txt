@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh sinh nhật,"150,000"
+1,Bánh mặn chà bông,"12,000"
+2,Bánh ngọt,"10,000"

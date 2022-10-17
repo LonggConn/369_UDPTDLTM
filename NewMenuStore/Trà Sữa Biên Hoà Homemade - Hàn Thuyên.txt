@@ -1,0 +1,10 @@
+,Food,Price
+0,Cafe Sữa Đá,"18,000"
+1,Milo dằm,"30,000"
+2,Sữa tươi trân châu đường đen ,"25,000"
+3,Sữa chua trân châu thạch dừa ,"25,000"
+4,Trà sữa truyền thống ,"25,000"
+5,Cam Ép ,"25,000"
+6,Trà đào,"25,000"
+7,Cafe Đá ,"14,000"
+8,Bánh Plan Trân Châu Đường Đen,"25,000"

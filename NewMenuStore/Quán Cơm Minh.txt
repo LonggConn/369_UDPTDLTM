@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm sườn non rim mặn,"30,000"
+1,Cơm thịt kho tiêu,"30,000"
+2,Cơm ếch xào sả ớt,"30,000"
+3,Cơm gà kho gừng,"30,000"
+4,Cơm tôm rim,"30,000"
+5,Cơm cá basa kho,"30,000"

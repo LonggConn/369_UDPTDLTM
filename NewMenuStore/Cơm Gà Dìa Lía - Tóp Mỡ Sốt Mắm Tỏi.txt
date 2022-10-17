@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Gà Đùi Sốt Mắm Tỏi (Kèm Tóp Mỡ),"50,000"
+1,Cơm Má Đùi Sốt Mắm Tỏi (Kèm Tóp Mỡ),"50,000"
+2,Cơm Gà Góc Tư Sốt Mắm Tỏi (Đùi Khổng Lồ),"67,000"
+3,Cơm Xá Xíu Gốc Hoa (Bán Giới Hạn),"50,000"
+4,Cơm Trứng Ốp La - 2 Trứng (Kèm Tóp Mỡ),"35,000"
+5,Cơm thêm,"9,000"
+6,Gà thêm (sốt mắm tỏi),"35,000"
+7,Trà tắc,"15,000"

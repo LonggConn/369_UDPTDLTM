@@ -1,0 +1,3 @@
+,Food,Price
+0,Cơm chay,"15,000"
+1,Bánh bao chay (nhân nấm và rau củ),"10,000"

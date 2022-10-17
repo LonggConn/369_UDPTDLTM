@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh mì Thành Công,"48,000"
+1,Bánh mì may mắn,"48,000"
+2,Bánh mì tình yêu,"38,000"
+3,Sâm Bí Đao Hạt Chia,"20,000"
+4,Trà Quất Mật Ong,"20,000"
+5,Nước ép cà rốt,"30,000"
+6,Nước Ép Dứa,"30,000"
+7,Nước Cam Tươi,"40,000"
+8,Nước Ép Ổi,"30,000"
+9,Nướp ép Dưa Hấu,"30,000"
+10,Cao Lầu Hội An ,"55,000"

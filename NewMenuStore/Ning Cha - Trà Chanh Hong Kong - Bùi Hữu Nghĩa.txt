@@ -1,0 +1,10 @@
+,Food,Price
+0,Trà Oolong Chanh Dây,"31,000"
+1,Trà Chanh Hong Kong,"31,000"
+2,Hồng Trà Tắc,"25,000"
+3,Lục trà chanh,"25,000"
+4,Hồng trà đường sủi bọt,"26,000"
+5,Lục trà đường sủi bọt,"25,000"
+6,Trà Oolong Sấy Nguyên Lá,"20,000"
+7,Trà Sữa Oolong Lắc,"39,000"
+8,COMBO: 2 Lục Trà Đại Tỷ + 2 Trà Sữa Hong Kong Chính Tông,"140,000"

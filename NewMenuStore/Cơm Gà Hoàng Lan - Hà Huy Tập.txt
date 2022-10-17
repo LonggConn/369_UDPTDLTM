@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm gà xé,"45,000"
+1,Cơm cánh gà quay,"50,000"
+2,Cơm đùi gà quay,"65,000"
+3,Cơm gà chặt,"65,000"
+4,Cơm sườn trứng,"38,000"
+5,Cơm thêm,"10,000"
+6,Cơm gà xả ớt,"50,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Chân Gà Sốt Thái - 700gr ,"120,000"
+1,Chân Gà Sốt Thái ,"120,000"
+2,Chân Gà Sốt Thái 700gr,"120,000"
+3,Chân Gà Sốt Thái - 700gr,"120,000"
+4,CHÂN Gà Sốt Thái - 700gr,"120,000"
+5,Chân Gà Sốt Thái,"120,000"

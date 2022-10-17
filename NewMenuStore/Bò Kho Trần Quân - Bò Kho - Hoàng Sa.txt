@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh mì bò kho,"45,000"
+1,Hủ tiếu bò kho,"50,000"
+2,Bánh Mì Bò Kho Đặc Biệt,"60,000"
+3,Bánh mì xíu mại,"45,000"
+4,Mì Gói Bò Kho,"50,000"
+5,Bánh Mì Bò La,"50,000"
+6,Nước Mía,"11,000"
+7,Nước Ép Thơm,"27,000"
+8,Nước Chanh,"18,000"
+9,Nước Ép Cà Rốt,"27,000"
+10,Nước Ép Cam,"27,000"
+11,Nước Ép Cà Chua,"27,000"

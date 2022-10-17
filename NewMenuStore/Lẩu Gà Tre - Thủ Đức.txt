@@ -1,0 +1,15 @@
+,Food,Price
+0,Lẩu sả ớt (Nhỏ),"189,000"
+1,Gà tre lá giang (Nhỏ),"179,000"
+2,Lẩu Xả Ớt (Lớn) Nguyên Con,"279,000"
+3,Lẩu Gà Tre Tiềm Ớt Hiểm,449
+4,Gà Tre Lá Giang (Lớn) Nguyên Con,"259,000"
+5,Nấm Thêm,"30,000"
+6,Lẩu sả ớt,"20,000"
+7,Xà lách xoong,"20,000"
+8,Lá giang thêm ,"10,000"
+9,Mì tôm,"12,000"
+10,Mồng tơi,"15,000"
+11,Mướp,"15,000"
+12,"Cải thảo, rau chuối","15,000"
+13,Lẩu lá giang,"15,000"

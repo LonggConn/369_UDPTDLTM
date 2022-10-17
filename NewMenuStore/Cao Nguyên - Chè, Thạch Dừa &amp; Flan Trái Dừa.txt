@@ -1,0 +1,11 @@
+,Food,Price
+0,Thạch Dừa,"15,000"
+1,Dừa xiêm nhỡ bật nắp .,"28,000"
+2,Dừa Xiêm Xuất Khẩu Size L,"35,000"
+3,Nước dừa xiêm 500ml,"45,000"
+4,Dừa xiêm  nguyên trái bật nắp,"30,000"
+5,Dừa xiêm xuất khẩu size S,"25,000"
+6,Nước dừa xiêm 1l,"90,000"
+7,Dừa Xiêm Xuất Khẩu  size M,"30,000"
+8,Dừa xiêm xuất khẩu size L,"30,000"
+9,Dừa xiêm xuất khẩu size M,"27,000"

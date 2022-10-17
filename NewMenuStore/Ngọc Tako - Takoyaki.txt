@@ -1,0 +1,9 @@
+,Food,Price
+0,1V Takoyaki  - Vị truyền thống ,"5,900"
+1,6V Takoyaki - Vị truyền thống ,"38,400"
+2,4V Takoyaki  - Vị truyền thống ,"25,400"
+3,5V Takoyaki - Vị truyền thống ,"31,900"
+4,1V Takoyaki  - Vị Phô mai ,"5,900"
+5,4V Takoyaki - Vị Phô mai ,"25,400"
+6,6V Takoyaki  - Vị Phô mai ,"38,400"
+7,5V Takoyaki  - Vị Phô mai ,"31,900"

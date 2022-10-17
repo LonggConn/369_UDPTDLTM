@@ -1,0 +1,9 @@
+,Food,Price
+0,Salad cá hồi,"62,000"
+1,Salad cá ngừ,"59,000"
+2,Salad Thanh Cua - Trứng Tôm,"39,000"
+3,Salad Bạch tuộc Nhật ,"59,000"
+4,Sashimi cá hồi,"85,000"
+5,Sashimi cá trích ép trứng,"85,000"
+6,Sashimi bạch tuộc Nhật,"85,000"
+7,Sashimi sò đỏ,"99,000"

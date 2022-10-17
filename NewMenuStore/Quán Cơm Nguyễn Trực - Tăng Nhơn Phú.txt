@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm ba rọi chiên,"25,000"
+1,Cơm thịt kho trứng,"25,000"
+2,Cơm cá rô kho mắm chưng,"25,000"
+3,Cơm thịt xào mắm ruốt,"25,000"
+4,Cơm gà kho gừng,"25,000"
+5,Cơm cá ba xa kho,"25,000"
+6,Cơm cá ngừ kho thơm,"25,000"
+7,Cơm cá lốc kho,"25,000"
+8,Cơm mắm kho,"25,000"
+9,Cơm ếch kho xã,"25,000"
+10,Cơm thịt kho tiêu,"25,000"
+11,Cơm sườn kho gà chiên,"25,000"

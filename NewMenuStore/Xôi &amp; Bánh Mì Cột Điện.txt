@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh mì vừa,"30,000"
+1,Bánh mì lớn,"40,000"
+2,Bánh mì ca dé,"20,000"
+3,Bánh mì bơ đậu phộng,"20,000"
+4,Bánh mì cá mòi,"30,000"
+5,Xôi vừa,"25,000"
+6,Xôi lớn,"35,000"

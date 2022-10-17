@@ -1,0 +1,8 @@
+,Food,Price
+0,Lẩu Gà Lá É Nhỏ,"210,000"
+1,Lẩu Gà Lá É Lớn,"300,000"
+2,Lẩu Gà Lá É Vừa,"270,000"
+3,Ngọc kê sống (món thêm kèm lẩu),"70,000"
+4,Lòng Gà Xào Mướp,"69,000"
+5,Lòng Gà Xào Tỏi,"70,000"
+6,Cánh Gà Chiên Nước Mắm,"70,000"

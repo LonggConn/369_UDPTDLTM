@@ -1,0 +1,12 @@
+,Food,Price
+0,Chả cốm non  HÀ NỘI - Loại Đặc Biệt- 500gram,"240,000"
+1,Chả cốm tươi- Chuẩn ngon Loại 500gram,"200,000"
+2,Chả cá thì là HÀ NỘI - hàng loại 1- 500gram,"210,000"
+3,Chả ốc HÀ NỘI - hàng loại 1- 500gram,"260,000"
+4,Chả Nem Cua Bể,"280,000"
+5,Chả bì thì là 500gram,"240,000"
+6,Chả sụn bổ sung collagen 500gram,"290,000"
+7,Chả bò thì là 500gram,"330,000"
+8,Chả Nem Bề Bề,"280,000"
+9,Kẹo thổi bong bóng Playmore 40g,"29,000"
+10,Kẹo máy chiếu,"79,000"

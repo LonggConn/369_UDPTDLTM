@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh rau câu sinh nhật ,"150,000"
+1,Chè Dưỡng Nhan,"20,000"
+2,Sữa chua lắc yogurt,"16,000"

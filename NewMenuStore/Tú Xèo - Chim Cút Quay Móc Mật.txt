@@ -1,0 +1,12 @@
+,Food,Price
+0,Chim Quay Nhỡ,"20,000"
+1,Chim Quay To,"40,000"
+2,Cút Xào Me,"30,000"
+3,Nem Chua Rán x 10 Cái,"50,000"
+4,Đùi Gà Bó Xôi,"40,000"
+5,Khoai Tây Chiên,"30,000"
+6,Khoai Lang Kén,"25,000"
+7,Cút Luộc x 10 Quả,"20,000"
+8,Gà Lắc Trân Châu,"30,000"
+9,Phomai Que x 10 Cái,"60,000"
+10,Khoai Lang Chiên,"35,000"

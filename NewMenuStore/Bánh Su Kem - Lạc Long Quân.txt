@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh su kem truyền thống (10 cái),"50,000"
+1,Bánh su kem truyền thống (5 cái),"25,000"
+2,Bánh su kem hương trà xanh (10 cái),"50,000"
+3,Bánh su kem hương socola (10 cái),"50,000"
+4,Bánh su kem hương trà xanh (5 cái),"25,000"
+5,Bánh su kem hương socola (5 cái),"25,000"

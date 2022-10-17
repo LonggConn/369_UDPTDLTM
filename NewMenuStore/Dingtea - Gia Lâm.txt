@@ -1,0 +1,11 @@
+,Food,Price
+0,Hồng trà,"25,000"
+1,Xanh nhài,"25,000"
+2,Trà oolong,"25,000"
+3,Cà phê Hokkaido,"39,000"
+4,Cà phê truyền thống,"32,000"
+5,Sữa chua uống vị trà xanh,"39,000"
+6,Sữa chua xoài,"39,000"
+7,Nước chanh mật ong - size L,"39,000"
+8,Nước kiwi lô hội - size M,"37,000"
+9,Nước kiwi lô hội - size L,"44,000"

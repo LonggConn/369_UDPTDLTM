@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh kem bắp sữa tươi (best seller),"50,000"
+1,Egg Tart (Hộp 4),"65,000"
+2,BLTM đặc biệt 2 loại sốt,"70,000"
+3,Bánh thuyền hạt mix vị hộp 12 cái,"105,000"
+4,BLTM truyền thống,"75,000"
+5,Singapore Choux kem Vani (Hộp 4 ),"60,000"
+6,Bánh Chuối Thượng Hải,"27,000"

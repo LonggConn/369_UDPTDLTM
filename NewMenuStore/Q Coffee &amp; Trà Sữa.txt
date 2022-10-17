@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà sữa thảo mộc hoa đậu trân châu 3Q trắng,"45,000"
+1,Trà sữa trân châu truyền thống,"45,000"
+2,Banh plan trân châu,"30,000"
+3,Cà phê sữa đá nguyên chất ,"25,000"
+4,Trà đào cam xả/ly 700ml,"35,000"
+5,Trà sưa socola trân châu  3Q trắng,"45,000"
+6,Bạc xỉu đá,"28,000"
+7,Cà phê kem trứng,"30,000"
+8,Trà sữa matcha trân châu 3Q trắng,"45,000"
+9,Cà phê đen đá nguyên chất,"20,000"
+10,Sinh tố dâu,"35,000"

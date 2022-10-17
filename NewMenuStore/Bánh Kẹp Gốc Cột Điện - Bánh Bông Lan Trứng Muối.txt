@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh bông lan trứng muối phô mai + chà bông,"45,000"
+1,Bánh bông lan trứng muối,"30,000"
+2,Bánh bông lan trứng muối chà bông,"35,000"
+3,Bánh bông lan trứng muối phô mai,"40,000"

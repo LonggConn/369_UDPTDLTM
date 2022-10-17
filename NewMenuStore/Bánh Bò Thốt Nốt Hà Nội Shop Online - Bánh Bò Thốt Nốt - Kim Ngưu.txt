@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh bò lá dứa ,"95,000"
+1,Bánh bò truyền thống ,"95,000"
+2,Mix 2 vị,"180,000"
+3,Đường thốt nốt nguyên chất,"90,000"

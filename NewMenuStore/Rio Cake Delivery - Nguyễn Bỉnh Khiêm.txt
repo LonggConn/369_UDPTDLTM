@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh bao nướng Hồng Kông nhân Bò Tiêu Đen,"162,000"
+1,Bánh mì đen nguyên cám,"150,000"
+2,Phá lấu heo,"400,000"
+3,Sốt Mì ý Bolonaise(500 G),"190,000"
+4,Chả Giò Chay,"180,000"

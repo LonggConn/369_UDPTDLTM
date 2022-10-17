@@ -1,0 +1,6 @@
+,Food,Price
+0,"Cà Phê Năng Lượng (đen, nóng)","19,000"
+1,Chanh Muối Mật Ong - Size M,"22,000"
+2,Trà Atisô Đỏ Hạt Chia - Size M,"22,000"
+3,Trà Đào Hạt Chia - Size M,"22,000"
+4,Trà Hoa Đậu Biếc Hạt Chia - Size M,"22,000"

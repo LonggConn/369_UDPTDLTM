@@ -1,0 +1,12 @@
+,Food,Price
+0,Sữa tươi trân châu đường đen,"30,000"
+1,Trà đào,"25,000"
+2,Trà vải,"25,000"
+3,Nước Mía Khổng Lồ,"15,000"
+4,Rau Má Đậu Xanh,"20,000"
+5,Bánh Tráng Cuộn ,"30,000"
+6,Bánh Tráng Trộn,"30,000"
+7,Trà Tắc Xí Muội,"20,000"
+8,Cam Vắt,"20,000"
+9,Rau má Sữa,"20,000"
+10,Trà Dâu,"25,000"

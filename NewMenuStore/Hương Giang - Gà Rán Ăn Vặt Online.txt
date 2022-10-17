@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Chiên Thập Cẩm,"30,000"
+1,Đùi Gà Không Lối Thoát,"40,000"
+2,Xôi Xéo Gà Chiên Mắm,"40,000"
+3,Đùi Gà Rán,"30,000"
+4,Đùi Gà Chiên Mắm,"30,000"
+5,Cơm Trắng Gà Chiên Mắm,"40,000"

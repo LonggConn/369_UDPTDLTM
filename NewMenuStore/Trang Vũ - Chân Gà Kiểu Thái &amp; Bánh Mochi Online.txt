@@ -1,0 +1,15 @@
+,Food,Price
+0,Chân Gà Rút Xương,"120,000"
+1,Mochi Kem Lạnh - Mix Random nhiều vị,"80,000"
+2,Bánh Bao Kim Sa,"80,000"
+3,Quy Linh Cao,"30,000"
+4,Mochi Kem Lạnh - Vị Matcha,"80,000"
+5,Mochi Kem Lạnh - Vị Sầu Riêng,"80,000"
+6,Bánh Bao Xá Xíu,"80,000"
+7,Bánh Bao Mix,"80,000"
+8,Mochi Kem Lạnh - Vị Xoài,"80,000"
+9,Mochi Kem Lạnh - Vị Phúc Bồn Tử,"80,000"
+10,Bánh Bao Matcha Trà Xanh,80
+11,Mochi Kem Lạnh - Vị Caramel,"80,000"
+12,Mandu  nhân thịt bibigo,"140,000"
+13,Mochi Kem Lạnh - Vị Việt Quất,"80,000"

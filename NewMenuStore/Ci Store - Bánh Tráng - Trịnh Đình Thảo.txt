@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh tráng nướng sẵn cốt dừa,"12,800"
+1,Bánh tráng nướng sẵn gạo mè,"12,200"
+2,Nước tương ớt sắc,"4,000"
+3,Yaourt bịch,"15,000"
+4,Rong mứt biển sấy khô tẩm gia vị,"35,000"
+5,BÁNH FLAN CARAMEL,"12,000"

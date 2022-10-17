@@ -1,0 +1,4 @@
+,Food,Price
+0,Bò Bía Trứng - 5 Cuốn,"35,000"
+1,Bò Bía Mặn - 5 Cuốn,"30,000"
+2,Bò Bía Chay - 5 Cuốn,"25,000"

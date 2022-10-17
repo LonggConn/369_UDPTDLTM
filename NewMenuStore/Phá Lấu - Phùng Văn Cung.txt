@@ -1,0 +1,12 @@
+,Food,Price
+0,Phá lấu (chén),"40,000"
+1,Phá lấu xào me,"40,000"
+2,Phá Lấu Xào Bơ,"40,000"
+3,Phá  Lấu Xào Sate,"40,000"
+4,Phá Lấu Xào Tỏii,"40,000"
+5,Bánh mì,"4,000"
+6,Mì khô phá lấu,"45,000"
+7,Mì xào me,"45,000"
+8,Mì xào tỏi,"45,000"
+9,Mì Xào Bò,"45,000"
+10,Mì Gà Da Giòn,"45,000"

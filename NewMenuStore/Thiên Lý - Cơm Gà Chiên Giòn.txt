@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm gà đùi tỏi,"30,000"
+1,Cơm gà đùi góc tư,"45,000"
+2,Cơm gà má đùi,"30,000"
+3,Cơm thêm,"5,000"
+4,Đùi tỏi thêm,"24,000"

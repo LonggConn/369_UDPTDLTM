@@ -1,0 +1,3 @@
+,Food,Price
+0,Hộp Nem Thịt Cuốn Nhỏ ĐL 450gr,"120,000"
+1,Nước chấm Chua Ngọt500ml,"32,000"

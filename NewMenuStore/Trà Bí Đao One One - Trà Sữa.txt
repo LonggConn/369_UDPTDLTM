@@ -1,0 +1,7 @@
+,Food,Price
+0,Trà Bí Đao Full Topping ( L),"24,000"
+1,Trà Bí Đao full topping (M),"19,000"
+2,Trà Bí Đao Nha Đam (L),"20,000"
+3,Trà Bí Đao Trân Châu Trắng ( L),"20,000"
+4,Trà Bí Đao Hạt Chia Sương Sáo (L),"20,000"
+5,Trà Sữa Bí Đao,"30,000"

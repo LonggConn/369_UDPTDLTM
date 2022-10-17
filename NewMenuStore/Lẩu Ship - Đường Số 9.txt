@@ -1,0 +1,10 @@
+,Food,Price
+0,Lẩu ba  chỉ bò mỹ,"199,000"
+1,Lẩu xí quách heo rừng + cá thác lác,"250,000"
+2,Lẩu Thái cá tầm,"299,000"
+3,Lẩu Thái cá bóp,"299,000"
+4,Lẩu cá dứa măng chua,"170,000"
+5,"Cá đù 1 nắng tẩm gia vị  0,5kg","110,000"
+6,Heo  giả cầy,"100,000"
+7,Cá dứa 1 nắng nguyên con,"150,000"
+8,"Bò 1 nắng muối kiến vàng  0,5kg","285,000"

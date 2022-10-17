@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh Cuốn Thịt Nướng ,"20,000"
+1,Bún Thịt Nướng Nước Lèo,"20,000"
+2,Bún Thịt Nướng Mắm Nêm,"20,000"
+3,Bún Thịt Nướng Nước Mắm,"20,000"
+4,Bánh Nậm,"15,000"
+5,Bánh Lọc,"15,000"
+6,Bánh Bèo,"15,000"
+7,Bún Lộn Xộn Mắm Nêm,"25,000"
+8,Bánh Ướt ,"15,000"
+9,Bún Thịt Đầu Mắm Nêm,"20,000"

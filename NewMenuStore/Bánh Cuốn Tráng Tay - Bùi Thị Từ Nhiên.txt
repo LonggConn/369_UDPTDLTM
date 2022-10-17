@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh Cuốn Nhân,"25,000"
+1,Bánh Cuốn Chay,"20,000"
+2,Bánh cuốn trứng,"20,000"
+3,Bánh cuốn chay,"15,000"

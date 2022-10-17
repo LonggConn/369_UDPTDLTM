@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm Cháy Chiên Mắm Hành,"13,500"
+1,"Khô Gà Lá Chanh 1kg, Giòn Ngon Hương Vị Đậm Đà","207,000"
+2,Khô Gà Lá Chanh 500gr ,"108,000"

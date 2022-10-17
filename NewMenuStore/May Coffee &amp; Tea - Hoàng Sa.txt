@@ -1,0 +1,7 @@
+,Food,Price
+0,Cafe sữa,"20,000"
+1,Cafe đen,"18,000"
+2,Trà  sữa dưỡng nhan ( hạt chia),"28,000"
+3,Trà sữa  thanh nhiệt (nha đam),"28,000"
+4,Trà sữa trà đen,"19,000"
+5,Trà dâu đông du,"25,000"

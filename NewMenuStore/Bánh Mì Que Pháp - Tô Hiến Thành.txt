@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Mì Pate Giăm Bông,"25,000"
+1,Bánh bao cade,"8,000"
+2,Bánh bao 2 trứng Thọ Phát,"20,000"
+3,Bánh mì que - Cay,"12,000"
+4,Bánh mì que - Không cay,"12,000"

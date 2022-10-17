@@ -1,0 +1,7 @@
+,Food,Price
+0,Gà xối mỡ (1/2 con),"130,000"
+1,Gà hấp nửa con,"130,000"
+2,Gà xé bóp gỏi (nửa con),"150,000"
+3,Gà xối mỡ nguyên con,"280,000"
+4,Gà hấp nguyên con,"280,000"
+5,Gà xé bóp gỏi nguyên con,"320,000"

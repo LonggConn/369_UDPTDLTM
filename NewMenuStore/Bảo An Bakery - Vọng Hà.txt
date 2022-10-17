@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Sinh Nhật - 18cm,"120,000"
+1,Bánh Sinh Nhật - 20cm,"180,000"
+2,Bánh Sinh Nhật - 26cm,"280,000"
+3,Bánh Sinh Nhật - 30cm,"350,000"
+4,Bánh Sinh Nhật - 35cm,"500,000"

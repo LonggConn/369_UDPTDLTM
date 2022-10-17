@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm thịt nướng,"43,000"
+1,Cơm sườn nướng,"47,000"
+2,Cơm Thịt sườn  nướng ,"47,000"
+3,Cơm gà rán,"45,000"
+4,Chả trứng,"7,000"
+5,Trứng ốp la,"7,000"
+6,Thịt nướng xuất 2 người ,"55,000"
+7,Thịt nướng xuất 4 người ,"110,000"
+8,CoCa ,"12,000"
+9,Sting ,"14,000"
+10,Bún chả quạt ,"37,000"

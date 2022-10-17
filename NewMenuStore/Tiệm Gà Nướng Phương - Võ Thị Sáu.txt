@@ -1,0 +1,5 @@
+,Food,Price
+0,Gà nướng 1/2 con ,"145,000"
+1,Gà Nướng Muối Ớt ,"290,000"
+2,Gà nướng nguyên con ,"290,000"
+3,Gà Nướng Ướp Gia Vị Lá Mắt Mật ,"290,000"

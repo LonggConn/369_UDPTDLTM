@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh Bao Gà Quay Trứng Mặn,"50,000"
+1,Bánh Bao Xíu Mại Xá Xíu,"60,000"
+2,Bánh Bao Chay,"10,000"
+3,Sữa Đậu,"15,000"

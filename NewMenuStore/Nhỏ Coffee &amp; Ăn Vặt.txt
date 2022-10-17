@@ -1,0 +1,8 @@
+,Food,Price
+0,Trà sữa nhà làm trân châu trắng,"15,000"
+1,Tắc tươi xay,"10,000"
+2,Cookie đá xay,"20,000"
+3,Caramel đá xay,"20,000"
+4,Chanh tuyết đá xay,"20,000"
+5,Cà phê sữa,"15,000"
+6,Cà phê,"12,000"

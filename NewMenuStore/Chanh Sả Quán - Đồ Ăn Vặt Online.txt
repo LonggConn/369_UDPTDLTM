@@ -1,0 +1,4 @@
+,Food,Price
+0,Size M - Khô Gà Nhà Làm,"60,000"
+1,Size S - Khô Gà Nhà Làm,"31,000"
+2,Size L - Khô Gà Nhà Làm,"88,000"

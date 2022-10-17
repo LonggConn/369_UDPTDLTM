@@ -1,0 +1,12 @@
+,Food,Price
+0,Gà ủ muối hoa tiêu 1/2 con,"121,500"
+1,GÀ Ủ MUỐI HOA TIÊU NỬA CON ( HẤP NÓNG),"121,500"
+2,GÀ Ủ MUỐI HOA TIÊU MỘT CON (CHẶT SẴN),"216,000"
+3,GÀ Ủ MUỐI HOA TIÊU NỬA  CHẶT SẴN ĂN LẠNH,"117,000"
+4,Gà ủ muối hoa tiêu ôm trứng 1 con,"220,500"
+5,GÀ Ủ MUỐI HOA TIÊU NGUYÊN CON CÓ ĐẦU,"234,000"
+6,Chân Gà Rút Xương Ủ  Muối Hoa Tiêu,"117,000"
+7,Râu bạch tuộc khủng lồ hấp,"117,000"
+8,Lườn ngỗng hun khói,"112,500"
+9,Dồi sụn non chiên vàng,"117,000"
+10,Chân  Gà Rút Xương Hấp Rau Răm,"108,000"

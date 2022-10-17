@@ -1,0 +1,4 @@
+,Food,Price
+0,Ngô chiên,"40,000"
+1,Khoai tây chiên bơ,"40,000"
+2,Cơm Bếp Hạnh,"12,000"

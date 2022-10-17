@@ -1,0 +1,8 @@
+,Food,Price
+0,Sữa Tươi  cafe sương sáo,"27,000"
+1,Sữa Tươi cacao sương sáo,"27,000"
+2,Sữa Tươi sương sáo sâm dứa,"27,000"
+3,Sữa Tươi sương sáo đường đen,"27,000"
+4,Sữa Tươi Matcha sương sáo,"27,000"
+5,Bạc sĩu,"22,000"
+6,Sương  sáo,"7,000"

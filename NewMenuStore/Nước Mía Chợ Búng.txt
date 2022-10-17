@@ -1,0 +1,5 @@
+,Food,Price
+0,Nước mía sầu riêng,"19,000"
+1,Nước Mía Truyền Thống,"15,000"
+2,Nước mía cốt dừa,"19,000"
+3,Nước mía cam,"19,000"

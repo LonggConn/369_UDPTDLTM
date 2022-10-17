@@ -1,0 +1,13 @@
+,Food,Price
+0,Phở hai món không xương,"35,000"
+1,Phở thập cẩm xương,"50,000"
+2,Phở thập cẩm không xương,"40,000"
+3,Phở xương + thịt bò,"45,000"
+4,Phở nhiều bánh + thịt,"45,000"
+5,Phở 1 món không xương,"30,000"
+6,Trứng gà thêm,"7,000"
+7,Thịt thêm,"25,000"
+8,Xương,"40,000"
+9,Chén tiết,"13,000"
+10,Bánh phở thêm,"5,000"
+11,Nước ngọt,"10,000"

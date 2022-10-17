@@ -1,0 +1,7 @@
+,Food,Price
+0,Lòng gà xào mướp,"100,000"
+1,Mì xào lòng gà,"100,000"
+2,Cánh gà chiên nước mắm,"130,000"
+3,Chân gà hấp hành,"130,000"
+4,Gà xào sả ớt,"130,000"
+5,Sài Gòn đỏ,"13,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Cá Lóc Nướng - lớn,"140,000"
+1,Heo Nướng Giả Cầy,"40,000"
+2,Cá Lóc Nướng Đặc Biệt,"150,000"

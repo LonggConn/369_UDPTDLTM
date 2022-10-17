@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún chả,"65,000"
+1,Bún chả đặc biệt,"80,000"
+2,Bún nem cua,"85,000"
+3,Bún nem,"57,000"
+4,Bún bánh tôm,"65,000"
+5,Nem cua,"17,000"
+6,Nem thường,"10,000"
+7,Bánh tôm (cái),"12,000"
+8,Bún thêm,"5,000"
+9,Thit Thêm,"48,000"
+10,Rau Thêm,"12,000"

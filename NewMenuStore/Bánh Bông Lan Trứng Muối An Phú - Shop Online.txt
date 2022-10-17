@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh Cookie Hạnh Nhân,"130,000"
+1,2 Hộp bánh cookie hạnh nhân,"300,000"
+2,Bông lan sốt phô mai trứng muối,"100,000"
+3,Bánh Bông Lan Trứng Muối  Trà Bông Cay 14cm,"65,000"
+4,Bánh bông lan sốt phô mai trứng muối,"140,000"
+5,Bánh Bông Lan Sốt Trứng Muối Trà Bông Cay Size 18cm,"100,000"
+6,Bánh Bông Lan Trứng Muối Sốt Pho Mai ,"100,000"
+7,Bánh Bông Lan Trứng muối Sốt Pho Mai 18cm,"140,000"
+8,Bông Lan Sốt Bơ Trà Bông Trứng Muối ,"70,000"

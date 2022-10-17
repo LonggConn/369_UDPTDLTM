@@ -1,0 +1,10 @@
+,Food,Price
+0,Kim chi chay 400g,"85,000"
+1,Chả Giò Chay Đặc Biệt 5 Cuốn,"35,000"
+2,Sườn Chay Ướp Sẵn Gia Vị 6 Miếng,"60,000"
+3,Tàu hũ ky tươi NON-GMO 500g,"70,000"
+4,Thịt Kho Trứng Chay 250g,"60,000"
+5,Thịt Kho Tiêu Chay Ăn Liền 200g,"50,000"
+6,Sườn Non Đặc Biệt 100g,"35,000"
+7,Chao Bông Mai 250g ,"45,000"
+8,Sâm Thảo Dược Mía Lau,"15,000"

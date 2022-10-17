@@ -1,0 +1,13 @@
+,Food,Price
+0,Há cảo thập cẩm + Trà đào (M),"40,000"
+1,Há cảo thập cẩm + Trà sữa (M),"40,000"
+2,Há cảo tôm thịt,"19,000"
+3,Há cảo tôm ,"19,000"
+4,Há cảo thịt,"19,000"
+5,Trà đào (500ml),"19,000"
+6,Trà đào (700ml),"24,000"
+7,Trà sữa full topping (500ml),"19,000"
+8,Trà sữa full topping (700ml),"24,000"
+9,Bánh flan trân châu,"19,000"
+10,Milo bánh flan trân châu,"21,000"
+11,Yaourt dâu trân châu,"19,000"

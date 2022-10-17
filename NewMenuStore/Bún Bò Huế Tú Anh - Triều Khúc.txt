@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún bò Huế đầy Đủ,"44,000"
+1,Bún bò Huế ko móng,"38,000"
+2,Quẩy,"2,000"
+3,Bún mọc,"32,000"
+4,Bún bò Huế thêm chả cua,"50,000"
+5,Coca Chai,"10,000"
+6,Pepsi Chai,"10,000"
+7,Bò Húc,"25,000"
+8,Coca Lon,"20,000"

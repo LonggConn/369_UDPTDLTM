@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún Đậu Mắm Tôm Đầy Đủ,"38,500"
+1,Bún Cá,"33,500"
+2,Bún trộn cá,"32,000"
+3,Bún đậu  chả cốm  dồi sụn nem,"32,000"

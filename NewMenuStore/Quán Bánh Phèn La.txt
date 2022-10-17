@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh Phèn La Sữa Tươi,"35,000"
+1,Bánh Phèn La Truyền Thống,"35,000"

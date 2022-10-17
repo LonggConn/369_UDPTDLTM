@@ -1,0 +1,12 @@
+,Food,Price
+0,Râu Bạch Tuột Sốt Thái (Vừa),"99,000"
+1,Râu Bạch Tuộc Sốt Thái (Lớn),"180,000"
+2,Chân Gà Rút Xương Sốt Thái 119,"111,000"
+3,Chân Gà Rút Xương Sốt Thái 169,"161,000"
+4,Chân Gà Rút Xương Sốt Thái 209,"199,000"
+5,Chân Gà Quái Thú (rút xương),"105,000"
+6,Chân Gà Rút Xương Ủ Muối (250gr),"75,000"
+7,Khoai Lang Kén (250gr),"43,000"
+8,"Set Cá, Bò, Tôm viên chiên","77,000"
+9,Chân Gà Rút Xương Sốt Thái 65,"65,000"
+10,Chân Gà Rút Xương Đông Lạnh 1kg,"135,000"

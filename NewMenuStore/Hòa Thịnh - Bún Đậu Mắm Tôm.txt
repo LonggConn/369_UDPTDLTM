@@ -1,0 +1,11 @@
+,Food,Price
+0,"Bún đậu mắm tôm (đậu, thịt, chả cuốn, chả cốm)","40,000"
+1,Bún thêm,"7,000"
+2,Chả cốm,"12,000"
+3,Chả cuốn,"10,000"
+4,Coca,"15,000"
+5,Bò húc,"15,000"
+6,Bún đậu chay,"27,000"
+7,Bún đậu chả cốm,"35,000"
+8,Bún đậu chả cuốn,"35,000"
+9,Bún đậu thịt ,"35,000"

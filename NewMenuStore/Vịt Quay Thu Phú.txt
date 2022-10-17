@@ -1,0 +1,8 @@
+,Food,Price
+0,1/2Vịt Quay To + Gà+ 1 Bia333,"259,000"
+1,Laizai 2,"270,000"
+2,Măng Ớt Cay,"15,000"
+3,Con Vịt To Nguyên Con,"295,000"
+4,Cocacola,"15,000"
+5,Gà   Ủ muối,"95,000"
+6,Nộm Chân Vịt Rút Xương,"65,000"

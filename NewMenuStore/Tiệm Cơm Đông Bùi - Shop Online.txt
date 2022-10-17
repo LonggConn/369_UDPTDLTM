@@ -1,0 +1,5 @@
+,Food,Price
+0,Bò Xào Hành Tây,"35,000"
+1,Ba Chỉ Rang Mặn Ngọt,"35,000"
+2,Ngan Giả Cầy,"35,000"
+3,Trứng Đúc Thịt,"35,000"

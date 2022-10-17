@@ -1,0 +1,9 @@
+,Food,Price
+0,Cháo Ếch Kho Singapore 2Con,"80,000"
+1,Rau Luộc,"15,000"
+2,Cơm Ếch Kho Singapore  2Con + Rau Luộc,"95,000"
+3,Cháo Ếch Kho Singapore 3Con,"110,000"
+4,Cháo thêm,"10,000"
+5,Cơm Thêm Ngon,"10,000"
+6,Cơm Ếch Kho Singapore 3Con + Rau Luộc,"120,000"
+7,Cháo Ếch Kho Singapore 5Phần 2con + 5Cháo + Tặng 2 Rau Luộc,"400,000"

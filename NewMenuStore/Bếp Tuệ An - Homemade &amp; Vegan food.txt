@@ -1,0 +1,6 @@
+,Food,Price
+0,"Giò lụa chay 0,5kg","55,000"
+1,"Giò nấm 0,5kg","65,000"
+2,Ruốc nấm hương 150g,"50,000"
+3,Nem chay Tuệ An,"69,000"
+4,Dồi chay 500g,"60,000"

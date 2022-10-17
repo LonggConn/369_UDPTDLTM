@@ -1,0 +1,9 @@
+,Food,Price
+0,Trứng cút,"1,000"
+1,Bánh tráng cuốn,"20,000"
+2,Trứng gà,"5,000"
+3,Bánh tráng trộn,"15,000"
+4,Gỏi xoài,"20,000"
+5,Cà phê sữa,"15,000"
+6,Bò húc,"15,000"
+7,Cà phê đen,"15,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún Chả Hà Nội,"40,000"
+1,Bún Chả Hà Nội Đặc Biệt,"60,000"
+2,Bún Chả Hà NộI Lớn,"50,000"
+3,Nem rán,"13,000"
+4,Bún thêm,"3,000"
+5,Thịt Nướng,"25,000"
+6,Chả Nướng,"25,000"

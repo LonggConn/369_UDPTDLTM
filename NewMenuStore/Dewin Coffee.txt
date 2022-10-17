@@ -1,0 +1,11 @@
+,Food,Price
+0,Caramel đá xay,"35,000"
+1,Socola đá xay,"35,000"
+2,Cookie đá xay,"35,000"
+3,Cà phê đá xay,"35,000"
+4,Trà ô long chanh dây,"20,000"
+5,Trà ô long cam đào,"20,000"
+6,Trà xanh bưởi hồng,"18,000"
+7,Trà dâu nhiệt đới,"18,000"
+8,Trà thạch hồng,"30,000"
+9,Trà vải dưa hấu,"30,000"

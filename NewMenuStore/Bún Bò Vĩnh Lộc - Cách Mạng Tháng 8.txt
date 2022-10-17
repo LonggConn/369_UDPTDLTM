@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún Bò Tái ,"45,000"
+1,Bún Bò Tái Nạm,"45,000"
+2,Bún Bò Tái Sụn ,"45,000"
+3,Bún Bò Tái Nạn Sụn ,"50,000"
+4,Bún bò đặc biệt ,"60,000"
+5,Bún Thêm ,"6,000"
+6,Bún Bò Nạm,"45,000"
+7,Bún Bò Giò ,"50,000"
+8,Bún Bò Nạm Sụn ,"45,000"
+9,Bún Voi Nước Leo,"15,000"
+10,Bún Bò Sụn ,"45,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Heo Quay Da Giòn1/2kg,"210,000"
+1,Vịt Quay bắc kinh 1/2con,"190,000"
+2,Vịt quay Bắc Kinh ,"380,000"
+3,Heo quay da giòn ,"420,000"
+4,Gà Quay Mật Ong ,"260,000"

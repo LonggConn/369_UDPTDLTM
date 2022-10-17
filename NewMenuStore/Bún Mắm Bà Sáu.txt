@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún mắm thịt quay,"20,000"
+1,Bún mắm thịt luộc + nem chả,"25,000"
+2,Bún mắm thịt quay + nem chả,"25,000"
+3,Bún mắm thịt quay + luộc,"25,000"
+4,Bún mắm nem chả,"20,000"
+5,Bún mắm thịt luộc + chả,"22,000"
+6,Bún mắm thịt quay + nem,"22,000"
+7,Bún mắm thịt luộc + nem,"22,000"
+8,Bún mắm thịt quay + chả,"22,000"
+9,Bún mắm thịt luộc,"20,000"
+10,Nem thêm,"4,000"
+11,Chả thêm,"4,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Bao nhân,"13,000"
+1,Bánh Bao Chay to,"9,000"
+2,Bánh Chay thường Túi 20 cái,"25,000"
+3,Bánh nhân 2 trứng,"15,000"
+4,Sữa Đậu,"13,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh thập cẩm,"22,000"
+1,"Bánh nậm, gói","17,000"
+2,Bánh lọc,"20,000"
+3,Bánh ram ít,"15,000"
+4,Bánh ướt,"20,000"
+5,Bánh bèo nhỏ,"17,000"
+6,Bánh bèo chén,"17,000"
+7,Bún mắm ,"30,000"
+8,Nem chả thêm,"6,000"
+9,Chả chiên thêm,"6,000"
+10,Bún mắm thập cẩm,"32,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún Đậu Suất Đầy Đủ,"60,000"
+1,Bún đậu lòng dồi,"30,000"
+2,Bún đậu thịt lòng dồi,"40,000"
+3,Bún đậu thịt,"30,000"
+4,Bún đậu chả cốm,"30,000"
+5,Bún đậu thịt chả cốm,"40,000"
+6,Bún đậu,"20,000"
+7,Bún đậu chả mực,"35,000"
+8,Bún đậu thịt chả mực,"45,000"
+9,Bún ram tôm,"30,000"

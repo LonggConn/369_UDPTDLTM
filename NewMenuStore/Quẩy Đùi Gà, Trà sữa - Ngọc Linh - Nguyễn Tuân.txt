@@ -1,0 +1,9 @@
+,Food,Price
+0,Quẩy Đùi Gà Ngọc Linh (Túi 10 cái),"17,000"
+1,Quẩy Đùi Gà Ngọc Linh (Túi 30 Cái),"50,000"
+2,Quẩy Đùi Gà Ngọc Linh (Túi 50 cái),"85,000"
+3,Bánh Nhúng Ngọc Linh,"10,000"
+4,Combo: Quẩy Đùi Gà Ngọc Linh 50c + Sữa Đậu Nành LẠNH 500ml,"95,000"
+5,Quẩy Đùi Gà Ngọc Linh (Túi 100 cái),"165,000"
+6,Combo: Quẩy Đùi Gà Ngọc Linh 50c + Sữa Đậu Nành NÓNG 500ml,"92,000"
+7,Sữa Đậu Nành - LẠNH 500ml/chai,"15,000"

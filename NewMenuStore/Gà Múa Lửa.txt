@@ -1,0 +1,13 @@
+,Food,Price
+0,Gà ta nướng than hồng,"159,000"
+1,Xôi Gấc,"25,000"
+2,Lẩu gà tiềm ớt hiểm,"199,000"
+3,Kim chi,"12,000"
+4,Lẩu Gà Lá Giang 1/2 con 2.2Kg,"199,000"
+5,Rau thêm ăn lẩu,"25,000"
+6,Combo gà ta nướng nguyên con 2.2Kg + Xôi gấc,"349,000"
+7,"Dưa Leo , Rau thêm","12,000"
+8,"Lẩu Gà Ớt Hiểm (lớn) 1/2 con 2,2kg","249,000"
+9,Combo gà ta nướng 2.2Kg + Lẩu gà lá giang,"399,000"
+10,Mì/Bún thêm,"12,000"
+11,Khô gà lá chanh  (30g),"18,000"

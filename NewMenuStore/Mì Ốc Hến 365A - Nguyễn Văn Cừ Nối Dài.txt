@@ -1,0 +1,10 @@
+,Food,Price
+0,Mì ốc hến ,"30,000"
+1,Mì ốc hến hải sản,"50,000"
+2,Mì thêm,"5,000"
+3,Mì Trộn Muối Ớt Tô Nhỏ,"40,000"
+4,Mì Trộn  Muối Ớt Xí Quách,"60,000"
+5,Nước ngọt coca,"15,000"
+6,Nước ngọt Spr,"15,000"
+7, Panta cam,"15,000"
+8, Nước suối ,"10,000"

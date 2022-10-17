@@ -1,0 +1,13 @@
+,Food,Price
+0,Cafe Cốt Dừa,"25,000"
+1,Dừa Dầm Truyền Thống,"25,000"
+2,Dừa Dầm Sữa Chua,"30,000"
+3,Dừa Dầm Kem Cheese,"35,000"
+4,Dừa Dầm Cà Phê,"30,000"
+5,Trà Đào Cam Sả,"35,000"
+6,Sữa Chua Dầm Thạch,"25,000"
+7,Sữa Chua Dầm Cà Phê,"25,000"
+8,Sữa Chua Dầm Xoài,"35,000"
+9,Khô Gà Lá Chanh,"35,000"
+10,Bỏng Ngô Mỹ,"30,000"
+11,Hướng Dương,"15,000"

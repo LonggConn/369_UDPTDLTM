@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm Sườn Xào Chua Ngọt,"25,000"
+1,Cơm Thịt Giả Cầy,"20,000"
+2,Cơm Thịt  Viên Sốt Cà Chua,"20,000"
+3,Cơm Gà Rang Sả Ớt,"25,000"
+4,Cơm Thịt Kho Trứng,"20,000"
+5,Cơm Thịt Xào Rau Củ,"20,000"
+6,Cơm Đậu Phụ Sốt Cà Chua,"20,000"
+7,Cơm Mực Xào Giá Dứa,"20,000"
+8,Cơm Chả Cuốn,"20,000"
+9,Cơm Cá Khô,"20,000"

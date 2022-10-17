@@ -1,0 +1,9 @@
+,Food,Price
+0,Mì quảng sườn,"55,000"
+1,Mì quảng gà ta ,"55,000"
+2,Mì quảng nước đặc biệt,"75,000"
+3,Mì Quảng khô đặc biệt,"75,000"
+4,Nước mót thảo mộc,"13,000"
+5,Mì quảng lòng gà trứng non,"65,000"
+6,Mì thêm,"8,000"
+7,Nước đậu,"8,000"

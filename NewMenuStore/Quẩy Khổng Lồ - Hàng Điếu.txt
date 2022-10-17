@@ -1,0 +1,6 @@
+,Food,Price
+0,Quẩy Nóng Khổng Lồ,"6,000"
+1,Combo 5 Quẩy Nóng khổng lồ,"30,000"
+2,10 quẩy nhỏ,"30,000"
+3,Combo 20 quẩy nóng khổng lồ,"110,000"
+4,Combo 10 Quẩy Nóng Khổng Lồ,"50,000"

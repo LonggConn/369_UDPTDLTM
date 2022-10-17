@@ -1,0 +1,11 @@
+,Food,Price
+0,Trà dâu tây size L,"35,000"
+1,Trà dâu tằm size L,"35,000"
+2,Trà dâu tằm size M,"25,000"
+3,Trà Mix Dâu Tây+Dâu Tằm Size M,"31,000"
+4,Trà dâu tây size M,"25,000"
+5,Sữa Chua Dâu Tây,"30,000"
+6,Trà dâu tây chai 500ml,"55,000"
+7,Trà dâu tây chai 330ml,"35,000"
+8,Trà dâu tằm chai 330ml,"35,000"
+9,Trà dâu tằm chai 500ml,"55,000"

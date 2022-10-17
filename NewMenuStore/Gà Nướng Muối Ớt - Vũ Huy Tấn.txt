@@ -1,0 +1,7 @@
+,Food,Price
+0,Gà nướng muối ớt da giòn,"170,000"
+1,Gà nướng muối ớt cay,"170,000"
+2,Muối Ớt Xanh,"5,000"
+3,Gà nướng muối ớt không cay,"170,000"
+4,Gà nướng  ngũ vị,"170,000"
+5,Gà Nướng Siêu Cay,"170,000"

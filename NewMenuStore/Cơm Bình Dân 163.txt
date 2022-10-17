@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm sườn,"20,000"
+1,Cơm thịt kho trứng,"20,000"
+2,Cơm cá kho tộ,"20,000"
+3,Cơm canh chua,"20,000"
+4,Cơm ếch,"20,000"
+5,Cơm cá chiên,"20,000"
+6,Cơm gà,"20,000"
+7,Cơm cá kho,"20,000"
+8,Cơm thịt luộc,"20,000"

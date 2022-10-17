@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm thịt nướng,"50,000"
+1,Cơm sườn nướng,"50,000"
+2,Cơm sườn + trứng,"60,000"
+3,Cơm sườn + thịt,"60,000"
+4,Cơm thịt + trứng,"60,000"
+5,Cơm rang sườn ,"50,000"
+6,Cươm rang sườn + trứng,"60,000"
+7,Combo- cơm  thịt + trứng + Lạp xưởng ,"60,000"
+8,Combo: thịt + trứng + xúc xích ,"60,000"
+9,1 coca,"15,000"
+10,Cơm sườn +1 coca,"65,000"
+11,Cơm sườn+ bò húc,"70,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Càng ghẹ,"150,000"
+1,Chân gà chiên nước mắm,"100,000"

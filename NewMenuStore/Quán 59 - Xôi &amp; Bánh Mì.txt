@@ -1,0 +1,7 @@
+,Food,Price
+0,Xôi Thập Cẩm,"20,000"
+1,Xôi Trứng,"15,000"
+2,Xôi Ruốc Bông,"15,000"
+3,Xôi Giò,"15,000"
+4,Xôi Giò Bò Khô,"20,000"
+5,Bánh Mì Trứng,"15,000"

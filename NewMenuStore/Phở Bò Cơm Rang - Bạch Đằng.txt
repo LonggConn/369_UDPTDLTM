@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm Rang Dưa Bò,"40,000"
+1,Cơm Rang Thập Cẩm,"30,000"
+2,Phở Bò,"30,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Xôi Xúc Xích Nem,"15,000"
+1,Xôi Lạp Xưởng Chả,"15,000"
+2,Bánh Mì Xúc Xích Nem,"10,000"
+3,Bánh Mì Xúc Xích Chả,"10,000"
+4,Bánh Mì Pate Xúc  Xích,"10,000"
+5,Xôi Xúc Xích Chả,"15,000"
+6,Bánh Mì Pate Nem Xúc Xích,"10,000"
+7,Bánh Mì Lạp Xưởng Chả,"10,000"

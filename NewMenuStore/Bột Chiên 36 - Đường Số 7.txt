@@ -1,0 +1,9 @@
+,Food,Price
+0,Bột Chiên 2 Trứng,"35,000"
+1,Bột Chiên 1 Trứng,"30,000"
+2,Nui Bột Chiên 2 Trứng,"35,000"
+3,Gỏi Khô Bò,"30,000"
+4,Nui Chiên 2 Trứng,"35,000"
+5,Nui Chiên 1 Trứng,"30,000"
+6,Nui Bột Chiên 1 Trứng,"30,000"
+7,Bột Chiên Không Trứng ,"25,000"

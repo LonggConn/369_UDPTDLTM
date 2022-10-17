@@ -1,0 +1,13 @@
+,Food,Price
+0,Kem Bánh Oreo 280ml,"145,000"
+1,Kem Socola Sữa 280ml,"145,000"
+2,Kem Trà Xanh 280ml,"145,000"
+3,Kem Vani 280ml,"145,000"
+4,Kem Xoài 280ml,"145,000"
+5,Kem Dừa 280ml,"145,000"
+6,Kem Sữa Chua Dâu 280ml,"145,000"
+7,Kem Hoa Quả Rừng 280ml,"145,000"
+8,Kem Rum & Raisin Hộp 280ml,"145,000"
+9,Kem Sữa Chua Việt 280ml,"145,000"
+10,Kem Dâu Tây 280ml,"145,000"
+11,Kem Hoa Dâm Bụt 280ml,"145,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm Thập Cẩm,"35,000"
+1,Cơm thịt luộc,"35,000"
+2,Cơm sườn kho,"35,000"
+3,Thịt kho Tàu,"35,000"
+4,Sườn Nướng,"35,000"
+5,Cơm gà kho sả,"35,000"
+6,Cơm dậu khuôn nhồi thịt sốt cà chua,"35,000"
+7,Cơm thêm,"10,000"
+8,Cơm đùi gà chiên mắm,"35,000"
+9,Cơm ức gà chiên mắm,"35,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Set 3 Cái Gỏi Cuốn Tôm Thịt,"35,000"
+1,Set bánh xèo 2 cái,"30,000"
+2,Cút Lộn Xào Me,"30,000"
+3,01 Bánh Tráng Trộn Thập Cẩm,"25,000"
+4,Set 05 Cái Gỏi Cuốn Tôm Thit,"58,000"
+5,Set 4 Gỏi Cuốn Thit( Không Tôm),"40,000"
+6,Nước me Lạc,"20,000"
+7,O1 Cốc ( Túi) Bánh Tráng Trộn Sả Tế Khoảng 200gr ( hành + Muối tôm + Sả tế + Tép( moi) xào+ (tắt),"19,000"
+8,Nước Me Lạc (Size Bé ),"15,000"
+9,01 Cốc ( Túi) Bánh Tráng Trộn Ngũ Vị Khoảng 20gr Gồm Muối+ Hành+ Lạc+ Con Moi (Tôm) Xào+bò Khô,"22,000"

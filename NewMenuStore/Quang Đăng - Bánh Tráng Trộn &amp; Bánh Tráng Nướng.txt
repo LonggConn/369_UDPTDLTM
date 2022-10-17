@@ -1,0 +1,8 @@
+,Food,Price
+0,Combo 95k Tặng 1 Cocacola,"95,000"
+1,Bánh Tráng Trộn,"23,000"
+2,Bánh Tráng Cuộn Bơ,"23,000"
+3,Bánh Tráng Nướng,"23,000"
+4,Bánh Tráng Trộn Thêm Da Heo Chua Cay,"35,000"
+5,Da Heo Chiên Giòn Chua Cay,"30,000"
+6,Cocacola,"12,000"

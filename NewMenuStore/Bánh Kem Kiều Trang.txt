@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh sinh nhật (nhỏ),"150,000"
+1,Bánh đông sương,"200,000"
+2,Bánh sinh nhật (lớn),"400,000"
+3,Bánh cưới - hỏi (nhỏ),"350,000"
+4,Bánh cưới - hỏi (lớn),"1,000,000"

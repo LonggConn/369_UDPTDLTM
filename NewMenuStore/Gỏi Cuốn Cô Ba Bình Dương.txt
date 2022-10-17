@@ -1,0 +1,5 @@
+,Food,Price
+0,Gỏi Cuốn Tôm Thịt - Tương (Phần 4 Cuốn),"32,000"
+1,Gỏi Cuốn Tai Heo - Mắm Nêm (Phần 4 Cuốn),"32,000"
+2,Gỏi Cuốn Siêu Tôm - Tương (Phần 4 Cuốn),"43,000"
+3,Bún Mắm Nêm,"32,000"

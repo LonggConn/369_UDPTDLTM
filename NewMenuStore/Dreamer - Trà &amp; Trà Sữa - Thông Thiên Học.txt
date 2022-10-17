@@ -1,0 +1,6 @@
+,Food,Price
+0,Trà sữa Lít,"60,000"
+1,Trà ổi hồng 500ml ,"50,000"
+2,Trà sữa trân châu ngọc trai 500ml ,"35,000"
+3,Trà sữa trân châu đen 500ml,"35,000"
+4,Trà đào cam 500ml,"50,000"

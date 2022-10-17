@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm gà chiên nước mắm,"20,000"
+1,Cơm gà roti,"20,000"
+2,Cơm thịt kho tiêu,"20,000"
+3,Cơm canh khổ qua nhồi thịt,"20,000"
+4,Cơm thịt kho trứng,"20,000"
+5,Cơm đậu hủ nhồi thịt,"20,000"
+6,Cơm cá sốt cà,"20,000"
+7,Cơm cá kho,"20,000"

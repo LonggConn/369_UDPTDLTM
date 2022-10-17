@@ -1,0 +1,5 @@
+,Food,Price
+0,Nem Nướng Nha Trang,"35,000"
+1,Trà tắc,"7,000"
+2,Trà Chanh,"7,000"
+3,Xúc Xích,"12,000"

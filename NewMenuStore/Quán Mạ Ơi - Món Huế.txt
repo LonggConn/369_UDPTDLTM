@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh thập cẩm (hộp),"33,000"
+1,Bánh lọc (hộp),"33,000"
+2,Bánh nậm (hộp),"33,000"
+3,Bánh bèo (hộp),"33,000"
+4,Bún bò nạm,"48,000"
+5,"Bún bò chả cua, heo","48,000"
+6,Bún bò gân,"48,000"
+7,Bún bò tái,"48,000"
+8,Bún giò nạc,"56,000"
+9,Bún giò gân,"56,000"
+10,Bún giò gối,"56,000"
+11,Bún giò móng,"56,000"

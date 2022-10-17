@@ -1,0 +1,11 @@
+,Food,Price
+0,Sukem,"15,000"
+1,Bánh Bông Lan Trứng Muối,"33,000"
+2,Tiramisu,"40,000"
+3,Bánh Bông Lan Cuộn Kem,"20,000"
+4,Bánh Doner Kebab vừa,"30,000"
+5,Bánh Sinh Nhật Size 16,"180,000"
+6,Bánh Sinh Nhật Size 18,"230,000"
+7,Bánh Sinh Nhật Size 20,"280,000"
+8,Bánh Doner Kebab lớn,"40,000"
+9,Bánh Doner Kebab nhỏ,"20,000"

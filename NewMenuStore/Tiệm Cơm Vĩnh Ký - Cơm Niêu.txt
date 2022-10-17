@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm niêu ,"15,000"
+1,Cá tầm kho tộ ,"185,000"
+2,Xà lách trộn dầu giấm ,"30,000"
+3,Cá lóc kho tộ ,"79,000"

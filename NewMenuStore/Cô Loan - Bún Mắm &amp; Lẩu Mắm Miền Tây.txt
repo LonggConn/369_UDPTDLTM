@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún mắm,"52,000"
+1,Bún mắm đặc biệt,"62,000"
+2,Heo quay thêm,"20,000"
+3,Rau thêm,"5,000"
+4,Bún thêm,"3,000"
+5,Tôm thêm,"15,000"
+6,Lẩu mắm nhỏ,"200,000"
+7,Lẩu mắm vừa,"270,000"
+8,Rau thêm lẩu,"25,000"
+9,Bún thêm lẩu ,"10,000"

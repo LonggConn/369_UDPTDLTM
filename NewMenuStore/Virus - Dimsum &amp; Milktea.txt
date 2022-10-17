@@ -1,0 +1,11 @@
+,Food,Price
+0,Trà sữa truyền thống,"25,000"
+1,Trà sữa gạo rang,"25,000"
+2,Trà sữa đào,"25,000"
+3,Trà sữa Socola ,"25,000"
+4,Trà Sữa Hoa Nhài,"25,000"
+5,Trà Dưa Lưới ,"25,000"
+6,Trà dâu tươi,"25,000"
+7,Trà ổi hồng,"25,000"
+8,Trà đào miếng,"25,000"
+9,Trà Vải ,"25,000"

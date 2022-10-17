@@ -1,0 +1,12 @@
+,Food,Price
+0,Hủ tiếu nam vang,"44,000"
+1,Hủ tiếu khô,"49,000"
+2,Hủ tiếu xương,"39,000"
+3,Hủ tiếu bò viên,"39,000"
+4,Hủ tiếu heo,"39,000"
+5,Hủ tiếu hoành thánh,"39,000"
+6,Thập cẩm ,"49,000"
+7,Xì quách,"34,000"
+8,Sủi cảo nước,"34,000"
+9,C2 mini,"10,000"
+10,Coca,"15,000"

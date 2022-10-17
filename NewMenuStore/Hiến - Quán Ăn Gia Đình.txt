@@ -1,0 +1,11 @@
+,Food,Price
+0,Cháo chim cút,"100,000"
+1,Chả ram,"50,000"
+2,Chân gà nấu đậu dụng,"100,000"
+3,Bắp xào,"40,000"
+4,Gỏi sứa,"60,000"
+5,Mực hấp gừng,"120,000"
+6,Trâu nướng lá lốt,"120,000"
+7,Bạch tuộc xào dầu,"100,000"
+8,Cút nướng,"100,000"
+9,Cút rô ty ,"100,000"

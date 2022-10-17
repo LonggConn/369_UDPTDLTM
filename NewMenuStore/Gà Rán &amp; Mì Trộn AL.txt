@@ -1,0 +1,13 @@
+,Food,Price
+0,Gà Rán Miếng Sốt Cay Ngọt X3,"38,000"
+1,2 Đùi Gà Rán Sốt Cay Ngọt Hàn Quốc,"68,000"
+2,Đùi Gà Rán Truyền Thống,"35,000"
+3,2 Đùi Gà Rán Truyền Thống,"68,000"
+4,Set Cơm Gà Sốt Cay Ngọt,"48,000"
+5,Đùi Gà Rán Sốt Cay Ngọt Hàn Quốc,"35,000"
+6,Set Cơm Đùi Gà Cay Ngọt,"55,000"
+7,Cơm Gà Miếng Truyền Thống,"48,000"
+8,Set Cơm Gà Song Hành,"48,000"
+9,Gà Rang Muối Cỡ Nhỏ,"90,000"
+10,Gà Rang Muối To,"120,000"
+11,Coca Chai,"15,000"

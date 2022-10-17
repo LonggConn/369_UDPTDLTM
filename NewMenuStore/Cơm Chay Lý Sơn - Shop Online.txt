@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Suất Vừa,"37,800"
+1,Bún Trộn Nam Bộ,"31,500"
+2,Ruốc nấm 200g,"67,500"
+3,Món kho,"13,500"
+4,Cơm Suất Vừa+ 1  Trà Táo,"43,200"
+5,Cơm Suất Lớn+ 1 Trà Táo,"52,200"
+6,Cơm Suất Lớn,"46,800"
+7,Giò Chay,"58,500"
+8,Ruốc Nấm (100gr),"34,200"
+9,Trà Táo Đỏ,"9,000"
+10,Cơm thêm,"9,000"

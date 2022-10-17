@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún bò giò,"44,000"
+1,Bún bò không giò,"44,000"
+2,Bún Bò Đặc Biệt ( Có Giò ),"60,000"
+3,Bún Bò Đặc Biệt Không Giò Heo,"60,000"

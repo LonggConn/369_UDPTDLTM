@@ -1,0 +1,12 @@
+,Food,Price
+0,Mì Quảng thập cẩm,"44,000"
+1,Mì Quảng gà ta,"32,000"
+2,Mì Quảng sườn,"37,000"
+3,Mì Quảng tôm,"32,000"
+4,Mì Quảng mề gà,"32,000"
+5,Mì Quảng cá lóc,"37,000"
+6,Mì Quảng trứng cút,"32,000"
+7,Mì Quảng ếch,"37,000"
+8,Mì Quảng thịt heo,"32,000"
+9,Mì Quảng chả,"32,000"
+10,Mì Quảng giò heo,"44,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm đùi gà xối mỡ,"65,000"
+1,Cơm đùi gà chiên nước mắm,"65,000"
+2,Cơm đùi gà luộc ngũ vị,"65,000"
+3,Cơm cánh ức gà chiên nước mắm,"60,000"
+4,Cánh ức gà xối mỡ,"60,000"
+5,Nước mía nguyên chất ,"13,000"
+6,Cánh ức gà luộc,"60,000"

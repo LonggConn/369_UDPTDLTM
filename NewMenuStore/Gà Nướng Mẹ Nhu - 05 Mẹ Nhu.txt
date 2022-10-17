@@ -1,0 +1,7 @@
+,Food,Price
+0,Gà nướng muối ớt (nửa con),"90,000"
+1,Gà Nướng Muối Ớt 1 Con,"175,000"
+2,Xôi Dăm bông hành phi,"12,000"
+3,Gà nướng sate (nửa con),"90,000"
+4,Gà nướng sate (1 con),"175,000"
+5,Xương má hàm nướng,"145,000"

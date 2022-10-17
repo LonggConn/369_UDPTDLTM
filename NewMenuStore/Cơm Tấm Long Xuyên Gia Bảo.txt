@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Tấm Long Xuyên,"30,000"
+1,Cơm Tấm Đặc Biệt,"40,000"
+2,Cơm Tấm Thịt Nướng,"30,000"
+3,Bún Thịt Nướng,"30,000"
+4,Bún Thịt Khìa,"25,000"
+5,Bánh Mì Thịt Nướng,"20,000"
+6,Bánh Mì Bì,"20,000"
+7,Cơm thêm + bì,"5,000"
+8,Trứng khìa thêm,"10,000"
+9,Thịt khìa thêm,"15,000"
+10,Thịt Nướng Thêm,"20,000"

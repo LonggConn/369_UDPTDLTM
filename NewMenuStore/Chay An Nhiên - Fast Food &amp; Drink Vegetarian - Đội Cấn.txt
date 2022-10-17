@@ -1,0 +1,13 @@
+,Food,Price
+0,Đậu phụ rim tẩm hành ,"40,000"
+1,Nem ram chiên An Nhiên -  hộp 10 cái,"60,000"
+2,Giò lụa chay 20gr,"38,000"
+3,Chả “cá” chay/chả rong biển 10viên/hộp ,"80,000"
+4,Om chuối đậu ( suất 1-2 người ăn),"99,000"
+5,Dồi chay chiên ( suất 5 chiếc),"50,000"
+6,Miến xào chay,"45,000"
+7,Bún riêu chay ,"50,000"
+8,Bún cá chay,"45,000"
+9,Bún nem chay,"40,000"
+10,Sữa đậu nành thạch đen,"12,000"
+11,Nước chanh tươi,"15,000"

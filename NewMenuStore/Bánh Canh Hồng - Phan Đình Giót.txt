@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh canh chả cá mắm me,"25,000"
+1,Bánh canh giò chả mắm me,"40,000"
+2,Bánh canh cá dầm mắm me,"25,000"
+3,Bún riêu,"30,000"
+4,Bánh mì chả cá mắm me,"16,000"
+5,Bánh mì không,"4,000"
+6,Chả cá,"10,000"
+7,Cá dầm,"10,000"
+8,Giò,"20,000"

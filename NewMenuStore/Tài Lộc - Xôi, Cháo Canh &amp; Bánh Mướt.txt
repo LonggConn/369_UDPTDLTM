@@ -1,0 +1,6 @@
+,Food,Price
+0,Xôi Bắp,"10,000"
+1,Cháo Canh Vịt,"15,000"
+2,Bánh Mướt Xáo Vịt,"15,000"
+3,Bánh Mướt Xáo Giò,"10,000"
+4,Cháo Sườn,"10,000"

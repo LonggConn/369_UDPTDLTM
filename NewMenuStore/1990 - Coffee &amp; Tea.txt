@@ -1,0 +1,11 @@
+,Food,Price
+0,Nước Dừa Nhai 1990,"32,000"
+1,NƯỚC DỪA SEN,"32,000"
+2,Nước Dừa Tươi (Chặt Sẵn Lấy Nước ~250-300ml),"17,000"
+3,Cafe sữa đá,"27,000"
+4,Bạc xỉu đá,"30,000"
+5,Cafe đá,"21,000"
+6,Lipton Chanh,"26,000"
+7,Bò húc,"26,000"
+8,Coca-Cola,"24,000"
+9,Sting,"24,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Gỏi cuốn,"5,000"
+1,Bún mắm nêm huế ,"25,000"
+2,Bún lòng xào nghệ ,"30,000"
+3,Gỏi cuốn tôm thịt ,"7,000"
+4,Bún mắm nêm nem chua chả lụa ,"40,000"
+5,Bún mắm nêm :30k  ( khẩu phần nhiều hơn ) ,"30,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Chè Thái Bà Liên Đà Nẵng,"27,000"
+1,Chè dừa dầm,"25,000"
+2,Chè thốt nốt,"30,000"

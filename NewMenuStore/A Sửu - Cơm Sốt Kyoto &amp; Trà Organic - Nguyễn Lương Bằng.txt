@@ -1,0 +1,6 @@
+,Food,Price
+0, Bún thịt nướng BBQ ăn kèm bún rau xanh,"32,450"
+1,Thịt xiên nướng ,"7,150"
+2, Cơm vị thịt heo lăn bột sốt Hong Kong,"37,950"
+3, Sâm atiso táo đỏ thanh nhiệt,"18,150"
+4,Sâm 9 vị quý phi,"18,150"

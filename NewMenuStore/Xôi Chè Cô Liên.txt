@@ -1,0 +1,11 @@
+,Food,Price
+0,Xôi vò,"17,600"
+1,Cơm rượu nếp trắng,"15,850"
+2,Combo xôi vò + cơm rượu,"31,700"
+3,Chè đậu trắng nếp,"17,600"
+4,Đậu xanh đánh,"22,000"
+5,Sương sáo nước dừa,"22,000"
+6,Đậu Đỏ,"22,000"
+7,Bánh Lọt Đậu Xanh Đánh,"22,000"
+8,Bánh lọt + đậu đỏ,"22,000"
+9,Nước Dừa Thêm,"7,050"

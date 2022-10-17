@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà Sữa Truyền Thống Chai 500ml,"35,000"
+1,Trà Đào Chai 500ml,"40,000"
+2,Trà Vải Chai 500ml,"40,000"
+3,Trộn Sate Tỏi Gà,"20,000"
+4,Tự Trộn Mix 8 Vị ,"22,000"
+5,Nghệ Sĩ Tỏi Bò Cay,"16,000"
+6,Ống Tôm Thập Cẩm,"20,000"
+7,Cơm Chiên Mắm Hành,"12,000"
+8,Xike Muối Hành Phi,"12,000"
+9,Dẻo Tôm Sate Tắc,"15,000"
+10,Bánh Sợi Trộn Vị Me,"12,000"
+11,Bánh Dẻo Cay Cuốn Hành,"12,000"

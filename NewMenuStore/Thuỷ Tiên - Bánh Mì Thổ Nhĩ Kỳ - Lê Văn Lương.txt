@@ -1,0 +1,4 @@
+,Food,Price
+0,Loại vừa ,"30,000"
+1,Loại đặc biệt,"40,000"
+2,Bánh cuốn,"28,000"

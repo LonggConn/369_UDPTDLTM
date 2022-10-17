@@ -1,0 +1,11 @@
+,Food,Price
+0,Sữa tươi trân châu đường đen,"38,000"
+1,Trà sữa truyền thống macchiato,"25,000"
+2,Trà sữa Myanmar macchiato,"29,000"
+3,Trà sữa ô long macchiato,"29,000"
+4,Matcha Đậu Đỏ,"40,000"
+5,Trà ô long macchiato,"30,000"
+6,Trà lài macchiato,"30,000"
+7,Trà chanh vàng sương sáo hạt chia,"30,000"
+8,Trà vải hoa hồng,"35,000"
+9,Trà đào sả tắc,"35,000"

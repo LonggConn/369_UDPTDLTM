@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Rang Dưa Bò,"47,000"
+1,Cơm Rang Thập Cẩm,"47,000"
+2,Cơm Rang Sườn Sốt,"47,000"
+3,Cơm Rang Xá Xíu,"52,000"
+4,Cơm Rang Sườn Nướng,"52,000"
+5,Cơm Rang Tôm,"52,000"
+6,Cơm Rang Sườn Ngọt,"70,000"
+7,Cơm Rang Thịt Kho Tàu,"52,000"

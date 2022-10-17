@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh Đa Trộn Thập Cẩm,"35,000"
+1,Miếng Nem,"14,000"
+2,Miến trộn thập cẩm,"35,000"
+3,Bánh Đa Trộn Thịt Nướng,"35,000"
+4,Bún Trộn Thập cẩm,"35,000"
+5,Miến Trộn Thịt Nướng,"35,000"
+6,Bún trộn thịt nướng,"35,000"
+7,Cháo Lòng,"35,000"
+8,Sữa Chua Ko Đường Homemade,"40,000"

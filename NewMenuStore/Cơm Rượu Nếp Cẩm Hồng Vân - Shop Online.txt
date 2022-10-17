@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm nếp cẩm lên men,"55,000"
+1,Nước nếp cẩm lên men - nguyên chất,"70,000"
+2,Cơm nếp lứt lên men,"55,000"

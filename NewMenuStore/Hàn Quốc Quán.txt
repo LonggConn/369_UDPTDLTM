@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm trộn hàn quốc,"150,000"
+1,Gà hầm sâm,"300,000"
+2,Canh kim chi,"140,000"
+3,Giò heo,"500,000"
+4,Lẩu hải sản,"500,000"
+5,Lẩu nấm,"600,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh hạt Hathy - Vị hạt điều cacao,"145,000"
+1,Bánh hạt Hathy - Vị hạnh nhân trà xanh,"145,000"
+2,Bánh hạt Hathy - Vị tổng hợp,"145,000"
+3,Bánh hạt Hathy -Vị hạt điều,"145,000"
+4,Bánh hạt Hathy - Combo 2 hộp,"250,000"
+5,Bánh hạt Hathy - Combo 4 hộp,"495,000"
+6,Bánh hạt Hathy - Vị hạnh nhân,"145,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Red velvet cheesecake,"65,000"
+1,Tiramisu,"65,000"
+2,Bánh phô mai hạt dẻ,"60,000"
+3,Passion fruit cheesecake,"60,000"
+4,Blueberry cheesecake,"60,000"
+5,Red Velvet cheesecake,"170,000"
+6,Bánh phô mai hạt dẻ cười,"170,000"
+7,Blueberry cheesecake - bánh phô mai việt quất,"170,000"
+8,Oreo cheesecake - bánh phô mai oreo,"150,000"
+9,"Set 4 bánh Tiramisu, red velvet, passion fruit, pistachio cheesecake","225,000"

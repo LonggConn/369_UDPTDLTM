@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún Đậu Thập Cẩm,"55,000"
+1,Bún Đậu + Chả Cốm + Chả Mực + Lòng Dồi,"45,000"
+2,Bún Đậu + Chả Cốm + Thịt,"40,000"
+3,Bún Đậu + Bắp Giò,"35,000"
+4,Bún Đậu + Chả Cốm,"30,000"
+5,Bún Đậu + Ba Chỉ,"35,000"
+6,Bún Đậu + Lòng Dồi,"35,000"
+7,Bún Đậu Mắm Tôm,"25,000"
+8,Bún Đậu + Chả Mực,"35,000"
+9,Bún Đậu + Tai,"35,000"
+10,Bún Đậu + Bánh Đúc,"25,000"
+11,Bún Đậu + Chả Ram Tôm Đất,"35,000"

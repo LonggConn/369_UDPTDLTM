@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún mắm - tô đặc biệt,"60,000"
+1,Bún mắm - tô siêu đặc biệt,"70,000"
+2,Dụng cụ ăn uống nhựa,"3,000"
+3,LẨU MẮM VỪA,"300,000"
+4,LẨU MẮM LỚN,"350,000"
+5,Khô cá lóc,"130,000"
+6,LẨU NHỎ,"250,000"

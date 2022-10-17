@@ -1,0 +1,8 @@
+,Food,Price
+0,Tàu hũ trân châu đường đen,"22,000"
+1,Tàu hũ (không trân châu),"16,000"
+2,Bánh tráng trộn,"20,000"
+3,Sữa tươi trân châu đường đen,"22,000"
+4,Trà sữa trân châu đường đen,"22,000"
+5,Trà sữa (không trân châu),"16,000"
+6,Trà tắc,"10,000"

@@ -1,0 +1,947 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody	Cửa hàng có menu
+Quán ăn	Quán Thằng Mắm - 57 Hồ Đắc Di	57 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế	4.5	10+	 07:00 - 22:00	7,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Nhà ABC - Hai Bà Trưng	11 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	0.0	3	 05:00 - 21:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Hến Chị Túy	197 Phan Đình Phùng, P. Phú Nhuận, Tp. Huế, Huế	4.5	100+	 07:00 - 19:00	15,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ăn Thiện Hiền - Bánh Canh &amp; Xôi	87 Dương Văn An, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	 06:30 - 22:00	15,000	20,000	0.0%	<span>_._</span>	0	1
+Bar/Pub, Beer club	Century Pub &amp; Beer Garden	49 Lê Lợi, P. Phú Hội, Tp. Huế, Huế	0	0	0	50,000	150,000	ShopeeFood</span	0	0	1
+Nhà hàng	Nhà Hàng Chay Tịnh Quán Park View	2 Trần Cao Vân, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	 06:00 - 20:30	25,000	85,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Bún Chả Cá 108	108 Phan Bội Châu, P. Trường An, Tp. Huế, Huế	4.5	999+	 06:30 - 23:00	15,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Chay O Di - Duy Tân	73 Duy Tân, P. An Cựu, Tp. Huế, Huế	4.5	100+	 06:00 - 21:00	15,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán 51 - Hai Bà Trưng	51 Hai Bà Trưng, P. Vĩnh Ninh, Tp. Huế, Huế	1.0	1	 06:00 - 22:00	12,000	120,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Ăn Phúc Hòa - Tuệ Tĩnh	69 Tuệ Tĩnh, P. Thuận Hòa, Tp. Huế, Huế	5.0	1	 06:30 - 21:30	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hoàng - Bánh Canh Cá Lóc - Nguyễn Tất Thành	208 Nguyễn Tất Thành, P. Thủy Dương, Thị xã Hương Thủy, Huế	4.5	9	 07:00 - 22:00	5,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cháo Dinh Dưỡng Tâm An - Nguyễn Trãi	237 Nguyễn Trãi, P. Tây Lộc, Tp. Huế, Huế	4.5	100+	 06:00 - 21:00	10,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Huế Xưa - Bún Riêu &amp; Bún Chả Cá	54 Đào Tấn, P. Phước Vĩnh, Tp. Huế, Huế	4.5	100+	 06:00 - 18:00	5,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thanh Thủy - Bún Thịt Nướng &amp; Bánh Cuốn - Lương Văn Can	24 Lương Văn Can, P. An Cựu, Tp. Huế, Huế	4.5	10+	 09:00 - 18:00	10,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Bình Dân 126 - Đào Duy Anh	126 Đào Duy Anh, P. Thuận Lộc, Tp. Huế, Huế	3.5	10+	 09:00 - 21:00	10,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cây Đào - Phở &amp; Nước Ép - Nguyễn Huệ	109 Kiệt 81 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế	0	0	0	12,000	55,000	0.0%	0	0	1
+Quán ăn	Phở Như Ý - Xuân Thủy	11 Xuân Thủy, P. Vỹ Dạ, Tp. Huế, Huế	4.5	10+	 06:00 - 17:00	12,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Xôi &amp; Cao Lầu Hội An Nhà Hiền - Văn Cao	12 Văn Cao, P. Xuân Phú, Tp. Huế, Huế	4.5	100+	 06:00 - 11:00 | 14:00 - 18:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Xôi Thịt Hon - Nhật Lệ	75A Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	100+	 07:00 - 18:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Xôi Ếch 72 - Lê Duẫn	72 Lê Duẫn, P. Phú Hòa, Tp. Huế, Huế	4.5	100+	 06:00 - 20:00	35,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lườn Ngỗng &amp; Tai Heo Ủ Muối Thảo Mộc - Nguyễn Văn Cừ	11 Nguyễn Văn Cừ, P. Vĩnh Ninh, Tp. Huế, Huế	0.0	3	 09:00 - 22:00	12,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Quân - Cơm Bình Dân	34 Trần Thúc Nhẫn, P. Vĩnh Ninh, Tp. Huế, Huế	4.0	100+	 09:00 - 20:00	15,000	25,000	0.0%	8.3	4	1
+Quán ăn	Cơm Chiên 56 - Ưng Bình	56 Kiệt 7 Ưng Bình, P. Vỹ Dạ, Tp. Huế, Huế	4.5	100+	 08:30 - 21:30	4,000	29,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Thanh Bình	16 Nguyễn Chí Diểu, P. Thuận Thành, Tp. Huế, Huế	4.5	999+	 06:30 - 14:00	18,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vua Xôi Chiên - Bùi Thị Xuân	3/361 Bùi Thị Xuân, P. Đúc, Tp. Huế, Huế	4.5	100+	 08:00 - 21:00	7,000	15,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Bà Lài - Điện Biên Phủ	193 Điện Biên Phủ, P. Trường An, Tp. Huế, Huế	3.5	7	 08:00 - 22:00	6,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Giao cơm văn phòng	Thành Na - Cơm Tấm Sài Gòn	53 Nguyễn Chí Diễu, P. Thuận Thành, Tp. Huế, Huế	4.5	999+	 09:30 - 14:00 | 16:30 - 20:30	20,000	55,000	0.0%	6.1	39	1
+Quán ăn	GreenOne - Drinks &amp; Foods - Võ Thị Sáu	33 Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	4.5	10+	 07:00 - 22:00	4,000	127,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mẹ Ua - Cơm Bình Dân - Phan Bội Châu	211 Phan Bội Châu, P. Trường An, Tp. Huế, Huế	4.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Cơm Tấm Miền Tây 3 - Duy Tân	25 Duy Tân, P. An Cựu, Tp. Huế, Huế	4.5	500+	 09:00 - 20:30	5,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Cơm Của Nhi - Ngô Quyền	04 Ngô Quyền, P. Vĩnh Ninh, Tp. Huế, Huế	4.5	100+	 10:00 - 19:00	20,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gardenia Kitchen - 111 Nhật Lệ	111 Nhật Lệ, P. Thuận Thành, Tp. Huế, Huế	4.5	100+	 06:30 - 20:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	1954 Coffee &amp; Beer - 5 Điện Biên Phủ	5 Điện Biên Phủ, P. Vĩnh Ninh, Tp. Huế, Huế	5.0	10+	 07:00 - 23:00	18,000	190,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Nhà Hiền - Lê Quý Đôn	2/9 Lê Quý Đôn, P. Phú Nhuận, Tp. Huế, Huế	4.5	50+	 09:00 - 22:00	10,000	290,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Xôi Nhất - Bánh Ép	73 Thái Phiên, P. Tây Lộc, Tp. Huế, Huế	4.5	50+	 06:00 - 21:30	5,000	45,000	0.0%	<span>_._</span>	0	1
+Shop Online	Len's House - Thế Giới Ăn Vặt - Shop Online	171 Phan Đình Phùng, P. Phú Nhuận, Tp. Huế, Huế	4.5	3	 08:00 - 21:00	50,000	200,000	ShopeeFood</span	9.7	2	1
+Café/Dessert, Quán ăn	Bếp Puca 73 - Nguyễn Trãi	73 Nguyễn Trãi, P. Thuận Hoà, Tp. Huế, Huế	4.5	100+	 06:30 - 11:00	5,000	33,000	0.0%	7.5	2	1
+Quán ăn	Quán Cơm Hến Bé Liêm	64 Nguyễn Công Trứ, P. Phú Hội, Tp. Huế, Huế	4.5	100+	 06:30 - 19:00	20,000	40,000	0.0%	6.5	3	1
+Quán ăn	Cơm Tấm Ku Bôn - Đoàn Hữu Trưng	6 Đoàn Hữu Trưng, P. Phước Vĩnh, Tp. Huế, Huế	4.5	100+	 08:00 - 19:30	10,000	50,000	0.0%	<span>_._</span>	0	1
+Bar/Pub	Taboo Pub	16 Võ Thị Sáu, P. Phú Hội, Tp. Huế, Huế	5.0	4	 07:00 - 23:00	12,000	150,000	ShopeeFood</span	8.0	20	1
+Quán ăn	Cơm Nắm Cơm Cuộn Kinh Thành - Đội Cung	27 Đội Cung, P. Phú Hội, Tp. Huế, Huế	4.5	100+	 06:00 - 20:30	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Nhậu Minh Tâm - Hoàng Quốc Việt	10 Hoàng Quốc Việt, P. An Đông, Tp. Huế, Huế	4.5	10+	 08:30 - 22:00	15,000	220,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Giao cơm văn phòng	Cơm Tấm O Hồng	372A Bùi Thị Xuân, P. Thủy Biều, Tp. Huế, Huế	4.5	6	 08:00 - 14:00	15,000	30,000	0.0%	9.4	1	1
+Quán ăn	Cơm Tấm Sài Gòn Cô Hồng - Nguyễn Văn Trỗi	5 Nguyễn Văn Trỗi, P. Tây Lộc, Tp. Huế, Huế	0.0	2	 10:00 - 15:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Cháy Gạo Lứt &amp; Bánh Trung Thu - Mai Thúc Loan	131 Mai Thúc Loan, P. Phú Hậu, Tp. Huế, Huế	0	0	0	35,000	1,760,000	0.0%	0	0	1
+Quán ăn	Quán Tý - Cơm Gà Xối Mỡ - Phó Đức Chính	2 Phó Đức Chính, P. Phú Hội, Tp. Huế, Huế	4.5	10+	 09:30 - 21:30	32,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Duy Hợp - Bùi Xuân Phái	2A Bùi Xuân Phái, P. Thủy Dương, Thị xã Hương Thủy, Huế	4.5	10+	 08:00 - 20:00	25,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Kai Tea - Lý Thường Kiệt	2 Lý Thường Kiệt, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	999+	 09:00 - 22:30	20,000	60,000	0.0%	7.4	101	1
+Ăn vặt/vỉa hè	Thịt Xiên Nướng Ohio - Hai Bà Trưng	19 Hai Bà Trưng, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 21:30	7,000	70,000	0.0%	7.1	23	1
+Quán ăn	Mì Cay Seoul - Tô Hiệu	117 Tô Hiệu, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 22:00	18,000	89,000	0.0%	6.5	142	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn - Nguyễn Bình	12 Nguyễn Bình, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	999+	 10:00 - 18:00	15,000	20,000	0.0%	7.5	73	1
+Café/Dessert	PaPa's - Sữa Chua Trân Châu Hạ Long - Lương Khánh Thiện	10 Lương Khánh Thiện, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:00 - 21:30	20,000	40,000	0.0%	8.8	1	1
+Nhà hàng	Texgrill - Vinhomes Imperia	BH03 - 23 Boutique House, Manhattan 10, Vinhomes Imperia, P. Thượng Lý, Quận Hồng Bàng, Hải Phòng	4.5	50+	 08:00 - 22:30	50,000	275,000	0.0%	10.0	1	1
+Quán ăn	Chị Ba - Bún Bò Sài Gòn - Hoàng Minh Thảo	267 Hoàng Minh Thảo, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 13:00 | 16:00 - 20:30	30,000	50,000	0.0%	10.0	1	1
+Café/Dessert	Starbucks Coffee - Văn Cao	185 - 187 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	500+		50,000	100,000	0.0%	10.0	1	1
+Café/Dessert	Hiln Tea - Hồng Trà Phúc Long &amp; Ô Long Hoa Quả Nhiệt Đới - 130 Hoàng Minh Thảo	130 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	50+	 07:00 - 21:00	12,000	20,000	0.0%	10.0	1	1
+Ăn vặt/vỉa hè	Lukulove - Tiệm Bánh &amp; Đồ Uống - Vinhome Imperia	BH 04-03 Vinhome Imperia Hải Phòng, Bạch Đằng, Quận Hồng Bàng, Hải Phòng	4.5	500+	 08:00 - 22:00	30,000	50,000	0.0%	9.2	2	1
+Café/Dessert	Flamingo House - Coffee &amp; Milk Tea	239 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	500+	 08:00 - 23:00	25,000	45,000	0.0%	8.3	15	1
+Ăn vặt/vỉa hè	Quán 317 - Ăn Vặt Các Loại	317 Cát Bi, P. Cát Bi, Quận Hải An, Hải Phòng	4.5	100+	 09:00 - 23:00	10,000	60,000	0.0%	9.8	1	1
+Café/Dessert	Coco Nama Tea Bar - Trần Thành Ngọ	223 Trần Thành Ngọ, Quận Kiến An, Hải Phòng	4.5	999+	 08:00 - 21:30	20,000	30,000	0.0%	8.0	1	1
+Quán ăn	La Joie - Mì Ý &amp; Sườn Nướng - Shop Online	 32/309 Đà Nẵng, P. Cầu Tre, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 21:00	20,000	319,000	0.0%	7.6	35	1
+Café/Dessert	BonBon MilkTea - Nguyễn Công Hòa	189 Nguyễn Công Hòa, P. Niệm Nghĩa, Quận Lê Chân, Hải Phòng	4.5	999+		10,000	30,000	0.0%	8.6	2	1
+Shop Online	Cơm Cậu Hai - Food &amp; Drink Online	2B/59/292 Lạch Tray, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 21:00	15,000	55,000	0.0%	8.3	3	1
+Quán ăn	Bà Thúy - Bánh Mì &amp; Hamburger - Mê Linh	235/82 Mê Linh, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 08:30 | 16:00 - 22:00	20,000	50,000	0.0%	8.3	2	1
+Café/Dessert	Starbucks Coffee - Trần Phú	15A Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:00 - 22:00 | 08:00 - 22:00	50,000	220,000	0.0%	8.2	100	1
+Quán ăn	Phở Bò Vũ Thành - Trần Thành Ngọ	241 Trần Thành Ngọ, P. Trần Thành Ngọ, Quận Kiến An, Hải Phòng	4.5	100+	 07:00 - 14:30 | 17:00 - 21:00	30,000	40,000	0.0%	8.4	1	1
+Café/Dessert	Trà Sữa Mixue - Lương Khánh Thiện	75 Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	500+	 09:00 - 22:00	25,000	55,000	0.0%	7.8	5	1
+Tiệm bánh	Tiệm Bánh Pháp Hillary - 123 Hai Bà Trưng	123 Hai Bà Trưng, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	10+	 09:00 - 22:00	15,000	400,000	0.0%	8.1	12	1
+Ăn vặt/vỉa hè	PaPa's - Sữa Chua Trân Châu Hạ Long - Nguyễn Đức Cảnh	131 Nguyễn Đức Cảnh, P. Cát Dài, Quận Lê Chân, Hải Phòng	4.5	500+	 08:00 - 22:00	20,000	30,000	0.0%	6.7	3	1
+Quán ăn	Quang Duy - Gà Tươi - Lạch Tray	18B/420 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 14:00 | 16:00 - 22:00	30,000	350,000	0.0%	7.8	1	1
+Café/Dessert	Coco Nama Tea Bar - Trần Phú	142 Trần Phú, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 23:00	20,000	50,000	0.0%	6.8	4	1
+Ăn vặt/vỉa hè	Cô Hằng - Cafe Cốt Dừa	124A Lam Sơn, P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	999+	 12:00 - 18:00	10,000	15,000	0.0%	7.6	32	1
+Café/Dessert	Buta Juice - Vinhomes Marina	HD72 Vinhomes Marina, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 21:00	15,000	50,000	0.0%	8.3	3	1
+Quán ăn	Cơm Tấm &amp; Hot Pot BBQ - An Đà	10/16 An Đà, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 10:00 - 13:30 | 17:30 - 21:00	30,000	50,000	0.0%	8.7	177	1
+Café/Dessert	Buta Juice - Trần Phú	79 Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 23:00	30,000	45,000	0.0%	7.5	3	1
+Shop Online	Little Pea - Món ăn Hàn Online	37 Ngõ 384 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 10:00 - 14:00 | 16:00 - 20:00	25,000	100,000	0.0%	7.8	18	1
+Nhà hàng	Cơm Tấm Ngọc Phú	23 Kỳ Đồng, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	999+	 08:00 - 21:30	20,000	50,000	0.0%	6.8	58	1
+Café/Dessert	Trà Sữa Mỡ Tea	3 Ngõ 81 Đà Nẵng, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 21:00	25,000	50,000	0.0%	7.0	3	1
+Quán ăn	Quán Diệu - Cơm Rang, Mì Xào &amp; Lẩu	235 Nguyễn Công Hòa, P. An Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 06:00 - 12:00	15,000	25,000	0.0%	8.2	13	1
+Café/Dessert	The Coffee House - Cầu Đất	119 Cầu Đất, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	500+	 08:00 - 22:00	30,000	60,000	0.0%	7.7	9	1
+Quán ăn	Texgrill Hải Phòng - Văn Cao	111C Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	100+	 07:00 - 23:00	50,000	165,000	0.0%	7.7	44	1
+Ăn vặt/vỉa hè	OMG - Ăn Vặt Các Loại	141 Ngõ Hào Khê, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 21:00	10,000	50,000	0.0%	6.7	21	1
+Nhà hàng	Gà Rán KFC - Trần Phú Hải Phòng	83 Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 22:00	30,000	88,000	0.0%	7.3	88	1
+Quán ăn	Mì Cay Seoul - Văn Cao	355 Văn Cao, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	30,000	200,000	0.0%	7.3	7	1
+Café/Dessert	Trà Sữa Ding Tea - Nguyễn Đức Cảnh	85 - 86 Nguyễn Đức Cảnh, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 23:00	25,000	55,000	0.0%	7.4	43	1
+Ăn vặt/vỉa hè	Trang Cao - Xôi Xéo	142 Hoàng Mình Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 21:00	7,000	15,000	0.0%	7.0	83	1
+Quán ăn	Bamitaco - Bánh Mì Sạch - Lý Thường Kiệt	3 Lý Thường Kiệt, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	999+	 07:30 - 22:00	15,000	35,000	0.0%	7.0	117	1
+Quán ăn	Bánh Mì Em Na - Mê Linh	2 Ngõ 18 Mê Linh, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 21:00	15,000	50,000	0.0%	7.6	16	1
+Quán ăn	Quang Oanh - Cơm Tấm Sườn Nướng	31 Vĩnh Lưu, P. Đông Hải 1, Quận Hải An, Hải Phòng	4.5	100+	 05:00 - 13:00	30,000	35,000	0.0%	9.6	1	1
+Quán ăn	Linh Sang - Bún Thái Bề Bề - Nguyễn Đức Cảnh	173 Nguyễn Đức Cảnh, P. Cát Dài, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 22:00	20,000	35,000	0.0%	7.2	29	1
+Ăn vặt/vỉa hè	Bánh Mì Dân Tổ - Hoàng Minh Thảo	136 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 22:00	15,000	80,000	0.0%	7.1	10	1
+Quán ăn	Làng Vẻn - Bún Đậu - Hai Bà Trưng	19 Hai Bà Trưng, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 22:00	20,000	55,000	0.0%	6.1	2	1
+Nhà hàng	Chicago's Pizza &amp; Grill - Cát Dài	184 Cát Dài, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 22:00	30,000	250,000	0.0%	7.2	9	1
+Nhà hàng	Texgrill - Minh Khai	27 Minh Khai, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 08:00 - 22:45	50,000	275,000	0.0%	7.7	126	1
+Ăn vặt/vỉa hè	Súp Cua Ngã Năm	42 Phạm Minh Đức, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	500+	 16:00 - 22:00	12,000	20,000	0.0%	8.1	23	1
+Ăn vặt/vỉa hè	Bánh Bao Bon Bon - Phan Bội Châu	64 Phan Bội Châu, P. Phan Bội Châu, Quận Hồng Bàng, Hải Phòng	4.5	100+	 16:00 - 18:30	10,000	15,000	0.0%	7.7	4	1
+Café/Dessert	HATA - Dessert &amp; Cafe	28 Lương Khánh Thiện, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	100+	 07:30 - 22:30	25,000	50,000	0.0%	8.0	5	1
+Ăn vặt/vỉa hè	Cơm Gà Xối Mỡ &amp; Cơm Bò - Nguyễn Bình	31 Nguyễn Bình, P. Kênh Dương (Gần ĐH Hàng Hải), Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 19:00	20,000	40,000	0.0%	7.2	45	1
+Shop Online	Cô Dung - Trà Bí Đao Hạt Chia Online	11/69 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 22:00	10,000	20,000	0.0%	8.5	2	1
+Nhà hàng	Lotteria - Hải Phòng Big C	Lô 1/20 Khu đô thị ngã 5, Sân bay Cát Bi, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:30 - 22:30	30,000	88,000	0.0%	7.3	86	1
+Nhà hàng	Gà Rán KFC - Big C Hải Phòng	Ngã 5 Sân Bay Cát Bi, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 22:00	30,000	88,000	0.0%	7.1	57	1
+Ăn vặt/vỉa hè	Nem Rán Đức Thụy - 72 Chu Văn An	72 Chu Văn An, P. Lê Lợi, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	5,000	35,000	0.0%	6.7	3	1
+Quán ăn	Liên - Bánh Khọt &amp; Bánh Bột Lọc - Chợ Cố Đạo	76 Trần Nhật Duật ( chợ Cố Đạo ), P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 19:00	25,000	100,000	0.0%	6.7	25	1
+Quán ăn	Leng Keng Quán - Lẩu &amp; Nướng	35 Lê Đại Hành, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	10+	 18:00 - 23:00	40,000	700,000	0.0%	8.5	4	1
+Ăn vặt/vỉa hè	Tiệm Mì Trộn Lê La - Lương Khánh Thiện	19B Lương Khánh Thiện, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 14:30 - 20:30	20,000	25,000	0.0%	6.6	5	1
+Café/Dessert	Trà Sữa Nhất Cương Yi Jiang	9 Mê Linh, Quận Lê Chân, Hải Phòng	4.5	500+	 09:30 - 22:30	30,000	50,000	0.0%	6.8	4	1
+Nhà hàng	Gà Rán Popeyes - Aeon Mall Lê Chân	Tầng 1, T132 - 1 Aeon Mall Lê Chân, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 10:00 - 22:00	38,000	165,000	0.0%	8.8	2	1
+Café/Dessert	Le Phare - Coffee &amp; Tea	198 Lê Lợi, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:00 - 22:30	20,000	45,000	0.0%	6.6	1	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn - Cát Cụt	165 Cát Cụt, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	999+	 11:00 - 19:00	15,000	30,000	0.0%	7.4	172	1
+Ăn vặt/vỉa hè	Ăn Vặt 156 - Ăn Vặt Hàn Quốc	156 Nguyễn Công Trứ, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 22:00	15,000	35,000	0.0%	5.7	25	1
+Café/Dessert	Ngọc Hà - Rau Má Mix, Sinh Tố &amp; Nước Ép	51A Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	999+	 07:00 - 23:00 | 09:00 - 22:00	15,000	25,000	0.0%	6.9	2	1
+Ăn vặt/vỉa hè	Nem Hải Yến - Chu Văn An	72 Chu Văn An, P. Lê Lợi, Quận Ngô Quyền, Hải Phòng	4.5	999+	 13:00 - 19:00	20,000	50,000	0.0%	7.3	31	1
+Quán ăn	Goodmen Fastfood	53 Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 10:00 - 20:30	14,000	68,000	0.0%	7.9	71	1
+Quán ăn	Kim Ngân Bakery - Tôn Đức Thắng	251 Tôn Đức Thắng, Xã An Đồng, An Dương, Hải Phòng	4.5	100+	 07:00 - 21:00	10,000	200,000	0.0%	10.0	7	1
+Nhà hàng	Lotteria - Hải Phòng Trần Nguyên Hãn	118 -120 Trần Nguyên Hãn, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	999+	 07:30 - 22:30	30,000	88,000	0.0%	7.0	70	1
+Nhà hàng	Lotteria - Hải Phòng Trần Phú	88 Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 22:00	30,000	88,000	0.0%	7.1	121	1
+Shop Online	Tiệm Bánh Vịt Tồ - Shop Online	340 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	999+	 07:30 - 21:30	30,000	50,000	0.0%	8.0	37	1
+Quán ăn	Moontop - Thịt Khô &amp; Cơm Cháy	17/25/199 Tô Hiệu, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:00	22,000	100,000	0.0%	9.4	4	1
+Quán ăn	Bánh Mì Chảo - 382 Tô Hiệu	382 Tô Hiệu, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	50+	 07:30 - 22:00	22,000	52,000	0.0%	7.5	59	1
+Quán ăn	Kimbap Hàn Quốc - Miếu Hai Xã	414 Miếu Hai Xã, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 22:00	30,000	200,000	0.0%	6.5	181	1
+Nhà hàng	The Pizza Company - Tô Hiệu	106 Tô Hiệu, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	999+	 10:00 - 22:00	100,000	250,000	0.0%	6.3	26	1
+Ăn vặt/vỉa hè	Bánh Mì Ngon - Minh Khai	23A Minh Khai, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	999+	 07:45 - 21:30	15,000	30,000	0.0%	6.6	17	1
+Ăn vặt/vỉa hè	Bà Vui - Sữa Chua Trân Châu - Trần Nguyên Hãn	280 Trần Nguyên Hãn, P. Niệm Nghĩa, Quận Lê Chân, Hải Phòng	4.5	500+	 07:00 - 23:00	15,000	30,000	0.0%	6.5	2	1
+Quán ăn	Bún Ốc Hà Thành - Quán Nam	121 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 13:00 | 15:30 - 20:00	20,000	50,000	0.0%	6.1	2	1
+Café/Dessert	E-Coffee Premium - Ngô Gia Tự	32 Ngô Gia Tự, P. Cát Bi, Quận Hải An, Hải Phòng	4.5	100+	 06:00 - 23:00	20,000	50,000	0.0%	5.4	7	1
+Café/Dessert	Cà Phê Tiệm Thảnh Thơi	46 Ngõ 201 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	6	 08:00 - 22:00	25,000	35,000	0.0%	8.6	1	1
+Nhà hàng	Pizza Love - Cầu Đất	142A Cầu Đất, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	500+	 09:00 - 22:00	50,000	200,000	0.0%	6.9	78	1
+Ăn vặt/vỉa hè	Vàng Khè - Ăn Vặt Sài Gòn	Tầng 3 Khu Phố Ẩm Thực, TTTM Aeon Mall Hải Phòng Lê Chân, Số 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 22:00	15,000	200,000	0.0%	7.3	111	1
+Tiệm bánh	Pham Cake	47 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 21:00	200,000	400,000	0.0%	8.1	12	1
+Café/Dessert	The Alley - Trà Sữa Đài Loan - Lạch Tray	72 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 21:30	30,000	70,000	0.0%	5.2	10	1
+Café/Dessert	KOI Thé - Aeon Mall Hải Phòng	Lô T101 Tầng Một Trung Tâm Thương Mại AEON MALL Hải Phòng 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 10:00 - 21:45	40,000	100,000	0.0%	6.8	1	1
+Café/Dessert	Highlands Coffee - Hữu Nghị HP	60A Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	999+	 07:30 - 22:00	9,000	65,000	0.0%	7.9	137	1
+Café/Dessert	Amadam Coffee - Điện Biên Phủ	59 Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	5.0	5	 07:00 - 22:00	18,000	50,000	0.0%	10.0	1	1
+Shop Online	Bún Đậu Ship - Trực Cát - Shop Online	4A/37 Trực Cát, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	500+	 10:00 - 22:00	10,000	100,000	0.0%	5.0	1	1
+Café/Dessert	Coco Nama Tea Bar - Lạch Tray	225 Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	20,000	50,000	0.0%	3.8	1	1
+Café/Dessert	Vip Coffee 46	123A Nguyễn Văn Hới, P. Thành Tô, Quận Hải An, Hải Phòng	4.5	10+	 06:00 - 23:00	15,000	35,000	0.0%	9.6	10	1
+Café/Dessert	Đô Đô - Trà Sữa Đồng Giá - Nguyễn Đức Cảnh	34 Nguyễn Đức Cảnh, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 22:00	21,000	26,000	0.0%	3.8	1	1
+Shop Online	Funny Tea &amp; Food - Shop Online	6/21/170 Phạm Hữu Điều, P. Niệm Nghĩa, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 22:00	20,000	40,000	0.0%	6.7	34	1
+Quán ăn	Pizza One - Trần Phú	31 Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 22:30	70,000	300,000	0.0%	6.7	55	1
+Café/Dessert	Trà Sữa Bobapop - Trần Hưng Đạo	25 Trần Hưng Đạo, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	999+	 08:00 - 23:00	25,000	50,000	0.0%	7.9	102	1
+Nhà hàng	Loving Hut Long Hoa Quán - Văn Cao	308 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:00 - 21:00	50,000	300,000	0.0%	7.4	32	1
+Quán ăn	Lotteria - Hải Phòng Lach Tray	207C Lạch Tray, P. Đổng Quốc Bình, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:30 - 22:30	20,000	100,000	0.0%	4.2	1	1
+Nhà hàng	Gà Rán Popeyes - Tô Hiệu	356 Tô Hiệu, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	999+	 10:00 - 22:00	38,000	165,000	0.0%	4.4	3	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Lê Hồng Phong	Coopmart, 1 Lê Hồng Phong, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:30 - 21:30	50,000	200,000	0.0%	7.3	160	1
+Café/Dessert	Highlands Coffee - Trần Phú HP	32 Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	9,000	65,000	0.0%	7.6	100	1
+Quán ăn	4 Eyes Korean Food - Lê Hồng Phong	360 Lô 22 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:30 - 22:00	20,000	70,000	0.0%	5.2	36	1
+Quán ăn	Bún Đậu Mắm Tôm Chị Xồ - 48 Nguyễn Bình	48 Nguyễn Bình, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	500+	 10:30 - 14:00 | 17:30 - 22:00	15,000	50,000	0.0%	4.8	1	1
+Nhà hàng	Cơm Lộc Thành - Phan Bội Châu	6 - 8 Phan Bội Châu, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	999+	 10:00 - 21:00	50,000	150,000	0.0%	6.1	37	1
+Café/Dessert	Regiustea 天御皇茶 - Thiên Ngự Hoàng Trà - Nguyễn Công Hòa	310B Nguyễn Công Hòa, P. An Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 23:00	25,000	60,000	0.0%	7.2	43	1
+Quán ăn	Ven Hồ Quán - Bún Đậu Mắm Tôm	18A/186 Chùa Hàng, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 21:00	20,000	50,000	0.0%	9.5	5	1
+Ăn vặt/vỉa hè	Bà Dung - Bánh Bèo Hải Phòng	41 Lê Đại Hành, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 09:00 - 19:00	10,000	50,000	0.0%	8.6	6	1
+Café/Dessert	Ánh Vũ - Nước Ép Chất - Hàng Kênh	107/173 Hàng Kênh, P. Dư Hoàng Kênh, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:00	15,000	30,000	0.0%	4.2	1	1
+Café/Dessert	Caro - Coffee &amp; Drink	139 Lê Lợi, P. Gia Viện, Quận Ngô Quyền, Hải Phòng	4.5	100+	 07:00 - 22:30	20,000	35,000	0.0%	7.7	113	1
+Café/Dessert	Cô Sò Quán - Sinh Tố &amp; Hoa Quả Dầm	42 Minh Khai, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 07:00 - 23:00	25,000	40,000	0.0%	7.2	4	1
+Ăn vặt/vỉa hè, Shop Online	Trà Tắc Chị Thục - 89E Thiên Lôi	89E Thiên Lôi, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 22:00	8,000	15,000	0.0%	3.8	1	1
+Quán ăn	Tiệm Mì Trộn Hong Kong  - 192 Đình Đông	192 Đình Đông, P. Đông Hải, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 21:00	18,000	35,000	0.0%	7.5	2	1
+Ăn chay	Cơm Chay Loving Hut	184B Đà Nẵng, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	4.5	500+	 07:00 - 21:00	20,000	80,000	0.0%	8.3	8	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Bạch Đằng	Tầng 3 Vincom Imperia, 1 Bạch Đằng, P. Thượng Lý, Quận Hồng Bàng, Hải Phòng	4.5	999+	 09:00 - 21:00	20,000	50,000	0.0%	3.7	3	1
+Café/Dessert	E-Coffee - Võ Thị Sáu	38 Võ Thị Sáu, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	3.5	10+	 06:00 - 21:00	15,000	20,000	0.0%	8.6	4	1
+Tiệm bánh, Shop/Cửa hàng	Bee Cake - Hàng Kênh	14/34 Hàng Kênh, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:00	20,000	500,000	0.0%	7.0	3	1
+Ăn vặt/vỉa hè	Quán Chè Ngọc Thạch Hoa Phượng	100/142 Nguyễn Công Hòa, P. Niệm Nghĩa, Quận Lê Chân, Hải Phòng	4.5	500+	 11:00 - 22:30	10,000	25,000	0.0%	8.4	9	1
+Ăn vặt/vỉa hè	Chị Linh - Chè Sương Sa Hạt Lựu	Ngõ 1 Hoàng Ngân, P. Phan Bội Châu, Quận Hồng Bàng, Hải Phòng	0.0	4	 10:00 - 17:00	10,000	15,000	ShopeeFood</span	8.8	1	1
+Ăn vặt/vỉa hè	Hiền Ngan - Bánh Đa Ngan &amp; Bánh Đa Vịt	Ngõ 29F Đà Nẵng, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	3.5	9	 06:00 - 21:00	20,000	35,000	ShopeeFood</span	8.8	1	1
+Café/Dessert	Em Xu - Trà Tắc Khổng Lồ	118 Lam Sơn, P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 22:00	15,000	35,000	0.0%	6.4	4	1
+Café/Dessert	Yến Lùn - Sữa Tươi Trân Châu Đường Đen - Tô Hiệu	157 Tô Hiệu, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:00	25,000	35,000	0.0%	4.7	2	1
+Rạp chiếu phim	Lotte Cinema - VinCom Hải Phòng	Tầng 5, Tầng 5, TTTM Vincom Hải Phòng, 1 Lê Thánh Tông, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	0.0	4	 08:00 - 22:00	40,000	120,000	0.0%	7.8	29	1
+Café/Dessert	Highlands Coffee - Viễn Thông A HP	2 Phạm Minh Đức, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:00 - 11:00	9,000	65,000	0.0%	7.8	121	1
+Quán ăn	Sabay Thai - Ẩm Thực Thái Lan	64A Lương Khánh Thiện, P. Lương Khá Thiện, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 23:00	25,000	70,000	0.0%	8.6	13	1
+Café/Dessert	A Room Cafe - Thế Lữ	5 Lô 18 Thế Lữ, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	10+	 07:00 - 22:00	20,000	55,000	0.0%	8.7	2	1
+Café/Dessert	Yi He Kao Nai - Trà Sữa Nướng - Vinhome Imperia	BH 02-03 Vinhome Imperia Hải Phòng, P. Thượng Lý, Quận Hồng Bàng, Hải Phòng	4.5	999+	 09:00 - 21:00	25,000	99,000	0.0%	6.5	9	1
+Café/Dessert	Highlands Coffee - Sholega	275 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:00 - 23:00	9,000	65,000	0.0%	7.6	76	1
+Ăn vặt/vỉa hè	Thu Yến - Bánh Mì &amp; Trà sữa	168 An Đà, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	100+	 06:00 - 22:00	10,000	15,000	0.0%	7.8	2	1
+Tiệm bánh	Beard Papa's - Lạch Tray	396 Lạch Tray, P. Ngô Quyền, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 21:00	20,000	55,000	0.0%	8.2	1	1
+Ăn vặt/vỉa hè	Cô Gầy - Bánh Mì Nướng	290 Nguyễn Công Hòa, P. Niệm Nghĩa, Quận Lê Chân, Hải Phòng	4.5	100+	 09:00 - 21:00	10,000	20,000	0.0%	8.8	1	1
+Nhà hàng	Indian Kitchen - Minh Khai	22D Minh Khai, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	100+	 08:00 - 02:00	30,000	85,000	0.0%	8.1	13	1
+Quán ăn	Bánh Tráng Cuốn Thịt Heo - Nguyễn Trãi	6 Nguyễn Trãi (Đối Diện Công Viên Máy Tơ), P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	500+	 07:30 - 22:00	15,000	50,000	0.0%	7.0	43	1
+Quán ăn	Bún Bò Huế - Ngô Gia Tự	116 Ngô Gia Tự, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	100+	 05:00 - 11:00	20,000	25,000	0.0%	7.5	3	1
+Quán ăn	Xá Xíu Gia Truyền - 124 Trần Phú	124 Trần Phú, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:00 - 13:00 | 16:00 - 21:00	20,000	50,000	0.0%	8.0	8	1
+Quán ăn	Cơm Tấm Hưng Phú	165A Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 21:30	25,000	60,000	0.0%	6.6	27	1
+Ăn vặt/vỉa hè	Hoa Quả Dầm Hoa Béo - Lương Khánh Thiện	1 Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:30 - 22:30	20,000	60,000	0.0%	5.1	8	1
+Quán ăn	Bún Chả Thanh Thủy	137 Nguyễn Bình, P. Đổng Quốc Bình, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:00 - 21:30	20,000	55,000	0.0%	7.3	12	1
+Quán ăn	Đức - Vịt Quay	68 Hàng Kênh, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	500+	 09:30 - 19:00	50,000	300,000	0.0%	7.8	9	1
+Café/Dessert	Chyba Cafe	58/2A Khu Đô Thị Mới Sở Dầu, P. Sở Dầu, Quận Hồng Bàng, Hải Phòng	0	0	0	40,000	100,000	0.0%	0	0	1
+Shop Online	Bếp Mẹ Mía - Ăn Vặt Online	Ngã 6 Chợ Cát Bi, P. Thành Tô, Quận Hải An, Hải Phòng	4.5	100+	 09:00 - 22:00	35,000	120,000	0.0%	8.0	7	1
+Ăn vặt/vỉa hè	Dừa Dầm Cô Thúy	20 Ngõ 124 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	500+	 09:00 - 22:00	20,000	30,000	0.0%	6.9	10	1
+Ăn vặt/vỉa hè	Dừa Dầm &amp; Sữa Chua - Nguyễn Tất Tố	44 Nguyễn Tất Tố, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:00	5,000	35,000	0.0%	7.7	13	1
+Ăn vặt/vỉa hè	Bánh Mì Cô Thắm Sài Gòn - Trần Quang Khải	25A Trần Quang Khải, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 07:00 - 21:00	15,000	30,000	0.0%	5.9	3	1
+Ăn vặt/vỉa hè	Bánh Mì Khánh Nạp Chính Hãng	192 Hàng Kênh, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	100+	 04:00 - 13:00	2,000	15,000	0.0%	7.7	19	1
+Ăn vặt/vỉa hè	Hiền Béo - Dừa Dầm Hải Phòng	124 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:00 - 22:00	10,000	20,000	0.0%	7.0	37	1
+Nhà hàng, Quán ăn	MyChis - Quán Gia Đình Hàn Nhật Việt	17 Ngõ 33 Lam Sơn, P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 21:00	100,000	350,000	0.0%	7.2	57	1
+Quán ăn	Tasty - Nem Nướng Nhà Kèn - Hoàng Minh Thảo	17 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 22:00	25,000	40,000	0.0%	6.9	2	1
+Quán ăn	Bún Chả - Tôn Đức Thắng	154 Tôn Đức Thắng, P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	500+	 07:00 - 21:00	20,000	55,000	0.0%	6.9	4	1
+Quán ăn	Pizza Tea And More	4 Phạm Phú Thứ , P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	100+	 06:00 - 22:00	10,000	100,000	0.0%	7.4	1	1
+Quán ăn	Nem Chua - Phan Bội Châu	167 Phan Bội Châu, P. Phan Bội Châu, Quận Hồng Bàng, Hải Phòng	4.5	100+	 08:00 - 18:00	15,000	50,000	ShopeeFood</span	6.9	14	1
+Quán ăn	Phở Cốc, Mì Vịt Tiềm, Bánh Mì - Đinh Tiên Hoàng	8 Đinh Tiên Hoàng, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	10+	 09:00 - 20:30	15,000	50,000	ShopeeFood</span	7.7	22	1
+Quán ăn	Bà Già - Bánh Mì Cay	57 Lê Lợi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	500+	 07:00 - 22:30	2,000	15,000	0.0%	7.3	46	1
+Quán ăn	Singchicken - Cơm Gà Singapore - Văn Cao	116 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	500+	 10:00 - 22:00	35,000	50,000	0.0%	7.6	20	1
+Quán ăn	Bún Chả Dũng Thuỷ	484 Thiên Lôi, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	100+	 09:00 - 13:00	25,000	32,000	0.0%	6.6	7	1
+Quán ăn	Bếp Gia Đình - Lẩu Ship Mang Về	35 Lê Đại Hành, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	50+	 10:00 - 22:00	30,000	200,000	0.0%	5.8	2	1
+Ăn vặt/vỉa hè	Tiệm Bẹ Bò Nướng Cột Đèn - Dư Hàng - Shop Online	8/70 Dư Hàng, P. Dư Hàng, Quận Lê Chân, Hải Phòng	4.5	50+	 10:30 - 22:00	70,000	150,000	0.0%	<span>_._</span>	0	1
+Tiệm bánh	Bánh Su Kem Chewy Junior - Hoàng Văn Thụ	62 Hoàng Văn Thụ, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	500+	 09:00 - 22:30	50,000	100,000	0.0%	7.3	71	1
+Nhà hàng	Pepper's Pizza - Nhà Hàng Đồ Ăn Nhanh	61 Cát Dài, P. An Biện, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:00	50,000	120,000	0.0%	7.3	93	1
+Giao cơm văn phòng	Lẩu Xách Tay BoHoo - Shop Online	Đầu Ngõ 420 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	50+	 10:00 - 18:15	30,000	50,000	0.0%	8.3	7	1
+Café/Dessert, Quán ăn	Nhà Hàng Long Cua - 226 Quán Nam	226 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	10+	 11:00 - 21:30	50,000	80,000	0.0%	9.0	1	1
+Quán ăn	S. Sam - Bánh Mì Chảo	254 Phan Đăng Lưu, P. Trần Thành Ngọ, Quận Kiến An, Hải Phòng	4.5	100+	 09:00 - 17:00	30,000	70,000	0.0%	7.3	12	1
+Quán ăn	Dũng Vân - Bánh Bột Lọc - Chợ Cố Đạo	74 Trần Nhật Duật, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	500+	 10:00 - 19:00	30,000	50,000	0.0%	6.9	86	1
+Ăn vặt/vỉa hè	Bánh Cuốn Tráng Tay - Bùi Thị Từ Nhiên	315 Bùi Thị Từ Nhiên, P. Đông Hải 1, Quận Hải An, Hải Phòng	4.5	100+	 10:00 - 21:30	15,000	30,000	0.0%	6.7	41	1
+Quán ăn	Miến Trộn - Lê Hồng Phong	317 Lô 22 Lê Hồng Phong, Quận Ngô Quyền, Hải Phòng	4.5	100+	 06:30 - 14:00	20,000	30,000	0.0%	6.2	9	1
+Ăn vặt/vỉa hè	Bánh Đa Cua - Mê Linh	Ngõ 2 Mê Linh, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	100+	 06:00 - 21:00	15,000	25,000	0.0%	7.0	64	1
+Ăn vặt/vỉa hè	Quẩy Nóng, Bánh Bao &amp; Bánh Gối - Đình Đông	93 Đình Đông, P. Đông Hải, Quận Lê Chân, Hải Phòng	4.5	50+	 12:30 - 10:30	10,000	20,000	ShopeeFood</span	8.2	1	1
+Quán ăn	Chất Quê Quán - Bún Đậu Mắm Tôm	307 Lô 22 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	50+	 08:00 - 21:00	10,000	100,000	ShopeeFood</span	6.8	10	1
+Quán ăn	Bún Chả 147 - Quán Mới	147 Nguyễn Bình, P. Đổng Quốc Bình, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:30 - 21:00	20,000	35,000	0.0%	6.4	5	1
+Café/Dessert	Trà Sữa Mizu Tea	16 Nam Pháp 1, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:30 - 22:30	20,000	30,000	0.0%	7.7	21	1
+Café/Dessert	5ive Coffee	5 Lâm Tường, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 23:00	20,000	40,000	0.0%	8.1	4	1
+Café/Dessert	E-Coffee - Lạch Tray	368 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	10+	 07:00 - 21:30	10,000	20,000	0.0%	7.0	3	1
+Café/Dessert	Lan - Cà Phê &amp; Trà Cúc	31A Phan Bội Châu, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	50+	 07:30 - 21:00	15,000	30,000	0.0%	7.7	11	1
+Café/Dessert	Trà Chanh Bụi Phố - Trần Nguyên Hãn	278 Trần Nguyên Hãn, P. Nghĩa Xã, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:00	10,000	40,000	0.0%	7.7	2	1
+Café/Dessert	Trà Sữa 119 - Trà Sữa - Lũng Đông	119 Lũng Đông, P. Đằng Hải, Quận Hải An, Hải Phòng	4.5	10+	 08:00 - 22:00	25,000	30,000	0.0%	7.8	1	1
+Café/Dessert	Arodal Coffee	65 Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	10+	 07:00 - 22:00	29,000	45,000	0.0%	9.0	3	1
+Café/Dessert	Kafa Cafe - Điện Biên Phủ	27C Điện Biên Phủ, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	50+	 07:30 - 21:30	20,000	60,000	0.0%	7.2	1	1
+Café/Dessert	Milano Coffee - Tô Hiệu	84 Tô Hiệu, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	50+	 06:00 - 00:00	20,000	35,000	0.0%	9.6	1	1
+Café/Dessert	Trà Cúc - Phan Bội Châu	17 Phan Bội Châu, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	100+		10,000	44,000	0.0%	7.5	25	1
+Café/Dessert	Highlands Coffee - SHP Plaza HP	Tầng 1, TTTM SHP Plaza, 12 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	20,000	80,000	0.0%	7.5	12	1
+Café/Dessert	Mr. Good Tea - Lạch Tray	207 Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	25,000	60,000	0.0%	7.3	180	1
+Café/Dessert	Bình Cafe	355B Lô 22 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	10+	 06:00 - 22:00	20,000	50,000	0.0%	8.6	1	1
+Café/Dessert	Mr. Good Tea - Phạm Ngũ Lão	4A Phạm Ngũ Lão, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	30,000	50,000	0.0%	7.4	260	1
+Café/Dessert	Kem Bơ Dừa Bruce Lee	72 Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 23:00	40,000	65,000	0.0%	7.6	73	1
+Café/Dessert	Zhuang's Tea	37 Cát Cụt, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:30	32,000	40,000	0.0%	7.7	20	1
+Café/Dessert	Vivaria Coffee &amp; Trees	4B4 Lô 26 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	10+	 07:00 - 23:00	30,000	45,000	0.0%	8.7	14	1
+Café/Dessert	Cafe Cốt Dừa Cô Hạnh - Lam Sơn	130 Lam Sơn, P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 20:00	15,000	20,000	0.0%	7.3	31	1
+Café/Dessert	Highlands Coffee - Quang Trung HP	28A Quang Trung, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	999+	 08:00 - 22:00	9,000	65,000	0.0%	7.9	80	1
+Café/Dessert	Cafe Cốt Dừa Cô Hạnh - Lương Khánh Thiện	148 Lương Khánh Thiện, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:00 - 23:00	20,000	50,000	ShopeeFood</span	7.3	5	1
+Ăn vặt/vỉa hè	Trà Sữa Hải Phòng - Lê Lai	128G Lê Lai, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	4.5	500+	 08:00 - 22:00	20,000	50,000	0.0%	7.8	4	1
+Shop Online	Trà Sữa Cô Tấm - Shop Online	68 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:15 - 19:30	35,000	55,000	0.0%	7.1	6	1
+Café/Dessert	Highlands Coffee - Vincom Hải Phòng	Tầng 1, Vincom Hải Phòng, 1 Lê Thánh Tông, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	500+	 09:30 - 21:30	9,000	65,000	0.0%	7.5	79	1
+Café/Dessert	Cha Go Tea &amp; Caf'e - Lê Lợi	427 Phố Lê Lợi, P. Lê Lợi, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 23:00	30,000	60,000	0.0%	8.2	166	1
+Café/Dessert	Trà Sữa Tang Cha Tea	207B Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 23:00	30,000	50,000	0.0%	7.5	99	1
+Café/Dessert	Tech Coffee	BH 04-30 Mahattan 11 Vinhomes Imperia, 1 Bạch Đằng, P. Thượng Lý, Quận Hồng Bàng, Hải Phòng	5.0	2	 07:00 - 22:00	40,000	60,000	0.0%	9.2	1	1
+Café/Dessert	Trà Sữa Tí Hon - Bạch Đằng	51 Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	100+	 07:00 - 23:00	5	28,000	0.0%	8.0	1	1
+Café/Dessert	Highlands Coffee - 178 Văn Cao	178 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 07:00 - 22:00	25,000	100,000	0.0%	4.8	6	1
+Café/Dessert	Mr. Good Tea - Trần Thành Ngọ	 320 Trần Thành Ngọ, P. Trần Thành Ngọ, Quận Kiến An, Hải Phòng	4.5	500+	 09:00 - 23:00	30,000	50,000	0.0%	6.8	17	1
+Café/Dessert	Cộng Caphe - Điện Biên Phủ	84 Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	10+	 08:00 - 23:30	25,000	150,000	ShopeeFood</span	7.0	115	1
+Café/Dessert	Cheese Tea Bar - Tô Hiệu	224 Tô Hiệu, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Milano Coffee - Tôn Đức Thắng	7 Tôn Đức Thắng, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	50+	 06:00 - 22:00	15,000	40,000	0.0%	8.0	8	1
+Café/Dessert	Đô Đô - Trà Sữa Đồng Giá - Lạch Tray	207 Lạch Tray, P. Đổng Quốc Bình, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cheese Tea Bar - Lê Lợi	85 Lê Lợi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	500+	 08:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Đô Đô - Trà Sữa Đồng Giá - Lương Khánh Thiện	34P Lương Khánh Thiện, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	500+	 08:00 - 23:00	21,000	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tea Tea - MiLo Dầm Trân Châu Đường Đen	1B/C13/313 Đà Nẵng, P. Cầu Tre, Quận Ngô Quyền, Hải Phòng	4.5	500+	 10:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	E-Coffee Trung Nguyên - Bạch Đằng	167 - 169 Bạch Đằng, P. Thượng Lý, Quận Hồng Bàng, Hải Phòng	4.5	10+	 08:00 - 22:00	22,000	35,000	0.0%	9.7	4	1
+Café/Dessert	Xinshiqi - Aeon Mall	Tầng 3 Aeon Mall, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 07:00 - 23:00	26,000	59,000	0.0%	8.2	35	1
+Shop Online	Xúc Xích PTA - Bánh Mì - Trà Tắc - Thiên Lôi	29/788 Thiên Lôi, Phường Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	8	0	0	0	0.0%	0	0	1
+Café/Dessert	E-Coffee 165 Tô Hiệu	165 P. Tô Hiệu, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 22:00	20,000	100,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Belaya Koza - 122 Cát Cụt	122 Cát Cụt, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	100+	 09:00 - 22:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Trà sữa Tiger Hill - Quán Nam	152 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 23:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Nước Ép Trái Cây &amp; Bánh Pudding - Chợ Ga	Cổng Chợ Ga, 152 Lương Khánh Thiện, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	10+	 08:30 - 18:00	20,000	30,000	0.0%	8.1	3	1
+Café/Dessert	Aha Cafe - Đinh Tiên Hoàng	93 Đinh Tiên Hoàng, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	10+	 07:30 - 22:00	25,000	45,000	0.0%	6.4	1	1
+Quán ăn	Trà Cúc Số 7 - Lán Bè	7 Lán Bè , P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	10+	 07:30 - 22:00	20,000	35,000	0.0%	8.6	1	1
+Café/Dessert	Monte Rosa - Kem Ý &amp; Trà Sữa Đài Loan	520 Tôn Đức Thắng (Chân Cầu An Dương), An Dương, Hải Phòng	3.5	8	 08:00 - 22:00	15,000	60,000	0.0%	8.7	6	1
+Café/Dessert	Giang Coffee - Hồ Sen	29 Hồ Sen, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	10+	 06:00 - 23:00	15,000	30,000	0.0%	7.7	4	1
+Café/Dessert	Hoa Quả Dầm &amp; Nước Ép - Nhà Tý	22/108 Lê Thánh Tông, P. Máy Chai, Quận Ngô Quyền, Hải Phòng	0.0	3	 09:00 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0	0
+Café/Dessert	ChiChi Healthy - Hai Bà Trưng	314 Hai Bà Trưng, P. Cát Dài, Quận Lê Chân, Hải Phòng	4.5	10+	 09:00 - 22:00	25,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cà Phê Cốt Dừa - Cô Hà	105C Lê Lợi , P. Gia Viên, Quận Ngô Quyền, Hải Phòng	4.5	10+	 08:00 - 21:00	15,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Napoli Coffee - 1B An Khê	1B An Khê, P. Cát Bi, Quận Hải An, Hải Phòng	5.0	8	 07:00 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hichi Milk &amp; Tea - 17 Cát Bi	17 Cát Bi, P. Cát Bi, Quận Hải An, Hải Phòng	4.5	100+	 09:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cát Vũ - Nước Ép Hoa Quả Nguyên Chất &amp; Trà Hoa Quả - Chùa Hàng	109 Chùa Hàng, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	50+	 08:00 - 21:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - Tầng 1, AEON Hải Phòng	Tầng 1, Trung Tâm Thương Mại Aeon Mall Hải Phòng Lê Chân, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - Số 02 -04 Cầu Đất	2 - 4 Cầu Đất, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	50+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - Số 17 Trần Quang Khải	Số 17 Trần Quang Khải, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	10+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - Số 86 Điện Biên Phủ	Số 86 Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	100+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Nico Nico Tea Bar - Lương Khánh Thiện	52 Lương Khánh Thiện, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	500+	 08:10 - 21:50	20,000	30,000	0.0%	10.0	1	1
+Café/Dessert	Trà Bí Đao An Nhiên - Trần Nguyên Hãn	87A Trần Nguyên Hãn , P. Trần Nguyễn Hãn, Quận Lê Chân, Hải Phòng	5.0	10+	 08:00 - 22:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Yinghua Cha - 83 Quán Nam	83 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 22:30	19,000	38,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Quán Gốc Coffee - Cafe Rang Củi	8 Nguyên Hồng, P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	6	 06:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Shop Online	Legend Drink - Trà &amp; Trà Sữa - Trần Thành Ngọ	162 Trần Thành Ngọ, P. Trần Thành Ngọ, Quận Kiến An, Hải Phòng	4.5	10+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	B.A.O Coffee - Trà Dứa Kim Tiền &amp; Trà Dâu Thanh Hồng - 83 Hoàng Minh Thảo	83 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	6	 07:00 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	JDragon - Sinh Tố Nước Ép - Vĩnh Tiến	34c Vĩnh Tiến, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	0.0	3	 08:00 - 22:00	20,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Simple Coffee - Trà Atiso Hoa Hồng &amp; Sinh Tố Bơ Chuối Ngũ Cốc - 117 Điện Biên Phủ	117 Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	5.0	7	 07:30 - 21:30	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Quỳnh Anh - Dừa Dầm, Chè &amp; Nước Ép Hoa Quả	67 Trại Lẻ , P. Kênh Dương, Quận Lê Chân, Hải Phòng	3.5	6	 08:00 - 20:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Ăn Vặt Hải Yến - Đường 203 Cái Tắt	119 Đường Ngang 203 Cái Tắt, X. An Đồng, An Dương, Hải Phòng	4.5	100+	 07:00 - 18:00	10,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Jang Tee - Trà Sữa - Tôn Đức Thắng	63 Tôn Đức Thắng, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	50+	 08:00 - 22:00	19,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Kem Dừa Đất Côn Đảo - Lán Bè	35 Lán Bè, P. Lam Sơn, Quận Lê Chân, Hải Phòng	4.5	10+	 09:00 - 22:00	15,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Thủy Milk - Trà Sữa &amp; Sinh Tố - 95 Quán Nam	95 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	5.0	6	 09:00 - 22:00	25,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Mộc Coffee &amp; Tea - Ngô Gia Tự	857 Ngô Gia Tự, P. Đằng Hải, Quận Hải An, Hải Phòng	0.0	3	 08:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Milano Coffee - 59 Lương Khánh Thiện	59 Lương Khánh Thiện, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	10+	 08:00 - 21:30	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - 382-384 Lạch Tray	382-384 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	50+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Hương Thuỷ - Trà Tắc &amp; Trà Đào	89C Thiên Lôi, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	500+	 07:00 - 22:00	15,000	15,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao An Nhiên - 475 Ngô Gia Tự	475 Ngô Gia Tự , P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	10+	 08:00 - 22:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	No 1986 - Cafe &amp; Restaurant - Phan Bội Châu	11 Phan Bội Châu, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	50+	 09:00 - 21:00	35,000	75,000	0.0%	7.2	1	1
+Quán ăn	The Coffee House - Số 01 Lê Hồng Phong	1 Lê Hồng Phong, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	4.5	100+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Mèo Béo Tea - Nước Ép &amp; Tea - Ngô Gia Tự	1311B Ngô Gia Tự, P. Nam Hải, Quận Hải An, Hải Phòng	4.5	10+	 07:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mixue - Đông Khê	220 Đông Khê, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mixue - 246 Đà Nẵng	246 Đà Nẵng, P. Cầu Tre, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 23:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Trà Cúc Original - 36 Minh Khai	36 Minh Khai, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	0.0	4	 07:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao Plus - Quán Nam	152 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	0.0	4	 07:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Rau Má Xanh Organic - Quán Nam	163 Quán Nam, Phường Kênh Dương, Quận Lê Chân, Hải Phòng, Quận Lê Chân, Hải Phòng	4.5	50+	 08:00 - 21:30	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao Mộc Nhiên - 82 Lê Lợi	82 Lê Lợi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	50+	 08:00 - 23:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao BeBo - Đông Khê	261 Đông Khê, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	50+	 07:00 - 22:00	15,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Dragon Tea - Lương Khánh Thiện	Tầng 2, Số 52 Lương Khánh Thiện, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	999+	 08:00 - 22:00	10,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - Số 15 Trần Phú	15 Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	100+	 07:30 - 20:30	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mixue - Trần Nguyên Hãn	167 Trần Nguyên Hãn, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 22:00	25,000	55,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Bắc Việt Coffee - Tam Bạc	103 Tam Bạc, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	100+	 07:00 - 23:00	20,000	60,000	ShopeeFood</span	7.7	2	1
+Café/Dessert	Cafe Cây Si - Điện Biên Phủ	27A Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	5.0	1	 06:30 - 22:00	15,000	25,000	ShopeeFood</span	7.4	1	1
+Café/Dessert	BIGO TEA - Sữa Chua Lắc &amp; Trà Sữa	305 Hoàng Minh Thảo, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	10+	 08:00 - 21:00	17,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	MILANO COFFEE - KĐT ICC Lạch Tray	01 - LK1 Khu Đô Thị ICC Lạch Tray, P. Đông Hải, Quận Lê Chân, Hải Phòng	0	0	0	20,000	35,000	0.0%	0	0	1
+Café/Dessert	The Coffee House - 3 Đỗ Nhuận	3 Đỗ Nhuận, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	50+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	CoCoo - Kem Dừa Côn Đảo - 178 Quang Trung	178 Quang Trung, P. Phạm Hồng Thái, Quận Hồng Bàng, Hải Phòng	0.0	4	 08:00 - 22:00	10,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	T'CONFID Coffee - Cafe Kem Muối &amp; Sinh Tố Gấc - Lê Hồng Phong	5K4 Lô 26 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	10+	 06:30 - 22:30	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Trà Bí Đao GongChia - 179 Đình Đông	179 Đình Đông, P. Đông Hải, Quận Lê Chân, Hải Phòng	4.5	100+	 09:00 - 20:00	10,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Mẩy Tea - 337 Cát Bi	337 Cát Bi, P. Cát Bi, Quận Hải An, Hải Phòng	4.5	8	 07:30 - 22:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Lotteria - Aeon Mall Hải Phòng Lê Chân	Tầng 3, Khu Ẩm Thực, Lô Số T328-T329, TTTM  Aeon Mall Hải Phòng Lê Chân, Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 08:30 - 21:30	30,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	K-pub Pizza - Văn Cao	333 Văn Cao, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	100+	 10:00 - 23:59	60,000	250,000	0.0%	7.4	3	1
+Nhà hàng	Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Aeon Mall Hải Phòng	Tầng 1, T130 Aeon Mall Hải Phòng, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	50+	 10:00 - 23:00	30,000	75,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	The Pizza Company - Aeon Hải Phòng	Tầng 1, Tầng 1 Aeon Hải Phòng, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	500+	 10:00 - 22:00	49,000	300,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Pizza Hut - Aeon Mall Hải Phòng	Aeon Mall Hải Phòng, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 10:00 - 22:00	35,000	500,000	0.0%	<span>_._</span>	0	1
+Sang trọng, Khách sạn	Cheers Pub &amp; Pizza Nostra	12 Trần Phú, Quận Ngô Quyền, Hải Phòng	4.5	10+	 11:00 - 22:00	170,000	595,000	0.0%	7.3	11	1
+Quán ăn	Quán Ông Sần - Đặc Sản Vịt	40 Phạm Bá Trực, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	50+	 08:00 - 22:00	25,000	55,000	ShopeeFood</span	7.2	8	1
+Quán ăn	Cơm Rang - Miếu Hai Xã	Đầu Ngõ 52 Miếu Hai Xã, P. Dư Hàng, Quận Lê Chân, Hải Phòng	4.5	500+	 10:00 - 14:00 | 18:00 - 20:30	20,000	35,000	0.0%	7.2	1	1
+Shop Online	Trang Vũ - Chân Gà Kiểu Thái &amp; Bánh Mochi Online	5/33 Tôn Đức Thắng, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	50+	 09:00 - 21:00	50,000	100,000	0.0%	7.2	8	1
+Quán ăn, Giao cơm văn phòng	Singchicken - Cơm Gà Singapore - Minh Khai	22F Minh Khai, P. Hoàng văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	500+	 10:00 - 14:00 | 17:00 - 22:00	35,000	200,000	0.0%	7.5	34	1
+Ăn vặt/vỉa hè	Gà Tần - Phan Bội Châu	125 Phan Bội Châu, P. Phan Bội Châu, Quận Hồng Bàng, Hải Phòng	4.5	10+	 08:00 - 18:00	30,000	50,000	ShopeeFood</span	7.9	2	1
+Quán ăn	Bánh Đa Gà - Chùa Hàng	19 Chùa Hàng, P. Trại Cau, Quận Lê Chân, Hải Phòng	3.5	3	 07:00 - 21:00	25,000	50,000	ShopeeFood</span	7.4	4	1
+Nhà hàng	Ganesh Indian - Restaurant - Văn Cao	130 Văn Cao, Quận Ngô Quyền, Hải Phòng	4.5	10+	 10:00 - 22:00	28,000	100,000	0.0%	<span>_._</span>	0	1
+Shop Online	Bếp Cu Mít - Đồ Ăn Vặt Online	5 B244 Tổ 8, Thành Tô, P. Thành Tô, Quận Hải An, Hải Phòng	5.0	1	 08:00 - 20:00	110,000	220,000	0.0%	<span>_._</span>	0	1
+Shop Online	Quạ Mốc - Ăn Vặt Các Loại - Shop Online	4/363 Chợ Hàng, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	3.0	1	 09:00 - 21:00	30,000	280,000	ShopeeFood</span	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Ăn Vặt Cô Dũng - Bánh Bao Chiên &amp; Gà Chiên Giòn	41 Phạm Phú Thứ, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	0	0	0	10,000	10,000	ShopeeFood</span	0	0	1
+Quán ăn	Phúc Đại Lợi - Phở Bò, Cơm Rang &amp; Lẩu Đuôi Bò	222 Trại Lẻ, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	10+	 07:00 - 22:00	30,000	250,000	0.0%	9.4	1	1
+Nhà hàng	Lẩu Gà Lá É Gạo Đỏ - Trung Hành	8 Lô 16A Trung Hành, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	10+	 09:00 - 22:00	59,000	400,000	0.0%	7.5	6	1
+Shop Online	Nhung Nhi - Viên Thả Lẩu Malaysia Online	6/82 Nguyễn Văn Hới, P. Cát Bi, Quận Hải An, Hải Phòng	4.5	10+	 09:00 - 22:00	100,000	140,000	0.0%	9.2	4	1
+Quán ăn	Bún Chả Thùy - Cát Dài	153 Cát Dài, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	100+	 10:00 - 13:30	28,000	56,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Kangnam Mr.Du - BBQ Korea	22 Khu B4 Lô 6B, Lê Hồng Phong (Ngã Tư Phượng Chi Rẽ Vào), P. Đồng Khê, Quận Ngô Quyền, Hải Phòng	4.5	50+	 11:00 - 23:00	50,000	200,000	0.0%	7.4	36	1
+Quán ăn	Quán Lá - Ẩm Thực Đồng Quê	31/182 Văn Cao, P. Đằng Giang, Quận Hải An, Hải Phòng	4.5	100+	 08:00 - 22:00	50,000	200,000	0.0%	8.3	2	1
+Quán ăn	Gà Tươi Hảo Hảo - 215 Hàng Kênh	215 Hàng Kênh, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	10+	 09:00 - 22:00	40,000	250,000	0.0%	<span>_._</span>	0	1
+Mua sắm Online	Tiệm Mỳ Chua Cay Hà Nội - Dư Hàng - Shop Online	6/70 Dư Hàng, P. Dư Hàng, Quận Lê Chân, Hải Phòng	4.5	50+	 09:00 - 21:00	15,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Dê Ngon Quán - Trung Lực	192 Trung Lực, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	10+	 09:00 - 22:00	20,000	300,000	ShopeeFood</span	7.0	1	1
+Quán ăn	Lẩu Tôm Càng Xanh - Lạch Tray	12/420 Lạch Tray, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	3	 10:00 - 23:00	50,000	300,000	ShopeeFood</span	7.3	4	1
+Shop/Cửa hàng	5Foods - Thực Phẩm Sơ Chế - Lê Thánh Tông	P 104 Tòa Nhà Thành Đạt, 3 Lê Thánh Tông, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	10+	 07:00 - 23:00	20,000	200,000	0.0%	8.4	2	1
+Nhà hàng	Vòm Quán - Hải Sản Đồng Quê - Nguyễn Tất Tố	Lô 26-28 Khu Biệt Thự Nhà Vườn Quán Nam Nguyễn Tất Tố, P. Kênh Dương, Quận Lê Chân, Hải Phòng	1.0	1	 08:30 - 14:00 | 15:45 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Món Thái So Siam - Tô Hiệu	297 Tô Hiệu, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	10+	 10:00 - 14:00 | 17:00 - 22:00	100,000	300,000	0.0%	6.3	3	1
+Quán ăn	An Nam - Lẩu Cua Đồng - Ngô Kim Tài	82 Ngô Kim Tài, P. Kênh Dương, Quận Lê Chân, Hải Phòng	3.5	6	 09:00 - 23:00	195,000	295,000	ShopeeFood</span	4.9	3	1
+Nhà hàng	Nhà Hàng 5 Cây Cọ - Lê Hồng Phong	Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	0	0	0	50,000	1,000,000	0.0%	0	0	1
+Café/Dessert, Quán ăn	Vòm Quán - Hải Sản Đồng Quê	88 Nguyễn Tất Tố, P. Kênh Dương, Quận Lê Chân, Hải Phòng	0.0	2	 16:00 - 22:00	12,000	350,000	0.0%	<span>_._</span>	0	1
+Shop/Cửa hàng	5Foods - Thực Phẩm Sơ Chế - Đà Nẵng	226 Đà Nẵng, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	4.5	10+	 07:00 - 23:00	20,000	200,000	0.0%	<span>_._</span>	0	1
+Shop Online	5Foods - Thực Phẩm Sơ Chế - Chợ Hàng Cũ	98 Chợ Hàng Cũ, Quận Lê Chân, Hải Phòng	0.0	3	 08:00 - 20:00	30,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	S&amp;T Food - Nướng, Lẩu &amp; Fast Food	85 Chợ Con, P. Trại Cau, Quận Lê Chân, Hải Phòng	0	0	0	40,000	100,000	ShopeeFood</span	0	0	1
+Quán ăn	Nướng Duyên Béo - Bạch Đằng	42 Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	10+	 17:00 - 22:00	200,000	1,000,000	ShopeeFood</span	7.5	40	1
+Quán ăn	Lẩu Ếch Hà Nội 1 - Đà Nẵng	4/311 Đà Nẵng, P. Cầu Tre, Quận Ngô Quyền, Hải Phòng	0	0	0	10,000	250,000	0.0%	0	0	1
+Shop/Cửa hàng	Trà Bí Đao 1 Lít - 442 Nguyễn Văn Linh	442 Nguyễn Văn Linh, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 21:00	10,000	150,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Lẩu Hơi Thủy Tề - Lạch Tray	126 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	0	0	0	100,000	250,000	ShopeeFood</span	0	0	1
+Quán ăn	Lego Garden - BBQ &amp; Hotpot	1/266H Trần Nguyên Hãn, P. Niệm Nghĩa, Quận Lê Chân, Hải Phòng	5.0	1	 10:00 - 23:00	115,000	145,000	ShopeeFood</span	7.9	22	1
+Quán ăn	Hà Vy - Lẩu &amp; Nướng	83 Hoàng Minh Thảo, P. Nghĩa Xã, Quận Lê Chân, Hải Phòng	0	0	0	55,000	250,000	ShopeeFood</span	0	0	1
+Nhà hàng	Thống Nhất - Lẩu Hơi	77 Nguyễn Trãi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	3.0	1	 09:00 - 23:00	150,000	500,000	ShopeeFood</span	7.4	4	1
+Quán ăn	HP3 BQQ - Nướng &amp; Lẩu Không Khói - Điện Biên Phủ	107 Điện Biên Phủ, Quận Hồng Bàng, Hải Phòng	2.5	3	 09:00 - 22:00	179,000	199,000	ShopeeFood</span	7.1	32	1
+Quán ăn	Hotpot Thai Plus Xuýt Xoa Vị Thái - Aeon Mall	Tầng 3 Khu Food Coast, Aeon Mall Hải Phòng Lê Chân, P. Kênh Dương, Quận Lê Chân, Hải Phòng	0.0	2	 10:00 - 22:00	40,000	660,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Hòa Xứ Lạng - Lợn Sữa Quay	8 Khu B5 Lô 7A Lê Hồng Phong, P. Đằng Lâm, Quận Hải An, Hải Phòng	5.0	3	 10:00 - 23:00	50,000	500,000	ShopeeFood</span	6.5	3	1
+Quán ăn	Trần Gia Quán - Lẩu &amp; Các Món Nhậu	56 Ngô Kim Tài, P. Kênh Dương, Quận Lê Chân, Hải Phòng	0	0	0	0	0	ShopeeFood</span	0	0	1
+Quán ăn	Quán Anh Em - Lẩu Cua Đồng - 284 Đà Nẵng	284 Đà Nẵng , P. Vạn Mỹ, Quận Ngô Quyền, Hải Phòng	0	0	0	70,000	600,000	0.0%	0	0	1
+Quán ăn	Nhà Hàng Vịt Cỏ - 307 Chợ Hàng	307 Chợ Hàng, P. Dư Hàng, Quận Lê Chân, Hải Phòng	5.0	2	 10:00 - 14:00 | 17:00 - 21:00	30,000	250,000	ShopeeFood</span	<span>_._</span>	0	1
+Café/Dessert	Quán Quân - Hương Vị Miền Trung	51 Đường Vòng Hồ Sen, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 23:00	20,000	80,000	0.0%	7.4	45	1
+Café/Dessert, Quán ăn	Vịt Cỏ Vân Đình - 216 Quán Nam	216 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	10+	 10:00 - 22:00	50,000	280,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Kimchi_Bbq - Buffet Nướng &amp; Lẩu Đường Phố - Hoàng Minh Thảo	282 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	3.5	10+	 09:00 - 21:00	39,000	499,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ốc Xưa - Lẩu Ốc &amp; Bún Ốc	Số 2 Ngõ 420 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	50+	 06:00 - 14:00 | 17:00 - 21:30	50,000	100,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Nguyễn Phạm - Lẩu Cháo Chim 	Cụm 4 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	5.0	1	 10:00 - 23:59	10,000	385,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Cân Taiwanese Street Hotpot - Lẩu Đài Loan - Aeon Mall	10 Võ Nguyên Giáp, Phường Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	8	 10:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán nhậu	Quán Nhậu Bạn Bè - Nguyễn Công Hòa	229 Nguyễn Công Hoà, P. An Dương, Quận Lê Chân, Hải Phòng	4.5	50+	 14:00 - 23:00	20,000	150,000	0.0%	8.0	1	1
+Quán ăn	Nhà Hàng Gia Phúc - Gà Không Lối Thoát - Lê Hồng Phong	1 Lô 11B Lê Hồng Phong, P. Đằng HảI, Quận Hải An, Hải Phòng	4.5	100+	 10:00 - 22:00	30,000	260,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Đồ Nướng Mlem Mlem - Chung Cư Hoàng Huy	Khu L1-120, Khu Chung Cư Hoàng Huy, X. An Đồng, An Dương, Hải Phòng	0	0	0	60,000	300,000	0.0%	0	0	1
+Quán ăn	Quán Nhậu 87 - Lê Hồng Phong	10 Lô 28 Lê Hồng Phong (Đối Diện Karaoke 87), P. Đông Khê, Quận Ngô Quyền, Hải Phòng	0	0	0	40,000	450,000	0.0%	0	0	1
+Quán ăn	Thai BBQ - Buffet Nướng &amp; Lẩu Thái Lan - Võ Nguyên Giáp	T234 Tầng 2 Aeonmall Lê Chân, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	5.0	6	 09:00 - 21:00	39,000	499,000	0.0%	7.2	1	1
+Café/Dessert, Quán ăn	Ba Tài Quán - Lẩu Cá Kèo - Hồ Sen	116 Hồ Sen, P. Dư Hàng, Quận Lê Chân, Hải Phòng	4.5	2	 10:00 - 22:00	50,000	400,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Toro - Sét Lẩu &amp; Sét Nướng	11 Nguyễn Thị Thuận, P. Cát Bi, Quận Hải An, Hải Phòng	5.0	1	 10:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Đất Cảng - Phan Bội Châu	19 Phan Bội Châu, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	50+	 09:00 - 23:00	25,000	60,000	ShopeeFood</span	<span>_._</span>	0	1
+Nhà hàng	Hoàng Sang - Lẩu Thuyền Chài - Thế Lữ	Lô 23 Thế Lữ, Phường Hạ Lý, Quận Hồng Bàng, Hải Phòng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Bún Chả Cô Lan - Trần Nguyên Hãn	16 Trần Nguyên Hãn, P. Cát Dài, Quận Lê Chân, Hải Phòng	0.0	3	 10:30 - 14:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Sang trọng	Hầm Rượu Thiên Hồng Phát - Lê Hồng Phong	17 Lô 3C Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	5.0	1	 09:00 - 21:00	150,000	300,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Nhà Hàng Hoa Lâm - Lẩu Cua Đồng &amp; Bún Đậu	17 Lê Đại Hành, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	0	0	0	30,000	250,000	0.0%	0	0	1
+Nhà hàng	U-House - Restaurant &amp; Cafe - New MDM	Tầng 1, Tầng 1 New MDM, Thửa 1 Lô 26A Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	5.0	1	 06:00 - 22:30	65,000	4,900,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán AE - Lẩu Cua Đồng - Đường Đà Nẵng	284 Đà Nẵng, P. Vạn Mỹ, Quận Ngô Quyền, Hải Phòng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	TanKa Lẩu &amp; Món Nướng - Minh Khai	25 Minh Khai, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	0	0	0	50,000	500,000	0.0%	0	0	1
+Quán ăn	Bape Quán - Lẩu &amp; Nướng	62 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	0	0	0	40,000	500,000	0.0%	0	0	1
+Quán ăn	Bún Chả - Hàm Nghi	40 Hàm Nghi, P. Trại Chuối, Quận Hồng Bàng, Hải Phòng	5.0	1	 10:00 - 19:00	25,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán FTC - Bún Ốc Cay &amp; Lẩu Cua Bánh Đa	16 Võ Nguyên Giáp, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	10+	 06:00 - 11:00 | 16:30 - 21:00	5,000	120,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Nhà Hali	7/94 Lê Lợi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	0	0	0	40,000	335,000	0.0%	0	0	1
+Shop/Cửa hàng	5Foods - Thực Phẩm Sơ Chế - Thủy Nguyên	5 Phố Mới, X. Tân Dương, Thủy Nguyên, Hải Phòng	0	0	0	20,000	200,000	0.0%	0	0	1
+Quán ăn	Siêu Lẩu - Lẩu Các Loại	49 Trần Quang Khải, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	10+	 09:00 - 21:00	83,000	163,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	 Lẩu Dê Hoàng Diệu - Hoàng Diệu	4 Hoàng Diệu, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Phở Bình - Lẩu Đuôi Bò &amp; Phở Bê Tươi	185 Hàng Kênh, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	0	0	0	40,000	500,000	ShopeeFood</span	0	0	1
+Shop Online	XTBeef - Chuẩn Bò Tươi Online	22E/409 Miếu Hai Xã, P. Dư Hàng, Quận Lê Chân, Hải Phòng	0	0	0	50,000	300,000	ShopeeFood</span	0	0	1
+Nhà hàng	Lẩu Sữa Cổ Trấn - Ẩm Thực Trung Hoa	274B Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	0	0	0	50,000	300,000	ShopeeFood</span	0	0	1
+Shop Online	Lẩu Cua Bể Hải Phòng - Shop Online	226 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	0	0	0	280,000	280,000	ShopeeFood</span	0	0	1
+Quán ăn	Gào Quán - Hoàng Minh Thảo	42 Hoàng Minh Thảo, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	0	0	0	50,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn	SaiKung Hotpot - Aeon Mall Hải Phòng	Tầng 1 Aeon Mall Hải Phòng, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	0	0	0	199,000	399,000	0.0%	0	0	1
+Shop Online	Đồ Nhậu Nguyễn Điệp - Lý Hồng Nhật - Shop Online	113 Lý Hồng Nhật, P. Cát Bi, Quận Hải An, Hải Phòng	0	0	0	120,000	200,000	0.0%	0	0	1
+Quán ăn	Vua Ba Ba Đất Cảng - Nguyễn Công Hòa	336 Nguyễn Công Hòa, P. Niệm Nghĩa, Quận Lê Chân, Hải Phòng	0	0	0	150,000	400,000	0.0%	0	0	1
+Quán ăn	Nướng &amp; Lẩu - Tôm Chíp	41 - 43 Hàng Kênh, P. Trại Cau, Quận Lê Chân, Hải Phòng	0	0	0	30,000	200,000	0.0%	0	0	1
+Shop Online	Lẩu Cá Khoai - 49 Trần Nhật Duật - quán ăn - Trần Nhật Duật	49 Trần Nhật Duật, Phường Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.0	1	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Sốt Xình Xịch Quán - Nguyễn Trãi	30 Nguyễn Trãi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	0	0	0	40,000	100,000	0.0%	0	0	1
+Nhà hàng	Riêu Mộc Quán - Tôn Đức Thắng	292 Tôn Đức Thắng, Xã An Đồng, An Dương, Hải Phòng	5.0	1	 08:30 - 21:30	20,000	610,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán Rượu Quê - Chợ Đêm	5 Chợ Đêm, P. Lam Sơn, Quận Lê Chân, Hải Phòng	0	0	0	110,000	300,000	0.0%	0	0	1
+Quán ăn	Houseparty - Lẩu Nướng Ship - Hoàng Minh Thảo	127 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	0	0	0	400,000	800,000	0.0%	0	0	0
+Quán ăn	Lão Trư Quán - Hoàng Minh Thảo	117 Hoàng Minh Thảo, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	10+	 10:30 - 14:00 | 17:30 - 21:00	50,000	300,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bánh Đa Vách - Lẩu Vách &amp; Lẩu Thái	237 Nguyễn Công Hòa, P. An Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 06:00 - 10:00 | 16:00 - 22:00	25,000	480,000	0.0%	8.8	1	1
+Quán ăn	Cơm Chay Cát Tường - Cao Thắng	154 Cao Thắng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	100+	 19:00 - 22:00	20,000	55,000	0.0%	7.2	13	1
+Ăn vặt/vỉa hè, Quán nhậu	Hương Ly - Bì Bò Gia Truyền	57 Nguyễn Công Trứ, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	7	 16:00 - 22:00	20,000	50,000	ShopeeFood</span	8.3	3	1
+Quán ăn	Bún Bò Huế 3T - Tôn Đức Thắng	175 Tôn Đức Thắng, P. An Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 12:00 | 17:00 - 22:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nhà Hàng Vịt Cỏ Ninh Hường - 207 Đình Đông	207 Đình Đông , P. Đông Hải, Quận Lê Chân, Hải Phòng	0.0	1	 10:30 - 13:00 | 16:30 - 22:00	30,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Laoyangshaokao - Thịt Nướng Trung Quốc - 1 Cầu Bính	Gian Nhà 2 Tầng Số 1 Cầu Bính, P. Sở Dầu, Quận Hồng Bàng, Hải Phòng	4.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Ngan Trộn Gỏi - Đình Đông	22 Đình Đông, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	10+	 07:00 - 11:00 | 17:00 - 21:30	20,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tuyết - Bún &amp; Chả Nem	 32 Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	10+	 09:00 - 14:30	25,000	55,000	ShopeeFood</span	7.6	5	1
+Quán ăn	Mì Vằn Thắn - Trần Quang Khải	20 Trần Quang Khải, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 07:30 - 21:30	30,000	50,000	ShopeeFood</span	7.6	25	1
+Ăn vặt/vỉa hè	Bún Chả Quạt - 26 Lương Khánh Thiện	26 Lương Khánh Thiện, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	10+	 10:00 - 14:00	20,000	25,000	ShopeeFood</span	8.7	2	1
+Shop Online	Bánh Tráng Trộn Tây’s Mai	97B Nguyễn Đức Cảnh, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 21:00	20,000	50,000	0.0%	6.5	77	1
+Café/Dessert	Twinnie - Cold Pressed Juice	25 Phan Bội Châu, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	50+	 07:00 - 22:00	10,000	50,000	0.0%	8.4	54	1
+Ăn vặt/vỉa hè	Bánh Đa Cua Đồng - Chu Văn An	Chu Văn An (Cổng Trường Tiểu Học Chu Văn An), P. Lê Lợi, Quận Ngô Quyền, Hải Phòng	0.0	3	 10:00 - 19:00	15,000	40,000	ShopeeFood</span	7.2	22	1
+Quán ăn	Bún Đậu Mắm Tôm Mẹt - Lý Thường Kiệt	2 Lý Thường Kiệt, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	100+	 09:00 - 20:00	15,000	25,000	ShopeeFood</span	6.6	24	1
+Quán ăn	Bún Chả Hiếu Huyền - Hoàng Minh Thảo	79 Hoàng Minh Thảo, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	100+	 09:30 - 14:00	12,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hương Béo - Bún Miến &amp; Bánh Đa - 102 Trần Nhật Duật	102 Trần Nhật Duật, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	100+	 07:00 - 19:00	35,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Bò Dấm Cô Thúy - 98 Cát Dài	3 Ngõ 98 Cát Dài, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 21:00	35,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Korean Chicken Quán	18/416 Thiên Lôi, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 23:00	30,000	100,000	0.0%	7.0	28	1
+Quán ăn	Bánh Đa Cua - 26 Kỳ Đồng	26 Kỳ Đồng, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	100+	 07:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thanh Mai - Cơm Rang Giòn - Trung Lực	64 Trung Lực, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	500+	 10:00 - 22:00	25,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thuỷ - Bánh Đa Cua	52 Chợ Con, P. Trại Cau, Quận Lê Chân, Hải Phòng	3.5	4	 06:00 - 21:00	20,000	25,000	ShopeeFood</span	7.4	2	1
+Quán ăn	Bún Đậu Mẹt 71 - Bún - An Đà	9/89 An Đà, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	10+	 10:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Bún Đậu Thu Hiền - Bún Chả Quạt &amp; Bún Bò Trộn Dấm - 111 Lê Lợi	111 Lê Lợi, P. Gia Viên, Quận Ngô Quyền, Hải Phòng	4.5	10+	 10:00 - 14:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Của Ngoại - Bún Cá &amp; Bánh Đa Cua	77 Lê Lai, P. Máy Chai, Quận Ngô Quyền, Hải Phòng	4.5	10+	 06:00 - 19:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tin Tin - Bún Đậu Mẹt - Kỳ Đồng	53 Kỳ Đồng, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.5	10+	 10:30 - 13:30 | 17:30 - 20:30	40,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thủy Anh - Phở Bò &amp; Cơm Rang	173 Đình Đông, P. Đông Hải, Quận Lê Chân, Hải Phòng	4.5	500+	 07:00 - 14:30 | 17:30 - 22:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Trộn Quán - Mỳ Trộn, Cơm Vị Nam &amp; Nước Ép Hoa Quả	5/274 Lạch Tray, P. Đồng Quốc Bình, Quận Ngô Quyền, Hải Phòng	4.5	10+	 09:00 - 22:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tễu Quán - Bún Đậu Mắm Tôm &amp; Nem Nướng Nha Trang	384 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	100+	 10:00 - 22:00	25,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Cay - Lý Thường Kiệt	150 Lý Thường Kiệt, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	4.0	8	 09:00 - 22:00	40,000	100,000	ShopeeFood</span	7.4	17	1
+Quán ăn	Bún Chả Cô Bình - 5A Trần Hưng Đạo	5A Trần Hưng Đạo, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 10:00 - 14:00	25,000	35,000	0.0%	6.7	4	1
+Quán ăn	Bún Bò Dấm Bà Phòng	Đầu Ngõ 98 Hai Bà Trưng, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	500+	 14:30 - 18:30	30,000	40,000	0.0%	7.2	53	1
+Quán ăn	Duyên Định - Phở Bò, Cơm Rang &amp; Mì Xào	68 Chợ Lũng, P. Đằng Hải, Quận Hải An, Hải Phòng	4.5	10+	 06:00 - 23:00	20,000	50,000	ShopeeFood</span	7.2	3	1
+Quán ăn	Bún Đậu Chị Dậu - Đường Vòng Hồ Sen	4/29 Đường Vòng Hồ Sen, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	10+	 08:00 - 14:00 | 17:00 - 21:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chị Ba Nem Nướng Nha Trang - Hoàng Minh Thảo	267 Hoàng Minh Thảo, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	10+	 09:00 - 21:00	5,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Rang &amp; Mì Xào - Nguyễn Công Hòa	235 Nguyễn Công Hòa, P. An Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 09:00 - 13:00 | 16:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cô Biển - Gà Tần &amp; Trứng Vịt Lộn	81 Hoàng Minh Thảo, P. Nghĩa Xã, Quận Lê Chân, Hải Phòng	4.5	500+	 14:00 - 19:00	10,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hà Huyền - Bún Chà Quạt Gia Truyền - Hồng Bàng	101 Hồng Bàng, P. Sở Dầu, Quận Hồng Bàng, Hải Phòng	3.5	7	 10:00 - 14:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Đa Cua Bể Cô Lùn - 121C Lương Khánh Thiện	121C Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	100+	 07:00 - 22:00	50,000	150,000	0.0%	<span>_._</span>	0	1
+Shop Online	Cô Hòa - Phở Cuốn, Cơm Rang &amp; Mì Xào Online	9/69 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	999+	 10:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Havocho - Ăn Là Nghiền Food &amp; Drink	Số 12/58 Ngô Kim Tài, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	500+	 07:00 - 13:00 | 15:00 - 20:00	16,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quang Sáng - Cơm Rang &amp; Phở Bò	242 Phủ Thượng Đoạn, P. Đông Hải 1, Quận Hải An, Hải Phòng	4.5	500+	 07:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Ngan Phục Vụ Chậm - Minh Khai	19 Minh Khai, Quận Hồng Bàng, Hải Phòng	3.0	9	 08:00 - 22:00	100,000	200,000	ShopeeFood</span	6.8	6	1
+Nhà hàng	Bảo Chi - Bún Đậu &amp; Lẩu Hải Sản	15A Trần Quang Khải, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	3.5	100+	 10:00 - 22:00	30,000	150,000	0.0%	6.3	28	1
+Quán ăn	Cơm Đĩa Việt	348 Lô 22 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	999+	 10:00 - 21:00	25,000	52,000	0.0%	6.5	3	1
+Quán ăn	Hi Bbong - Ẩm Thực Hàn Quốc	278F Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	500+	 09:00 - 14:00 | 17:00 - 21:00	100,000	300,000	0.0%	7.8	14	1
+Quán ăn	Marina Beer Club - Bò Bít Tết &amp; Mì Spaghetti - Vinhomes Marina	HD 129 Vinhomes Marina, Võ Nguyên Giáp, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	3.5	8	 10:00 - 13:30 | 16:00 - 22:00	30,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Bò &amp; Cơm Rang - Khánh Thiết	85A Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	5.0	5	 07:00 - 15:00 | 17:00 - 22:00	32,000	42,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Gà Rán Và Mì Ý - Jollibee - Thủy Nguyên	151 Bạch Đằng, Thị Trấn Núi Đèo, Thủy Nguyên, Hải Phòng	4.5	50+	 08:00 - 22:00	25,000	100,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	HI MẬP FOOD - Mì Trộn Indo &amp; Viên Chiên Mắm Tỏi Sài Gòn	26 Đoàn Kết, P. Đằng Hải, Quận Hải An, Hải Phòng	4.5	100+	 08:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Thanh Tùng - Phở Bò &amp; Cơm Rang	295 Trường Chinh, P. Lãm Hà, Quận Kiến An, Hải Phòng	4.5	100+	 07:00 - 14:00 | 17:00 - 21:00	30,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Bò Huế 3T - Hàng Kênh	296 Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	100+	 06:00 - 13:00 | 17:00 - 22:00	25,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Thu - Bún Chả	48 Trần Quang Khải, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 16:00 - 21:00	20,000	55,000	ShopeeFood</span	6.7	13	1
+Quán ăn	Căng Tin THP - Trà Dâu &amp; Sinh Tố Bơ Sầu Riêng - 2 Nguyễn Bình	Tầng 1 - Đài Truyền Hình Hải Phòng, 2 Nguyễn Bình, P. Kênh Dương, Quận Lê Chân, Hải Phòng	0	0	0	20,000	40,000	0.0%	0	0	1
+Quán ăn	Chị Béo - Bún Ốc Riêu Cua - Lương Khánh Thiện	130 Lương Khánh Thiện, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	8	 07:00 - 21:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chị Hằng - Bún Chả Lợn Mường - Đà Nẵng	319 A1 Đà Nẵng, P. Vạn Mỹ, Quận Ngô Quyền, Hải Phòng	0.0	3	 10:00 - 14:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Mì Trộn - Mì Trộn HongKong - Thất Khê	30/2 Thất Khê, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	999+	 08:00 - 21:00	30,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Khá Tồ - Doner Kebab &amp; Xôi Các Loại	50 Lê Văn Thuyết, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 20:30	15,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Phố Cổ - Minh Khai	3B Minh Khai, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	100+	 09:00 - 21:00	15,000	65,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Long Thủy - Bún Cá Cay	13 Phạm Tử Nghi, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	8	 06:00 - 22:30	25,000	30,000	ShopeeFood</span	7.1	3	1
+Quán ăn	Bảo Long - Mì Vằn Thắn	8 Mê Linh, P. An Biên, Quận Lê Chân, Hải Phòng	4.5	10+	 06:30 - 13:30	30,000	60,000	ShopeeFood</span	7.3	7	1
+Quán ăn	Phở Bò Cơm Rang - Hai Bà Trưng	345 Hai Bà Trưng, P. Cát Dài, Quận Lê Chân, Hải Phòng	4.5	10+	 06:00 - 21:00	15,000	30,000	ShopeeFood</span	6.0	1	1
+Quán ăn	Bánh Đa Da Liễu Chính Hãng 137 - Trần Phú	137 Trần Phú, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	10+	 17:00 - 22:00	7,000	47,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Bò Huế Quỳnh Anh - 24 Lê Lai	24 Lê Lai, P. Máy Chai, Quận Ngô Quyền, Hải Phòng	5.0	7	 06:00 - 14:00 | 17:00 - 22:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	So Phung Korean Food - Văn Cao	123 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 22:00	60,000	500,000	ShopeeFood</span	7.3	27	1
+Quán ăn	Dương - Bún Riêu Hà Nội &amp; Mì Chua Cay Tim Cật	56A Chợ Con, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	100+	 07:30 - 14:00 | 17:30 - 22:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Cuốn Nóng, Bánh Đa Cua - Miếu Hai Xã	19 Miếu Hai Xã, P. Dư Hàng, Quận Lê Chân, Hải Phòng	0	0	0	15,000	30,000	ShopeeFood</span	0	0	1
+Quán ăn	Cô Thoa - Bánh Đa Cua	3 Lô 86 Khu Công Nhân Dư Hàng, P. Dư Hàng, Quận Lê Chân, Hải Phòng	3.5	10+	 06:00 - 18:00	10,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Ốc Ngon - 193 Hồ Sen	193 Hồ Sen, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	50+	 06:00 - 14:00 | 16:00 - 21:00	30,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	60000 Bulgogi Mulhoe - Nướng Hàn Quốc	5/193 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	10+	 08:00 - 00:30	50,000	350,000	ShopeeFood</span	7.4	6	1
+Quán ăn	Nem Lụi Huế &amp; Bún Đậu - Chong Chóng	196 Phan Đăng Lưu, P. Trần Thành Ngọ, Quận Kiến An, Hải Phòng	4.5	10+	 09:30 - 14:30 | 16:30 - 21:30	13,000	65,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Mì Cô Thắm Sài Gòn - Đình Đông	192 Đình Đông, P. Đông Hải, Quận Lê Chân, Hải Phòng	4.5	500+	 07:00 - 21:00	15,000	25,000	0.0%	1.8	2	1
+Quán ăn	Bún Đậu Hà Nội - Lý Tự Trọng	12C Lý Tự Trọng, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	50+	 07:00 - 23:00	20,000	50,000	0.0%	8.3	2	1
+Quán ăn	Đặc Sản Bún Cá Chả - Chợ Hàng	486 Chợ Hàng, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	5.0	1	 07:00 - 21:00	20,000	30,000	ShopeeFood</span	8.2	1	1
+Quán ăn	Bún Chả Quạt, Bún Chả Nem - Võ Thị Sáu	54 Võ Thị Sáu, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	3.5	5	 10:00 - 14:00	20,000	25,000	ShopeeFood</span	7.2	2	1
+Quán ăn	Cô Nở - Bún Ngan	33 Đặng Kim Nở, P. Cát Dài, Quận Lê Chân, Hải Phòng	5.0	7	 09:00 - 22:00	25,000	150,000	ShopeeFood</span	8.1	3	1
+Quán ăn, Ăn vặt/vỉa hè	Cẩm - Bánh Đa Cua	152/173 Hàng Kênh, P. Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	10+	 06:00 - 21:00	30,000	35,000	ShopeeFood</span	7.0	8	1
+Quán ăn	Bún Cá Cát Tiên - 431 Chợ Hàng	431 Chợ Hàng , P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	7	 07:00 - 14:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Nhất	378 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	10+	 07:00 - 21:30	20,000	30,000	0.0%	5.0	3	1
+Quán ăn	Bún Cá Chân Giò - Đình Đông	17 Đình Đông, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	10+	 06:30 - 21:00	20,000	25,000	ShopeeFood</span	8.0	1	1
+Quán ăn, Ăn vặt/vỉa hè	Bún Chả, Nem Quạt - Nguyễn Bình	11 - 20 Nguyễn Bình, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	10+	 10:00 - 21:00	20,000	35,000	ShopeeFood</span	6.9	3	1
+Quán ăn	Bún Cá Bích	202 Hai Bà Trưng, P. An Biên, Quận Lê Chân, Hải Phòng	4.0	4	 07:00 - 21:00	20,000	40,000	ShopeeFood</span	7.7	3	1
+Shop Online	Quẩy Quán - Đồ Ăn Nhanh - Shop Online	7 ngõ 20 Hoàng Văn Thụ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.0	50+	 09:00 - 21:00	15,000	50,000	0.0%	9.0	1	1
+Quán ăn	Thanh Mai - Cơm Rang Giòn - Nguyễn Trãi	56 Nguyễn Trãi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 22:00	26,000	60,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Paul Coffee - Điểm Tâm Sáng &amp; Cơm Trưa Văn Phòng - Vinhomes Imperia	BH 05 - 01 Vinhomes Imperia, P. Thượng Lý, Quận Hồng Bàng, Hải Phòng	5.0	5	 06:30 - 14:00	30,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Chả Quạt - Nguyễn Bình	145 Nguyễn Bình, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	50+	 10:00 - 19:00	20,000	30,000	ShopeeFood</span	7.0	19	1
+Ăn vặt/vỉa hè	Duy Nguyên - Góc Ẩm Thực	27 Lê Lợi, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.0	50+	 07:00 - 22:00	10,000	30,000	0.0%	5.3	3	1
+Quán ăn	Bánh Đa, Bún - Tô Hiệu	Ngã Tư An Dương, P. Trại Cau, Quận Lê Chân, Hải Phòng	4.5	9	 07:00 - 21:00	20,000	30,000	ShopeeFood</span	7.3	6	1
+Ăn vặt/vỉa hè	Bánh Đa Cua, Tôm &amp; Bề Bề - An Đà	10A2 An Đà (Ngã 3 Bà Sáo, Đối Diện 311 Đông Khê), P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	5.0	2	 06:00 - 10:00	15,000	25,000	ShopeeFood</span	7.3	2	1
+Ăn vặt/vỉa hè	Bánh Đa Cua - An Khê	51C An Khê, Đối Diện Mầm Non Cát Bi, P. Cát Bi, Quận Hải An, Hải Phòng	0.0	4	 06:00 - 21:00	15,000	20,000	ShopeeFood</span	8.3	3	1
+Quán ăn	Bún Gà Quê - Văn Cao	Ngõ 254 Văn Cao, P. Đằng Giang, Quận Hải An, Hải Phòng	4.0	4	 06:00 - 23:00	25,000	30,000	ShopeeFood</span	7.2	4	1
+Quán ăn	Bà Thái - Bánh Đa Cua	33 Chu Văn An, P. Lê Lợi, Quận Ngô Quyền, Hải Phòng	5.0	1	 07:00 - 21:00	15,000	25,000	ShopeeFood</span	7.2	4	1
+Quán ăn	Bún Tôm Sườn - Lãn Ông	25 Lãn Ông, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	5.0	2	 07:00 - 21:00	20,000	30,000	ShopeeFood</span	7.2	4	1
+Quán ăn	Phở Bò Cơm Rang - Bạch Đằng	16 Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	50+	 07:00 - 21:00	20,000	35,000	ShopeeFood</span	7.1	3	1
+Quán ăn	Bún Đậu Lụt - 68C Đình Đông	68C Đình Đông, P. Đông Hải, Quận Lê Chân, Hải Phòng	5.0	10+	 10:30 - 13:30	25,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	3B - Bún Bò Trộn Nam Bộ &amp; Phở Cuốn Bò	129 Nguyễn Văn Hới, P. Thành Tô, Quận Hải An, Hải Phòng	4.5	50+	 07:00 - 17:00	60,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gánh Bún Đậu - Lê Hồng Phong	366 Lô 22 Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	10+	 10:00 - 14:00 | 16:00 - 20:00	25,000	70,000	ShopeeFood</span	3.8	1	1
+Quán ăn	Gõ Quán - Hủ Tiếu - Quán Nam	107 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	10+	 07:00 - 10:30 | 18:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Bò Huế Gia Truyền - Cô Nga	273 Hoàng Minh Thảo, P. Dư Hàng, Quận Lê Chân, Hải Phòng	4.5	50+	 07:00 - 21:00	25,000	45,000	0.0%	2.6	1	1
+Quán ăn	Bún Cá Thu - Vạn Mỹ	116 A7 Vạn Mỹ, P. Cầu Tre, Quận Ngô Quyền, Hải Phòng	3.5	5	 07:00 - 22:00	20,000	35,000	ShopeeFood</span	6.4	1	1
+Quán ăn	Cơm Chay Loving Hut	108 Trần Nguyên Hãn, P. Trần Nguyên Hãn, Quận Lê Chân, Hải Phòng	4.5	500+	 07:00 - 21:00	20,000	30,000	0.0%	6.2	27	1
+Quán ăn	Cơm Chay Thực Dưỡng Bảo Linh	70 Đường Hồ An Biên, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	100+	 08:00 - 21:00	20,000	40,000	0.0%	7.3	12	1
+Ăn vặt/vỉa hè	Bánh Mì &amp; Xôi Bu Sen	4 Phạm Phú Thứ, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	6	 06:00 - 18:00	10,000	20,000	ShopeeFood</span	8.2	2	1
+Quán ăn	Ẩm Thực Chay THIÊN ĐĂNG - 238A Vạn Kiếp	238A Vạn Kiếp, P. Thượng Lý, Quận Hồng Bàng, Hải Phòng	4.5	50+	 07:00 - 21:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Chè Cung Đình Huế	432 Lạch Tray, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	500+	 09:00 - 22:00	15,000	33,000	0.0%	6.6	12	1
+Quán ăn	Phố Ga - Cơm Văn Phòng	139 Hồ Sen, P. Dư Hàng, Quận Lê Chân, Hải Phòng	4.5	100+	 10:30 - 13:30	35,000	50,000	0.0%	5.7	2	1
+Quán ăn	Cơm Ngon Nhà Nấu - Đà Nẵng	448 Đà Nẵng, P. Đông Hải 1, Quận Hải An, Hải Phòng	0.0	4	 09:00 - 22:00	40,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Của Mẹ - Cơm Gà Các Loại	114/BT01/97 Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	10+	 10:00 - 14:00 | 17:00 - 21:00	35,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Cơm Hoa Đại - 5c Phan Chu Trinh	5c Phan Chu Trinh, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	50+	 10:00 - 14:30 | 16:00 - 21:00	40,000	59,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Cơm Chiên sinh Viên - 90 Hoàng Thiết Tâm	90 Hoàng Thiết Tâm, P. Bắc Sơn, Quận Kiến An, Hải Phòng	4.5	9	 10:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Rán CP Five Star - Phan Đăng Lưu	262 Phan Đăng Lưu, P. Trần Thành Ngọ, Quận Kiến An, Hải Phòng	4.5	100+	 09:00 - 22:00	10,000	100,083	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Cơm Rang 9 Món - Khu Tái Định Cư Vinhomes	10 Lô 70 Khu Tái Định Cư Vinhomes, P. Sở Dầu, Quận Hồng Bàng, Hải Phòng	4.5	10+	 10:30 - 13:30 | 18:00 - 20:00	15,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Rang Giòn Cơm Tấm Hào Khê	181 Hào Khê, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	500+	 10:30 - 14:00 | 17:00 - 23:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Cơm Quốc Dân - Cơm Tấm &amp; Cơm Văn Phòng	145 Chùa Hàng, P. Hồ Nam, Quận Lê Chân, Hải Phòng	4.5	100+	 10:00 - 14:00 | 15:00 - 22:00	30,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ &amp; Cơm Bò - Nguyễn Tri Phương	5 Nguyễn Tri Phương, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	4.5	999+	 10:00 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Tươi Phúc Tâm - Quán Nam	110 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	500+	 09:00 - 14:00 | 16:30 - 22:00	75,000	80,000	0.0%	8.0	1	1
+Quán ăn	Bình An - Cơm Tấm Sài Gòn &amp; Cơm Ngon Bình Dân	291 Máng Nước, X. An Đồng, An Dương, Hải Phòng	4.5	100+	 09:30 - 14:30	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Không Béo Healthy &amp; Eatclean - Bãi Sậy	55 Bãi Sậy, P. Trại Chuối, Quận Hồng Bàng, Hải Phòng	5.0	10+	 09:00 - 13:30	45,000	75,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Rang Giòn - Bạch Đằng	42 Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	500+	 10:00 - 14:00 | 17:00 - 22:00	25,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Kem Xôi - Lê Lai	2A/44 Lê Lai, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	4.0	10+	 09:00 - 21:00	15,000	20,000	ShopeeFood</span	7.3	3	1
+Nhà hàng	Quán Nam Cháo - Quán Nam	17 Kênh Dương, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 09:00 - 02:00	15,000	80,000	0.0%	6.6	14	1
+Shop Online	Cơm Cháy Chà Bông Sài Gòn - Shop Online	16/1 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	50+	 07:00 - 22:00	65,000	125,000	0.0%	8.2	1	1
+Giao cơm văn phòng	Cơm Tấm Lê Giang - 74 Trường Chinh	74 Trường Chinh, P. Lãm Hà, Quận Kiến An, Hải Phòng	4.5	50+	 10:00 - 19:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Minh Mon Food &amp; Drink - Thiên Lôi - Shop Online	34b/666 Thiên Lôi, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	50+	 08:30 - 14:00 | 17:30 - 20:00	13,000	40,000	0.0%	<span>_._</span>	0	1
+Shop Online	Cubin - Cơm Gà Chiên Mắm Online	5 Ngách 28 Ngõ 89 An Đà, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	999+	 09:30 - 14:00	10,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Chị Hậu - Hoàng Minh Thảo	253 Hoàng Minh Thảo, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	10+	 10:00 - 14:00	30,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Xin Chào Thanh Xuân - Cơm Hộp &amp; Kimbap Hàn Quốc - KCN Tràng Duệ	KCN Tràng Duệ, Thôn Đồng Xuân, An Dương, Hải Phòng	0	0	0	50,000	100,000	0.0%	0	0	1
+Ăn vặt/vỉa hè	Xôi Chiên Cô Na - 14D12 Nguyễn Bình	14/12 Nguyễn Bình, P. Đổng Quốc Bình, Quận Ngô Quyền, Hải Phòng	4.5	50+	 09:00 - 19:00	12,000	38,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chị Nhung - Cơm Bình Dân &amp; Cơm Văn Phòng	253 Miếu Hai Xã, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	100+	 09:30 - 13:00 | 16:30 - 20:00	32,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Hải Phòng - 425 Ngô Gia Tự	425 Ngô Gia Tự, P. Cát Bi, Quận Hải An, Hải Phòng	4.5	50+	 10:00 - 13:30 | 17:30 - 20:30	35,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Ngon Phương Thảo - Trung Lực	78 Trung Lực, P. Đằng Lâm, Quận Hải An, Hải Phòng	0.0	4	 10:00 - 14:00 | 17:00 - 20:00	40,000	80,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Lê Thánh Tông	Tầng 4, Vincom, 1 Lê Thánh Tông, P. Máy Tơ, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 22:00	25,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Diệp Diệp - Cơm Rang	205 Trung Lực, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	100+	 10:00 - 14:00 | 17:30 - 19:30	30,000	50,000	0.0%	<span>_._</span>	0	1
+Shop Online	Chim Quay Hải Phòng - Shop Online	947A Thiên Lôi, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 22:00	35,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Rang Duy Béo	134 Lô 22 Lê Hồng Phong, Quận Ngô Quyền, Hải Phòng	4.5	500+	 10:00 - 14:00	25,000	35,000	0.0%	3.7	2	1
+Quán ăn	Hồng - Cơm Sườn - 24 Lương Khánh Thiện	24 Lương Khánh Thiện, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	100+	 10:00 - 13:30	45,000	55,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Niran Sushi - Văn Cao	33/254 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	0.0	2	 10:00 - 22:00	100,000	1,000,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm 9 Phút - Cơm Sườn Siêu Tốc	2B Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	4.5	10+	 09:00 - 14:00	0	50,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Jollibee - Aeon Mall Hải Phòng	Tầng 1 TTTM Aeon Mall Hải Phòng Lê Chân, 10 Võ Nguyên Giáp, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	999+	 08:00 - 22:00	25,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Oggy Sushi - Lê Hồng Phong	10 Lô 26D Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	50+	 10:00 - 14:00 | 17:00 - 22:00	30,000	200,000	ShopeeFood</span	9.0	2	1
+Beer club	Amber Beer - Hải Phòng Beer Club	16 Lạch Tray, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	10+	 08:00 - 22:00	10,000	300,000	ShopeeFood</span	7.5	3	1
+Ăn vặt/vỉa hè	Bánh Bao, Bánh Mì &amp; Xôi Các Loại - Đà Nẵng	Cổng Chợ Vạn Mỹ, 321C Đà Nẵng, P. Lạc Viên, Quận Ngô Quyền, Hải Phòng	5.0	1	 17:00 - 21:00	10,000	20,000	ShopeeFood</span	7.8	1	1
+Quán ăn	Xôi Xéo Kiến An - Trần Nhội	69 Trần Nhội, P. Văn Đẩu, Quận Kiến An, Hải Phòng	3.5	10+	 07:00 - 20:00	15,000	67,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chè Thái Lan - Bánh Cốm Dừa	37 Đinh Tiên Hoàng, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	10+	 09:00 - 22:00	15,000	20,000	ShopeeFood</span	7.0	1	1
+Quán ăn	Nhà Hàng Gà Đông Hồ - Văn Cao	6/200 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	10+	 07:00 - 22:00	20,000	165,000	ShopeeFood</span	7.5	12	1
+Quán ăn	Phở Cộng &amp; Cơm Rang - Lê Hồng Phong	52 Lô 22 Lê Hồng Phong, Quận Ngô Quyền, Hải Phòng	4.5	50+	 07:00 - 14:00 | 17:00 - 20:30	25,000	40,000	0.0%	1.0	1	1
+Nhà hàng	Arirang - Ẩm Thực Hàn Quốc	191 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	4.5	10+	 08:00 - 22:00	25,000	330,000	ShopeeFood</span	7.9	13	1
+Nhà hàng	Nam Việt - Hải Sản Tươi Sống &amp; Đồ Rừng	83A Bạch Đằng, P. Hạ Lý, Quận Hồng Bàng, Hải Phòng	5.0	1	 10:00 - 13:00	200,000	500,000	ShopeeFood</span	9.2	2	1
+Nhà hàng	Hanako - Nhà Hàng Nhật Bản	30/101 Hào Khê, P. Lạch Tray, Quận Ngô Quyền, Hải Phòng	4.5	50+	 18:00 - 23:00	100,000	300,000	0.0%	7.2	19	1
+Quán ăn	Bếp Nhà Trung - Bánh Mì Chảo &amp; Mì Trộn - Vinhomes	HD 127 Vinhomes Marina, Võ Nguyên Giáp, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	3.5	10+	 07:00 - 22:00	30,000	80,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Bình Dân Đăng Khoa - 231 Hào Khê	231 Hào Khê, P. Kênh Dưng, Quận Lê Chân, Hải Phòng	4.5	10+	 10:00 - 13:30 | 17:00 - 20:30	10,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Sướng - Phở Bò Đặc Biệt - Hoàng Minh Thảo	102 Hoàng Minh Thảo, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 22:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ăn Vặt 156 - Ăn Vặt Và Mỳ Cay - Hồ Sen	18/115 Hồ Sen, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	100+	 08:00 - 20:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Sườn &amp; Bún Chả - Cơm Sườn &amp; Bún Chả - Trung Lực	214G Trung Lực, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.5	100+	 10:30 - 14:00	10,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Suối Mơ	140 Trần Phú, P. Cầu Đất, Quận Ngô Quyền, Hải Phòng	4.5	500+	 10:00 - 13:30 | 17:30 - 20:30	35,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ  - Nguyễn Bình	28 Nguyễn Bình, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	500+	 08:00 - 21:00	25,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Ngon Thành Đạt - Đà Nẵng	448 Đà Nẵng, P. Đông Hải 1, Quận Hải An, Hải Phòng	4.5	10+	 09:30 - 22:00	35,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm - 282 Thiên Lôi	282 Thiên Lôi, P. Vĩnh Niệm, Quận Lê Chân, Hải Phòng	4.5	10+	 11:00 - 13:30	40,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Rang - Phạm Ngũ Lão	2B Phạm Ngũ Lão, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng	4.5	500+	 10:00 - 14:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Shop Online	Black Box - Cơm Nhật	15/29 Hoàng Văn Thụ, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	4.5	100+	 10:00 - 20:00	20,000	35,000	0.0%	5.4	23	1
+Quán ăn	Fryday - Hotpot &amp; BBQ	173 Lê Lợi, P. Gia Viên, Quận Ngô Quyền, Hải Phòng	0	0	0	60,000	500,000	ShopeeFood</span	0	0	1
+Quán ăn	Phương Hương - Cơm Bình Dân - Thiên Lôi	805 Thiên Lôi, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	10+	 10:30 - 13:30 | 17:00 - 19:30	25,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Linh Linh Quán - Phan Đăng Lưu	314 Phan Đăng Lưu, P. Trần Trành Ngọ, Quận Kiến An, Hải Phòng	4.5	100+	 07:00 - 21:00	10,000	35,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè, Shop Online	Cô Hường - Xôi Thập Cẩm &amp; Bánh Mì - 23B Nguyễn Bình	23B Nguyễn Bình, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	100+	 06:00 - 14:00 | 16:00 - 20:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Sài Gòn - 40 Phan Bội Châu	40 Phan Bội Châu, P. Hoàng Văn Thụ, Quận Hồng Bàng, Hải Phòng	0.0	1	 10:30 - 14:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Shop Online	Hương Giang - Gà Rán Ăn Vặt Online	Lô A2 Cầu Thang 6 TT. Vạn Mỹ Ngõ 321 Đà Nẵng, P. Vạn Mỹ, Quận Ngô Quyền, Hải Phòng	4.5	100+	 09:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Duy Linh Quán - Cơm Rang, Phở Xào &amp; Mỳ Xào	231 Trường Chinh , P. Lãm Hà, Quận Kiến An, Hải Phòng	0.0	4	 09:00 - 14:00 | 17:00 - 22:00	30,000	45,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Nhà Hàng Trung Thành - Lẩu Hơi Tỳ Hưu	11/134 Văn Cao, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng	0.0	1	 08:00 - 22:00	150,000	350,000	ShopeeFood</span	8.0	4	1
+Quán ăn	Nhà Hàng Vịt Ngon - Lê Hồng Phong	18 Lô 6B Lê Hồng Phong, P. Đông Khê, Quận Ngô Quyền, Hải Phòng	4.5	100+	 10:00 - 23:00	30,000	300,000	0.0%	7.5	16	1
+Shop Online	Xôi Sài Gòn - Shop Online	3/346 Tô Hiệu, P. Hồ Nam, Quận Lê Chân, Hải Phòng	0	0	0	30,000	45,000	0.0%	0	0	1
+Quán ăn	Cơm Tấm Nhà Cám - 239 Quán Nam	239 Quán Nam, P. Kênh Dương, Quận Lê Chân, Hải Phòng	4.5	10+	 09:30 - 14:00 | 17:00 - 21:00	35,000	45,000	0.0%	<span>_._</span>	0	1
+Shop/Cửa hàng	Cơm Rang Thập Cẩm Cô Hường - 361 Chợ Hàng	361 Chợ Hàng, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng	5.0	2	 10:00 - 14:00	40,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Sài Gòn - Đinh Tiên Hoàng	2 Đinh Tiên Hoàng, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	3.5	50+	 09:00 - 22:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Rang Chợ Đổ - Lý Thường Kiệt	273 Lý Thường Kiệt, P. Phan Bội Châu, Quận Hồng Bàng, Hải Phòng	4.5	100+	 10:30 - 15:00 | 18:00 - 20:30	30,000	30,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Tex Derio - Ẩm Thực Brazil	107 Điện Biên Phủ, P. Minh Khai, Quận Hồng Bàng, Hải Phòng	0	0	0	200,000	700,000	ShopeeFood</span	0	0	1
+Quán ăn	Phở Bò Cơm Rang - Ngô Gia Tự	506 Ngô Gia Tự, P. Đằng Lâm, Quận Hải An, Hải Phòng	4.0	10+	 07:00 - 22:00	20,000	35,000	ShopeeFood</span	7.4	1	1
+Ăn vặt/vỉa hè	Bánh Mì Áp Chảo	11 Kỳ Đồng, P. Quang Trung, Quận Hồng Bàng, Hải Phòng	3.5	7	 08:00 - 22:30	25,000	30,000	ShopeeFood</span	7.4	5	1
+Ăn vặt/vỉa hè	Xôi Chim - Hàng Kênh	72/118 Hàng Kênh, Quận Lê Chân, Hải Phòng	4.5	100+	 07:00 - 22:00	10,000	20,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cơm Hoàng Lộc	76/591 Thiên Lôi, Lê Chân, Hải Phòng, Quận Lê Chân, Hải Phòng	4.5	7	 11:00 - 14:00 | 17:30 - 21:00	35,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The 1989 - Trà Sữa Muối Biển - Tân Mai	184 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội	4.5	999+	 09:00 - 22:00	30,000	40,000	0.0%	9.4	2	1
+Café/Dessert	Trà Chanh Bụi Phố - Mai Anh Tuấn	12 Mai Anh Tuấn, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 08:00 - 23:00	20,000	50,000	0.0%	10.0	7	1
+Café/Dessert	Tocotoco - Lĩnh Nam	40 Lĩnh Nam, P. Mai Động, Hoàng Mai, Hà Nội	4.5	999+	 08:00 - 23:00	30,000	60,000	0.0%	9.6	1	1
+Café/Dessert	Trà Sữa Pozaa Tea - Yên Xá	79 Yên Xá, X.Tân Triều, Thanh Trì, Hà Nội	4.5	999+	 08:00 - 22:30	20,000	50,000	0.0%	9.7	12	1
+Quán ăn	Bún Đậu Mai Dung	6 Đặng Xuân Bảng, P. Đại Kim, Hoàng Mai, Hà Nội	4.5	999+	 09:30 - 16:00	20,000	100,000	0.0%	10.0	1	1
+Ăn vặt/vỉa hè	Bún Đậu Mắm Tôm - Chính Kinh	5 Ngõ 12 Chính Kinh, P. Nhân Chính, Thanh Xuân, Hà Nội	4.5	999+	 07:00 - 22:00	60,000	150,000	0.0%	9.4	1	1
+Shop Online	Tiệm Ăn Phanh Phanh - Đồ Hàn &amp; Gà Chiên Online	11 Ngõ 13 Lĩnh Nam, P. Mai Động, Hoàng Mai, Hà Nội	4.5	999+	 09:00 - 21:00	5,000	40,000	0.0%	8.4	32	1
+Ăn vặt/vỉa hè	Anh Gấu - Mì Trộn Indomie	66 Ngõ 58 Trần Bình, P. Mai Dịch, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 22:30	15,000	32,000	0.0%	9.0	12	1
+Quán ăn	Bún Bò Trộn &amp; Bún Mạch Tràng - Thọ Lão	Đối Diện 34 Thọ Lão, P. Đống Mác, Hai Bà Trưng, Hà Nội	4.5	999+	 08:00 - 20:00	35,000	60,000	0.0%	9.2	6	1
+Quán ăn	Papa's Kitchen - Đồ Ăn Hàn Quốc - Hồng Mai	41 Ngõ 187 Hồng Mai (Đối Diện Số 18 Ngõ 187 Hồng Mai), P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội	4.5	999+	 10:30 - 22:00	50,000	100,000	0.0%	8.1	54	1
+Ăn vặt/vỉa hè	Chè Khúc Bạch Diệp Phương	9 Bùi Thị Xuân, P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội	4.5	999+	 11:00 - 22:00	25,000	40,000	0.0%	8.1	63	1
+Quán ăn	Quán Chị Chíp - Nem Nướng Nha Trang &amp; Bún Đậu Mẹt	1H14 Ngõ 130 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 08:30 - 23:00	15,000	40,000	0.0%	8.9	2	1
+Café/Dessert	Ding Tea - Xuân La	28A Xuân La (Đối Diện 49 Xuân La), P. Xuân La, Tây Hồ, Hà Nội	4.5	999+	 09:00 - 23:00	25,000	50,000	0.0%	9.0	36	1
+Café/Dessert	Ích Hòa Đường - Taiwan Tea - Ô Chợ Dừa	24 Ô Chợ Dừa, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 09:00 - 22:30	30,000	100,000	0.0%	7.6	45	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Hồ Tùng Mậu	122 Hồ Tùng Mậu, P. Mai Dịch, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	35,000	0.0%	9.0	7	1
+Quán ăn	San Tokbokki - Ẩm Thực Hàn Quốc - Hồng Mai	220 Chùa Quỳnh (Phía Đối Diện Vinmart), P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội	4.5	999+	 10:00 - 21:00	10,000	30,000	0.0%	7.5	6	1
+Quán ăn	Tam Gia Quán - Món Ngon Đà Lạt	22 Ngõ 371 Kim Mã, P. Ngọc Khánh, Ba Đình, Hà Nội	4.5	100+	 09:00 - 22:00	30,000	50,000	0.0%	8.9	8	1
+Café/Dessert	Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - KDC Ngô Thì Nhậm	Lk6/9 KDC Ngô Thì Nhậm, P. Hà Cầu, Hà Đông, Hà Nội	4.5	999+	 08:30 - 23:00	40,000	60,000	0.0%	7.9	4	1
+Café/Dessert	Trà Sữa LeeTee - Láng Hạ	1B Ngõ 87 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội	4.5	999+	 09:00 - 22:00	20,000	60,000	0.0%	7.4	75	1
+Ăn vặt/vỉa hè	Thành Toàn - Bánh Mì Các Loại	Đầu Đường Hoàng Trọng Mậu (Đối Diện Cổng Trường Sa Trường Marie Curie), P, Mỹ Đình 1, Nam Từ Liêm, Hà Nội	4.5	999+	 06:00 - 22:00	15,000	30,000	0.0%	8.6	2	1
+Quán ăn	BUMTRO - Bún Trộn Nam Bộ - Phạm Văn Đồng	Số 28 Ngõ 233 Phạm Văn Đồng (Cạnh Bộ Công An), P. Mai Dịch, Cầu Giấy, Hà Nội	4.5	999+	 08:00 - 21:00	15,000	40,000	0.0%	8.6	11	1
+Quán ăn	XOI FOOD - Xôi Nếp Nương &amp; Cơm Văn Phòng	126 Nguyễn Văn Trỗi, P. Mộ Lao, Hà Đông, Hà Nội	4.5	999+	 07:00 - 14:00 | 17:00 - 21:00	20,000	30,000	0.0%	8.6	5	1
+Ăn vặt/vỉa hè	Bánh Gà - Trần Quốc Hoàn	6B2 Ngõ 201 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 22:00	5,000	15,000	0.0%	7.6	6	1
+Quán ăn	Cơm Thố Bách Khoa - Trần Đại Nghĩa	157 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 21:30	25,000	50,000	0.0%	7.7	14	1
+Quán ăn	Kim Liên - Bún, Miến &amp; Bánh Đa Cua - Lương Định Của	116B15 Lương Định Của, TT Kim Liên, P. Kim Liên, Đống Đa, Hà Nội	4.5	999+	 06:30 - 14:00	20,000	40,000	0.0%	8.5	49	1
+Café/Dessert	Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Thái Phiên	Số 2D Thái Phiên, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 22:30	29,000	66,000	0.0%	7.5	104	1
+Café/Dessert	Highlands Coffee - Vinhomes Gardenia	B2, 12B Mỹ Đình, P. Cầu Diễn, Nam Từ Liêm, Hà Nội	4.5	999+	 07:00 - 23:00	20,000	100,000	0.0%	8.5	3	1
+Ăn vặt/vỉa hè	Bánh Mì Bắp - Gà Popcorn &amp; Bánh Mì Gà Nem - 69 Ngõ 75 Trần Quang Diệu	69 Ngõ 75 Trần Quang Diệu, P. Quang Trung, Đống Đa, Hà Nội	4.5	999+	 07:00 - 23:00	15,000	25,000	0.0%	8.5	32	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Tây Sơn	69 Ngõ 298 Tây Sơn, P. Ngã Tư Sở, Đống Đa, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	35,000	0.0%	9.1	4	1
+Ăn vặt/vỉa hè	Teen Food - Món Ăn Ngon &amp; Sạch - Hoàng Hoa Thám	44 Hoàng Hoa Thám, P. Ngọc Hà, Ba Đình, Hà Nội	4.5	999+	 07:00 - 23:00	10,000	30,000	0.0%	7.4	13	1
+Shop Online	Bếp Nhà Bul - Eat Clean &amp; Healthy Online	119 Ngõ 79 Cầu Giấy, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	999+	 08:30 - 14:00	15,000	90,000	0.0%	8.2	8	1
+Quán ăn	Cơm Tấm Viễn Đông - Thụy Khuê	21B Thụy Khuê, P. Thụy Khuê, Tây Hồ, Hà Nội	4.5	999+	 10:30 - 14:30 | 17:30 - 20:30	40,000	60,000	0.0%	8.4	27	1
+Café/Dessert	Trà Sữa LeeTee - Xã Đàn 2	63 Ngõ Xã Đàn 2, P. Nam Đồng, Đống Đa, Hà Nội	4.5	999+	 08:00 - 23:00	20,000	55,000	0.0%	7.4	159	1
+Nhà hàng	M Jardin Healthy Concept - Đồ Ăn Healthy &amp; Salad	20 Ngõ 105 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 10:00 - 22:00	40,000	50,000	0.0%	8.3	11	1
+Ăn vặt/vỉa hè	Chew N' Chew - Mì Trộn Indomie &amp; Đồ Uống	21 Ngõ 45 Hào Nam, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 06:00 - 22:00	10,000	25,000	0.0%	8.7	2	1
+Café/Dessert	Tiger Sugar Việt Nam - Cổ Nhuế	1 Ngõ 273 Cổ Nhuế, Bắc Từ Liêm, Hà Nội	4.5	999+	 08:00 - 23:00	25,000	50,000	0.0%	9.9	3	1
+Shop Online	Minh Hoàng Bakery - Bông Lan Trứng Muối &amp; Đồ Uống Online	58 Nguyễn Đổng Chi, P. Cầu Diễn, Nam Từ Liêm, Hà Nội	4.5	999+	 07:00 - 22:00	25,000	99,000	0.0%	8.4	23	1
+Quán ăn	Mokchang - Đồ Ăn Hàn Quốc - Láng Hạ	14 - 16 Ngõ 81 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội	4.5	999+	 10:00 - 14:00 | 16:30 - 21:30	19,000	299,000	0.0%	7.4	27	1
+Ăn vặt/vỉa hè	Cô Hoài - Bánh Gà &amp; Đồ Ăn Vặt	209 Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 20:00	10,000	50,000	0.0%	7.2	7	1
+Ăn vặt/vỉa hè	Papa Chicken - Gà Rán, Cơm Gà &amp; Cơm Văn Phòng - Tam Khương	Số 3 Tam Khương, Đống Đa, Hà Nội	4.5	999+	 09:30 - 23:00	30,000	60,000	0.0%	8.2	5	1
+Quán ăn	BUMTRO - Bún Trộn Nam Bộ - Bạch Mai	6 Ngách 4 Ngõ Hậu Khuông, Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội	4.5	999+	 08:00 - 21:00	30,000	60,000	0.0%	8.2	2	1
+Ăn vặt/vỉa hè	Mì Trộn Indomie 158 - Thái Thịnh	9A Ngõ 158 Thái Thịnh, P. Láng Hạ, Đống Đa, Hà Nội	4.5	999+	 07:00 - 23:59	20,000	30,000	0.0%	8.8	6	1
+Shop Online	Kloud Tea - Trà Sữa Homemade	167 Phố Chùa Quỳnh, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 22:00	20,000	30,000	0.0%	8.3	19	1
+Quán ăn	Thắng Vẹo - Cháo Lòng Ngon	36 Hồ Mễ Trì, P. Trung Văn, Nam Từ Liêm, Hà Nội	4.5	999+	 10:00 - 22:30	30,000	150,000	0.0%	8.1	29	1
+Ăn vặt/vỉa hè	Bánh Tráng Ngọc Đức	30 Ngô Thì Nhậm, P. Hà Châu, Hà Đông, Hà Nội	4.5	999+	 09:00 - 22:00	15,000	50,000	0.0%	8.1	4	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Nguyễn Văn Huyên	46 Nguyễn Văn Huyên, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	35,000	0.0%	8.0	8	1
+Café/Dessert	Master Tea 美茶 - Lò Đúc	168 Lò Đúc, P. Phạm Đình Hồ, Hai Bà Trưng, Hà Nội	4.5	999+	 08:00 - 22:30	26,000	50,000	0.0%	7.0	222	1
+Ăn vặt/vỉa hè	Bami Sot - Bánh Mì Đen - Vũ Trọng Phụng	96 Vũ Trọng Phụng, Thanh Xuân, Hà Nội	4.5	999+	 06:30 - 21:10	15,000	30,000	0.0%	8.4	29	1
+Quán ăn	Umai29 - Cơm Thịt Nướng Nhật Bản - Ngọc Khánh	128 Ngọc Khánh, Ba Đình, Hà Nội	4.5	999+	 10:00 - 22:00	40,000	100,000	0.0%	7.8	28	1
+Café/Dessert	Cô Liên - Chè Đà Nẵng	36 Hàng Cót, P. Hàng Mã, Hoàn Kiếm, Hà Nội	4.5	999+	 09:30 - 23:00	9,000	35,000	ShopeeFood</span	7.0	171	1
+Shop Online	Duy Food - Mì Trộn Indomie Online	Ngõ 180 Nguyễn Lương Bằng (108 Ngõ 19 Trần Quang Diệu), P. Quang Trung, Đống Đa, Hà Nội	4.5	999+	 07:30 - 23:00	20,000	35,000	0.0%	7.7	3	1
+Shop Online	May Salad - Shop Online	Ngách 51 Hẻm 76 Số Nhà 8 Ngõ Linh Quang, P. Văn Chương, Đống Đa, Hà Nội	4.5	999+	 07:00 - 21:00	48,000	100,000	0.0%	7.9	53	1
+Shop Online	Bento Delichi - Cơm Gà Xối Mắm Tỏi &amp; Xối Mỡ - Thành Công	102 H2 TT. Thành Công, P. Thành Công, Ba Đình, Hà Nội	4.5	999+	 09:30 - 21:00	40,000	50,000	0.0%	7.9	11	1
+Café/Dessert	Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Phạm Ngọc Thạch	20B10 Phạm Ngọc Thạch, P. Kim Liên, Đống Đa, Hà Nội	4.5	999+	 08:00 - 23:00	29,000	66,000	0.0%	7.1	125	1
+Quán ăn	Italian Pizza - Khuất Duy Tiến	15 Khuất Duy Tiến, P. Thanh Xuân Bắc, Thanh Xuân, Hà Nội	4.5	999+	 10:00 - 20:30	40,000	150,000	0.0%	8.3	14	1
+Ăn vặt/vỉa hè	Bánh Mì Chả Nóng Dũng Hạnh - Núi Trúc	127B Núi Trúc, P. Giảng Võ, Ba Đình, Hà Nội	4.5	999+	 08:00 - 18:30	20,000	50,000	0.0%	7.7	7	1
+Quán ăn	Kaoya Hotpot - Mì Vịt Quay &amp; Cơm Xá Xíu	103 Hàng Buồm, P. Hàng Buồm, Hoàn Kiếm, Hà Nội	4.5	999+	 10:00 - 22:00	50,000	150,000	0.0%	7.7	29	1
+Café/Dessert	Cha Go Tea &amp; Caf'e - Nguyễn Chí Thanh	126 Nguyễn Chí Thanh, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 11:30 - 22:30	30,000	70,000	0.0%	7.7	39	1
+Ăn vặt/vỉa hè	GA Rau Má &amp; Súp Cua Trứng Bắc Thảo	8 Ngõ 91 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 09:00 - 21:00	3,000	30,000	0.0%	7.7	15	1
+Quán ăn	Ngọc Ánh - Phở Bún &amp; Cơm Rang	57 Khương Thượng, Đống Đa, Hà Nội	4.5	999+	 07:00 - 22:00	20,000	55,000	0.0%	8.0	9	1
+Quán ăn	Bánh Mì Chảo, Bún Đậu - Triều Khúc	12, Ngõ 68 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội	4.5	999+	 09:00 - 22:00	30,000	60,000	0.0%	7.0	3	1
+Shop Online	Cherrypie - Tiệm Bánh Online	21 Ngách 53 Ngõ Trại Cá, Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 19:00	25,000	90,000	0.0%	8.6	52	1
+Café/Dessert	Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Láng Hạ	64 Láng Hạ, P. Láng Hạ, Đống Đa, Hà Nội	4.5	999+	 09:00 - 22:30	29,000	66,000	0.0%	6.8	20	1
+Ăn vặt/vỉa hè	Hoa Béo - Nem Nướng Ninh Hòa - Ngọc Lâm	33 Ngõ 154 Ngọc Lâm, P. Ngọc Lâm, Long Biên, Hà Nội	4.5	999+	 14:00 - 21:00	25,000	30,000	0.0%	7.8	17	1
+Quán ăn	Long Xã Đàn - Bún Sườn Chua - Xã Đàn	15 Ngõ 3 Xã Đàn (Đầu Ngõ Là 51 Nguyễn Lương Bằng), P. Nam Đồng, Đống Đa, Hà Nội	4.5	999+	 07:00 - 16:00	30,000	50,000	0.0%	7.6	10	1
+Quán ăn	Bún Cá Trung Vũ	P112A B1 Vĩnh Hồ, P. Thịnh Quang, Đống Đa, Hà Nội	4.5	999+	 09:00 - 21:00	30,000	50,000	0.0%	7.7	13	1
+Café/Dessert	The 1989 - Trà Sữa Muối Biển - Hồng Mai	79 Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 21:00	15,000	25,000	0.0%	6.7	21	1
+Quán ăn	Bami Sot - Bánh Mì Đen - Hoàng Văn Thái	69 Hoàng Văn Thái, P. Khương Trung, Thanh Xuân, Hà Nội	4.5	999+	 06:30 - 21:10	15,000	28,000	0.0%	7.7	30	1
+Quán ăn	Cơm Tấm 36 - Phùng Hưng	11 Phùng Hưng, P. Hàng Mã, Hoàn Kiếm, Hà Nội	4.5	999+	 10:30 - 14:00 | 17:30 - 21:00	40,000	70,000	0.0%	7.1	111	1
+Tiệm bánh	Bánh Gà Bá Gành - Lương Định Của	28B Lương Định Của (Đối Diện Ngõ 27 Lương Định Của), Đống Đa, Hà Nội	4.5	999+	 10:00 - 19:00	30,000	50,000	0.0%	7.5	10	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Yên Phụ	7A Yên Phụ, P. Yên Phụ, Tây Hồ, Hà Nội	4.5	999+	 08:00 - 23:00	20,000	35,000	0.0%	8.6	6	1
+Quán ăn	Miến Trộn Riêu Bề Bề Hoàng Cường	Ki Ốt 6 Cốm Vòng (Đối Diện 59 Cốm Vòng), P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 06:00 - 22:00	30,000	45,000	0.0%	7.6	8	1
+Café/Dessert	YiHeTang - Đệ Nhất Trà Sữa Nướng - Trần Phú	64 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội	4.5	999+	 10:00 - 22:00	30,000	50,000	0.0%	7.9	9	1
+Café/Dessert	Master Tea 美茶 - Yên Lãng	23 Ngõ 82 Yên Lãng, P. Thịnh Quang, Đống Đa, Hà Nội	4.5	999+	 07:00 - 23:00	26,000	50,000	0.0%	6.8	89	1
+Ăn vặt/vỉa hè	Yến Béo - Cháo &amp; Súp Gà	19 Dốc Hòe Nhai, Ba Đình, Hà Nội	4.5	999+	 09:00 - 21:00	15,000	30,000	0.0%	7.5	86	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Chùa Láng	68 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	35,000	0.0%	8.3	8	1
+Quán ăn	Bánh Mì Nem Khoai &amp; Khoai Lang Lắc - Kim Mã Thượng	10 Kim Mã Thượng, P. Cống Vị, Ba Đình, Hà Nội	4.5	999+	 06:30 - 21:00	20,000	30,000	0.0%	7.5	14	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn Sài Gòn - Nguyễn Siêu	3 Nguyễn Siêu, Hoàn Kiếm, Hà Nội	4.5	999+	 09:30 - 22:00	20,000	150,000	0.0%	7.3	148	1
+Quán ăn	Quán Cây Đề - Cơm Rang, Phở &amp; Bún Ngan	64 Ngõ 116 Nhân Hòa, P. Nhân Chính, Thanh Xuân, Hà Nội	4.5	999+	 10:30 - 14:00 | 18:00 - 22:00	25,000	30,000	0.0%	8.7	8	1
+Shop Online	Tiệm Gà Rán Số 19 - Hào Nam	1 Ngõ 32A Phố Hào Nam, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 09:00 - 20:30	50,000	200,000	0.0%	7.5	197	1
+Quán ăn	Phở Gà Nguyệt - Phủ Doãn	5 Phủ Doãn, P. Hàng Bông, Hoàn Kiếm, Hà Nội	4.5	999+	 06:00 - 10:00 | 17:00 - 06:00	35,000	50,000	0.0%	7.3	82	1
+Ăn vặt/vỉa hè	Bà Thìn - Xôi Chè &amp; Bánh Trôi - Bát Đàn	1 Bát Đàn, Hoàn Kiếm, Hà Nội	4.5	999+	 07:30 - 23:00	15,000	25,000	0.0%	7.4	154	1
+Quán ăn	Quán Cô Mai - Bún, Miến &amp; Bánh Đa Các Loại	6 Ngách 1 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 22:00	20,000	40,000	0.0%	7.4	16	1
+Café/Dessert	Trà Sữa Shun Cha - Cửa Bắc	90 Cửa Bắc, P. Quán Thánh, Ba Đình, Hà Nội	4.5	999+	 08:00 - 22:30	28,000	50,000	0.0%	7.2	31	1
+Ăn vặt/vỉa hè	Bánh Tráng Sài Gòn - Xuân La	6 Ngõ 36 Xuân La, P. Xuân La, Tây Hồ, Hà Nội	4.5	999+	 09:00 - 22:00	15,000	50,000	0.0%	7.0	27	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Phùng Khoang	Liền Kề 17, Lô 9 Cuối Ngõ 67 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội	4.5	999+	 09:00 - 22:00	15,000	40,000	0.0%	8.4	7	1
+Shop Online	Healthy Meal - Shop Online	11B Thụy Khuê, P. Thụy Khuê, Tây Hồ, Hà Nội	4.5	999+	 09:30 - 19:30	20,000	60,000	0.0%	8.0	40	1
+Shop Online	Super Chicken - Tiệm Gà Online	Ngách 33 Ngõ 9 Đào Tấn, P. Ngọc Khánh, Ba Đình, Hà Nội	4.5	999+	 08:00 - 23:00	10,000	50,000	0.0%	8.4	18	1
+Shop Online	Gà Rán Tok Tok - Shop Online - Khâm Thiên	31 Ngõ Lan Bá, Khâm Thiên (Vào Ngõ Hồ Bãi Cát 10m Rẽ Trái), P. Khâm Thiên, Đống Đa, Hà Nội	4.5	999+	 09:30 - 21:00	50,000	200,000	0.0%	7.6	33	1
+Quán ăn	Nem Nướng Nha Trang Tâm Việt	44 Ngõ 205 Giải Phóng, P. Đồng Tâm, Hai Bà Trưng, Hà Nội	4.5	999+	 09:30 - 21:00	25,000	50,000	0.0%	7.4	9	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn - Khâm Thiên	2D1 Khâm Thiên (Mặt Đường Khâm Thiên Cạnh 2H Khâm Thiên), P. Khâm Thiên, Đống Đa, Hà Nội	4.5	999+	 07:30 - 23:00	20,000	40,000	0.0%	7.3	48	1
+Ăn vặt/vỉa hè	Bánh Tráng Cô Nhàn - Phan Kế Bính	122 Phan Kế Bính, P. Cống Vị, Ba Đình, Hà Nội	4.5	999+	 14:00 - 19:00	10,000	20,000	0.0%	7.3	92	1
+Ăn vặt/vỉa hè	Bánh Mì Vợ Ong Vàng - Tôn Thất Tùng	Ki Ốt 2 B3 Tôn Thất Tùng, P. Kim Liên, Đống Đa, Hà Nội	4.5	999+	 06:00 - 21:30	6,000	15,000	0.0%	8.3	5	1
+Quán ăn	Bánh Đa Trộn - Dốc Thọ Lão	27 Ngõ 38 Dốc Thọ Lão, Lò Đúc, Hai Bà Trưng, Hà Nội	4.5	999+	 06:30 - 19:30	15,000	25,000	0.0%	7.1	76	1
+Café/Dessert	Trà Sữa Mixue - Triều Khúc	B5/53 Triều Khúc, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội	4.5	999+	 08:00 - 22:00	30,000	60,000	0.0%	7.1	12	1
+Quán ăn	Bánh Mì Vợ Ong Vàng - Chùa Bộc	Số 257 Chùa Bộc, P. Trung Liệt, Đống Đa, Hà Nội	4.5	999+	 08:00 - 22:00	20,000	30,000	0.0%	7.3	101	1
+Quán ăn	Gà Rán &amp; Gà Ủ Muối Hoa Tiêu - Hoàng Ngân	24 Ngõ 80 Hoàng Ngân, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 23:00	50,000	100,000	0.0%	7.1	9	1
+Shop Online	My Healthy Corner - Shop Online - Đặng Văn Ngữ	10 Ngõ 75 Đặng Văn Ngữ, P. Trung Tự, Đống Đa, Hà Nội	4.5	999+	 08:30 - 20:30	40,000	60,000	0.0%	7.1	11	1
+Café/Dessert	Phúc Long New Skyline	GH 1, Tầng 1, Tòa Nhà NewSkyline, KĐT Mới Văn Quán, P. Văn Quán, Hà Đông, Hà Nội	4.5	999+	 09:00 - 20:00	45,000	60,000	0.0%	8.5	3	1
+Ăn vặt/vỉa hè	Bánh Mì Bami Bread - Trần Hưng Đạo	88B Trần Hưng Đạo, P. Cửa Nam, Hoàn Kiếm, Hà Nội	4.5	999+	0	16,000	25,000	0.0%	0	0	1
+Ăn vặt/vỉa hè	Nem Nộm Gia Truyền Hoa Mai - Thành Công	111A5 Thành Công, Ba Đình, Hà Nội	4.5	999+	 10:00 - 21:00	15,000	31,000	0.0%	7.2	126	1
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - Hoàng Đạo Thúy	Tầng 1, 34T Hoàng Đạo Thúy, P. Trung Hòa, Cầu Giấy, Hà Nội	4.5	999+	 09:30 - 21:30	30,000	70,000	0.0%	7.2	129	1
+Quán nhậu	Lòng Lợn &amp; Cháo Lòng Khương Đình - Quan Nhân	50B Ngõ 144 Quan Nhân, P. Nhân Chính, Thanh Xuân, Hà Nội	4.5	999+	 07:00 - 19:00	60,000	80,000	0.0%	7.6	41	1
+Quán ăn	Vân Chiến - Bún Ngan Trộn Chua Ngọt - Bà Triệu	326 Bà Triệu, Hai Bà Trưng, Hà Nội	4.5	999+	 10:30 - 14:00 | 16:30 - 20:00	30,000	44,000	0.0%	7.0	45	1
+Café/Dessert	Trà Sữa Tocotoco - Đường Láng	1256 Đường Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 08:00 - 23:00	30,000	50,000	0.0%	7.0	73	1
+Shop Online	Mei's Kitchen - Món Ngon Hàn Quốc - Shop Online	38 Ngõ 10 TT 17 (Trong Ngõ 169 Doãn Kế Thiện), P. Mai Dịch, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 21:00	20,000	90,000	0.0%	7.6	10	1
+Café/Dessert	Trà Sữa Bobapop - Thái Hà	290 Thái Hà, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 09:00 - 21:00	23,000	48,000	0.0%	7.2	103	1
+Quán ăn	Bami King - Bánh Mì Bò Nướng - Trung Hòa	2 Trung Hoà, P. Trung Hoà, Cầu Giấy, Hà Nội	4.5	999+	 06:30 - 21:00	30,000	50,000	0.0%	7.2	76	1
+Quán ăn	Tít Thò Lò - Bún Đậu &amp; Bún Chả - Xa La	5 Phố Xa La, P. Phúc La, Hà Đông, Hà Nội	4.5	999+	 08:00 - 23:00	25,000	50,000	0.0%	8.0	5	1
+Ăn vặt/vỉa hè	Sữa Chua Trân Châu Hạ Long - Ngọc Lâm	76 Ngọc Lâm, P. Ngọc Lâm, Long Biên, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	35,000	0.0%	7.5	3	1
+Quán ăn	Bánh Mì Nướng Lạng Sơn - Trần Quốc Hoàn	7B1 Ngõ 201 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 22:30	10,000	50,000	0.0%	6.1	38	1
+Ăn vặt/vỉa hè	Bánh Mì Vợ Ong Vàng - 169Q Tây Sơn	169Q Tây Sơn, P. Quang Trung, Đống Đa, Hà Nội	4.5	999+	 06:00 - 21:00	6,000	15,000	0.0%	7.1	35	1
+Tiệm bánh	King Roti - Hàng Gai	34 Hàng Gai, Hoàn Kiếm, Hà Nội	4.5	999+	 09:00 - 21:00	10,000	17,000	0.0%	6.9	112	1
+Café/Dessert	Master Tea 美茶 - Ngọc Lâm	6/24 Ngõ 298 Ngọc Lâm, P. Ngọc Lâm, Long Biên, Hà Nội	4.5	999+	 09:00 - 22:00	30,000	50,000	0.0%	6.5	10	1
+Ăn vặt/vỉa hè	Bánh Gạo Cay &amp; Kimbap - Xuân Thủy	22H1 Ngõ 130 Xuân Thuỷ (ĐH Sư Phạm HN), P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 19:00	10,000	30,000	0.0%	6.9	69	1
+Ăn vặt/vỉa hè	Bún Đậu - Ngõ 185 Chùa Láng	33 Ngõ 185 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 09:00 - 21:00	25,000	30,000	0.0%	7.1	9	1
+Café/Dessert	Trà Sữa Mixue - Giảng Võ	159 Giảng Võ, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 08:00 - 22:00	30,000	60,000	0.0%	6.8	21	1
+Café/Dessert	The Alley - Trà Sữa Đài Loan - Times City	SH03 Park Hill 8 Times City, 458 Minh Khai, P. Mai Động, Hoàng Mai, Hà Nội	4.5	999+	 08:00 - 22:00	41,000	70,000	0.0%	7.0	40	1
+Café/Dessert	Highlands Coffee - Savico Long Biên	Tầng 1, TTTM Savico Megamall, 7-9 Nguyễn Văn Linh, P. Phúc Đồng, Long Biên, Hà Nội	4.5	999+	 09:00 - 21:00	9,000	65,000	0.0%	7.4	10	1
+Ăn vặt/vỉa hè	Bami King - Bánh Mì Bò Nướng - Thái Phiên	11 Thái Phiên, Hai Bà Trưng, Hà Nội	4.5	999+	 07:00 - 22:00	29,000	35,000	0.0%	7.2	41	1
+Café/Dessert	Ding Tea - Ô Chợ Dừa	57 Ô Chợ Dừa, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 09:00 - 22:00	25,000	50,000	0.0%	7.6	73	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Tân Mai	116 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	35,000	0.0%	6.8	2	1
+Quán ăn	BUMTRO - Bún Trộn Nam Bộ - Đào Tấn	26 Ngõ 58 Đào Tấn, P. Cống Vị, Ba Đình, Hà Nội	4.5	999+	 08:00 - 22:00	30,000	60,000	0.0%	6.8	5	1
+Café/Dessert	KOI Thé - Royal City	B1-R3-K4B, Vincom Mega Mall Royal City, 72A Nguyễn Trãi, P. Thượng Đình, Thanh Xuân, Hà Nội	4.5	999+	 09:30 - 22:00	40,000	60,000	0.0%	7.8	4	0
+Quán ăn	Cơm Gà Xối Mắm - Kim Giang	150 Kim Giang, P. Đại Kim, Hoàng Mai, Hà Nội	4.5	999+	 10:00 - 15:00 | 17:00 - 22:00	25,000	35,000	0.0%	8.0	8	1
+Quán ăn	Phương Hoa - Bún Thái Hải Sản Tươi Sống &amp; Cơm Văn Phòng - Tập Thể Thành Công	109 B2 Tập Thể Thành Công, P. Thành Công, Ba Đình, Hà Nội	4.5	999+	 07:00 - 23:00	50,000	200,000	0.0%	7.3	59	1
+Quán ăn	Dakgalbi - Tiệm Gà Rán Hàn Quốc	3 Ngõ 87 Láng Hạ, Đống Đa, Hà Nội	4.5	999+	 09:30 - 22:00	50,000	300,000	0.0%	7.1	79	1
+Café/Dessert	Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Trung Kính	182 Trung Kính, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	999+	 08:30 - 22:30	30,000	60,000	0.0%	5.9	7	1
+Quán ăn	XINYI - Cơm Vịt Quay, Gà Nướng &amp; Chè Kem Đài Loan - Phạm Ngọc Thạch	112 C4 Trung Tự (Ngõ 46C Phạm Ngọc Thạch), P. Trung Tự, Đống Đa, Hà Nội	4.5	999+	 10:00 - 22:00	60,000	75,000	0.0%	7.5	18	1
+Quán ăn	Quán Cơm Hạt Dẻ - Cơm Gà Online	10 Ngõ 68 Triều Khúc, Thanh Xuân, Hà Nội	4.5	999+	0	10,000	45,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa Feeling Tea - Tân Mai	128 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội	4.5	999+	 07:00 - 23:00	12,000	30,000	0.0%	7.3	17	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Ô Chợ Dừa	10 Ô Chợ Dừa, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	35,000	0.0%	7.5	10	1
+Ăn vặt/vỉa hè	Bánh Tráng Nướng &amp; Chè Hạt Đác - 111 Đội Cấn	149 Đội Cấn, P. Ngọc Hà, Ba Đình, Hà Nội	4.5	999+	 14:30 - 23:00	15,000	30,000	0.0%	6.5	64	1
+Quán ăn	Chimico - Cơm Trộn &amp; Kim Chi Tỏi Đen - Trung Kính	Số 7 Ngách 10 Ngõ 43 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội	4.5	999+	 08:00 - 21:00	90,000	150,000	0.0%	6.9	21	1
+Ăn vặt/vỉa hè	Cúc - Cháo Sườn Sụn - Đội Cấn	142D Đội Cấn, Ba Đình, Hà Nội	4.5	999+	 10:00 - 22:00	25,000	50,000	0.0%	6.7	84	1
+Shop Online	My Healthy Corner - Shop Online - Lạc Trung	2 Ngõ 230 Lạc Trung, P. Thanh Lương, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 21:00	35,000	70,000	0.0%	6.6	59	1
+Quán ăn	Cô Hằng Quán - Cháo Sườn &amp; Cháo Trai - Đặng Văn Ngữ	108 - C6 Đặng Văn Ngữ, P. Trung Tự, Đống Đa, Hà Nội	4.5	999+	 07:30 - 18:00	20,000	50,000	0.0%	7.0	35	1
+Ăn vặt/vỉa hè	Cháo Sườn Cô Là	2A Lý Quốc Sư, Hoàn Kiếm, Hà Nội	4.5	999+	 06:30 - 10:00 | 14:00 - 18:30	15,000	25,000	0.0%	7.2	49	1
+Ăn vặt/vỉa hè	Bánh Mì Minh Nhật - Tôn Thất Tùng	109A11 Tôn Thất Tùng, P. Trung Tự, Đống Đa, Hà Nội	4.5	999+	 07:00 - 21:00	30,000	200,000	0.0%	6.6	14	1
+Quán ăn	Trâm - Bánh Mì Sốt Vang Đình Ngang	30 Đình Ngang, P. Cửa Nam, Hoàn Kiếm, Hà Nội	4.5	999+	 08:00 - 23:00	30,000	66,000	0.0%	6.6	152	1
+Ăn vặt/vỉa hè	Bánh Mì Minh Nhật - Hoàng Quốc Việt	29 Ngõ 93 Hoàng Quốc Việt, Cầu Giấy, Hà Nội	4.5	999+	 06:30 - 22:00	10,000	40,000	0.0%	6.8	12	1
+Ăn vặt/vỉa hè	Ngon - Bún Bò Nam Bộ, Phở Cuốn &amp; Chè, Caramen	101 H3 Thành Công, P. Thành Công, Ba Đình, Hà Nội	4.5	999+	 09:00 - 20:00	8,000	30,000	0.0%	7.0	24	1
+Shop Online	Thuỷ Tiên’s Das Shop - Ăn Vặt Keto Online	12 Hẻm 14 Ngách 69 Ngõ 325 Kim Ngưu, Hai Bà Trưng, Hà Nội	4.5	999+	 09:00 - 17:00	20,000	70,000	0.0%	6.9	10	1
+Quán ăn	Đụt Quán - Cơm Văn Phòng	5 Ngõ 41 Trần Duy Hưng, P. Trung Hòa, Cầu Giấy, Hà Nội	4.5	999+	 11:00 - 13:00 | 16:00 - 20:00	40,000	50,000	0.0%	7.4	13	1
+Quán ăn	Thu Hà - Bún Chả Hàng Mành &amp; Nem Cua Bể	4 Vườn Cam, P. Mễ Trì, Nam Từ Liêm, Hà Nội	4.5	999+	 10:00 - 21:00	10,000	40,000	0.0%	5.7	4	1
+Ăn vặt/vỉa hè	Bánh Mì Minh Nhật - Đỗ Quang	14A Ngõ 1 Phố Đỗ Quang, P. Trung Hòa, Cầu Giấy, Hà Nội	4.5	999+	 06:30 - 22:30	15,000	20,000	0.0%	6.5	43	1
+Café/Dessert	Trà Sữa Tocotoco - Chùa Láng	97 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 08:30 - 23:00	30,000	70,000	0.0%	6.5	6	1
+Café/Dessert	Ding Tea - Trần Khát Chân	252 Trần Khát Chân, P. Đống Mác, Hai Bà Trưng, Hà Nội	4.5	999+	 08:00 - 22:30	26,000	46,000	0.0%	6.7	12	1
+Tiệm bánh	Bánh Su Kem Singapore Chewy Junior - Trần Đại Nghĩa	64 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội	4.5	999+	 08:00 - 22:00	20,000	150,000	0.0%	7.7	55	1
+Tiệm bánh	Umbala Bánh Mì &amp; Xôi	Vườn Hoa Độc Lập Ngõ 35 Ngô Thì Sỹ, Hà Đông, Hà Nội	4.5	999+	 06:30 - 22:00	15,000	30,000	0.0%	7.1	9	1
+Quán ăn	Huỳnh Duyên - Cơm Văn Phòng &amp; Nước Ép	17 Ngõ 205 Giải Phóng, P. Đồng Tâm, Hai Bà Trưng, Hà Nội	4.5	999+	 10:00 - 13:30 | 17:00 - 19:00	30,000	50,000	0.0%	6.7	9	1
+Quán ăn	Cơm Sườn Đào Duy Từ - Giảng Võ	325 Giảng Võ, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 10:00 - 21:00	30,000	70,000	0.0%	6.8	94	1
+Quán ăn	Bún Chả Cầu Đen - Hà Đông	22 Tô Hiệu, Hà Đông, Hà Nội	4.5	999+	 06:00 - 21:00	25,000	50,000	0.0%	6.6	22	1
+Quán ăn	Cơm Thố Anh Nguyễn - Chùa Láng	17 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 10:00 - 22:00	20,000	200,000	0.0%	6.8	25	1
+Ăn vặt/vỉa hè	Bánh Mì Minh Nhật - Trần Đăng Ninh	113 Trần Đăng Ninh, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	999+	 06:30 - 22:30	30,000	50,000	0.0%	6.6	33	1
+Quán ăn	Bonchon Chicken - Lý Thường Kiệt	39 Lý Thường Kiệt, P. Hàng Bài, Hoàn Kiếm, Hà Nội	4.5	999+	 10:00 - 23:00 | 10:00 - 22:00	50,000	295,000	0.0%	8.2	13	1
+Ăn vặt/vỉa hè	Bánh Gà Thần Thánh - 158 Hồng Mai	11 Ngõ 158 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội	4.5	999+	0	4,000	70,000	0.0%	0	0	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn Sài Gòn - Chùa Láng	Ki Ốt 6, 147 Ngõ 1194 Đường Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 10:00 - 21:00	12,000	25,000	0.0%	6.9	12	1
+Nhà hàng	Lotteria - Trần Thái Tông	Lô C - ô D5 - Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 07:30 - 22:30	30,000	88,000	0.0%	6.7	50	1
+Quán ăn	Bánh Mì Minh Nhật - Hào Nam	3 Hào Nam, P. Ô Chợ Dừa, Đống Đa, Hà Nội	4.5	999+	 06:30 - 22:30	23,000	32,000	0.0%	6.2	15	1
+Ăn vặt/vỉa hè	Dũng Hạnh - Bánh Mì Giò Chả - Nguyên Hồng	26 Nguyên Hồng, P. Láng Hạ, Đống Đa, Hà Nội	4.5	999+	 06:00 - 19:00	20,000	30,000	0.0%	6.6	7	1
+Ăn vặt/vỉa hè	Thu Hương - Bánh Tráng Sài Gòn - Ô Chợ Dừa	4 Ô Chợ Dừa, P. Chợ Ô Dừa, Đống Đa, Hà Nội	4.5	999+	0	15,000	30,000	0.0%	0	0	1
+Ăn vặt/vỉa hè	Dũng Hạnh - Bánh Mì Giò Chả - Lê Đại Hành	20 Lê Đại Hành, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội	4.5	999+	 06:00 - 20:00	20,000	50,000	0.0%	6.4	40	1
+Quán ăn	Bánh Mì Bami Bread - Hoàng Quốc Việt	208 Hoàng Quốc Việt, P. Cổ Nhuế, Bắc Từ Liêm, Hà Nội	4.5	999+	 06:30 - 22:00	16,000	25,000	0.0%	7.6	65	1
+Ăn vặt/vỉa hè	Brohotdog - Hotdog &amp; Drink - Phố Đặng Văn Ngữ	103 D2 Phố Đặng Văn Ngữ, P. Trung Tự, Đống Đa, Hà Nội	4.5	999+	 08:00 - 23:00	20,000	60,000	0.0%	7.4	78	1
+Quán ăn	Nam Phương - Cơm Tấm Sài Gòn - Tạ Quang Bửu	102 E6 Bách Khoa, Tạ Quang Bửu, Hai Bà Trưng, Hà Nội	4.5	999+	 10:00 - 22:00	30,000	55,000	0.0%	6.4	75	1
+Shop Online	Somali Cat - Bánh Ngọt &amp; Trà Sữa Online - Quỳnh Mai	11B Ngõ E7, P. Quỳnh Mai, Hai Bà Trưng, Hà Nội	4.5	999+	 08:00 - 21:00	30,000	100,000	0.0%	6.7	22	1
+Ăn vặt/vỉa hè	Bánh Mì Vợ Ong Vàng - 176 Tây Sơn	176 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội	4.5	999+	 06:00 - 21:00	10,000	30,000	0.0%	6.7	3	1
+Shop Online	Bếp Nhà Bun - Chân Gà Sả Ớt Online - Trường Chinh	20 Ngõ 592 Trường Chinh, P. Khương Thượng, Đống Đa, Hà Nội	4.5	999+	 09:00 - 23:00	90,000	90,000	0.0%	7.3	65	1
+Quán ăn, Ăn vặt/vỉa hè	Bánh Mì Minh Nhật - Láng Hạ	12H1 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội	4.5	999+	 07:00 - 21:00	30,000	60,000	0.0%	6.3	42	1
+Ăn vặt/vỉa hè	Teen's Food - Các Món Ăn Vặt - Nguyễn Công Hoan	11 Nguyễn Công Hoan, P. Ngọc Khánh, Ba Đình, Hà Nội	4.5	999+	0	5,000	50,000	0.0%	0	0	1
+Nhà hàng	BBQ Chicken - Giảng Võ	107K1 Giảng Võ, P. Cát Linh, Đống Đa, Hà Nội	4.5	999+	 09:00 - 22:30	60,000	110,000	0.0%	6.9	20	1
+Quán ăn	Bún Cá Chấm CCG - Ngọc Lâm	142 Ngọc Lâm, P. Ngọc Lâm, Long Biên, Hà Nội	4.5	500+	 07:00 - 14:00 | 17:00 - 21:00	30,000	100,000	0.0%	6.3	2	1
+Ăn vặt/vỉa hè	Chân Gà Hấp Sả Ớt Mắt To	23 - 24 Lương Ngọc Quyến, Hoàn Kiếm, Hà Nội	4.5	999+	 10:30 - 22:30	10,000	200,000	0.0%	7.2	81	1
+Quán ăn	Happy Lunch - Xã Đàn	40 Ngõ 27 Xã Đàn, P. Phương Liên, Đống Đa, Hà Nội	4.5	999+	 09:00 - 16:00	70,000	200,000	0.0%	6.3	9	1
+Quán ăn	ABAMI - Bánh Mì Hội An	101 C10 Thành Công, P. Thành Công, Ba Đình, Hà Nội	4.5	999+	 07:00 - 20:00	10,000	50,000	0.0%	6.8	11	1
+Quán ăn	BUMTRO - Bún Trộn Nam Bộ - Tân Mai	71A Ngõ 260 Tân Mai, Hoàng Mai, Hà Nội	4.5	999+	 08:00 - 22:00	30,000	60,000	0.0%	6.0	3	1
+Shop Online	Bánh Bông Lan Trứng Muối Huyennhemm - Shop Online	14 Ngõ 61 Tôn  Đức Thắng, Đống Đa, Hà Nội	4.5	999+	 09:00 - 21:00	50,000	70,000	0.0%	7.4	75	1
+Ăn vặt/vỉa hè	Savor - Bánh Mì &amp; Trà Sữa - Khu Đô Thị Bán Đảo Linh Đàm	Kiot 6 Nơ 7B Khu Đô Thị Bán Đảo Linh Đàm, P. Hoàng Liệt, Hoàng Mai, Hà Nội	4.5	999+	 07:00 - 21:30	20,000	50,000	0.0%	6.6	4	1
+Quán ăn	Bánh Mì Bami Bread - Nguyễn Văn Cừ	209 Nguyễn Văn Cừ, Long Biên, Hà Nội	4.5	999+	 06:30 - 22:00	15,000	30,000	0.0%	6.9	12	1
+Ăn vặt/vỉa hè	Bánh Mì Kẹp Thịt - Trần Thái Tông	76 Ngõ 44 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 06:00 - 22:30	15,000	20,000	0.0%	6.1	2	1
+Nhà hàng	Gimbab Hàn Quốc - Ngọc Khánh	52 Ngọc Khánh, Ba Đình, Hà Nội	4.5	999+	 09:00 - 22:00	50,000	110,000	0.0%	6.6	247	1
+Quán ăn	Bà Ba Quán - Cơm Gà Xíu - Lạc Long Quân	49c Ngõ 218 Lạc Long Quân, P. Bưởi, Tây Hồ, Hà Nội	4.5	999+	 09:00 - 19:00	15,000	30,000	0.0%	7.0	23	1
+Café/Dessert	Chè Ngon 73 - Khâm Thiên	73B Khâm Thiên, P. Khâm Thiên, Đống Đa, Hà Nội	4.5	999+	 08:00 - 22:00	15,000	50,000	0.0%	5.0	16	1
+Nhà hàng	Lotteria - Huỳnh Thúc Kháng	59-63 Huỳnh Thúc Kháng, P. Láng Hạ, Đống Đa, Hà Nội	4.5	999+	 07:30 - 22:30	30,000	900,000	0.0%	6.8	75	1
+Ăn vặt/vỉa hè	Quang Đăng - Bánh Tráng Trộn &amp; Bánh Tráng Nướng	43E Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội	4.5	999+	 10:00 - 22:29	20,000	20,000	0.0%	6.9	11	1
+Nhà hàng	Go Pizza	24 Phùng Hưng, P. Cửa Đông, Hoàn Kiếm, Hà Nội	4.5	999+	0	50,000	210,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Xuân Thủy	38 Ngõ 133 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 09:30 - 22:30	29,000	66,000	0.0%	6.1	34	1
+Café/Dessert	Highlands Coffee - TTC Duy Tân	Tầng 1, Toà Nhà TTC, 19 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 18:00	9,000	65,000	0.0%	7.1	36	1
+Café/Dessert	Cà Phê Sạch Nguyên Chất - Dịch Vọng	1 Ngõ 2E Dịch Vọng, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	100+	0	20,000	50,000	0.0%	0	0	1
+Café/Dessert	Ding Tea - Duy Tân	54 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 08:00 - 23:00	30,000	70,000	0.0%	7.0	1	1
+Café/Dessert	Ding Tea - Trần Thái Tông	3 Trần Thái Tông, Tổ 14, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 22:00	25,000	100,000	0.0%	10.0	3	1
+Café/Dessert	Vân Anh - Nước Ép, Sinh Tố &amp; Ăn Nhanh	17 Ngõ 66 Dịch Vọng Hậu, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	500+	 06:00 - 22:00	12,000	30,000	0.0%	7.9	2	1
+Café/Dessert	Twitter Beans Coffee - Duy Tân	Tầng 1 Tòa Nhà Việt Á, Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 22:30	28,000	61,000	0.0%	7.5	60	1
+Shop Online	Hà Linh Juice - Nước Ép &amp; Sinh Tố Trái Cây Online	107 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 23:00	25,000	35,000	0.0%	8.8	6	1
+Café/Dessert	Starbucks Coffee - Duy Tân	32 - 34 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 21:30	50,000	100,000	0.0%	7.3	31	1
+Café/Dessert	Trà Sữa LeeTee - Nguyễn Phong Sắc	63 Nguyễn Phong Sắc, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 08:00 - 23:00	20,000	55,000	0.0%	6.6	31	1
+Ăn vặt/vỉa hè	Nước Ép Hoa Quả Nguyên Chất	1 Ngõ 37 Dịch Vọng, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	999+	 07:30 - 22:30	15,000	30,000	0.0%	6.2	2	1
+Café/Dessert	Trà Sữa Feeling Tea - Trần Thái Tông	4 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 08:00 - 22:30	15,000	30,000	0.0%	6.6	47	1
+Café/Dessert	The Alley - Trà Sữa Đài Loan - Khúc Thừa Dụ	23 Khúc Thừa Dụ, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	999+	 08:00 - 23:00	41,000	70,000	0.0%	6.5	13	1
+Café/Dessert	Trà Sữa Tocotoco - Cầu Giấy	320 Cầu Giấy, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 21:00	22,000	50,000	0.0%	5.2	76	1
+Café/Dessert	Trà Sữa YiHeTang 益禾堂 - Khúc Thừa Dụ	2 Khúc Thừa Dụ, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	999+	 10:00 - 22:30	30,000	50,000	0.0%	5.9	3	1
+Café/Dessert	Kitty - Nước Ép, Sinh Tố &amp; Đồ Ăn Vặt	39B Ngõ 44 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 22:30	10,000	65,000	0.0%	5.5	3	1
+Shop Online	Trà Sữa Pozaa Tea Online - Dương Quảng Hàm	1 Dương Quảng Hàm, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 22:00	20,000	60,000	0.0%	6.7	4	1
+Café/Dessert	Trà Sữa Te Amo - Cầu Giấy	147 Cầu Giấy, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	500+	 09:00 - 23:30	24,000	24,000	0.0%	5.0	1	1
+Café/Dessert	Nước Mía Tuấn Tú	24 Ngõ 381 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	100+	 08:00 - 23:00	12,000	60,000	0.0%	4.2	1	1
+Café/Dessert	Tiểu Khu Trà Chanh - Chùa Hà	Cổng 2 Nhà Văn Hóa P. Dịch Vọng, 96 Chùa Hà (Sau Trường THCS Dịch Vọng), Cầu Giấy, Hà Nội	4.5	10+	 08:00 - 23:00	10,000	20,000	0.0%	9.7	3	1
+Shop/Cửa hàng	Fruits Mart - Trái Cây, Nước Ép, Sinh Tố - Duy Tân	4 Ngõ 36 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	999+	 07:30 - 20:00	10,000	50,000	0.0%	4.2	1	1
+Café/Dessert	Tiệm Rau Má MAXH - Cốm Vòng	77 Cốm Vòng, Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 22:00	10,000	40,000	0.0%	6.5	3	1
+Café/Dessert	Trà Cúc Hải Phòng - Trần Đăng Ninh	22 Trần Đăng Ninh, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	100+	 07:00 - 23:00	4,000	55,000	0.0%	8.8	1	1
+Café/Dessert	The Cafein	Tầng 1, Chung Cư N04-B1, Thành Thái, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	10+	 06:45 - 22:30	28,000	65,000	0.0%	7.8	11	1
+Café/Dessert	Trà Sữa Tiger Hill - Hoa Bằng	18 Ngõ 90/1 Hoa Bằng, P. Yên Hoà, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Đô Đô - Trà Sữa Đồng Giá - Nguyễn Văn Huyên	48 Nguyễn Văn Huyên, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	999+	0	21,000	31,000	0.0%	0	0	1
+Café/Dessert	IC Cafe - Cafe - Duy Tân	Ngõ 82  Duy Tân, P.Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0.0	4	 07:00 - 20:00	15,000	45,000	0.0%	7.3	3	1
+Café/Dessert	Huyền Cafe - Duy Tân	12 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 07:00 - 22:30	20,000	55,000	0.0%	6.4	3	1
+Café/Dessert	Nước Ép Mẹ Shin - Dịch Vọng	4 Ngõ 39 Dịch Vọng, P. Dịch Vọng, Cầu Giấy, Hà Nội	0.0	1	 04:00 - 05:00	5,000	99,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Tiger Sugar - Hoa Bằng	18 Ngõ 90/1 Hoa Bằng, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - The Park Home	NO2 The Park Home, D12 Thành Thái, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	100+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - 302 Cầu Giấy	302 Cầu Giấy, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	100+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mixue - Xuân Thủy	44 Xuân Thủy, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 22:00	15,000	35,000	0.0%	10.0	1	1
+Café/Dessert	Tiger Suger Yên Hòa - Trà Sữa - Yên Hòa	50 Yên Hòa, P. Yên Hòa, Cầu Giấy, Hà Nội	5.0	7	0	20,000	50,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa Wings - Trà Sữa Kem Trứng Nướng &amp; Trà Hoa Quả - Yên Hòa	158 Yên Hòa, Cầu Giấy, Hà Nội	5.0	500+	 10:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Goky Premium - Khúc Thừa Dụ	29 Khúc Thừa Dụ (Trần Đăng Ninh Kéo Dài), P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	100+	 08:00 - 23:00	30,000	50,000	0.0%	7.3	3	1
+Nhà hàng	Royaltea - Xuân Thủy	144 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	500+	0	35,000	55,000	0.0%	0	0	1
+Café/Dessert	Trà Bí Đao Plus - Hoa Bằng	18 Ngõ 90/1 Hoa Bằng, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	100+	 07:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Milano Coffee - Duy Tân	1 Ngõ 78 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 08:00 - 20:00	20,000	39,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Pozaa Tea - Nguyễn Khang	289 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Nhà hàng, Café/Dessert	Trà Sữa Hecha - Trà Hoa Quả - 69 Nguyễn Văn Huyên	69 Nguyễn Văn Huyên, P. Quan Hoa, Cầu Giấy, Hà Nội	5.0	100+	 09:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Happy Juice - Nước Ép &amp; Sinh Tố	59 Cốm Vòng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 07:30 - 21:30	15,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trung Nguyên E - Coffee - Duy Tân	36 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 07:30 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Royal Tea - Trà Sữa Trân Châu - Hoa Bằng	18 Ngõ 90/1 Hoa Bằng, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	500+	 09:00 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Trà Sữa Mixue -  145A Xuân Thủy	145A Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 08:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Oatway - Trà Sữa &amp; Sữa Chua Yến Mạch - Dịch Vọng Hậu	6/66 Dịch Vọng Hậu, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 08:30 - 21:30	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiger Sugar Việt Nam - Xuân Thủy	8B Ngõ 167 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	0	25,000	50,000	0.0%	0	0	1
+Café/Dessert	Tiger Sugar - Nguyễn Khang	417A Nguyễn Khang, P. Yên Hoà, Cầu Giấy, Hà Nội	4.5	999+	0	15,000	50,000	0.0%	0	0	1
+Café/Dessert	Tiệm Trà Chanh Mùa Hè  - Nước Ép &amp; Sinh Tố - 14 Duy Tân	14 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	7	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Trà Sữa Te Amo - 130 Xuân Thủy	130 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 09:30 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Royaltea - Yên Hòa	50 Yên Hòa, Cầu Giấy, Hà Nội	4.5	10+	 09:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà sữa Pozaa Tea - Trần Thái Tông	6 Trần Thái Tông, Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 22:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Trà Dâu Thanh Xuân - Trà Dâu - 6H3 Ngách 1 Ngõ 130 Xuân Thuỷ	6H3 Ngách 1 Ngõ 130 Xuân Thuỷ, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 09:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	RoyalTea - Trà Sữa Hong Kong - 39 Ngõ 63 Trần Quốc Vượng 	39 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	G9X - Cơm Gà &amp; Mì Sốt Vang - 48 Ngõ 165 Cầu Giấy	48 Ngõ 165 Ngõ Bưu Điện Cầu Giấy, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	50+	 09:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Royaltea - Trà Sữa Hồng Kông - Xuân Thủy	8A Ngõ 167 Xuân Thủy, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 23:00	30,000	80,000	0.0%	10.0	1	1
+Café/Dessert	Bubbleology - Trà Sữa Nutella - Xuân Thủy	8 Ngõ 167 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.0	100+	 08:30 - 23:00	10,000	69,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Libertea - Trần Đăng Ninh	113 Trần Đăng Ninh, Cầu Giấy, Hà Nội	4.5	50+	 09:00 - 20:30	30,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao T-Plus - Xuân Thủy	167B Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 08:15 - 22:40	15,000	34,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Meely Juice - Trái cây Sinh Tố &amp; Nước Ép Nguyên Chất - Trần Quốc Vượng	68 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	50+	 09:00 - 19:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phúc Long Thăng Long	72 Trần Đăng Ninh, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Royaltea - Nguyễn Khang	 417 Nguyễn Khang, P. Yên Hoà, Cầu Giấy, Hà Nội	4.5	100+	0	30,000	45,000	ShopeeFood</span	0	0	1
+Café/Dessert, Ăn vặt/vỉa hè	Trà Bát - Trà Sữa - Duy Tân	Số 12, ngõ 14, Duy Tân, Cầu Giấy, Hà Nội	0.0	1	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Yo Tea - Dương Quảng Hàm	1B Dương Quảng Hàm, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	10+	 10:00 - 21:00	25,000	80,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Rosier - Fresh Tea &amp; Coffee - Trần Quốc Vượng	10 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 08:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao &amp; Trà Sữa Nana - Khúc Thừa Dụ	79 Ngõ 59, Phố Khúc Thừa Dụ, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	9	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hoa Quả Dầm - MikeKym	5/167 Xuân Thuỷ, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 00:01 - 02:00 | 08:00 - 23:59	30,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	DOLO Foods - Cà Phê &amp; Sinh Tố - 62 Dịch Vọng Hậu	62 Dịch Vọng Hậu, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	10+	 08:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Ăn vặt/vỉa hè	Fruits Pikachu - Nước Ép &amp; Trái Cây - Trần Thái Tông	số 6 ngõ 44 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 07:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tí Hip Tea &amp; Juice - Trần Quốc Vượng	65 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	50+	 06:00 - 21:30	25,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cà Phê Mậu Dịch - Cà Phê Rang Mộc 100% - Trần Quý Kiên	2 ngõ 38 Trần Quý Kiên, P. Dịch Vọng, Cầu Giấy, Hà Nội	5.0	1	 07:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Ăn vặt/vỉa hè	Sạch 100% - Sinh Tố &amp; Nước Ép Trái Cây - Trần Quốc Vượng	 2 Ngách 63/26 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 07:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiger Sugar - Trà Sữa - Trần Quốc Vượng	39 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Shop Online	Chị Hội - Nước Ép Hoa Quả Online	89 Nguyễn Văn Huyên, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	50+	 09:00 - 22:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Macada Coffee &amp; BingSu	305 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	50+	 08:00 - 22:30	10,000	90,000	0.0%	7.8	23	1
+Café/Dessert	An Nhiên - Trà Bí Đao - Cầu Giấy	365 Cầu Giấy, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	100+	 07:30 - 23:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Ngon - Trà Sữa &amp; Ăn Vặt - Hoa Bằng	14B Ngách 5 Ngõ 72 Hoa Bằng, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	8	 10:00 - 23:59	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Green Juice &amp; Food - Duy Tân	7 Ngõ 36 Duy Tân (Mặt Sau), P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 08:00 - 18:00	15,000	50,000	0.0%	6.6	15	0
+Café/Dessert	Phúc Long 8 Trương Công Giai	8 Trương Công Giai, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	10+	 07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Trà Bí Đao Hạt Chia - Trần Đăng Ninh	119 Trần Đăng Ninh, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	500+	 08:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cửa Hàng Nước Ép Trái Cây Nguyễn Huế - Trần Quốc Vượng	18 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 08:00 - 21:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Kana Cafe - Cafe &amp; Giải Khát - 34 Trần Quý Kiên	34 Trần Quý Kiên, P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	0	0	0.0%	0	0	1
+Café/Dessert	Mind Stream Coffee - Phạm Văn Bạch	Tòa Báo Lao Động, 6 Phạm Văn Bạch, P. Yên Hoà, Cầu Giấy, Hà Nội	5.0	1	 08:00 - 20:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Bánh Mì One One - Yên Hòa	216 Yên Hòa (Đối Diện 259 Yên Hòa), P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	10+	 08:00 - 23:00	20,000	50,000	0.0%	8.0	14	1
+Café/Dessert	Timeline Coffee - Cầu Giấy	79 Ngõ 260 Cầu Giấy, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	10+	 08:30 - 23:30	35,000	50,000	0.0%	9.1	8	1
+Café/Dessert	Tâm Hoa Trà	1 Ngách 2 Ngõ 37 Dịch Vọng, Cầu Giấy, Hà Nội	0.0	3	 07:30 - 21:00	25,000	100,000	0.0%	10.0	1	1
+Café/Dessert	RoyalTea - 6 Dương Đình Nghệ	6 Dương Đình Nghệ, P. Yên Hòa, Cầu Giấy, Hà Nội	0.0	3	 09:00 - 22:00	37,000	51,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao One One - Trà Sữa	118 Phố Yên Hòa, P. Yên Hòa, Cầu Giấy, Hà Nội	5.0	5	 07:00 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Trà 1980 - Tea &amp; Coffee	120 Yên Hoà, P. Yên Hoà, Cầu Giấy, Hà Nội	4.5	10+	 09:00 - 22:30	10,000	65,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Ăn chay	Nam Việt - Sữa Hạt - Duy Tân	23 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	5.0	100+	 08:00 - 19:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Gemini Coffee - Nguyễn Khang	347 Nguyễn Khang, P. Yên Hoà, Cầu Giấy, Hà Nội	4.5	100+	 07:00 - 23:00	50,000	100,000	0.0%	7.2	8	1
+Café/Dessert	SMB Solution Cafe	02 Lô N07A, KĐT Dịch Vọng, P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	25,000	55,000	ShopeeFood</span	0	0	1
+Quán nhậu	Vuvuzela Beer Club - Sunrise Trần Thái Tông	Tòa Sunrise, 91 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0	0	0	200,000	550,000	ShopeeFood</span	0	0	1
+Café/Dessert	Highlands Coffee - PVI Tower	PVI Tower, 1 Phạm Văn Bạch, P. Yên Hoà, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 21:00	19,000	65,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Jactea - Nguyễn Văn Huyên	79 Nguyễn Văn Huyên, P. Quan Hoa, Cầu Giấy, Hà Nội	4.5	100+	 09:00 - 22:00	30,000	90,000	0.0%	7.9	9	1
+Café/Dessert	Dolo Foods - Nước Ép &amp; Coffee	62 Dịch Vọng Hậu, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0.0	4	 08:00 - 21:00	35,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Highlands Coffee - CTM Cầu Giấy	299 Cầu Giấy, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	999+	 07:00 - 23:00	9,000	65,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Quán Kẻ Cót - Bánh Mì Que Tư Hải &amp; Đồ Ăn Vặt	17 Ngõ 113 Yên Hoà, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	10+	 08:00 - 23:00	20,000	40,000	0.0%	8.1	3	1
+Café/Dessert	Yomie's Rice &amp; Yogurt - PVI Tower	Tầng 1 Tòa Nhà PVI, Lô VP2, 1 Phố Phạm Văn Bạch, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	10+	 09:00 - 21:00	49,000	90,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Kliza Coffee - Trần Thái Tông	Biệt Thự A04, Ngõ 75 Trần Thái Tông, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	7	 07:30 - 21:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Hè - Trà Sữa, Trà Hoa Quả Nhập Khẩu &amp; Sữa Tươi Mix Vị - Trần Quốc Vượng	34 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	5.0	10+	 08:00 - 23:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Omely - Trà Sữa Đài Loan Chuẩn Guu - Cầu Giấy	354 Cầu Giấy, P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	30,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Infini Tea - Dịch Vọng Hậu	Lô B4, D21 Ngõ 82 Dịch Vọng Hậu, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0	0	0	30,000	50,000	ShopeeFood</span	0	0	1
+Shop Online	Nước Ép Quỳnh Trang Online - Hoa Bằng	83 Hoa Bằng, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	10+	 07:00 - 23:00	10,000	28,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Pozaa Tea - Trần Quốc Vượng	95 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 09:30 - 23:00	25,000	50,000	0.0%	1.0	1	1
+Café/Dessert	Túc Tắc - Cà Phê - Duy Tân	Số 4 Ngách 8 Ngõ 76 Duy Tân, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	50+	 07:00 - 22:00	25,000	75,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tropic Tea - Trà Chanh &amp; Trà Sữa - Nguyễn Phong Sắc	75 Nguyễn Phong Sắc, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	100+	 07:30 - 23:00	10,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Laika Café - Trần Đăng Ninh	Toà B5 Trần Đăng Ninh, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	50+	 07:30 - 21:00	28,000	65,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Aha Cafe - Duy Tân	38 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	50+	 07:30 - 22:00	25,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Bí Đao TH - Yên Hòa	29 Yên Hòa, Yên Hòa, Cầu Giấy, Hà Nội, Cầu Giấy, Hà Nội	0	0	0	20,000	50,000	0.0%	0	0	1
+Café/Dessert	Tiệm An Nhiên - Trà &amp; Cà Phê - Duy Tân	12 Ngõ 76 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	5.0	5	 07:00 - 18:00	7,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Quán Trà Hoa Thảo Mộc - Dịch Vọng	3 Ngách 37/2 Dịch Vọng, P. Dịch Vọng, Cầu Giấy, Hà Nội	5.0	10+	 07:00 - 23:00	40,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sinh Tố &amp; Nước Ép Nguyên Chất - Duy Tân	2 Ngõ 36 Duy Tân, Cầu Giấy, Hà Nội	4.5	100+	 07:00 - 18:00	20,000	100,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phê La - Thành Thái	N04-B1 Dich Vong, P. Thành Thái, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	999+	 08:00 - 22:45	38,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Thư Viện Café Đông Tây - Trần Đăng Ninh	N11A Ngõ 123 Trần Đăng Ninh (N11A Trần Quý Kiên), P. Dịch Vọng, Cầu Giấy, Hà Nội	5.0	1	 07:00 - 22:00	20,000	30,000	0.0%	7.7	27	1
+Café/Dessert	Cafe 1986 - Nước Ép &amp; Ăn Nhanh	29 Khúc Thừa Dụ, P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	10,000	100,000	0.0%	0	0	1
+Ăn vặt/vỉa hè, Shop Online	Đồ Uống Mẹ Gấu - Sinh Tố &amp; Nước Ép - Dịch Vọng	9 Ngách 37/11 Tổ 17  Dịch Vọng,P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	0	0	0.0%	0	0	1
+Café/Dessert	OM Tea &amp; Coffee	38 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0.0	2	 06:30 - 23:00	20,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cà 9 - Cafe Sạch &amp; Trái Cây Chín	44 Trần Quý Kiên, P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	30,000	150,000	ShopeeFood</span	0	0	1
+Café/Dessert	Cafe Gia Truyền - Cafe Rang Xay	8 Tôn Thất Thuyết, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội	0.0	4	 07:00 - 22:00	20,000	55,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trung Nguyên E-Coffee - Thọ Tháp	5 Thọ Tháp, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	10+	 07:00 - 22:00	17,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Infini Tea - Trà Sữa - Duy Tân	B4/D21 Ngõ 11 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	5.0	2	 09:00 - 19:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cafe - Cafe Tử Vi	50 Phố Dịch Vọng Hậu, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 07:00 - 22:00	30,000	0	0.0%	<span>_._</span>	0	1
+Nhà hàng, Café/Dessert	Time Restaurant and Coffee	CMC Tower, Số 1 Ngõ 11 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	3.0	2	 06:30 - 22:30	40,000	100,000	0.0%	7.2	17	1
+Café/Dessert	Hà Coffee	Ngõ 92 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0	0	0	20,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Yang Kafe - Trần Thái Tông	Số 1 Ngõ 84 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	5.0	6	 07:00 - 23:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cafe 68 New - Coffee, Sinh Tố, Nước Ép, Trà Sữa &amp; Sữa Chua Hoa Quả	78 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0.0	1	 Cả ngày	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Bin’s Coffee &amp; Tea - Thọ Tháp	3 Thọ Tháp, P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	0	0	0.0%	0	0	1
+Café/Dessert	Tre Coffee	9 Ngõ 337 Cầu Giấy, P. Dịch Vọng, Cầu Giấy, Hà Nội	0	0	0	35,000	90,000	ShopeeFood</span	0	0	1
+Café/Dessert	Trà Hoa Đà Lạt 1893 In Hà Nội	8 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	50+	 08:00 - 22:00	20,000	100,000	0.0%	6.9	11	1
+Café/Dessert	1987 Cafe	8 Ngõ 76 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	10+	 07:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Shop Online	Sinh Tố Mẹ Bim - Shop Online	79 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	3.5	100+	 09:00 - 21:00	50,000	100,000	0.0%	1.8	2	1
+Café/Dessert	An Nhiên - Trà Bí Đao - 200 Yên Hòa	200 Yên Hòa, Cầu Giấy, Hà Nội	5.0	10+	 07:30 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Ăn vặt/vỉa hè	Coffee &amp; Tea - Xuân Thủy	11 Ngõ 181 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	5.0	2	 07:00 - 23:00	15,000	50,000	ShopeeFood</span	6.3	14	1
+Café/Dessert	Neko - Tea - Trần Quốc Vượng	4 Ngõ 63/56 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0	0	0	20,000	38,000	ShopeeFood</span	0	0	1
+Café/Dessert	Aha Cafe - Dịch Vọng	1 Lô N09A Khu Đô Thị Mới Dịch Vọng, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	9	 07:30 - 22:30	30,000	55,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tới Anh - Sinh Tố &amp; Nước Ép Trái Cây	18 Cốm Vòng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	5.0	6	 07:00 - 19:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Nước Ép Hoa Quả Duy Tân - Dịch Vọng Hậu	42 Ngõ 66/18 Dịch Vọng Hậu, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	0.0	3	 08:30 - 23:59	20,000	60,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Buffet Chay Hương Thiền	261 Xã Đàn, P. Nam Đồng, Đống Đa, Hà Nội	4.5	999+	 09:00 - 21:00	99,000	150,000	0.0%	7.1	55	1
+Ăn chay	Tâm Chay - Đỗ Đức Dục	Nhà B3, 2 Đỗ Đức Dục, P. Mễ Trì, Nam Từ Liêm, Hà Nội	4.5	100+	 08:00 - 21:00	30,000	100,000	0.0%	9.1	2	1
+Shop Online	My Healthy Corner - Shop Online - Nguyễn Khang	249 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội	4.5	999+	 09:00 - 16:25 | 16:30 - 20:30	35,000	70,000	0.0%	8.9	6	1
+Nhà hàng, Quán ăn	Sushi Lab - Sushi - Phùng Hưng	10 Phùng Hưng,P. Cửa Đông, Hoàn Kiếm, Hà Nội	4.5	100+	 10:30 - 22:00	0	0	0.0%	8.8	1	1
+Ăn chay	Veggie Castle - Vegan Buffet Chay - Âu Cơ	19 Ngõ 275 Âu Cơ, P. Quảng An, Tây Hồ, Hà Nội	4.5	100+	 11:00 - 14:00 | 18:00 - 21:30	30,000	70,000	0.0%	8.7	4	1
+Quán ăn	123 Chay - Bánh Mì Chay - Cù Chính Lan	11 Ngách 3/29 Phố Cù Chính Lan, P. Khương Mai, Thanh Xuân, Hà Nội	4.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Diệu Âm Quán - Ngọc Lâm	696 Ngọc Lâm, P. Gia Thuỵ, Long Biên, Hà Nội	4.5	999+	0	25,000	50,000	0.0%	0	0	1
+Quán ăn	Quán Chay HAAN - Đào Tấn	71 Đào Tấn, P. Ngọc Khánh, Ba Đình, Hà Nội	4.5	100+	 11:00 - 14:00 | 18:00 - 21:00	20,000	50,000	0.0%	8.1	2	1
+Quán ăn	Chay Hạnh Phúc	17 Ngõ 105 Đình Thôn, Nam Từ Liêm, Hà Nội	4.5	999+	 07:00 - 19:00	10,000	150,000	0.0%	9.5	16	1
+Nhà hàng, Ăn chay	Loving Hut - Cơm Chay - Chùa Láng	6/10 ngõ 121 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội	4.5	999+	 10:00 - 14:00 | 17:30 - 21:00	30,000	77,000	0.0%	6.8	81	1
+Quán ăn	Cơm Chay Âu Lạc - Văn Chương	277 Văn Chương, P. Khâm Thiên, Đống Đa, Hà Nội	4.5	100+	 08:00 - 22:00	20,000	50,000	0.0%	7.5	6	1
+Shop Online	Cơm Chay Lý Sơn - Shop Online	37 Ngõ 46 Phạm Ngọc Thạch (57 Ngõ 29 Xã Đàn), P. Phương Liên, Đống Đa, Hà Nội	4.5	999+	 10:00 - 14:00 | 17:00 - 20:00	35,000	50,000	0.0%	7.8	2	1
+Ăn chay	Chay Vegito - Đình Ngang	4 Đình Ngang, P. Cửa Nam, Hoàn Kiếm, Hà Nội	4.5	500+	 10:00 - 15:00 | 18:00 - 21:00	50,000	100,000	0.0%	7.7	7	1
+Nhà hàng	Veggie Castle - Vegan Buffet Chay - Yên Ninh	Số 07 Yên Ninh, P. Trúc Bạch, Ba Đình, Hà Nội	4.5	100+	 11:00 - 14:00 | 17:00 - 21:00	60,000	60,000	0.0%	8.7	37	1
+Ăn chay	Tuệ Tâm - Ẩm Thực Chay	30 Ngõ 71 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội	4.5	500+	 07:00 - 22:00	8,000	300,000	0.0%	8.0	11	1
+Shop Online	Zôm Foody - Đồ Ăn Chay Online	38 Thụy Khuê, Tây Hồ, Hà Nội	4.5	100+	0	15,000	25,000	0.0%	0	0	1
+Ăn chay	Chay Tâm Đức	14 Dịch Vọng, P. Dịch Vọng, Cầu Giấy, Hà Nội	4.5	500+	0	20,000	200,000	0.0%	0	0	1
+Nhà hàng	Tacos Fresh And More	54 Đào Duy Từ, Hoàn Kiếm, Hà Nội	4.5	100+	 10:30 - 22:00	30,000	80,000	0.0%	7.4	37	1
+Nhà hàng, Ăn chay	Cơm Chay Hà Thành	17 Ngõ 73 Giang Văn Minh, P. Đội Cấn, Ba Đình, Hà Nội	4.5	999+	 08:00 - 21:00	15,000	165,000	0.0%	6.5	38	1
+Ăn chay	Chay Casa - Cơm Chay Tự Chọn	269A Ngõ 37, Tổ 6 Đa Sỹ (Chợ Đa Sỹ), P. Kiến Hưng, Hà Đông, Hà Nội	4.5	100+	 09:00 - 21:00	100,000	300,000	0.0%	7.9	6	1
+Ăn chay	Chay Phúc Nguyên Hưng	Ngõ 140 Tố Hữu (Gần Ngã Tư Tố Hữu Vạn Phúc), P. Vạn Phúc, Hà Đông, Hà Nội	4.5	100+	 10:00 - 13:00 | 16:00 - 20:00	30,000	100,000	0.0%	9.1	2	0
+Ăn chay	Cơm Chay Dì Hiền	6 Ngõ 25 Võ Văn Dũng, Đống Đa, Hà Nội	4.5	999+	 09:30 - 14:30 | 16:30 - 20:00	30,000	50,000	0.0%	3.4	1	1
+Ăn chay	Quán Chay Liên Hương	81 Doãn Kế Thiện, P. Mai Dịch, Cầu Giấy, Hà Nội	4.5	500+	 08:00 - 21:00	40,000	100,000	0.0%	8.2	4	1
+Buffet, Ăn chay	D've Buffet Chay	83 Mai Hắc Đế, P. Bùi Thị Xuân, Hai Bà Trưng, Hà Nội	4.5	100+	 11:00 - 14:00 | 18:00 - 21:30	49,000	99,000	0.0%	7.7	3	1
+Ăn chay	Nhà Hàng Gardenai Chay	SO10 Tòa A3 Vinhomes Gardenia, Hàm Nghi, P. Châu Diễn, Nam Từ Liêm, Hà Nội	4.5	100+	 08:00 - 22:00	35,000	100,000	0.0%	9.3	3	1
+Quán ăn, Ăn chay	Cơm Chay Hoa Sen - Đội Cấn	2 Ngõ 209 Đội Cấn, Ba Đình, Hà Nội	4.5	100+	 07:00 - 22:00	40,000	100,000	0.0%	6.0	7	1
+Ăn chay	Cơm Chay Thiên Tâm - Đường Láng	10 Ngách 1 Ngõ 814 Đường Láng (10 Ngách 2 Ngõ 850 Đường Láng), P. Láng Thượng, Đống Đa, Hà Nội	4.5	100+	 10:00 - 14:00 | 18:00 - 21:30	50,000	200,000	0.0%	6.6	1	1
+Ăn chay	Chay Tâm Phúc - Vệ Hồ	133 Vệ Hồ, P. Xuân La, Tây Hồ, Hà Nội	4.5	10+	 09:00 - 22:00	45,000	45,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Peace Vegan - Buffet Chay &amp; Đồ Uống	A64 Ngõ 54 Nguyễn Khuyến, P. Văn Quán, Hà Đông, Hà Nội	4.5	100+	 09:00 - 22:00	50,000	200,000	0.0%	9.0	1	1
+Shop Online	Tiệm Sốt Xê - Bún Trộn - Nguyễn Thượng Hiền	20 Nguyễn Thượng Hiền, P. Nguyễn Du, Hai Bà Trưng, Hà Nội	4.5	10+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Shop Online	Chay Phúc Duyên - Shop Online	92 Ngách 67 Ngõ 521 Trương Định, Hoàng Mai, Hà Nội	4.5	10+	 06:00 - 20:00	35,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Giao cơm văn phòng	Quán Cơm Việt - Cơm Suất &amp; Cơm Văn Phòng - 88 Hàng Bạc	88 Hàng Bạc, P. Hàng Bạc, Hoàn Kiếm, Hà Nội	0	0	0	0	0	0.0%	0	0	1
+Shop Online, Ăn chay	Tiệm Chay Ngõ - Bánh Mì Chay &amp; Mì Trộn Chay Online	24 Ngõ 27 Phan Văn Trường, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội	4.5	500+	 07:00 - 13:30	15,000	49,000	0.0%	<span>_._</span>	0	1
+Shop Online	Chay Hồng Hạc - Cơm Chay - Ngõ 2 Phố Bạch Thái Bưởi	54 Ngõ 2 Bạch Thái Bưởi, P. Phúc La, Hà Đông, Hà Nội	5.0	100+	 10:30 - 14:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn, Ăn chay	Bếp Loving - Món Chay Thực Dưỡng - Thái Hà	10 Ngõ 121 Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội	4.5	100+	 08:00 - 21:00	45,000	45,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Loving Hut - Thế Giới Chay - Âu Cơ	147B Âu Cơ, P. Tứ Liên, Tây Hồ, Hà Nội	4.5	100+	 08:30 - 15:00 | 17:00 - 21:30	10,000	100,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Duky Rice - Cơm Gà, Cơm Sườn &amp; Phở Gà	27 Ngõ 336 Nguyễn Trãi, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội	4.5	10+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Ăn chay	Liên Hoa - Cơm Chay Dưỡng Sinh	18 Ngách 105/7 Nguyễn Công Hoan (Ngõ 37 Nguyễn Chí Thanh), P. Ngọc Khánh, Ba Đình, Hà Nội	4.5	500+	 09:00 - 17:00	35,000	35,000	0.0%	<span>_._</span>	0	1
+Shop Online	Bếp Của Ni - Đồ Ăn Healthy &amp; Eat Clean - Shop Online	4 Ngõ 226 Định Công, P. Định Công, Hoàng Mai, Hà Nội	4.5	999+	 09:00 - 16:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Om Chay - Bánh Mỳ Chay - Yên Phụ Nhỏ	116 Yên Phụ Nhỏ, P. Yên Phụ, Tây Hồ, Hà Nội	4.5	50+	0	20,000	30,000	0.0%	0	0	1
+Ăn chay	Chay Hạnh Phúc - Phạm Ngọc Thạch	6 Ngõ 21 Phạm Ngọc Thạch, P. Kim Liên, Đống Đa, Hà Nội	4.5	50+	 09:00 - 14:00 | 16:00 - 20:00	10,000	150,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Ngọc Ngà Chay - Chuyên Món Ăn Chay, Thực Phẩm Chay - Trương Định	359 Trương Định, P. Tân Mai, Hoàng Mai, Hà Nội	4.5	100+	 07:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Mai Liên - Cơm Chay Ruốc Nấm	4 Ngõ 197 Đường Hoàng Mai, Hoàng Mai, Hà Nội	4.5	100+	 09:00 - 21:00	15,000	100,000	0.0%	<span>_._</span>	0	1

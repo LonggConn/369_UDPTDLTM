@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm gà xối mỡ ( Đùi Tỏi Gà ) + canh rong biển,"35,000"
+1,Cơm gà xối mỡ ( Ức Gà ) + canh rong biển,"35,000"
+2,Cơm gà xối mỡ ( Góc Tư Gà ) + canh rong biển,"50,000"
+3,Cơm ( Thêm ),"7,000"
+4,Canh rong biển ( Thêm ),"7,000"
+5,Gà xối mỡ ( Đùi Tỏi Thêm Không Cơm ),"30,000"
+6,Gà xối mỡ ( Ức Thêm Không Cơm ),"30,000"
+7,Gà xối mỡ ( Góc Tư Thêm Không Cơm ),"45,000"

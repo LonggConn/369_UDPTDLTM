@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Sườn Xào Chua Ngọt,"20,000"
+1,Cơm Thịt Kho,"20,000"
+2,Cơm Thịt Gà,"20,000"
+3,Cơm Chả Cuốn,"20,000"
+4,Cơm Cá Kho,"20,000"
+5,Cơm Giò Chả,"20,000"
+6,Bún Bò,"25,000"
+7,Bún Thập Cẩm,"30,000"

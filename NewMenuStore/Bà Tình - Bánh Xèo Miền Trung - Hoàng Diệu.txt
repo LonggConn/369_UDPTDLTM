@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh xèo,"70,000"
+1,Bún thịt nướng,"30,000"
+2,Thịt xiên nướng,"20,000"
+3,Ram cuốn cải,"60,000"
+4,nem lụi,"70,000"
+5,Bò nướng lá lốt,"90,000"

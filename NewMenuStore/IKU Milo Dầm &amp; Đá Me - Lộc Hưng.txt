@@ -1,0 +1,10 @@
+,Food,Price
+0,Đá me đậu phộng size S,"20,000"
+1,Đá me đậu phộng size L,"30,000"
+2,Đá me đậu phộng size M,"25,000"
+3,Tắc xí muội đá xáy size S,"20,000"
+4,Tắc xí muội đá xay size M,"25,000"
+5,Tắc  xí muội đá xay size L,"30,000"
+6,Milo dầm trân châu đường đen size S,"20,000"
+7,Milo dầm trân châu đường đen size L,"30,000"
+8,Milo dầm trân châu đường đen size M,"25,000"

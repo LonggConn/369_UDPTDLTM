@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh mì chiên tôm (1 Cái),"8,500"
+1,Gỏi cuốn (1 Cuốn),"8,500"
+2,Bún bò không giò,"58,500"
+3,Cà ri gà,"46,000"
+4,Bún Bò Giò,"61,500"
+5,Bánh Mì Thêm,"3,500"
+6,Banh Mi Heo Quay,"25,500"
+7,Cocacola,"15,500"
+8,7 Up,"15,500"
+9,Pepsi,"12,500"

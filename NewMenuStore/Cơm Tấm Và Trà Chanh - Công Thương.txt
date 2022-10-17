@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Tấm Sườn Nướng ,"35,000"
+1,Cơm Tấm Ba Rọi Nướng,"35,000"
+2,Cơm Tấm Đùi Gà Nướng,"35,000"
+3,Cơm Tấm Ba Rọi Nướng Lạp Xưởng,"45,000"
+4,Cơm Tấm Sườn Nướng Lạp Xưởng,"45,000"
+5,Cơm Tấm Đùi Gà Nướng Lạp Xưởng,"45,000"
+6,Cơm Tấm Ức Gà Nướng,"35,000"
+7,Cơm Tấm Ức Gà Nướng Lạp Xưởng,"45,000"

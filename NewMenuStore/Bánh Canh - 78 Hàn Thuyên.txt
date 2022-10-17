@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh canh tô đặc biệt,"15,000"
+1,Bánh canh tô bình thường,"15,000"

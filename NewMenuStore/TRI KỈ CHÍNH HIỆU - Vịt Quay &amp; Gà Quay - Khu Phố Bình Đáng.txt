@@ -1,0 +1,8 @@
+,Food,Price
+0,Vịt Quay Lá Mắc Mật 1/2 Con ,"130,000"
+1,Chân Gà Nướng Cặp ,"15,000"
+2,Cánh Gà Nướng ,"20,000"
+3,Chim Cút Nướng ,"20,000"
+4,Vịt Quay Lá Mắc Mật ,"260,000"
+5,Gà Nướng Mật Ong 1 Con,"180,000"
+6,Ga Nướng Muối Ớt 1 Con,"180,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Hột Gà Nướng Thái Lan,"14,000"
+1,3 Xiên Hồ Lô Nướng Đặc Biệt,"89,000"
+2,Combo 5 Cây Xúc Xích Đức Nướng,"98,000"
+3,2 Cây Xúc Xích 2 Xiên Hồ Lô Nướng,"98,000"
+4,2 Xiên Hồ Lô Nướng 2 Cá Viên Chiên,"95,000"
+5,2 Xuc Xich Nuong 2 Ca Vien Chien,"80,000"
+6,Combo 5 Cây Tôm Viên Tươi,"98,000"
+7,Combo 5 Cây Cá Viên Chiên,"88,000"
+8,Hồng Trà Tắc Sủi Bọt,"22,000"
+9,Trà Đào Tươi,"22,000"
+10,Trà Vải Tươi,"22,000"

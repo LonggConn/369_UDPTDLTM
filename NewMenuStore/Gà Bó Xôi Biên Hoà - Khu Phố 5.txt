@@ -1,0 +1,5 @@
+,Food,Price
+0,Gà ta bó xôi truyền thống ,"320,000"
+1,Gà Ta Siez Nhỏ Bó Xôi ,"290,000"
+2,Nước mắm Bé Bầu Loại Đặc biệt ,"350,000"
+3,Nước mắm Bé Bầu Thùng 6 Chai 500ml ( Chai Thủy Tinh),"190,000"

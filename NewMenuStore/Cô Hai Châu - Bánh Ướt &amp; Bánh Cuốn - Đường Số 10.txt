@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh cuốn trứng thập cẩm,"42,000"
+1,Bánh cuốn nóng đặc biệt nhiều bánh,"38,000"
+2,Bánh ướt nóng thập cẩm,"33,000"
+3,Bánh cuốn nóng + chả nem bánh tôm,"36,000"
+4,Chả Chiên Ăn Thêm,"13,000"
+5,Bánh Tôm Ăn Thêm,"13,000"
+6,Chả  Lụa Ăn Thêm,"13,000"

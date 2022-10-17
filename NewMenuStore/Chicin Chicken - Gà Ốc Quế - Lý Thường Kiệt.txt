@@ -1,0 +1,8 @@
+,Food,Price
+0,Gà Ốc Quế,"35,000"
+1,Gà Ốc Quế Tockbokki (món mới),"37,000"
+2,Bánh churros,"17,000"
+3,Khoai tây chiên,"20,000"
+4,Bánh Gạo (Tokbokki) (món mới),"27,000"
+5,Gà Rán,"35,000"
+6,Pepsi,"15,000"

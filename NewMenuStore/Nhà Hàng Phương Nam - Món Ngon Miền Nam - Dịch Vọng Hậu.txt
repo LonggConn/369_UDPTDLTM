@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh Tráng Cuốn Ba Chỉ Quay ,"198,000"
+1,Mắm Nêm,"49,000"
+2,Cá kèo   Now ,"18,000"
+3,Lẩu Cá Kèo ,"398,000"
+4,Nước Lẩu Lá Giang,"109,000"
+5,Rau Ăn Kèm Lẩu,"58,000"
+6,Nước Râu Ngô,"15,000"

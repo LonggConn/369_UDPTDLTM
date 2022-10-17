@@ -1,0 +1,7 @@
+,Food,Price
+0,Bún chả giò-đặc biệt,"27,000"
+1,Bún thịt xào,"25,000"
+2,Bún Thập Cẩm,"35,000"
+3,Bún Thịt Nướng Kim Tiền,"35,000"
+4,Chả giò,"5,000"
+5,Bún tươi thêm,"5,000"

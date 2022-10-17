@@ -1,0 +1,6 @@
+,Food,Price
+0,Trà chanh,"12,000"
+1,Chân gà nướng tứ xuyên,"7,000"
+2,Cánh gà nướng tứ xuyên,"16,500"
+3,Xúc xích nướng,"12,000"
+4,Dưa leo,"4,250"

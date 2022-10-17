@@ -1,0 +1,5 @@
+,Food,Price
+0,Pizza nấm chay,"99,000"
+1,Humburger chay,"50,000"
+2,Pizza rau củ,"99,000"
+3,Pizza thơm chay,"99,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Buffet Đặc Biệt,"80,000"
+1,Cỗ Chay,"300,000"
+2,Cỗ chay 7 Món,"350,000"
+3,Cỗ Chay 10 Món,"500,000"
+4,Cỗ Chay 9 Món,"450,000"
+5,Cỗ Chay 8 Món,"400,000"

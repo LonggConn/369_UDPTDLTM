@@ -1,0 +1,3 @@
+,Food,Price
+0,Gà nướng muối ớt,"170,000"
+1,Gà Nướng Mọi,"170,000"

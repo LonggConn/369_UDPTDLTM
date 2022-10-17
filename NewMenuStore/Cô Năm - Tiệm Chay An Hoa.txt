@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh cuốn chay,"25,000"
+1,Cơm chay,"25,000"
+2,Cơm đậu hũ sốt cà,"18,000"
+3,Cơm đậu hũ kho,"18,000"
+4,Rau muống xào,"18,000"
+5,Cà pháo,"18,000"
+6,Giá xào,"18,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh Mì Gà Nướng Sả,"27,000"
+1,Combo Bánh Mì Hội An & Trà Quất,"39,000"
+2,Combo Bánh Mì Gà Nướng Sả & Trà Quất,"39,000"
+3,Combo Bánh Mì Bò Nướng Tiêu & Trà Quất,"45,000"
+4,Combo 3  Bánh Mì Gà Nướng Sả + 3 Trà Quất,"135,000"
+5,Combo 2 Bánh Mì Gà Nướng Sả + 1 Bánh Mì Bò Nướng Tiêu + 3 Trà Quất,"145,000"
+6,Bánh Mì Hội An Đặc Biệt,"29,450"
+7,Bánh Mì Xá Xíu,"29,450"
+8,Bánh Mì Bò Nướng Tiêu,"36,100"
+9,Trà Quất,"15,000"
+10,Trà Chanh,"15,000"

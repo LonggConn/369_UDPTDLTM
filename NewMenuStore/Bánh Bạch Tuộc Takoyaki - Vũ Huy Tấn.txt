@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh bạch tuộc Takoyaki truyền thống (No.1),"20,000"
+1,Bánh bạch tuộc Takoyaki nhân phô mai  (No.5),"25,000"
+2,Bánh bạch tuộc Takoyaki nhân phô mai cay (No.6),"25,000"
+3,Bánh bạch tuộc Takoyaki chua cay (No.4),"25,000"
+4,Bánh bạch tuộc Takoyaki cay ngọt (No.2),"20,000"
+5,Bánh bạch tuộc Takoyaki chua ngọt (No.3),"25,000"

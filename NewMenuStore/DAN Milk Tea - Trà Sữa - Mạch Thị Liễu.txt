@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà Lài Đác Thơm,"39,000"
+1,Đá Me Đác Thơm,"37,000"
+2,LucKy Tea,"39,000"
+3,Cherri Long Nhãn,"39,000"
+4,Trà Vải Lài,"39,000"
+5,Cherry Thanh Đào,"39,000"
+6,Trà sữa Phúc Long (ủ lạnh),"30,000"
+7,Trà sữa Dan,"35,000"
+8,Bánh Tráng Tỏi,"13,000"
+9,Trà sữa thái xanh,"30,000"
+10,Trà sữa sicula,"35,000"
+11,Trà sữa truyền thống,"30,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,1/2 Gà chiên mắm kèm xôi,"150,000"
+1,Gà lên mâm ,"290,000"
+2,Gà chiên mắm nguyên con kèm  xôi,"260,000"

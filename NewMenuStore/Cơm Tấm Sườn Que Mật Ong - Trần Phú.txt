@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm tấm sườn miếng sốt mật ong + Ốp la,"43,000"
+1,Cơm tấm sườn miếng sốt mật ong ba vị,"38,000"
+2,Cơm tấm sườn que sốt mật ong ba vị,"38,000"
+3,Cơm tấm sườn que sốt mật ong + Ốp la,"43,000"
+4,Cơm thêm,"5,000"
+5,Trứng ốp la thêm,"5,000"

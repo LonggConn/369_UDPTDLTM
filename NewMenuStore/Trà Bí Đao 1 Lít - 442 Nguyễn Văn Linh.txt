@@ -1,0 +1,10 @@
+,Food,Price
+0,Trà Bí Đao 1 LÍT,"25,000"
+1,Trà Tắc Thạch Cá 1 LÍT,"22,000"
+2,Bánh tráng tỏi sợi dẻo,"16,000"
+3,Dẻo tôm bơ,"18,000"
+4,Bơ dẻo thập cẩm,"22,000"
+5,Phơi sương muối nhuyễn ủ lá,"22,000"
+6,Bánh tráng dẻo tắc,"16,000"
+7,Cơm cháy mắm hành 3 miếng,"12,000"
+8,1 trà bí đao 1 Lít & 1 bánh tráng SG ,"35,000"

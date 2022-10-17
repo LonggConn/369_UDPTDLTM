@@ -1,0 +1,5 @@
+,Food,Price
+0,Milo dầm trân châu Size M,"25,000"
+1,Milo dầm trân châu Size L ,"32,000"
+2,Milo dầm trân châu đường đen Size M ,"25,000"
+3,Milo dầm trân châu đường đen Size L ,"32,000"

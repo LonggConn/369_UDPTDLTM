@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Trái Tim Cake Hoa Quả,"270,000"
+1,Bánh Trái Tim Cake Kem Tươi,"270,000"
+2,Bánh Cappuccino Cake,"350,000"
+3,Bánh Hoa Quả Kem Tươi,"320,000"
+4,Bánh Chocolate Cake,"270,000"
+5,Bánh In Ảnh Elsa Cake,"400,000"
+6,Bánh Vẽ Hình Doremon Cake,"320,000"
+7,Bánh Vẽ Hình Cake,"320,000"
+8,Bánh In Ảnh Cake Đế Tròn,"320,000"
+9,Bánh In Ảnh Cake Đế Vuông,"320,000"
+10,Bánh Búp Bê 3D Cake,"420,000"
+11,Bánh 3D Mickey Cake,"350,000"

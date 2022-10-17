@@ -1,0 +1,11 @@
+,Food,Price
+0,Thịt Bò Nướng Hàn Quốc,"120,000"
+1,Cơm Trộn Hàn Quốc,"100,000"
+2,Súp Kimchi,"110,000"
+3,Mì Lanh,"110,000"
+4,Súp Thit Bò Cay,"110,000"
+5,Mì Trôn,"110,000"
+6,Thịt Heo Xào Cay Hàn Quốc,"120,000"
+7,Bulgogi,"110,000"
+8,Súp Tuong Đau Bò,"110,000"
+9,Thịt Bò Băm Hàn Quốc,"150,000"

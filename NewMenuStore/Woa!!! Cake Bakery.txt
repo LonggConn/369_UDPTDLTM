@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh kem,"140,000"
+1,Bánh kem  oreo,"170,000"
+2,Bánh kem elsa,"140,000"
+3,Bánh kem kitty,"140,000"
+4,Bánh kem hũ vàng,"170,000"
+5,Bánh kem người nhện,"140,000"
+6,Bánh kem doremon,"140,000"
+7,Bánh gấu thỏ,"140,000"
+8,Bánh kem  yêu nhau,"140,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,"Cơm thịt heo chiên xù ""Thương em"" :(","38,000"
+1,"Cơm cà-ri gà ""Thanh Xuân""","40,000"
+2,"Cơm gà ""Duyên Phận""","33,000"
+3,"Cơm gà mắm tỏi ""See tình"".","38,000"
+4,Mỳ gà chiên Ngon Nhất Xóm + Pepsi,"43,000"
+5,Tắc mật ong,"15,000"
+6,Pepsi,"12,000"
+7,Chanh mật ong,"15,000"
+8,T/r/à/t/ắ/c.,"20,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Bột chiên 2 trứng,"36,000"
+1,Bột chiên 1 trứng,"31,000"
+2,Bột chiên không trứng,"26,000"
+3,Gỏi khô bò,"31,000"

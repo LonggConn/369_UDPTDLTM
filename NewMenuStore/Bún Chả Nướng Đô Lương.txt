@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún Chả Nướng,"40,000"
+1,Bún Thêm,"5,000"
+2,Thịt Nướng Bé Thêm,"25,000"
+3,Thịt Nướng To Thêm,"32,000"
+4,Lá  nem ,"3,000"
+5,CoCa Cola,"15,000"
+6,Bò húc,"15,000"
+7,Nước cam,"15,000"
+8,Bia Sài Gòn,"15,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Bao,"10,000"
+1,Gà quay + 4 bánh bao,"200,000"
+2,Gà Quay Nữa Con + 2 Bánh Bao,"100,000"

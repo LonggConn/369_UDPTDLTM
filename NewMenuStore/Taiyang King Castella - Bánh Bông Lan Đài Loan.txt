@@ -1,0 +1,12 @@
+,Food,Price
+0,Castella phô mai (nhỏ),"68,000"
+1,Castella trứng muối,"129,000"
+2,Castella socola (nphỏ),"68,000"
+3,Castella phô mai (lớn),"118,000"
+4,Castella truyền thống (nhỏ),"58,000"
+5,Castella truyền thống (lớn),"89,000"
+6,Castella socola (lớn),"118,000"
+7,Castella sầu riêng (lớn),"129,000"
+8,Castella chà bông (lớn),"129,000"
+9,Castella chà bông (nhỏ),"79,000"
+10,Castella sầu riêng (nhỏ),"68,000"

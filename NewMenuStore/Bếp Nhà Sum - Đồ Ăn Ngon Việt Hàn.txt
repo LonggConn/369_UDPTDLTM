@@ -1,0 +1,8 @@
+,Food,Price
+0,Ngô sấy giòn,"48,000"
+1,500g Khoai Lang Sấy Mật Ong ,"65,000"
+2,250g Heo Khô Cháy Tỏi,"70,000"
+3,250g Khô Gà Lá Chanh,"70,000"
+4,500g Heo Khô Cháy Tỏi,"130,000"
+5,500g Khô Gà Lá Chanh,"163,000"
+6,Nước ép mix cóc + dứa,"25,000"

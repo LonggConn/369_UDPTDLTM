@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh canh cua,"40,000"
+1,Bánh canh cua Đặc Biệt,"55,000"
+2,Bánh quẩy thêm,"10,000"
+3,Bánh canh cua   Thường+1coca,"52,000"
+4,Bánh canh cá lóc,"35,000"

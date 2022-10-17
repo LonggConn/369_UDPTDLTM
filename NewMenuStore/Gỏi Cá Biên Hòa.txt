@@ -1,0 +1,5 @@
+,Food,Price
+0,Gỏi cá lớn,"200,000"
+1,Bánh đa,"15,000"
+2,Gỏi cá nhỏ,"150,000"
+3, Cháo cá ( thịt + trứng cá ) lớn ,"150,000"

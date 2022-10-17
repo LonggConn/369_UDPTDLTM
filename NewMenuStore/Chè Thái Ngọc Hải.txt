@@ -1,0 +1,4 @@
+,Food,Price
+0,Chè Thái Lan,"20,000"
+1,Chè thái mít,"20,000"
+2,Chè thái sầu mít,"25,000"

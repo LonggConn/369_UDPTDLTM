@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh tráng trộn,"15,000"
+1,Bánh tráng cuốn bơ,"15,000"
+2,Bánh tráng tỏi,"15,000"
+3,Bánh tráng chấm gia vị,"15,000"
+4,Bánh tráng sa tế,"15,000"
+5,Bánh tráng me,"15,000"

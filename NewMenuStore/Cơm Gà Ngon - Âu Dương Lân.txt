@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Ga 1/4con Lớn,"45,000"
+1,Cơm gà 1/4con vừa,"40,000"
+2,Cơm Thịt Xá Xíu,"30,000"
+3,Cơm Gà 1/4 Con Đại  ,"50,000"
+4,Canh Rong biển,"10,000"
+5,Cơm thêm,"7,000"

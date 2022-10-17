@@ -1,0 +1,8 @@
+,Food,Price
+0,5 Nem Chua Rán/ Fried Sour Roll (5 pc) / Đồ Ăn Vặt,"30,000"
+1,10 Nem Chua Rán,"55,000"
+2,20 Nem Chua Rán,"100,000"
+3,Nem Chua Chưa Lên Chảo - 1 Hộp 20c,"75,000"
+4,𝕋𝕦̛𝕠̛𝕟𝕘 𝕠̛́𝕥 𝕟𝕘𝕠𝕟 (𝕔𝕠̂́𝕔 𝟙𝟝𝟘𝕞𝕝) chấm đồ unochy cực ngon,"8,000"
+5,Bột Phomai Hàn Quốc / Korean Cheese Powder ,"35,000"
+6,Thịt Bò Khô Sợi / Fiber Beef Jerky / Đồ Ăn Vặt,"29,000"

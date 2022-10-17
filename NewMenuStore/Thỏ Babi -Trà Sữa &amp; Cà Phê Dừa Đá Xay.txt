@@ -1,0 +1,12 @@
+,Food,Price
+0,Cà phê dừa đá xay,"35,000"
+1,Nước ép thơm,"20,000"
+2,Smoothie xoài,"35,000"
+3,Nước cam ép,"25,000"
+4,Trà đào,"20,000"
+5, Bạc  xỉu,"25,000"
+6,Smoothie chuối,"35,000"
+7,Socola orio đá xay,"35,000"
+8,Dâu sữa chua,"20,000"
+9,Nước ép cà chua,"12,000"
+10,Nước ép carot,"18,000"

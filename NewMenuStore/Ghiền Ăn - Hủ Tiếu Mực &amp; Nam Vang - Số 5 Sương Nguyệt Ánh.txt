@@ -1,0 +1,10 @@
+,Food,Price
+0,Xương thêm,"40,000"
+1,Mực thêm,"40,000"
+2,Nam vang thêm,"40,000"
+3,Mực tôm thêm,"55,000"
+4,Hủ tiếu mực,"75,000"
+5,Hủ tiếu nam vang,"75,000"
+6,Hủ tiếu mực tôm,"85,000"
+7,Hủ tiếu xương ống,"75,000"
+8,Hủ Tiếu Ghiền Ăn ,"100,000"

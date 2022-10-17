@@ -1,0 +1,10 @@
+,Food,Price
+0,Mì vịt tiềm,"100,000"
+1,Mì thêm,"22,000"
+2,Mì thập cẩm,"55,000"
+3,Mì hoành thánh xá xíu,"50,000"
+4,Mì xá xíu,"35,000"
+5,Mì xá xíu nấm đông cô,"50,000"
+6,Mì tôm,"55,000"
+7,Hoành thánh xá xíu ,"45,000"
+8,Hoành thánh tôm,"60,000"

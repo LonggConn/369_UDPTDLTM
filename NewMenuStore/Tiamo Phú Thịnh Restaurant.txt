@@ -1,0 +1,4 @@
+,Food,Price
+0,Gỏi Gà Tre Măng Cụt,"349,000"
+1,Gỏi Gà Ta Măng Cụt,"299,000"
+2,Măng Cụt Ướp Đá,"167,000"

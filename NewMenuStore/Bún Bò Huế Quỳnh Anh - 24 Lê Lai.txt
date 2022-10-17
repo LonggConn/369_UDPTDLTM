@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún bò truyền thống,"45,000"
+1,Bún bò Huế đặc biệt,"65,000"
+2,Bò kho bánh mì,"45,000"
+3,Trà bí đao hạt chia,"15,000"
+4,Bún bò tái gân,"45,000"
+5,Bún bò tái,"40,000"
+6,Trà tắc,"15,000"
+7,Bún bò tái chả cua,"45,000"
+8,Bún bò chín,"40,000"
+9,Bánh đa bò nhừ,"45,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Lẩu bò,"140,000"
+1,Phá lấu,"110,000"
+2,Gân đuôi bò um,"140,000"
+3,Bao tử + lá sách (Trộn hoặc Hấp),"110,000"
+4,Búp gân đuôi (Trộn hoặc Hấp),"110,000"
+5,Bò lửa hồng,"50,000"
+6,Bò Nướng,"130,000"
+7,Bín trứng (Trộn hoặc Hấp),"110,000"
+8,Xáo bò,"70,000"
+9,Lưỡi bò (Trộn hoặc Hấp),"110,000"
+10,Mì xào bò,"80,000"
+11,Bò xào (Hành hoặc Cải),"100,000"

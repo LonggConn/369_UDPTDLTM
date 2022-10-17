@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Sườn Ram,"25,000"
+1,Cơm Chả Kho,"25,000"
+2,Cơm Gà Rang,"25,000"
+3,Cơm Gà Xào Sả Ớt,"25,000"
+4,Cơm Cá Kho,"25,000"
+5,Cơm Đậu Sốt Thịt,"25,000"
+6,Coca,"12,000"
+7,Bò Húc,"13,000"
+8,Bia Lon,"12,000"

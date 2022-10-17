@@ -1,0 +1,13 @@
+,Food,Price
+0,"Cơm sườn, bì, chả","93,000"
+1,"Cơm sườn, chả","83,000"
+2,Cơm sườn,"72,000"
+3,"Cơm sườn, chả, trứng","91,000"
+4,"Cơm sườn, trứng","81,000"
+5,"Cơm sườn, bì, chả, trứng","99,000"
+6,"Cơm sườn, bì","83,000"
+7,"Bún thịt nướng, chả giò","62,000"
+8,Pepsi lon 330ml,"17,000"
+9,Nước suối Alba 350ml,"15,000"
+10,7UP lon 330ml,"17,000"
+11,Soda lon 330ml,"15,000"

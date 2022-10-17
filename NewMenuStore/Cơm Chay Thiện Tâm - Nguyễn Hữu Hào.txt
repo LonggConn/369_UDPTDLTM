@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm bì căn xào sả,"20,000"
+1,Cơm đùi gà sả,"20,000"
+2,Cơm tàu hủ chiên,"20,000"
+3,Cơm cánh gà rim,"20,000"
+4,Cơm tôm rim,"20,000"
+5,Cơm sườn dưa,"20,000"
+6,Cơm mắm Thái,"20,000"

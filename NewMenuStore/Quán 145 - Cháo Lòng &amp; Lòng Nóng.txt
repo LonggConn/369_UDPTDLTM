@@ -1,0 +1,8 @@
+,Food,Price
+0,Lòng hấp 2 lạng,"75,000"
+1,Lòng hấp 3 lạng,"110,000"
+2,Lòng hấp nửa kg ,"180,000"
+3,Lòng hấp 4 lạng,"145,000"
+4,Lòng hấp 1kg ,"360,000"
+5,Cháo lòng đầy đủ ,"38,000"
+6,Cháo huyết ,"15,000"

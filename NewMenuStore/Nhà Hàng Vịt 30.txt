@@ -1,0 +1,11 @@
+,Food,Price
+0,Gà rang muối 1/2,"90,000"
+1,Gà rán nguyên con,"180,000"
+2,Gà hấp nguyên con,"180,000"
+3,Gà suất rán 1/2,"90,000"
+4,Gà hấp 1/2,"90,000"
+5,Mực hấp,"200,000"
+6,Mực chiên,"200,000"
+7,Ếch om chuối đậu,"175,000"
+8,Ếch chiên bơ,"100,000"
+9,Ếch xào sả ớt,"100,000"

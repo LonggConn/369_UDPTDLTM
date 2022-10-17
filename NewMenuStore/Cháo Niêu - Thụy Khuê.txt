@@ -1,0 +1,12 @@
+,Food,Price
+0,Cháo tim bầu dục,"50,000"
+1,Cháo thịt bằm,"50,000"
+2,Cháo cuống tim,"55,000"
+3,Cháo gà,"50,000"
+4,Cháo tôm,"60,000"
+5,Cháo thập cẩm,"55,000"
+6,Cháo bò,"50,000"
+7,Cháo tim,"50,000"
+8,Cháo cá,"55,000"
+9,Cháo gan,"50,000"
+10,Cháo Sườn Sụn,"55,000"

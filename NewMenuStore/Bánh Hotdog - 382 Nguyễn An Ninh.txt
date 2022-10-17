@@ -1,0 +1,3 @@
+,Food,Price
+0,"Bánh HotDog Thập cẩm ( Xúc Xích,  Chà Bông,  Pate )","12,000"
+1,Bánh HotDog Phomai,"12,000"

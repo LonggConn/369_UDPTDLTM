@@ -1,0 +1,4 @@
+,Food,Price
+0,Lẩu cá hồi,"70,000"
+1,Lẩu cá hú,"70,000"
+2,Lẩu cá diêu hồng,"70,000"

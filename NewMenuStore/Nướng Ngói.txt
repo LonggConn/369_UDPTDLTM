@@ -1,0 +1,6 @@
+,Food,Price
+0,Chân Gà Sốt Thái ( Bao ăn ): 1  Hủ / 500g( ko tính nước),"70,000"
+1,Chân Gà Sốt Thái  (Bao ăn):1 hộp,"35,000"
+2,Nước    Chấm  Thái ,"50,000"
+3,Sốt ớt ngọt 2 hũ,"95,000"
+4,Chân Gà sốt Thái 2 hũ / 1kg ,"135,000"

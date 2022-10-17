@@ -1,0 +1,12 @@
+,Food,Price
+0,Combo 2 (2 người),"194,400"
+1,Combo 5 (1 người),"73,800"
+2,Combo 1 (2 người),"161,100"
+3,Combo 3 (3 người),"233,100"
+4,Combo Nhóm (4-6 người),"349,200"
+5,Combo 4 (2 người),"118,800"
+6,Cơm Gà + Canh Rong Biển,"54,000"
+7,Cơm Gà + Canh Xà Lách Xoong,"54,000"
+8,Cơm gà xé,"40,000"
+9,Cháo Gà,"35,000"
+10,Cháo không,"10,000"

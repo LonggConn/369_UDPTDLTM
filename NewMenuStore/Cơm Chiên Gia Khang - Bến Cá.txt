@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm chiên dương châu ,"25,000"
+1,Cơm chiên muối é,"18,000"
+2,Cơm chiên gà xé ,"25,000"
+3,Cơm chiên tỏi,"18,000"
+4,Cơm chiên xúc xích ,"25,000"
+5,Cơm chiên trứng,"25,000"
+6,Cơm chiên hải sản,"35,000"
+7,Cơm chiên muối ớt ,"18,000"
+8,Cơm chiên chả lụa ,"25,000"

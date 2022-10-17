@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Tấm Sườn,"35,000"
+1,Cơm Tấm Sườn Full Topping,"53,000"
+2,Cơm Tấm Sườn Que,"45,000"
+3,Cơm Tấm Que Full Topping,"63,000"
+4,Ốp La,"5,000"
+5,Cơm thêm,"5,000"
+6,Tóp Mỡ,"5,000"
+7,Lạp Xưởng (cây nhỏ),"7,000"
+8,Chả,"7,000"
+9,Bì,"7,000"
+10,Lạp Xưởng (cây lớn),"12,000"

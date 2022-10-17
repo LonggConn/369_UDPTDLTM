@@ -1,0 +1,13 @@
+,Food,Price
+0,Hủ tiếu mực,"50,000"
+1,Hủ tiếu tôm mực,"70,000"
+2,Hủ tiếu tôm,"50,000"
+3,Hủ tiếu sườn,"50,000"
+4,Hủ tiếu thịt viên,"50,000"
+5,Mực thêm,"40,000"
+6,Thịt thêm,"25,000"
+7,Hủ tiếu thêm,"10,000"
+8,Trứng thêm,"25,000"
+9,Tôm mực thêm,"60,000"
+10,Tôm thêm,"40,000"
+11,Sâm bí đao,"10,000"

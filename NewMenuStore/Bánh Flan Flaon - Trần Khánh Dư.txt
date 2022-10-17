@@ -1,0 +1,3 @@
+,Food,Price
+0,Flan 500g - App,"190,000"
+1,Flan 800g - bigsize App,"290,000"

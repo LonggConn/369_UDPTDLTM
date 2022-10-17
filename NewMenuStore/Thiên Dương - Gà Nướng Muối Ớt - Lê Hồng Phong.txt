@@ -1,0 +1,3 @@
+,Food,Price
+0,Gà nướng muối ớt (không cay) ,"180,000"
+1,Gà nướng ngũ vị thơm giòn ,"180,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún riêu đầy đủ,"40,000"
+1,Bún riêu + sprtie lon,"50,000"
+2,Bún riêu  + lon nước ngọt,"50,000"
+3,Bún riêu+ 1 chai suoi,"50,000"

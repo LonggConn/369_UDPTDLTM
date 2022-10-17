@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún chả giò,"59,000"
+1,Bún Mắm Nêm Đà Nẵng (Must try!) + Thêm chả giò ,"99,200"
+2,Chả giò,"29,000"
+3,Nem,"15,000"
+4,Nước Cam Twister,"18,000"
+5,Trà Ô Long Tea+,"18,000"
+6,7 Up,"18,000"
+7,Pepsi Không Calo,"18,000"
+8,Nescafe Café Viet Lon 170ml,"18,000"
+9,Revive,"18,000"

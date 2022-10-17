@@ -1,0 +1,10 @@
+,Food,Price
+0,Cháo gà ta+goi,"45,000"
+1,To Bun Mang Ga,"40,000"
+2,To Mien Mang Ga,"40,000"
+3,To Mien+goi,"60,000"
+4,Goc Tu Dui Chao+goi Khoan 3 Nguoi An,"150,000"
+5,Ga Nua Con Chao +goi Day Du,"230,000"
+6,To Bun Mang+goi,"60,000"
+7,"Ga Nguyen Con,ga ta Tha Vuon Ga Tam 2.5","460,000"
+8,Goc Tu Uc Chao+goi Khoan 3 Nguoi An,"140,000"

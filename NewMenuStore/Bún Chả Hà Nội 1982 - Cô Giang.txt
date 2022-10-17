@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún chả Hà Nội đặc biệt - Nhiều thịt,"52,250"
+1,Bún chả Hà Nội đặc biệt - Nem rán,"52,250"
+2,Bún chả Hà Nội,"45,600"
+3,Nem rán,"14,250"
+4,Combo Bún Chả + Nem Rán,"58,900"
+5,Combo Bún Chả + Trà Tắc,"64,800"
+6,Bún thêm,"4,000"
+7,Trà Tắc,"16,150"
+8,Combo 2 người_ Bún Chả + Trà Tắc,"129,600"
+9,Combo 3 người_ Bún Chả + Trà Tắc,"199,800"
+10,Combo 4 người_ Bún Chả + Trà Tắc,"259,200"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm chiên má đùi,"35,000"
+1,Cơm chiên đùi góc tư,"55,000"
+2,Cơm chiên đùi tỏi,"35,000"
+3,Cơm chiên bò xào rau cải,"40,000"

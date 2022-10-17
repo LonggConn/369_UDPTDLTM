@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh ngọt,"7,000"
+1,Flan,"12,000"
+2,Yaourt,"8,000"
+3,Kem tươi bánh,"12,000"
+4,Kem hộp,"15,000"
+5,Sữa tươi,"8,000"
+6,Đông sương,"7,000"

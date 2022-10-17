@@ -1,0 +1,11 @@
+,Food,Price
+0,#5. Chili Cheesedog (Hotdog sốt thịt bò phô mai size To),"39,000"
+1,"#4. BLT Cheesedog (Hotdog phô mai, thịt xông khói, xà lách & cà chua size To)","39,000"
+2,#1. Basic LitDog (Hotdog truyền thống size To),"30,000"
+3,"#7. L.A Friesdog (Hotdog phô mai Los Angeles, khoai tây chiên giòn & bacon vụn size To)","39,000"
+4,#2. NYC Cheesedog (Hotdog phô mai New York & hành chiên giòn size To),"35,000"
+5,#3. Miami Summer (Hotdog sốt thịt băm cà chua Miami),"38,000"
+6,Xúc Xích To (size M),"25,000"
+7,Bacon Cheesefries - Khoai tây chiên sốt phô mai Cheddar & thịt xông khói,"35,000"
+8,French Fries - Khoai tây chiên kiểu Pháp,"25,000"
+9,Shaken Shoestring Fries - Khoai tây dây giày lắc phô mai,"30,000"

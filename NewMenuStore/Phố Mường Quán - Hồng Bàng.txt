@@ -1,0 +1,6 @@
+,Food,Price
+0,Gà nướng nửa con,"160,000"
+1,Cơm lam,"30,000"
+2,Gà nướng nguyên con ,"250,000"
+3,Thịt giằng,"130,000"
+4,Ba chỉ nướng,"100,000"

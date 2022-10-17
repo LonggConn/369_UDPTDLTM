@@ -1,0 +1,7 @@
+,Food,Price
+0,Trà Tắc Lipton+xí Muội+cam+mật Ong Rừng,"13,000"
+1,Trà Lipton+chanh Tươi+xí Muội+cam+mật Ong Rừng,"15,000"
+2,Trà Dâu,"18,000"
+3,Nước Chanh,"15,000"
+4,Trà Đào,"18,000"
+5,Mật Ong Rừng Nguyên Chất+ Cho Thử   Vô Tư,"300,000"

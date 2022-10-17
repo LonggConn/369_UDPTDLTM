@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh Xèo Quảng Ngãi - 3 Cái,"30,000"
+1,Ram bắp,"30,000"
+2,Bún Thịt Nướng,"35,000"
+3,Bánh Xèo Quảng Ngãi - 15 Cái ,"150,000"
+4,Rau thêm,"5,000"
+5,Bánh Xèo Quảng Ngãi - 5 Cái,"50,000"
+6,Bánh Xèo Quảng Ngãi - 20 Cái ,"200,000"
+7,Bánh Xèo Quảng Ngãi - 4 Cái,"40,000"
+8,Bánh Xèo Quảng Ngãi - 30 Cái ,"300,000"
+9,Bánh Xèo Quảng Ngãi - 25 Cái ,"250,000"

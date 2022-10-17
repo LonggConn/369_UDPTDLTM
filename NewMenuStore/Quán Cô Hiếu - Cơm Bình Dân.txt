@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm cá bống kho tiêu,"25,000"
+1,Cơm ba rọi chiên giòn,"22,000"
+2,Cơm mắm chưng,"25,000"
+3,Cơm ếch xào cà ri,"22,000"
+4,Cơm gà chiên nước mắm,"22,000"
+5,Cơm tôm ram,"22,000"
+6,Cơm gà nướng,"22,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Chuối ép nướng (phần),"18,000"
+1,Chuối nếp nướng (phần) ,"18,000"
+2,Chuối thập cẩm (phần),"25,000"
+3,Bánh chuối hấp (phần) ,"18,000"
+4,Bánh bò (phần),"18,000"
+5,Bánh da lợn (cái),"18,000"
+6,Dừa thêm,"7,000"
+7,Khoai mì hấp (phần) ,"18,000"
+8,Nếp nướng,"18,000"
+9,Xôi vị,"18,000"
+10,Bánh xu xê,"18,000"
+11,"Xôi Khúc Nóng, nhân có thịt ba chỉ, trứng cút, đậu xanh","20,000"

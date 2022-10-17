@@ -1,0 +1,4 @@
+,Food,Price
+0,Combo 10 hủ tàu hủ tươi Cô Vang,"175,000"
+1,Combo 5 hủ tàu hủ tươi Cô Vang ,"88,000"
+2,Tàu hủ tươi Cô Vang ,"18,000"

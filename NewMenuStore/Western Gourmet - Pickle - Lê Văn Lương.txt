@@ -1,0 +1,7 @@
+,Food,Price
+0,Dưa chuột bao tử vị tỏi ,"99,000"
+1,Pickled mix vegetable ,"99,000"
+2,Ớt jalapeno ,"119,000"
+3,Dưa chuột bao tử,"99,000"
+4,Hamberger dill chíp ,"99,000"
+5,Pickle cornicho ,"99,000"

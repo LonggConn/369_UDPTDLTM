@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh sầu riêng ngàn lớp ổ 12cm ( 450gr),"135,000"
+1,Bánh crepe ngập sầu 6 cái,"80,000"
+2,Bánh crepe ngập sầu (set 10c),"130,000"
+3,Bánh crepe ngập sầu 4 cái,"55,000"
+4,Bánh sầu riêng ngàn lớp size 16cm,"170,000"
+5,Combo ổ bánh riêng ngàn lớp 12cm + 2crepe,"155,000"
+6,Bánh crepe ngập sầu 8 cái,"105,000"
+7,Bánh crepe ngập sầu 2 cái,"30,000"

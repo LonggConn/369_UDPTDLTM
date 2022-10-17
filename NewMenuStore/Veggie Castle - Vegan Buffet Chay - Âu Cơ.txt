@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm Suất Gạo Lứt - Brown rice set,"70,000"
+1,Cơm Suất Gạo Trắng- Rice set,"70,000"
+2,Nước Cam Ép - Orange juice,"30,000"
+3,Nước ép ổi - Guava juice ,"30,000"
+4,Nước Ép Dưa Hấu - Watermelon juice,"30,000"
+5,Nước Ép Củ Đậu Cà Rốt - Ji'cama carrot juice ,"30,000"
+6,Nước Chanh Bạc Hà - Lime and mint juice,"20,000"

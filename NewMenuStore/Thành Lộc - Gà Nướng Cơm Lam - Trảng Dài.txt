@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm lam - 1 ống,"20,000"
+1,Gà nướng  cơm lam phục vụ cả nhà,"200,000"
+2,Bánh bao,"4,000"
+3,Gà nướng nữa con,"110,000"

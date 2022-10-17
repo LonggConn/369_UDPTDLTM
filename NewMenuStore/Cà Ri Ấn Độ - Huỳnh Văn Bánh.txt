@@ -1,0 +1,11 @@
+,Food,Price
+0,Cà ri dê,"75,000"
+1,Cà ri bò,"50,000"
+2,Cà ri gà,"40,000"
+3,Cơm chiên gà rô ti,"35,000"
+4,Cơm chiên cá mặn,"35,000"
+5,Cơm chiên dương châu,"35,000"
+6,Cơm chiên hải sản,"35,000"
+7,Cơm chiên bò,"35,000"
+8,Cơm chiên gà xé,"35,000"
+9,Nui xào bò,"35,000"

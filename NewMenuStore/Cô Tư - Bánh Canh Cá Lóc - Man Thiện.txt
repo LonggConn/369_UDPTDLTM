@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh canh cá lóc,"40,000"
+1,Bánh canh cua,"40,000"
+2,Bánh Canh Đầu Cá,"50,000"
+3,Bánh canh xương,"40,000"

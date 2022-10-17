@@ -1,0 +1,5 @@
+,Food,Price
+0,Cánh gà,"20,000"
+1,Gà cay phô mai,"40,000"
+2,Đùi gà góc tư,"35,000"
+3,Gà sốt cay,"30,000"

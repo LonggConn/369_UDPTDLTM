@@ -1,0 +1,12 @@
+,Food,Price
+0,Cá nục nướng,"60,000"
+1,Xiên nướng,"10,000"
+2,Combo 10 xiên nướng,"100,000"
+3,Ram cuốn cải,"60,000"
+4,Hến Xào Xúc Bánh Tráng,"60,000"
+5,Nem Lụi ,"12,000"
+6,Bánh Xèo ,"10,000"
+7,Ram Cuốn Cải,"60,000"
+8,Gấp bò bóp chua,"70,000"
+9,Gỏi Tai Mui,"70,000"
+10,Bao tử trộn,"70,000"

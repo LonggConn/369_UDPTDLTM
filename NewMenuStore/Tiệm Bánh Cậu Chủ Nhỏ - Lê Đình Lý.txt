@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh bông lan trứng muối sinh nhật size 16,"150,000"
+1,Bánh bông lan trứng muối tô tròn,"60,000"
+2,Bánh bông lan trứng muối sinh nhật size 20,"210,000"
+3,Bánh kem sữa dừa tô vuông ,"35,000"
+4,Bánh  kem trứng dừa tô tròn,"50,000"

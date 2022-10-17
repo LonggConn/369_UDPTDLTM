@@ -1,0 +1,12 @@
+,Food,Price
+0,"Tô lớn (cá, trứng cút)","35,000"
+1,"Tô đặc biệt (cá, trứng cút, chả cua)","45,000"
+2,"Bộ đầu lòng (Đầu cá, Lòng cá, Bánh canh)","50,000"
+3,Bánh Canh Cá Lóc Không,"40,000"
+4,Cá thêm,"25,000"
+5,Bánh thêm,"10,000"
+6,Rau Đắng Thêm,"5,000"
+7,Bánh Canh Chả Cua Trứng Cút,"40,000"
+8,Chả Cua Thêm,"25,000"
+9,Bánh Canh Chả Cua Không,"40,000"
+10,Bánh Canh Trứng Cút Không,"30,000"

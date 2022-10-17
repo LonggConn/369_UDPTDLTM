@@ -1,0 +1,10 @@
+,Food,Price
+0,Milo dằm sữa tươi ,"31,500"
+1,Trà matcha,"36,000"
+2,Sữa tươi thủy Tinh đường đen ,"27,000"
+3,Trà tắc ,"18,000"
+4,Cam vắt,"27,000"
+5,Sữa đá chanh,"27,000"
+6,Trà sữa ,"27,000"
+7,Sôđa Sữa Hột Gà,"31,500"
+8,Sođa Chanh Đường,"22,500"

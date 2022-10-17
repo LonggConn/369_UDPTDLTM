@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm tấm sườn nướng,"30,000"
+1,Cơm tấm sườn chả,"35,000"
+2,Cơm tấm sườn bì chả,"45,000"
+3,Cơm tấm sườn bì,"35,000"

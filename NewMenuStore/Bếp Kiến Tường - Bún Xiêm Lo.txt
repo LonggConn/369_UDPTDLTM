@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh củ cải tôm khô thịt bằm ,"110,000"
+1,1/2 Bánh củ cải tôm khô thịt bằm,"60,000"
+2,1/2 Bánh khoai môn tôm khô thịt bằm,"70,000"
+3,Bánh khoai môn tôm khô thịt bằm,"130,000"

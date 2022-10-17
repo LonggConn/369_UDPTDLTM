@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh tráng tỏi,"20,000"
+1,Mứt dừa,"100,000"

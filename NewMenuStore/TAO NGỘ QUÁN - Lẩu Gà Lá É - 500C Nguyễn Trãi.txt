@@ -1,0 +1,12 @@
+,Food,Price
+0,Lẩu gà lá é nhỏ ,"270,000"
+1,Lẩu gà lá é lớn ,"400,000"
+2,Ngọc kê ,"65,000"
+3,Chân gà hấp hành ,"130,000"
+4,Tôm hấp sả ,"130,000"
+5,Lòng xào mướp ,"105,000"
+6,Bò xào hành cần ,"130,000"
+7,Bò xào cải bẹ ,"130,000"
+8,Mì xào hải sản ,"105,000"
+9,Cánh gà chiên nước mắm ,"130,000"
+10,Khoai tây chiên ,"85,000"

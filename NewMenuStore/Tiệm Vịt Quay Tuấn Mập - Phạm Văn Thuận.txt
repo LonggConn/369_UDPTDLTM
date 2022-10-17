@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh mì thập cẩm,"24,000"
+1,Bánh mì heo quay,"24,000"
+2,Bánh mì chả bò,"24,000"
+3,Chả bò Đà Nẵng ,"380,000"
+4,Xôi mặn ,"24,000"
+5,Nữa con vịt quay ,"170,000"
+6,Vịt quay ,"340,000"
+7,Heo quay,"370,000"
+8,Gà nướng ,"220,000"
+9,Nữa con gà ,"110,000"
+10,Bánh bao chiên ,"40,000"

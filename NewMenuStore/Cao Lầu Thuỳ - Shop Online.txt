@@ -1,0 +1,8 @@
+,Food,Price
+0,Cao lầu,"28,000"
+1,Cà phê sữa,"15,000"
+2,Cà phê đen,"13,000"
+3,Thêm tô nhựa,"2,000"
+4,Thêm cao lầu,"5,000"
+5,Thêm thịt xíu,"10,000"
+6,Tóp Thêm,"5,000"

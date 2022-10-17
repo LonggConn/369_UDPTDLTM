@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh tráng cuốn thịt heo( muốn tách riêng từng phần thì ghi chú cho quán nhé),"75,000"
+1,Bánh tráng nướng,"7,000"
+2,Mỳ thêm,"7,000"
+3,Coca,"13,000"
+4,Bò húc,"15,000"
+5,Pepsi,"13,000"
+6,7up,"13,000"
+7,Mirinda,"13,000"
+8,Nước khoáng,"8,000"
+9,Nước suối,"6,000"

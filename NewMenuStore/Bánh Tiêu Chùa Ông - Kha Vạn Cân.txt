@@ -1,0 +1,12 @@
+,Food,Price
+0,Trứng cút luộc (10 trứng),"15,000"
+1,Cơm cháy siêu chà bông,"45,000"
+2,Khô gà lá chanh-100g,"35,000"
+3,Combo 2 cöm cháy + 1 khô gà lá chanh,"99,000"
+4,Bánh Bao Chiên,"13,000"
+5,Bánh tiêu,"7,500"
+6,Chuối chiên,"10,000"
+7,Bánh bò,"7,500"
+8,Bánh giò gà,"7,500"
+9,Bánh giò quẩy,"7,500"
+10,Bánh mè,"7,500"

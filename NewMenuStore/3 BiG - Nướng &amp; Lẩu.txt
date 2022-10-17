@@ -1,0 +1,11 @@
+,Food,Price
+0,Gà rán sốt gia vị + rau củ chiên ,"55,000"
+1,Lẩu ly Tobokki ,"55,000"
+2,Lẩu ly chả cá ,"55,000"
+3,Gà rán rắc phomai+ rau củ chiên ,"55,000"
+4,Cơm cuộn Mayak mini ,"55,000"
+5,Gà rán sốt nước tương + rau củ chiên ,"55,000"
+6,Miền xào Hàn Quốc,"59,000"
+7,Cơm nắm kiểu Nhật ,"55,000"
+8,Mực chiên giòn ,"55,000"
+9,Gà rán truyền thống + rau củ chiên ,"55,000"

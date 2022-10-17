@@ -1,0 +1,5 @@
+,Food,Price
+0,"Biscotti Chocolate, Hạnh Nhân - Hộp 200g","69,300"
+1,Biscotti Truyền Thống - Hộp 200g,"69,300"
+2,"Biscotti Nam Việt Quất, Hạnh Nhân - Hộp 200g","84,000"
+3,"Biscotti Cam, Hạnh Nhân - Hộp 200g","84,000"

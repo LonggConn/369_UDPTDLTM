@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún Chả Nướng,"30,000"
+1,Cơm Rang,"30,000"
+2,Bún Huế,"30,000"
+3,Miến Ngan,"30,000"
+4,Phở Bò Giò Heo,"30,000"

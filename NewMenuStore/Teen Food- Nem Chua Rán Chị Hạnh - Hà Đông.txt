@@ -1,0 +1,8 @@
+,Food,Price
+0,10 Nem Chua Rán,"65,000"
+1,20 Nem Chua Rán,"130,000"
+2,Nem Chua Rán,"7,000"
+3,5 Nem Chua Rán,"35,000"
+4,Trà Quất,"16,000"
+5,Sữa Đậu,"12,000"
+6,Chanh Leo,"20,000"

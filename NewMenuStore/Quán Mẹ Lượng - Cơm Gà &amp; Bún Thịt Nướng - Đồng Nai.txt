@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm đùi gà xối mỡ,"35,000"
+1,Bún thịt nướng ,"35,000"
+2,Nui xào bò ,"35,000"
+3,Cơm đùi gà sốt me,"35,000"
+4,Mì xào bò,"35,000"
+5,Đùi gà xối mỡ 1 cai không có cơm,"25,000"
+6,Cơm thêm,"10,000"

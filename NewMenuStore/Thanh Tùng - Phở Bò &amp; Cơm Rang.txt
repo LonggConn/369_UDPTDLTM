@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm rang thập cẩm,"30,000"
+1,Cơm rang dưa bò,"35,000"
+2,Phở xào,"35,000"
+3,Mỳ xào ,"35,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh Chuối Nguyên Ổ,"80,000"
+1,Bánh Chuối Phần Một Người,"27,000"
+2,Bánh Tart Trứng,"27,000"
+3,Bông Lan Trứng Muối Lớn,"90,000"
+4,Bông Lan Trứng Muối Bò Khô,"90,000"
+5,Bông Lan Trứng Muối Nhỏ,"45,000"
+6,Bông Lan Bò Khô  Nhỏ,"45,000"

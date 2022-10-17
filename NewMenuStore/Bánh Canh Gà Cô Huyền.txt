@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh canh gà,"30,000"
+1,Gỏi 1 người + bánh canh,"40,000"
+2,Gỏi 2 người + bánh canh,"80,000"
+3,Gỏi 3 người + bánh canh,"120,000"

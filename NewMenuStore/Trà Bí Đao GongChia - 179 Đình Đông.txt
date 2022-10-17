@@ -1,0 +1,8 @@
+,Food,Price
+0,Trà bí đao sương sáo hạt chia,"20,000"
+1,Trà bí đao sương sáo nha đam,"25,000"
+2,Trà bí đao khổng lồ,"30,000"
+3,Trà bí đao sương sáo nha đam khổng lồ,"35,000"
+4,Trà bí đao sương sáo trân châu trắng,"25,000"
+5,Trà bí đao sương sáo hạt chia trân châu khổng lồ,"35,000"
+6,Chè sắn dẻo mochi,"25,000"

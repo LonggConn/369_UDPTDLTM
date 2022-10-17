@@ -1,0 +1,8 @@
+,Food,Price
+0,Trà Bí Đao Hạt Chia Thạch Nha Đam,"20,000"
+1,Trà Bí Đao Hạt Chia Thập Cẩm,"25,000"
+2,Trà Bí Đao Hạt Chia Chân Trâu Trắng,"20,000"
+3,Trà Bí Đao Hạt Chia Ít Đường,"20,000"
+4,Trà bí đao Hạt Chia,"20,000"
+5,Trà Bí Đao Không Hạt Chia,"20,000"
+6,Trà Bí Đao Hạt Chia Không Thạch,"20,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Chè bưởi,"16,000"
+1,Sữa chua nếp cẩm nước dừa,"16,000"
+2,Sữa chua nếp cẩm,"14,000"
+3,1kg( 700g Chè bưởi + 300g nước dừa),"67,000"
+4,Chè Bưởi Nóng,"16,000"
+5,Sương Sáo Hạt Chia Cốt Dừa,"16,000"
+6,Chè đậu đỏ nước cốt dừa nóng,"15,000"
+7,Chè đậu đỏ nước cốt dừa,"15,000"
+8,Combo1,"120,000"

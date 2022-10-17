@@ -1,0 +1,5 @@
+,Food,Price
+0,Sữa tươi trân châu đường đen (nhỏ),"25,000"
+1,Sữa tươi trân châu đường đen (lớn),"35,000"
+2,Milo đá bào,"30,000"
+3,Sữa tươi xoài trân châu trắng (size L),"35,000"

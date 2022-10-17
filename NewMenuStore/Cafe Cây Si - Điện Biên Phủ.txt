@@ -1,0 +1,8 @@
+,Food,Price
+0,Cafe Màu,"25,000"
+1,Cafe Bạc Sỉu,"25,000"
+2,Cafe Đen,"25,000"
+3,Cacao Nóng,"30,000"
+4,Chanh Tươi,"25,000"
+5,Sinh Tố Sữa Chua,"30,000"
+6,Sinh  Tố Chanh,"30,000"

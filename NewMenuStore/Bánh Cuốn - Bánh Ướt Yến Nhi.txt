@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh cuốn,"25,000"
+1,Bánh cuốn trứng,"30,000"
+2,Bánh ướt,"25,000"
+3,Bánh cuốn trứng hải sản,"30,000"
+4,Bánh cuốn hải sản,"25,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún Thịt Nướng,"40,000"
+1,Cơm sườn bì chả trứng ,"50,000"
+2,Cơm Sườn Trứng,"45,000"
+3,Cơm sườn chả,"45,000"
+4,Cơm sườn bì chả,"45,000"
+5,Cơm sườn ,"40,000"
+6,Cơm sườn bì,"45,000"

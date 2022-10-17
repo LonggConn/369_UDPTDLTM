@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm gà xối mỡ lớn,"45,000"
+1,Cơm gà xối mỡ nhỏ,"40,000"
+2,Đùi gà thêm nhỏ,"35,000"
+3,Đùi gà thêm lớn,"40,000"

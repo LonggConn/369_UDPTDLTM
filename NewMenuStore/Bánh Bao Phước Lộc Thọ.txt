@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh bao trứng muối,"12,000"
+1,Bánh bao gà quay thập cẩm,"20,000"
+2,Bánh bao kim sa,"5,000"
+3,Bánh bao thập cẩm,"12,000"
+4,Bánh bao cade,"5,000"
+5,Bánh bao thịt gà,"15,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh mì Kebab (nhỏ),"33,000"
+1,Kebab Lớn,"41,000"
+2,Coca Cola,"9,000"
+3,Nước suối lạnh,"8,000"
+4,Sprite,"9,000"
+5,Fanta vị Nho,"9,000"
+6,Combo Kebab Lớn +  Coca,"49,000"
+7,Kebab Lớn + Sprite,"49,000"

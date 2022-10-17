@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh canh tôm tít thịt cua đầy đủ +1 Coca-Cola,"42,000"
+1,Coca-Cola chỉ 1Đ,1
+2,1 Coca-Cola lon,"13,000"
+3,Bánh canh tôm tít thịt cua + 1 Lon Coca-Cola,"38,500"
+4,2 Bánh canh tôm tít thịt cua đầy đủ + 2 Coca-Cola,"85,000"
+5,2 Bánh canh tôm tít thịt cua + 2 Lon Coca-Cola,"76,000"
+6,2 Coca-Cola lon,"27,000"
+7,Combo 1: 1 bánh canh Đặc Biệt + 1 bánh canh Đầy Đủ,"90,000"
+8,Combo 2: 1 bánh canh Đầy Đủ + 1 bánh canh Tôm Tít,"70,000"
+9,Bánh canh tôm tít đặc biệt,"50,000"
+10,Bánh canh tôm tít đầy đủ,"40,000"
+11,Bánh canh tôm tít,"30,000"

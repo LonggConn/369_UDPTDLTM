@@ -1,0 +1,11 @@
+,Food,Price
+0,Miến Trộn (Chả cá + đậu + bò + giò),"50,000"
+1,Miến Trộn (Chả Cá+Đậu+bò),"45,000"
+2,Miến Trộn (Chả Cá+đậu+bò+tôm),"55,000"
+3,Miến Trộn Đặc biệt ,"65,000"
+4,Miến Trộn (Chả cá + đậu + bò + mực),"55,000"
+5,Bánh Đa Trộn (Chả cá + đậu + bò + giò),"50,000"
+6,Bánh Đa Trộn (Chả cá + đậu + bò),"45,000"
+7,Bánh Đa Trộn Đặc Biệt,"65,000"
+8,Bánh Đa Trộn (Chả Cá+đậu+bò+tôm),"55,000"
+9,Bánh Đa Trộn (Chả cá + đậu + bò + mực),"55,000"

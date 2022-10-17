@@ -1,0 +1,7 @@
+,Food,Price
+0,Gỏi khô bò - 1 hộp,"26,000"
+1,Khô bò - 100 gram,"38,000"
+2,Bánh phồng thêm,"5,000"
+3,Gan đặc biệt - 100 gram,"45,000"
+4,Gỏi Khô + Gan Đặc Biệt - 1 hộp,"35,000"
+5,Gân - 100gram,"38,000"

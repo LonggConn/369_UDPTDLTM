@@ -1,0 +1,7 @@
+,Food,Price
+0,Vịt nướng Lá Mắc Mật. 1/2 Con,"144,000"
+1,Gà nướng Lá Mắc Mật ,"171,000"
+2,Gà nướng muối ớt ,"171,000"
+3,Vịt Nướng Nguyen Con,"288,000"
+4,Gà nướng Lá Chanh ,"171,000"
+5,Giò heo nướng lá mắc mật ,"288,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,TRÀ BÍ ĐAO FULL TOPPING ,"25,000"
+1,TRÀ BÍ ĐAO HẠT CHIA,"25,000"
+2,TRÀ BÍ ĐAO THẠCH ĐEN,"25,000"
+3,TRÀ BÍ ĐAO,"25,000"

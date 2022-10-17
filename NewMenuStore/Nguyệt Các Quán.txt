@@ -1,0 +1,3 @@
+,Food,Price
+0,Bò kho,"25,000"
+1,Hủ tiếu heo,"20,000"

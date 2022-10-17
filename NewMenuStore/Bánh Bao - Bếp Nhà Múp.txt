@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh bao kim sa (trứng chảy),"13,000"
+1,Bánh bao nhân thịt 02 trứng cút,"18,000"
+2,Bánh bao xá xíu phomai,"18,000"
+3,Bánh bao chay,"5,000"
+4,Bánh bao gà cay phomai,"18,000"
+5,Bánh bao gà nấm 1 trứng cút,"18,000"

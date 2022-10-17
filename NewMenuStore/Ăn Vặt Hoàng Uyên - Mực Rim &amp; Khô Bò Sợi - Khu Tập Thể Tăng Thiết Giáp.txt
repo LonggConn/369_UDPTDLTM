@@ -1,0 +1,8 @@
+,Food,Price
+0,KHÔ BÒ SỢI ĐẬM VỊ SIÊU NHIỀU,"42,000"
+1,NGÔ XÓC MẮM GIÒN TAN,"44,250"
+2,NGÔ RIM BÒ KHÔ GIÒN THƠM ,"44,250"
+3,ĐẬU DA CÁ CAPUCHINO ( lọ to ),"65,250"
+4,ĐẬU DA CÁ CAPUCHINO ( túi nhỏ ),"36,750"
+5,NUI SẤY BÒ LÁ CHANH,"44,250"
+6,Ô Mai Me Xí Muội,"59,250"

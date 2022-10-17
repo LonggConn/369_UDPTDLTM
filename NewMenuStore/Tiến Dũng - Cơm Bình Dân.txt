@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm Sườn Kho,"30,000"
+1,Cơm Gà Rang,"30,000"
+2,Cơm Thịt Kho Đậu Phụ Sốt,"30,000"
+3,Thêm Rau,"5,000"
+4,Cơm Cá Lóc Kho Tộ,"30,000"
+5,Thêm Thịt,"10,000"
+6,Cơm Sườn Rán,"30,000"
+7,Cơm Gà Kho Gừng,"30,000"
+8,Bò Húc,"15,000"
+9,Bia,"15,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm đùi gà sốt tứ xuyên ,"40,000"
+1,Mì Ý bò bằm,"35,000"
+2,Nui xốt bò bằm,"35,000"
+3,Soups,"20,000"
+4,Chân gà xã tắc,"95,000"
+5,Cơm bò xào lúc lắc,"40,000"
+6,Cơm cánh gà sốt tứ xuyên,"40,000"
+7,Cơm gà  chiên nước mắm,"35,000"
+8,Soups + trứng bắp thảo,"25,000"
+9,Xúc xích Đức,"15,000"
+10,Ốp la,"5,000"

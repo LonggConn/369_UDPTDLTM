@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Socola,"20,000"
+1,Bánh Bơ Mặn,"20,000"
+2,Bánh Trà Xanh,"20,000"

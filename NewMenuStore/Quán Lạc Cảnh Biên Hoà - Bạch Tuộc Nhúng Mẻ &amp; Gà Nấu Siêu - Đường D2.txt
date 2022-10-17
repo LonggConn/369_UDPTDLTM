@@ -1,0 +1,11 @@
+,Food,Price
+0,Gà ta Nấu Siêu 1/2 con + nước sốt+ bánh mỳ,"209,000"
+1,Gà Ta Nấu Siêu Nguyên con +nước sốt +Bánh mỳ,"399,000"
+2,Cơm cháy kho qoẹt 1phần,"169,000"
+3,Dồi lươn chiên + lá mơ rau thơm+ mắm tôm  ngon,"179,000"
+4,Chả tôm  Lạc Cảnh ,"189,000"
+5,Tôm chiên hạnh nhân 1 con(từ5c)  ,"25,000"
+6,Mỳ xào giòn thập cẩm- Hải Sản ,"159,000"
+7,Ăn gà ta chưng mắm nhĩ 1/2 con,"189,000"
+8,"Cá chép om dưa+ba rọi +rau +bún 1,5-1,7kg/con","379,000"
+9, Bò 1 nắng +muối kiến vàng +rau thơm,"159,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún mắm,"50,000"
+1,Hủ tiếu nam vang,"40,000"
+2,Lẩu mắm,"200,000"
+3,Bún bò giò,"45,000"

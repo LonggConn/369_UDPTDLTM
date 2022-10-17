@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm chiên hải sản,"45,000"
+1,Mỳ xào hải sản,"45,000"
+2,Cơm chiên dương châu,"45,000"
+3,Mỳ xào bò,"45,000"
+4,Cơm chiên cá mặn,"45,000"
+5,Cơm chiên tỏi,"29,000"
+6,Mỳ xào rau,"29,000"
+7,Cơm đùi gà chiên nước mắm,"50,000"
+8,Sting,"17,000"
+9,7Up,"17,000"
+10,Pepsi,"17,000"
+11,CoCa Cola,"17,000"

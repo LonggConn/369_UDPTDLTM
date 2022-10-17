@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún Hải Sản,"30,000"
+1,Bún Hải Sản Đặc Biệt,"50,000"
+2,Cơm vịt sốt tiêu,"45,000"
+3,Cơm chiên hải sản,"40,000"
+4,Bún ốc sườn,"35,000"
+5,Bún ốc sườn đặc biệt,"55,000"
+6,Mỳ vịt quay,"45,000"

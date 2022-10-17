@@ -1,0 +1,6 @@
+,Food,Price
+0,Mì quảng (tô lớn),"25,000"
+1,Mì Quảng Gà,"25,000"
+2,Mì Quảng Gà Trứng,"30,000"
+3,Mì quảng (tô nhỏ),"20,000"
+4,Bánh tráng nướng,"6,000"

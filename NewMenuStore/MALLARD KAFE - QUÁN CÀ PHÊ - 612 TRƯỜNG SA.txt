@@ -1,0 +1,10 @@
+,Food,Price
+0,Bạc xỉu bánh flan,"49,000"
+1,Golia chocolate,"49,000"
+2,Đá me kiểu Mallard,"49,000"
+3,Crazy berries tea,"50,000"
+4,Cà phê sữa,"55,000"
+5,Cold brew,"59,000"
+6,Cà phê đen,"45,000"
+7,Trà tắc xí muội - Size M,"45,000"
+8,Trà Quýt Mơ - Size M,"45,000"

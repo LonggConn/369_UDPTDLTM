@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún Cá Thập Cẩm To,"30,000"
+1,Bún Cá Thập Cẩm Nhỏ,"25,000"
+2,Bún Cá,"25,000"
+3,Bún Cá Bò,"25,000"

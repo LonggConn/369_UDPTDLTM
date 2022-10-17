@@ -1,0 +1,12 @@
+,Food,Price
+0,Coffee đen,"12,000"
+1,Coffee sữa Sài Gòn,"18,000"
+2,Coffee đen Sài Gòn,"18,000"
+3,Bạc xỉu,"18,000"
+4,Trà gừng,"18,000"
+5,Sữa chua đá,"18,000"
+6,Sữa chua coffee,"20,000"
+7,Chanh xí muội,"18,000"
+8,Nước ép cà rốt,"20,000"
+9,Nước ép thơm,"20,000"
+10,Coffee sữa,"13,000"

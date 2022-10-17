@@ -1,0 +1,11 @@
+,Food,Price
+0,Lá sách tái chanh,"130,000"
+1,Lòng bò hấp cải xanh,"130,000"
+2,Bò tái chanh,"130,000"
+3,Bò tái hấp cải xanh,"130,000"
+4,Lẩu bò,"200,000"
+5,Lẩu đuôi bò,"200,000"
+6,Lẩu bò cải chua,"200,000"
+7,Thịt thêm,"100,000"
+8,Óc,"100,000"
+9,Tủy,"60,000"

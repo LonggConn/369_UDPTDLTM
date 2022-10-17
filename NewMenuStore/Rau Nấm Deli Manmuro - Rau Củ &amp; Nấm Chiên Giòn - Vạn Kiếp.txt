@@ -1,0 +1,12 @@
+,Food,Price
+0,Nấm kim châm chiên giòn,"28,000"
+1,Nấm bào ngư chiên giòn,"28,000"
+2,Nấm đùi gà chiên xù,"28,000"
+3,Nấm Hải Sản Chiên Giòn ,"28,000"
+4,Sốt phô mai kem,"8,000"
+5,Nấm sò điệp chiên xù,"28,000"
+6,Vị Muối Hồng Kông ,"5,000"
+7,Vị Muối Gạo Lứt,"5,000"
+8,Trà Chanh Manmuro,"15,000"
+9,Trà Dâu Tươi Đặc Biệt size lớn,"25,000"
+10,Trà ổi hồng tươi size lớn,"25,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,bún thịt nướng +nem nướng+ chả giò,"37,000"
+1,bún thịt nướng,"29,000"
+2,bún thịt nướng + nem nướng,"37,000"
+3,bún thịt nướng + chả giò,"33,000"
+4,bún nem nướng,"29,000"
+5,bánh hỏi thịt nướng +nem nướng + chả giò,"37,000"
+6,bánh hỏi thịt nướng ,"29,000"
+7,bánh hỏi thịt nướng +nem nướng,"33,000"
+8,Bánh Hỏi Thịt Nướng + Chả Giò,"33,000"
+9,bánh hỏi chả giò ,"29,000"
+10,bánh hỏi nem nướng,"29,000"

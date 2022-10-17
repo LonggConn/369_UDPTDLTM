@@ -1,0 +1,9 @@
+,Food,Price
+0,Mì ý sốt kem nấm,"25,000"
+1,Mì ý sốt bò bằm,"35,000"
+2,Mì ý sốt cà chua,"19,000"
+3,Cánh gà + khoai,"53,000"
+4,Mì ý + Cánh gà giòn,"55,000"
+5,Combo viên chiên ăn vặt,"50,000"
+6,Cánh gà giòn truyền thống,"35,000"
+7,Khoai tây chiên,"20,000"

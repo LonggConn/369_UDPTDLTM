@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh mì trứng,"20,000"
+1,Nước ép dưa hấu,"22,000"
+2,Bánh mì nướng mật ong,"20,000"
+3,Salad hoa quả,"25,000"
+4,Nước ép cà rốt,"22,000"
+5,Bánh mì phủ phô mai,"30,000"
+6,Bánh mì bơ tỏi,"20,000"
+7,Nước ép dưa chuột,"22,000"
+8,Bánh mì kẹp Salami,"30,000"
+9,Sữa chua hoa quả,"25,000"
+10,Hoa quả theo mùa,"25,000"
+11,Nước ép ca chua,"22,000"

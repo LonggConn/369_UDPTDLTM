@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh Cuốn Chả Quế,"35,000"
+1,Bánh Cuốn Thịt Nướng,"40,000"
+2,Trứng Vịt Lộn,"9,000"
+3,Bánh Cuốn Trứng,"13,000"
+4,Gà ác  Tần Thuốc Bắc ,"75,000"
+5,Bún Chả,"40,000"
+6,Mì Gà Ác Tần ,"85,000"
+7,Coca-cola,"18,000"
+8,Trà Olong TEA+,"15,000"
+9,Cam Ép ,"18,000"
+10,Pepsi ,"15,000"

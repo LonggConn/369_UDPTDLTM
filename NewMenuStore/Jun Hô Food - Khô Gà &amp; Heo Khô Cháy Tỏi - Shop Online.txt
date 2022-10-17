@@ -1,0 +1,7 @@
+,Food,Price
+0,Heo Khô Cháy Tỏi Loại Ngon 200gr,"107,000"
+1,Heo Khô Cháy Tỏi Loại Ngon 500gr,"228,000"
+2,Khô Gà Lá Chanh Loại Ngon 200gr,"93,000"
+3,Khô Gà Lá Chanh Loại Ngon 500gr,"200,000"
+4,Rong Biển Cháy Tỏi Loại Ngon Lon 150gr,"85,000"
+5,Mực Hấp Nước Dừa Loại Ngon Lon 200gr,"157,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Da lợn lá dứa,"85,000"
+1,Cốm xào dừa,"90,000"
+2,Chín tầng mây,"85,000"
+3,Da lợn sầu riêng,"90,000"
+4,Tằm khoai mì,"85,000"
+5,Chuối hấp cốt dừa,"85,000"
+6,Tàu hũ tươi,"85,000"
+7,Cốt dừa,"13,000"

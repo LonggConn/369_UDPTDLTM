@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún mắm tô thường,"65,000"
+1,Bún mắm tô lớn,"75,000"
+2,Bún mắm tô có cá hú,"70,000"
+3,Bún mắm tô đặc biệt + đầu cá lóc,"85,000"
+4,Bún mắm tô đầu cá lóc,"75,000"
+5,Lẩu mắm nhỏ,"250,000"
+6,Lẩu mắm lớn,"350,000"
+7,Lẩu mắm đặc biệt,"450,000"
+8,Khoanh cá hú,"15,000"
+9,Rau ăn lẩu,"30,000"
+10,Đầu cá lóc,"30,000"
+11,Bún ăn lẩu,"20,000"

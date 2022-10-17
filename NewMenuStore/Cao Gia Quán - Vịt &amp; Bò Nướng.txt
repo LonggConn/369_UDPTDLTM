@@ -1,0 +1,5 @@
+,Food,Price
+0,Nem rán,"5,000"
+1,Bún chả,"35,000"
+2,Vịt rang muối,"90,000"
+3,Lẩu vịt om sấu,"120,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Nem Lụi,"6,000"
+1,Bánh Xèo,"11,000"
+2,Chân Gà Ngâm Sả Ớt,"60,000"
+3,Trà Quất,"10,000"
+4,Nước Me,"10,000"
+5,Trà Chanh,"10,000"
+6,Cocacola,"12,000"
+7,combo1: 2 bánh xèo + 10 nem lụi + miễn phí trà quất,"82,000"
+8,combo 3: 5 bánh xèo + 10 nem lụi + miễn phí trà quất,"115,000"
+9,combo 2 : 15 nem lụi + miễn phí trà quất,"90,000"
+10,combo 4: 10 nem lụi + 1 hộp chân gà + miễn phí trà quất,"120,000"

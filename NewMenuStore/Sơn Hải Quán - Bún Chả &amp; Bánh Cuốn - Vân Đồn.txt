@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún chả Hà Nội ,"48,000"
+1,Bánh cuốn lớn ,"40,000"
+2,Bánh cuốn nhỏ ,"35,000"
+3,Bánh cuốn trứng ,"55,000"

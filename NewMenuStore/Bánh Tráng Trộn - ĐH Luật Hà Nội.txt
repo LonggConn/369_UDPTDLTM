@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh Tráng Trộn Lớn,"15,000"
+1,Bánh Tráng Trộn,"12,000"

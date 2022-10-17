@@ -1,0 +1,5 @@
+,Food,Price
+0,Cá viên chiên,"10,000"
+1,Chân gà xả tắc 1kg ( rút xương + có xương),"69,000"
+2,Chân gà xả tắc rút xương,"75,000"
+3,Chân gà xả tắc có xương 1kg,"49,000"

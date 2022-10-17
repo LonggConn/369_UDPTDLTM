@@ -1,0 +1,9 @@
+,Food,Price
+0,Biscotti Mix 100g,"55,000"
+1,Biscotti Cacao 100g,"55,000"
+2,Biscotti Vani 250g,"125,000"
+3,Biscotti Matcha 100g,"55,000"
+4,Biscotti Mix 250g,"125,000"
+5,Biscotti Vani 100g,"55,000"
+6,Biscotti tự chọn 50g,"29,000"
+7,Biscotti Cacao 250g,"125,000"

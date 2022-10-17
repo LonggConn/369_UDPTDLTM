@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm đùi gà chiên nước mắm,"30,000"
+1,Cơm sườn non ram mặn,"25,000"
+2,Cơm sườn cốt lết ram,"25,000"
+3,Cơm thịt kho tàu,"25,000"
+4,Cơm thịt kho mắm ruốc,"30,000"
+5,Cơm ếch xào sả ớt,"25,000"
+6,Cơm gà kho sả,"25,000"
+7,Cơm cá kèo kho,"25,000"
+8,Cơm cá bống kho,"25,000"
+9,Cơm cá lóc kho,"25,000"

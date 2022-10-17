@@ -1,0 +1,12 @@
+,Food,Price
+0,Chè sầu ,"38,000"
+1,Chè thập cẩm,"28,000"
+2,Chè dừa dầm ,"28,000"
+3,Xuka caramen,"38,000"
+4,Chè bưởi,"28,000"
+5,Sương sa hạt lựu,"35,000"
+6,Tàu hũ trân châu đường đen,"28,000"
+7,Chè dừa non ,"28,000"
+8,Flan mix  thạch sương sa ,"37,000"
+9,Sữa chua mít ,"28,000"
+10,Tàu hũ  mix banh flan trân châu ,"30,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh xèo tôm +thịt,"9,000"
+1,Bánh xèo tôm,"8,100"
+2,Bánh khọt tôm( Phần 7Cái),"35,100"
+3,Bánh xèo thịt,"8,100"
+4,Bánh khọt thịt( Phần 7 Cái),"35,100"
+5,Bánh xèo đặc biệt,"13,500"
+6,COMBO 10 BÁNH XÈO TÔM +THỊT ( Tặng Thêm 1 Bánh),"90,000"
+7,Combo 10 BÁNH BÈO CHÉN,"45,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún thịt nướng ,"20,000"
+1,Nem thêm,"5,000"
+2,Bánh cuốn thịt nướng ,"20,000"
+3,Chả thêm,"5,000"
+4,Bún thịt đầu mắm nêm,"20,000"

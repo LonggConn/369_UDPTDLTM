@@ -1,0 +1,8 @@
+,Food,Price
+0,Mì xào bò ,"50,000"
+1,Nui thêm,"5,000"
+2,Mì thêm,"5,000"
+3,Mì xào bò trứng ,"55,000"
+4,Nui xào bò ,"50,000"
+5,Gỏi cuốn tôm thịt,"12,000"
+6,Trứng thêm,"5,000"

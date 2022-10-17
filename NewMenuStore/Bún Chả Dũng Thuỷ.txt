@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún Chả Quạt,"38,000"
+1,Chả Nem,"20,000"
+2,Suất thịt không bún,"30,000"
+3,Bún Chả Nem,"25,000"
+4,Bún ăn thêm,"5,000"

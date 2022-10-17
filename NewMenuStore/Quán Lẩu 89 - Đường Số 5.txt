@@ -1,0 +1,7 @@
+,Food,Price
+0,Vú dê nướng chao,"70,000"
+1,Vú Dê Nướng Muối Ớt,"70,000"
+2,Mực Nướng Muối Ớt,"75,000"
+3,chân Gà Nướng,"15,000"
+4,má Heo Nướng,"105,000"
+5,Lẩu Mực,"150,000"

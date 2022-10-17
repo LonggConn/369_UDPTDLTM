@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm gà xối mỡ (Đùi lớn) + 1 ly nước tự chọn,"65,000"
+1,Cơm Gà Xối Mỡ + Cơm thêm,"50,000"
+2,Cơm Gà Xối Mỡ (Đùi lớn),"50,000"
+3,Cơm Đùi Gà Xối Mỡ,"45,000"
+4,Cơm thêm,"5,000"
+5,Cơm Gà Xối Mỡ (Má Đùi lớn),"50,000"
+6,Cơm Má Đùi Gà Xối Mỡ,"45,000"
+7,Trà Đào,"15,000"
+8,Trà chanh,"15,000"
+9,Trà Vải,"15,000"
+10,Trà bí đao,"15,000"
+11, Trà Tùy Chọn,"15,000"

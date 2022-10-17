@@ -1,0 +1,6 @@
+,Food,Price
+0,Redvelvet,"38,000"
+1,Trà Thái xanh,"15,000"
+2,Trà Thái đỏ,"13,000"
+3,Cheese oreo,"25,000"
+4,Mousse chanh leo,"25,000"

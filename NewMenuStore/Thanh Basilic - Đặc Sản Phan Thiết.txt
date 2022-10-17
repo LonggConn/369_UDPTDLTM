@@ -1,0 +1,12 @@
+,Food,Price
+0,Gỏi Cá Trích,"110,000"
+1,Gỏi Cá Mai ,"110,000"
+2,Lẩu Cá Đuối măng chua,"260,000"
+3,Lẩu Cá Lăng măng chua,"270,000"
+4,Lẩu Đầu Cá Hồi măng chua,"260,000"
+5,Sụn Gà chiên nước mắm,"98,000"
+6,Cá Đuối Xối Mỡ ,"125,000"
+7,Tai Heo Luộc chấm mắm nêm ,"94,000"
+8,Sụn Gà chiên giòn ,"95,000"
+9,COMBO Đặc Sản Phan Thiết 2 ,"420,000"
+10,COMBO Đặc Sản Phan Thiết 3 ,"410,000"

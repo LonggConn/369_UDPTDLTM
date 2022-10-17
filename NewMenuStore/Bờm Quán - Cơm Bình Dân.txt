@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Gà Rang Sả,"25,000"
+1,Cơm Thịt Kho Tàu,"25,000"
+2,Cơm Tôm Rim Lá Chanh,"25,000"
+3,Cơm Đậu Phụ Nhồi Thịt,"25,000"
+4,Cơm Cá Biển Sốt Cà Chua,"25,000"
+5,Cơm Thịt Luộc,"25,000"
+6,Cơm Cá Tươi Kho,"25,000"
+7,Cơm Mướt Đắng Nhồi Thịt,"25,000"

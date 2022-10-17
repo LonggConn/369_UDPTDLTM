@@ -1,0 +1,11 @@
+,Food,Price
+0,Chè Thái Sầu Riêng,"35,000"
+1,Chè Đác Sầu Riêng,"35,000"
+2,Sữa Chua Đác,"35,000"
+3,Chè Đác Ko Sầu,"30,000"
+4,chè dừa nước sầu riêng,"35,000"
+5,Chè Thái ko sầu riêng,"30,000"
+6,chè thốt nốt sầu riêng,"35,000"
+7,Tàu hũ củ năng sầu riêng,"25,000"
+8,Trà sữa nhiệt Đới,"25,000"
+9,Chè khúc bạch,"35,000"

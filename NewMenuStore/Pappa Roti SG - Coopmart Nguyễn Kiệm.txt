@@ -1,0 +1,8 @@
+,Food,Price
+0,Papparoti Topping chocolate,"30,000"
+1,Papparoti Topping caramel,"30,000"
+2,Trứng cuộn xúc xích,"22,000"
+3,xúc xích Đức,"15,000"
+4,Papparoti Topping dâu,"30,000"
+5,xúc xích phô mai,"15,000"
+6,Bánh Papa Roti,"25,000"

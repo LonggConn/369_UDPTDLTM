@@ -1,0 +1,6 @@
+,Food,Price
+0,Soup hải sản,"35,000"
+1,Soup gà,"30,000"
+2,Soup cua,"30,000"
+3,Nước Chanh Leo Thần Thánh,"20,000"
+4,Cafe bọt,"18,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Mì trộn indomie thập cẩm,"35,000"
+1,Mì trộn indomie thập cẩm  (2 vắt),"42,000"
+2,Mì trộn indomie bò khô,"30,000"
+3,Mì trộn indomie há cảo,"30,000"
+4,Mì trộn indomie trứng,"30,000"
+5,Mì trộn indomie xúc xích,"30,000"
+6,Mì trộn indomie cá viên,"30,000"
+7,coca,"11,000"
+8,sprite,"11,000"

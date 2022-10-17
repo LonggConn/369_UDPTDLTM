@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh chuối nướng cốt dừa sữa,"145,000"
+1,Bánh gan ổ 16cm,"120,000"
+2,Cupcake sốt pho mai + sốt dầu trứng,"100,000"
+3,Bánh bông lan phô mai trứng muối sốt dầu trứng,"300,000"
+4,Bánh bông lan phô mai trứng muối 16 trứng (26cm),"240,000"
+5,Bánh bông lan phô mai trứng muối chà bông hình tim (16cm),"175,000"
+6,Bánh khoai mì ,"145,000"
+7,Bánh da lợn (10 cái),"120,000"
+8,Bánh ốc pate,"100,000"
+9,Bánh gan ổ 26cm,"185,000"
+10,Bánh bông lan phô mai trứng muối chà bông lạp xưởng (26cm),"300,000"

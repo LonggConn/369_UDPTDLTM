@@ -1,0 +1,10 @@
+,Food,Price
+0,Gà ủ muối 1/2 con chặt sẵn ,"105,000"
+1,Chân gà ủ muối rút xương 500gr,"115,000"
+2,Nước chấm thần thánh ,"4,000"
+3,Gà ủ muối nguyên con 1kg-1.2kg,"179,000"
+4,Gà ủ muối 1/2con ,"105,000"
+5,Gà ủ muối nguyên con chặt sẵn ,"179,000"
+6,Gà ủ muối nguyên con ôm trứng chặt sẵn ,"189,000"
+7,Gà ủ muối nguyên con [đặc biệt],"265,000"
+8,combo 1/2 gà ủ muối +0.5 kg chân gà ủ muối rút xương ,"185,000"

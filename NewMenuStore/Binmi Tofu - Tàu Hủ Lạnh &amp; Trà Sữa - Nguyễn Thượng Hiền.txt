@@ -1,0 +1,12 @@
+,Food,Price
+0,Tàu hủ Singapore Trân Châu ,"20,000"
+1,Set 5 tàu hủ lạnh ,"70,000"
+2,Tàu hủ Singapore,"16,000"
+3,Panna cotta chanh dây,"14,000"
+4,Set 5 tàu hủ trân châu ,"100,000"
+5,Bánh flan,"12,000"
+6,Set 5 pana cotta chanh dây  ,"70,000"
+7,Set 5 flan ,"60,000"
+8,Sữa đậu nành gia truyền,"20,000"
+9,Trân châu ,"5,000"
+10,Trân châu caramel,"5,000"

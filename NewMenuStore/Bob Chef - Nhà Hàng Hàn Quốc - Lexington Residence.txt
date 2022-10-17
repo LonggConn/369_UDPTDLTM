@@ -1,0 +1,9 @@
+,Food,Price
+0,Combo,"550,000"
+1,Thịt ba chỉ nướng,"400,000"
+2,Thịt cổ nướng,"400,000"
+3,Thịt miếng nấu súp kim chi,"380,000"
+4,Thịt heo xào,"380,000"
+5,Heineken,"45,000"
+6,Tiger,"45,000"
+7,Coca,"35,000"

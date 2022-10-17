@@ -1,0 +1,12 @@
+,Food,Price
+0,Crepes Tiramisu,"65,000"
+1,Crepes Oreo,"65,000"
+2,Crepes Đào,"65,000"
+3,Yaua,"20,000"
+4,Sữa Bắp,"50,000"
+5,Trà Sữa Đào,"39,000"
+6,Bạc Xỉu,"39,000"
+7,Trà Sữa Olong,"39,000"
+8,Cafe Sữa,"39,000"
+9,Trà sữa The Shim,"39,000"
+10,Cafe Đen,"39,000"

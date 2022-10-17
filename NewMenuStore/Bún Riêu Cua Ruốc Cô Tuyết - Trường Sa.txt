@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún riêu cua ruốc,"50,000"
+1,Bánh đa cua riêu ruốc,"55,000"
+2,Chả lá lốt thêm ,"35,000"
+3,Bún nem tôm thịt,"65,000"
+4,Ốc Bưu Nhồi Hấp ,"65,000"
+5,Chả cá thác lác ,"35,000"
+6,Trà Tắc Nhỏ,"15,000"
+7,Trà Tắc Lớn Ly 1 Lít,"25,000"
+8,Trà Chanh Lớn Ly 1 Lít,"25,000"
+9,Nước Ngọt Coca ,"15,000"
+10,Trà Chanh Nhỏ ,"15,000"
+11,Nước Ngọt Spite,"15,000"

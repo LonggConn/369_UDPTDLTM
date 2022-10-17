@@ -1,0 +1,5 @@
+,Food,Price
+0,Gỏi cá trích nhỏ,"149,000"
+1,Chả giò hải sản 2 Bình,"95,000"
+2,Gỏi cá trích lớn,"99,000"
+3,Lẩu nấm cua đồng hải sản,"239,000"

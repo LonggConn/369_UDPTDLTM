@@ -1,0 +1,12 @@
+,Food,Price
+0,Hủ Tiếu Khô Nam Vang,"65,000"
+1,Hủ Tiếu Nam vang,"65,000"
+2,Hủ Tiếu Đặc Biệt,"90,000"
+3,Hủ Tiếu Mì Khô Nam Vang,"65,000"
+4,Mì  Khô Nam Vang,"65,000"
+5,Mì Nam Vang,"65,000"
+6,Hủ tiếu tôm,"85,000"
+7,Hủ Tiếu Mì Nam Vang,"65,000"
+8,Bánh thêm khô ,"15,000"
+9,Tô súp thập cẩm,"50,000"
+10,Bánh thêm nước,"15,000"

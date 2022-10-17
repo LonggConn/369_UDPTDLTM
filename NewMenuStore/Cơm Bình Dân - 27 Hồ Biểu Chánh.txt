@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà chiên nước mắm,"25,000"
+1,Cơm ba rọi chiên,"25,000"
+2,Cơm cá chiên,"28,000"
+3,Cơm cá kho,"25,000"
+4,Cơm heo quay kho,"25,000"
+5,Cơm gà ram,"25,000"

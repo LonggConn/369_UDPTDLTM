@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún nước lèo tôm heo quay,"50,000"
+1,Bún nước lèo Bạc Liêu thập cẩm,"60,000"
+2,Bún nước lèo bạc liêu cá với tôm,"50,000"
+3,Bún nước lèo đặc biệt,"80,000"
+4,Đầu cá thêm,"40,000"
+5,Trà tắc xí muội,"20,000"
+6,Trà tắc,"15,000"
+7,Sting,"18,000"
+8,Coca-cola,"15,000"
+9,Pepsi,"15,000"
+10,7up,"15,000"

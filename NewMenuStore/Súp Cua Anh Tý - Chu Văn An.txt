@@ -1,0 +1,13 @@
+,Food,Price
+0,SÚP CUA,"29,000"
+1,SÚP BÁCH THẢO,"35,000"
+2,SÚP CUA ÓC HEO 1/2 bộ  ,"50,000"
+3,SÚP ÓC HEO 1/4,"40,000"
+4,SÚP CUA 1/4ÓC HEO BÁCH THẢO,"45,000"
+5,SÚP TÔM,"40,000"
+6,SÚP CỒI SÒ ĐIỆP,"40,000"
+7,SÚP BÒ VIÊN,"40,000"
+8,SÚP THANH CUA,"40,000"
+9,Bách thảo 1/2 tr,"8,000"
+10,2 Trứng cút,"5,000"
+11,Óc heo 1/2 bộ,"25,000"

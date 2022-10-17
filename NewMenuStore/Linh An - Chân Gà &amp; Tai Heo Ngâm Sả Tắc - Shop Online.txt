@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân gà ngâm sả tắc,"79,000"
+1,Chân gà rút xương ngâm sả tắc (hủ nhỏ 250gr),"135,000"
+2,Chân gà rút xương ngâm sả tắc (hủ lớn 500gr),"259,000"

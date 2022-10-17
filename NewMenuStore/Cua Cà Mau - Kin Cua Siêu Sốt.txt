@@ -1,0 +1,6 @@
+,Food,Price
+0,Cháy bơ tỏi,"230,000"
+1,Rang me,"230,000"
+2,Sốt trứng muối,"300,000"
+3,Sốt tiêu cay,"230,000"
+4,Sốt Cay,"230,000"

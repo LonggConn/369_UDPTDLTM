@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm cháy nếp chà bông không cay nửa kí,"145,000"
+1,Cơm cháy nếp chà bông cay vừa nửa kí,"145,000"
+2,Chân Gà Rút Xương Ủ Muối 20 chân,"95,000"
+3,Cơm cháy gạo lứt cay vừa nửa kí,"145,000"
+4,Gà Ủ Muối ,"185,000"
+5,Cơm cháy gạo lứt không cay nửa kí,"145,000"

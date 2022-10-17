@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm Rang Dưa Bò,"55,000"
+1,Cơm Rang Trứng Thịt,"45,000"
+2,Cơm Rang Sườn Ngũ Vị,"55,000"
+3,Cơm Rang Gà Xối Mắm,"55,000"
+4,Cơm Rang Tôm Sốt,"55,000"

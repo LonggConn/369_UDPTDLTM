@@ -1,0 +1,9 @@
+,Food,Price
+0,Vịt quay sốt tiêu đen ,"400,000"
+1,Vịt quay sốt tiêu đen 1/2 con,"200,000"
+2,Vịt quay sốt tiêu đen da giòn,"450,000"
+3,Vịt quay sốt tiêu đen da giòn - 1/2 con,"225,000"
+4,Thịt quay Macao,"38,000"
+5,Xá xíu nướng mật ong,"35,000"
+6,Gà hấp xì dầu,"340,000"
+7,Bánh bao hấp không nhân (bịch),"20,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh su hộp 8 cái,"30,000"
+1,Bánh bông lan trứng muối hộp nhựa,"70,000"
+2,Bánh su hộp 6 cái,"20,000"
+3,Bánh sinh nhật bông lan trứng muối size 16 cm,"180,000"
+4,Bánh sinh nhật Mini ,"90,000"
+5,Bánh sinh nhật size Nhỏ 12cm,"130,000"
+6,Bánh sinh nhật bông lan trứng muối size 18 cm,"220,000"
+7,Bánh sinh nhật bông lan trứng muối size 20 cm,"250,000"
+8,Nến sinh nhật,"10,000"
+9,Mũ sinh nhật,"10,000"

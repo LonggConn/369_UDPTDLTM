@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Mì Tròn Thịt Quay Hương Vị Thỗ Nhỉ Kì,"20,000"
+1,Bánh Mỳ Chả Nướng,"15,000"
+2,Bánh Mỳ Thập Cẩm,"20,000"
+3,Bánh Mỳ Xúc Xích Nhỏ Bò Khô ,"15,000"
+4,Bánh Mỳ Trứng Bò Khô,"20,000"
+5,Bánh Mỳ Trứng,"15,000"
+6,Bánh Mỳ Xúc Xích To Ruốc Bông,"15,000"
+7,Bánh Mỳ Bơ Sữa,"15,000"
+8,Bánh Mỳ Dài Thịt Quay Hương Vị Thỗ Nhỉ Kì,"20,000"
+9,Bánh Mì Muối Ớt,"19,000"
+10,Bánh Mì Xúc Xích Rán,"15,000"
+11,Bánh Mì Xúc Xích Rán Bò Khô,"20,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Mì riêu cua ốc,"32,000"
+1,Bún riêu cua ốc,"32,000"

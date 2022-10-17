@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Cháy Siêu Sốt Siêu Ruốc - 200gr,"40,000"
+1,Khô Gà Lá Chanh - 200g,"60,000"
+2,Khô Heo Sấy Tỏi - 500g,"200,000"
+3,Khô Gà Lá Chanh - 500g,"150,000"
+4,Cơm Cháy Sài Gòn - 250gr,"45,000"
+5,Khô Heo Sấy Tỏi - 1 Kg,"38,000"
+6,Cơm Cháy Chà Bông Chay - 200gr,"35,000"
+7,Khô Heo Sấy Tỏi - 200g,"80,000"
+8,Khô Gà Lá Chanh - 1kg,"280,000"

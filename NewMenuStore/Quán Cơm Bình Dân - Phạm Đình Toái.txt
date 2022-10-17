@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm sườn ram,"30,000"
+1,Cơm canh chua cá lóc,"30,000"
+2,Cơm thịt kho hột vịt,"27,000"
+3,Cơm đùi gà kho tiêu,"30,000"
+4,Cơm đùi gà sốt cà,"24,000"
+5,Cơm tôm ram,"24,000"
+6,Cơm cá kho,"27,000"
+7,Cơm ức gà kho tiêu,"24,000"
+8,Cơm cá chiên,"30,000"
+9,Cơm ức gà sốt cà,"24,000"

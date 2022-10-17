@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún Chả Viên Nướng - Suất Thường,"37,000"
+1,Bún Chả Lẫn- Suất Lớn,"42,000"
+2,Bún Chả Lẫn - Suất Thường,"37,000"
+3,Thêm Chả Viên Nướng,"4,000"
+4,Thêm Thịt Nướng,"5,000"
+5,Bún Chả Viên Nướng - Suất Lớn,"42,000"
+6,Thêm Bún,"5,000"
+7,Red bull,"17,000"
+8,Coca cola,"15,000"
+9,Bia Hà Nội,"17,000"

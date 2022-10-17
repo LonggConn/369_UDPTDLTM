@@ -1,0 +1,10 @@
+,Food,Price
+0,Sữa tươi trân châu đường đen kem dừa nướng,"40,000"
+1,Sữa tươi trân châu đường đen kem chess Phomai,"35,000"
+2,Sữa tươi trân châu đường đen,"30,000"
+3,Mattcha Latte,"35,000"
+4,"Sữa tươi hoa đậu biếc kem Chess : 40,000","40,000"
+5,Sữa tươi trân châu đường đen kem trứng,"35,000"
+6,Trà sữa trân châu đường đen,"30,000"
+7,Trà sữa trân châu đường đen kem dừa nướng,"40,000"
+8,Trà sữa trân châu đường đen kem trứng,"35,000"

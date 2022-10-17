@@ -1,0 +1,13 @@
+,Food,Price
+0,Nước ép thơm,"34,300"
+1,Nước ép ổi,"27,300"
+2,Nước ép dưa hấu,"21,000"
+3,Nước ép táo,"41,300"
+4,Nước Ép Cam,"34,300"
+5,Nước ép cà rốt,"34,300"
+6,Nước ép táo + thơm + cà rốt,"34,300"
+7,Nước Ép Táo + Thơm + Dưa Hấu,"34,300"
+8,Nước Ép Cam + Táo + Cà Rốt,"34,300"
+9,Nước ép Cam + Cà Rốt,"34,300"
+10,Cà phê sữa đá Ông Bi,"15,400"
+11,Cà phê đen đá Ông Bi,"14,000"

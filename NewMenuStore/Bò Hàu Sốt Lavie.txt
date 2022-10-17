@@ -1,0 +1,12 @@
+,Food,Price
+0,Bò Hàu Sốt Cay,"186,000"
+1,Lẩu Bò Mỹ Kim Chi,"164,000"
+2,Lẩu Hàn Quốc,"175,000"
+3,Bún chả cá mực,"55,000"
+4,Tô Đặt Biệt ,"72,000"
+5,Khai Vị Chả Cá Đại Lãnh,"55,000"
+6,Bún chả cá cá ngừ,"50,000"
+7,Bún chả cá giò heo,"50,000"
+8,Lẩu Mực Khổng Lồ,"318,000"
+9,Bò xèo mực sốt cay,"208,000"
+10,Bún chả cá Đại Lãnh,"44,000"

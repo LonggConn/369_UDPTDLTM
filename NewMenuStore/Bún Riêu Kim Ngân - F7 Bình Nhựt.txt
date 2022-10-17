@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún riêu chả thịt huyết tàu hủ ,"26,000"
+1,Mì Riêu thịt chả huyết tàu hủ ,"25,000"
+2,Hủ tíu khô thịt,"26,000"
+3,Bún  cá,"26,000"
+4,Cà phê sữa,"17,000"
+5,Cà phê sạch,"15,000"
+6,cacao sữa,"20,000"
+7,Yaourt đá,"20,000"

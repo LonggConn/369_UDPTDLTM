@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm sườn bì chả ,"45,000"
+1,Bún thịt nướng ,"35,000"
+2,Cơm sườn bì chả trứng opla ,"50,000"
+3,Hủ tiếu thập cẩm,"35,000"
+4,Cơm sườn  ,"40,000"

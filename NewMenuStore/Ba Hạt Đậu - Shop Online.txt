@@ -1,0 +1,10 @@
+,Food,Price
+0,Bông lan trứng muối,"55,000"
+1,Brownie,"50,000"
+2,Tiramisu,"80,000"
+3,Red Vevet Cuộn,"50,000"
+4,Su kem,"55,000"
+5,Donut Kem Trứng,"50,000"
+6,Mousse Bắp,"80,000"
+7,Chocomint Cuộn,"50,000"
+8,Bông Lan Đặc Biệt,"65,000"

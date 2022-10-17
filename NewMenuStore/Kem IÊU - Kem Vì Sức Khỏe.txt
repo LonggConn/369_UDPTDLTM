@@ -1,0 +1,11 @@
+,Food,Price
+0,Kem Hoa đậu biếc,"18,000"
+1,Kem Dâu mộng mơ,"18,000"
+2,Kem Chocolate ngọt ngào,"18,000"
+3,Kem vani 1 viên,"18,000"
+4,Kem Trà xanh,"18,000"
+5,Kem Sầu Riêng,"21,000"
+6,Kem Bạc Hà,"18,000"
+7,Kem Hộp Tự Chọn,"69,000"
+8,Cafe sữa đá,"18,000"
+9,Cafe đá,"16,000"

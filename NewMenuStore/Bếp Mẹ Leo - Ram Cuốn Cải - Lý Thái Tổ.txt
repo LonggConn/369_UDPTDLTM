@@ -1,0 +1,4 @@
+,Food,Price
+0,Ram cuốn cải,"50,000"
+1,Bột chiên sài gòn( 2 trứng),"35,000"
+2,Bột chiên sài gòn 1 trứng,"30,000"

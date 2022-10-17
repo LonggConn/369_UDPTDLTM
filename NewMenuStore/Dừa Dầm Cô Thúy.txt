@@ -1,0 +1,3 @@
+,Food,Price
+0,Dừa Dầm Hải Phòng,"26,000"
+1,Cà Phê Cốt Dừa,"26,000"

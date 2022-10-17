@@ -1,0 +1,10 @@
+,Food,Price
+0,Hủ tiếu khô thập cẩm,"45,000"
+1,Hủ tiếu khô thịt,"36,000"
+2,Bánh canh thịt,"36,000"
+3,Hủ tiếu khô xương,"42,000"
+4,Bánh canh giò heo,"45,000"
+5,Hủ Tiếu Bò Viên,"45,000"
+6,Hủ tiếu thập cẩm,"45,000"
+7,Hủ tiếu thịt,"36,000"
+8,Hủ tiếu xương,"42,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Bông lan flan 18cm,"120,000"
+1,Bánh mì mè đen Hàn Quốc,"37,000"
+2,Bánh bò thốt nốt ,"35,000"
+3,Bông lan trứng muối,"35,000"
+4,Bông lan cuộn Đài Loan,"38,000"
+5,Tiramisu mascarpone,"70,000"
+6,Cookie hạnh nhân 200g,"110,000"
+7,Thuyền hạnh nhân 100g,"60,000"
+8,Rau câu cheese cafe 500g,"52,000"
+9,Rau câu dừa 500h,"45,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Đùi gà xối mỡ + coca,"65,000"
+1,Má đùi xối mỡ + coca,"45,000"
+2,Cơm chiên Hải sản  ,"65,000"
+3,Mì cay  Hải sản + Coca. ,"65,000"
+4,Đùi gà luộc + coca,"65,000"
+5,Cánh gà xối mỡ + coca,"60,000"
+6,Má đùi luộc + coca,"45,000"
+7,Mì xào Hải sản ,"65,000"
+8,Mì cay bò xúc xích +  coca,"65,000"
+9,Cánh gà luộc + coca,"60,000"

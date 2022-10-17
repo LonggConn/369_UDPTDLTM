@@ -1,0 +1,10 @@
+,Food,Price
+0,Giải nhiệt,"13,500"
+1,Bún sứa,"45,000"
+2,Bún cá càng ghẹ,"54,000"
+3,Bún cá,"36,000"
+4,Bún cá tôm tít,"54,000"
+5,Chả cá  Nha Trang,"108,000"
+6,Nem chua cục,"5,400"
+7,Nem chua nguyên hộp 20 cục,"99,000"
+8,Nem chua nguyên cây,"126,000"

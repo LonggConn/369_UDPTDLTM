@@ -1,0 +1,2 @@
+,Food,Price
+0,Nước Khoáng,"7,000"

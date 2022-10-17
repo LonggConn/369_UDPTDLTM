@@ -1,0 +1,9 @@
+,Food,Price
+0,Mì quảng Tô lớn,"45,000"
+1,Mì quảng Tô nhỏ,"38,000"
+2,Rau má đậu xanh,"15,000"
+3,Bánh đa thêm,"5,000"
+4,Set 5 tô Mì Quảng lớn,"200,000"
+5,Set  5 tô Mì Quảng nhỏ,"175,000"
+6,Bún bò,"38,000"
+7,Bún bò giò,"50,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Đậu trắng,"4,500"
+1,Đậu chiên ,"4,500"
+2,Đậu bi chiên,"6,500"
+3,Sữa đậu nành nóng,"8,000"

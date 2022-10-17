@@ -1,0 +1,10 @@
+,Food,Price
+0,Heo giả cầy,"100,000"
+1,Lòng xào nghệ,"60,000"
+2,Má Đầu Nướng,"120,000"
+3,Bao tử - lòng trộn ,"80,000"
+4,Gà roti ,"120,000"
+5,Giò Heo Chiên Giòn,"100,000"
+6,Ếch xào xả ớt ,"100,000"
+7,Gà nấu lá giang ,"120,000"
+8,Cá dìa nấu khế + rau răm,"80,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,TRÀ BÍ ĐAO HẠT CHIA TRÂN CHÂU ( FULLTOPPING ),"25,000"
+1,Trà Dưa Lưới Fulltopping Trân Châu,"25,000"
+2,TRÀ BÍ ĐAO HẠT CHIA SƯƠNG SÁO,"20,000"
+3,Trà Dưa Lưới Hạt Chia Sương Sáo,"20,000"
+4,Combo siêu to,"125,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Gỏi tai heo,"30,000"
+1,Nem thính,"40,000"
+2,Bò kho,"45,000"
+3,Gỏi thêm,"15,000"
+4,Kim chi cải thảo,"30,000"
+5,Nem thính thêm,"20,000"

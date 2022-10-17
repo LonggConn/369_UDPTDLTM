@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh crepe sầu riêng (5 cái),"70,000"
+1,Bánh crepe sầu riêng (10 cái),"130,000"
+2,LAVA PHÔ MAI DẺO,"170,000"
+3,BÁNH PHÚ SỸ KEM BẮP,"160,000"
+4,Chân gà sả tắc,"130,000"

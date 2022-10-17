@@ -1,0 +1,13 @@
+,Food,Price
+0,Hồng trà tắc mật ong,"15,000"
+1,Rau má dừa,"12,000"
+2,Cà phê sữa đá siZe chà bá,"25,000"
+3,Cacao dầm mix trân châu,"22,000"
+4,Hồng trà vải,"20,000"
+5,Cà phê sữa đá ( ly trung ),"20,000"
+6,Hồng trà đào,"20,000"
+7,Cà phê đá,"14,000"
+8,Hồng trà tắc việt quất,"18,000"
+9,Hồng trà dâu,"20,000"
+10,Hồng trà táo,"18,000"
+11,Hồng trà dứa ( khóm ),"20,000"

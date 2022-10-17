@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Mì Thập Cẩm,"15,000"
+1,Bánh Mì Thịt,"15,000"
+2,Bánh Mì Trứng,"15,000"
+3,Bánh Mì Bò Khô,"15,000"
+4,Bánh Mì Sữa,"15,000"
+5,Bánh Mì Xúc Xích,"15,000"
+6,Bánh Mì Cá,"15,000"
+7,Bánh Mì Ruốc Bông,"15,000"

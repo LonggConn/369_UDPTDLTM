@@ -1,0 +1,11 @@
+,Food,Price
+0,Hủ tiếu mực tôm,"45,000"
+1,Hủ tiếu mực,"40,000"
+2,Chén mực thêm,"20,000"
+3,Dụng Cụ Ăn Uống,"2,000"
+4,Chén trứng thêm,"10,000"
+5,Hủ tiếu thêm,"5,000"
+6,Sữa bắp,"15,000"
+7,Sữa Gạo Lứt,"15,000"
+8,Rau Thêm,"5,000"
+9,Trà Xanh MatTra,"15,000"

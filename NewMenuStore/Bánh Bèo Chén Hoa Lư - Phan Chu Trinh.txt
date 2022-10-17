@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh bèo chén Hoa Lư (1 phần/5 chén),"20,000"
+1,Bánh bèo chén ,"20,000"
+2,Bánh Bèo Chén hộp to 20 chén ,"80,000"
+3,Bánh bèo chén không nhân ăn chay(6chén)y,"20,000"
+4,Bánh bèo chén,"100,000"

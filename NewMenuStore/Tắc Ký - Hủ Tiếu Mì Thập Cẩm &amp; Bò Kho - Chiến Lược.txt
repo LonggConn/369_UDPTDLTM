@@ -1,0 +1,7 @@
+,Food,Price
+0,Sủi cảo,"40,000"
+1,Hủ tiếu Bò Kho,"36,000"
+2,Hủ tiếu mì xương,"36,000"
+3,Hủ tiếu mì,"36,000"
+4,Mì Trộn Xá Xíu,"32,000"
+5,Hoành thánh,"36,000"

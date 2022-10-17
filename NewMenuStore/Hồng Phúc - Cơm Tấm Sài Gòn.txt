@@ -1,0 +1,9 @@
+,Food,Price
+0,ComBo Cơm Sườn Chả + Cơm Gà Chiên,"60,000"
+1,ComBo Cơm Gà Chiên + Cơm Sườn Ốp la,"60,000"
+2,Cơm sườn ốp la,"30,000"
+3,Cơm sinh viên,"22,000"
+4,Cơm sườn chả,"30,000"
+5,Cơm sườn,"25,000"
+6,Cơm gà chiên,"30,000"
+7,Cơm cá chả,"20,000"
