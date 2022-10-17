@@ -1,0 +1,5 @@
+,Food,Price
+0,Vịt quay,"280,000"
+1,Bánh mì heo quay,"15,000"
+2,Heo quay,"280,000"
+3,Bánh mì không,"10,000"

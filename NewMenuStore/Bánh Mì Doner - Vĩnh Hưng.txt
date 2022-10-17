@@ -1,0 +1,2 @@
+,Food,Price
+0,Doner Kebab,"20,000"

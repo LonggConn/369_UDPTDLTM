@@ -1,0 +1,4 @@
+,Food,Price
+0,Bún Bò Huế (Suất Nhỏ),"30,000"
+1,Bún Bò Huế (Suất Vừa),"40,000"
+2,Bún Bò Huế (Suất Lớn),"50,000"

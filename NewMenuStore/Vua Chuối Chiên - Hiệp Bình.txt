@@ -1,0 +1,3 @@
+,Food,Price
+0,Combo 5 trái,"60,000"
+1,Chuối chiên giòn,"14,000"

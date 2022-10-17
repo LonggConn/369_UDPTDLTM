@@ -1,0 +1,10 @@
+,Food,Price
+0,Nước mía trân châu,"26,000"
+1,Nước mía truyền thống,"15,000"
+2,Nước mía cốt dừa,"26,000"
+3,Nước mía nguyên chất (chai 1 lít),"35,000"
+4,Đá me,"20,000"
+5,Hồng trà trân châu đen,"20,000"
+6,Hồng trà tắc,"15,000"
+7,Bánh tráng cuốn bơ béo,"17,000"
+8,Bánh tráng phô mai chà bông,"18,000"

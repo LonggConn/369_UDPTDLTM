@@ -1,0 +1,5 @@
+,Food,Price
+0,Sữa chua tổ yến,"35,000"
+1,Combo 5 hủ sữa chua tổ yến 100ml,"172,000"
+2,Combo 10 hủ sữa chua tổ yến 100ml,"340,000"
+3,Combo 10 Hũ Sữa Chua Tổ Yến + Tặng 1 Hũ SC Ít Đườn,"350,000"

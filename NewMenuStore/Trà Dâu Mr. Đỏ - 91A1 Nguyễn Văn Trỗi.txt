@@ -1,0 +1,9 @@
+,Food,Price
+0,Trà dâu tây,"30,000"
+1,Trà dâu tằm,"30,000"
+2,Sữa chua dâu tây,"35,000"
+3,Sữa chua dâu tằm,"35,000"
+4,Trà đác thơm,"30,000"
+5,Trà ổi hồng,"30,000"
+6,Trà vải,"30,000"
+7,Dâu lắc Đà Lạt,"40,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà Sữa Trân Châu Đường Đen Size M,"39,000"
+1,Sữa Tươi Trân Châu Đường Đen Size M,"40,000"
+2,Sữa Tươi Trân Châu Đường Đen Size L,"50,000"
+3,Trà Sữa Trân Châu Trắng Size M,"45,000"
+4,Tiramisu Trân Châu Đường Đen Size M,"45,000"
+5,Trà Sữa Trân Châu Đường Đen Size L,"55,000"
+6,Trà Sữa Trân Châu Caramen Size M,"45,000"
+7,Sữa Tươi Trân Châu Trắng Size M,"40,000"
+8,Trà Sữa Trân Châu Trắng Size L,"60,000"
+9,Tiramisu Trân Châu Đường Đen Size L,"60,000"
+10,Trà Sữa Trân Châu Caramen Size L,"60,000"

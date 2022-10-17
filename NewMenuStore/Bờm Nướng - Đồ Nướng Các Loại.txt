@@ -1,0 +1,6 @@
+,Food,Price
+0,Ngô Chiên Bơ,"30,000"
+1,Dưa Chuột Chẻ,"10,000"
+2,Khoai Tây Chiên,"30,000"
+3,Bánh Nếp Cốt Dừa,"30,000"
+4,Mì Xào Bò,"30,000"

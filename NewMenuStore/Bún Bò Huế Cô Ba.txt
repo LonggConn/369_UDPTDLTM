@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún bò thập cẩm,"49,000"
+1,Bún bò thường,"40,000"
+2,Bún bò đặc biệt,"65,000"
+3,Trứng vịt lộn,"9,000"
+4,Bún  Bò tái,"40,000"
+5,Mỳ  Bò Thập Cẩm,"35,000"
+6,Tiết luộc,"23,000"
+7,Bún vịt,"49,000"
+8,Bún bò chín,"40,000"
+9,Nem nướng,"50,000"
+10,Bún Bò  Thập Cẩm + Coca,"62,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Mỳ Hữu Cơ,"100,000"
+1,Sữa Hạt Đậu Đen,"38,000"
+2,Sữa Hạt Óc Chó,"55,000"
+3,Sữa Hạt Cherry,"55,000"
+4,Sữa Hạt Đậu Gà,"55,000"
+5,Sữa Hạt Gạo Lứt,"50,000"
+6,Sữa Hạt Hạnh Nhân,"55,000"
+7,Sữa Hạt Khoai Lang,"50,000"

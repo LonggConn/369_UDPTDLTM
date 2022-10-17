@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún bò tái+ Chả 🤩👍,"50,000"
+1,Bún bò gân 🤩👌,"45,000"
+2,Bún bò Chå + Giò  🤩👈,"50,000"
+3,Bún bò đặc biệt ❤💯,"55,000"
+4,Bún bò Chå 🤩👌,"45,000"
+5,Bánh Tráng Cuốn 🤩🤙,"25,000"
+6,Bánh Tráng Trộn Bịt Lớn  🤩💯,"25,000"
+7,Bánh Tráng Muối Tói 🤩👈,"25,000"
+8,Bánh Tráng Trộn Bịt Vừa 🤩👈,"20,000"
+9,Bánh Tráng Mở Hành ❤👈,"25,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà sữa kéo Malaysia,"39,000"
+1,Mì xào kiểu Mã Lai,"112,000"
+2,Cà ri gà kiểu Mã Lai - Bánh rô ti,"160,000"
+3,Phở xào hải sản trứng,"112,000"
+4,Cà ri gà kiểu Mã Lai - Cơm trắng,"125,000"
+5,Tôm xào sốt Sambal - Cơm trắng,"125,000"
+6,Mực xào sốt Sambal - Cơm trắng,"125,000"
+7,Mì vàng nước cà ri gà kiểu Mã Lai,"112,000"
+8,Cà ri gà - Cơm béo nước cốt dừa Mã Lai,"125,000"
+9,Cơm chiên Mã Lai,"125,000"
+10,Cơm chiên tôm cuộn trứng kiểu Mã Lai,"112,000"
+11,Cà ri bò kiểu Mã Lai - Cơm nước cốt dừa,"150,000"

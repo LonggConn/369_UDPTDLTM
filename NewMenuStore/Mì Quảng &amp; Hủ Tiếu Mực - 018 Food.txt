@@ -1,0 +1,13 @@
+,Food,Price
+0,MÌ QUẢNG ĐẶC BIỆT,"57,000"
+1,MÌ QUẢNG CHẢ TÔM CHẢ CUA,"47,000"
+2,MÌ QUẢNG THÊM,"8,000"
+3,MÌ QUẢNG SƯỜN,"47,000"
+4,MÌ QUẢNG GÀ,"47,000"
+5,MÌ QUẢNG LÒNG GÀ TRỨNG NON,"47,000"
+6,MÌ QUẢNG TÔM,"47,000"
+7,HỦ TIẾU MỰC,"52,000"
+8,Hủ Tiếu Khô,"55,000"
+9,Hủ Tiếu Khô Đặc Biệt,"65,000"
+10,HỦ TIẾU ĐẶC BIỆT,"62,000"
+11,HỦ TIẾU THÊM,"8,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Trà chanh,"18,000"
+1,Trà sữa Thái,"20,000"
+2,Trà đào,"28,000"
+3,Trà sữa truyền thống,"20,000"

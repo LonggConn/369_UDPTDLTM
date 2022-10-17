@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh canh hẹ chả cá + cá dầm,"42,000"
+1,Bánh canh hẹ chả cá,"37,000"
+2,Bánh hỏi heo quay,"45,000"
+3,Nem nướng,"50,000"
+4,Bánh hỏi nem nướng ,"45,000"
+5,Bún nem nướng ,"40,000"

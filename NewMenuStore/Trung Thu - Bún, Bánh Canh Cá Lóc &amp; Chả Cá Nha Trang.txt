@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Canh Cá Lóc,"30,000"
+1,Bánh canh đặc biệt (thập cẩm),"40,000"
+2,Bánh Canh Xương Hầm,"30,000"
+3,Bánh canh chả cá Nha Trang,"30,000"
+4,Bánh mỳ rán,"6,000"
+5,Bánh mỳ không rán,"3,000"
+6,Bánh cuốn,"25,000"
+7,Bánh mướt,"20,000"

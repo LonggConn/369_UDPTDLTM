@@ -1,0 +1,8 @@
+,Food,Price
+0,"Combo 2: 1 da heo lắc tỏi, 1 bánh tráng tỏi tắc, 1 nước sâm","47,000"
+1,Bánh tráng tỏi tắc 500g,"75,000"
+2,Bánh tráng tỏi tắc,"16,000"
+3,Combo 1: 2 bánh tráng chấm/tỏi tắc - 1 nước sâm,"39,000"
+4,Bánh tráng chấm,"16,000"
+5,Da heo lắc tỏi ớt,"22,000"
+6,Nước sâm,"12,000"

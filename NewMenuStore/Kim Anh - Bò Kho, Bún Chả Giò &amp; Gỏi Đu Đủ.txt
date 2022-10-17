@@ -1,0 +1,9 @@
+,Food,Price
+0,Bò Kho Bánh Mì,"45,000"
+1,Bò Kho Hủ Tiếu,"45,000"
+2,Bánh Canh Giò/Xương ,"42,000"
+3,Nui Giò/Xương,"42,000"
+4,Bò Kho Mì Gói,"45,000"
+5,Hủ Tiếu Giò/Xương,"42,000"
+6,Sữa chua Yaourt,"8,000"
+7,Sâm Bổ Lượng,"12,000"

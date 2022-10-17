@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh xèo miền Trung 2 người,"80,000"
+1,Bánh khọt,"50,000"
+2,Bánh xèo miền Tây (đặc biệt),"65,000"
+3,Bánh xèo miền Tây 2 người,"90,000"
+4,Combo 2 người(5 miền trung+1 bánh miền tây),"85,000"
+5,Coca,"15,000"
+6,7up,"15,000"
+7,Pepsi,"15,000"
+8,Nước suối,"10,000"

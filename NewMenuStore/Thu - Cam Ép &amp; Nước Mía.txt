@@ -1,0 +1,4 @@
+,Food,Price
+0,Nước cam ép,"10,000"
+1,Nước mía,"5,000"
+2,Nước chanh dây,"10,000"

@@ -1,0 +1,16 @@
+,Food,Price
+0,COMBO 1 Mỳ ý + 1 Phần Gà Viên Sốt+ 2 Coca-Cola,"122,000"
+1,COMBO 1 Miếng Gà + 1 Coca-Cola,"43,000"
+2,2 Ly Coca-Cola,"24,000"
+3,COMBO 1 Burger Tôm + 1 Phần Gà Viên Sốt + 2 Coca-Cola,"122,000"
+4,1 Ly Coca-Cola,"12,000"
+5,Coca-Cola chỉ 1Đ,1
+6,COMBO 1 Burger Tôm + 1 Coca-Cola,"71,000"
+7,COMBO 2 - 2 MIẾNG GÀ GIÒN,"91,000"
+8,COMBO 1 - 2 MIẾNG GÀ GIÒN SỐT,"95,000"
+9,COMBO 5 - 1 MIẾNG GÀ GIÒN,"58,000"
+10,COMBO 6 - GÀ VIÊN GIÒN SỐT,"62,000"
+11,COMBO 4 - 1 MIẾNG GÀ GIÒN SỐT,"62,000"
+12,COMBO 3 - GÀ VIÊN CHIÊN GIÒN,"59,000"
+13,Combo 8 - 2 miếng gà giòn & mỳ Ý,"165,000"
+14,COMBO 7,"175,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Lam 1 Ống ,"27,000"
+1,Gà Nướng Muối Ớt- Nửa Con ,"125,000"
+2,Gà Quay Thơm Ngon - Nửa Con ,"125,000"
+3,Gà nướng muối ớt - Nguyên con cắt sẵn,"240,000"
+4,Gà quay thơm ngon - nguyên con,"240,000"
+5,Cocacola 1 lon,"17,000"
+6,1 Gói trà thảo mộc sấy khô,"7,500"
+7,Nước suối Vikoda,"10,000"
+8,Bia Sài Gòn,"24,000"
+9,Bia Strongbow vị ngẫu nhiên,"27,000"
+10,Bia Tiger nâu,"26,000"

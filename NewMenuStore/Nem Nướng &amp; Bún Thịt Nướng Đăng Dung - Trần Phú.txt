@@ -1,0 +1,10 @@
+,Food,Price
+0,Nem nướng ,"50,000"
+1,Nem Chua,"7,000"
+2,Bún thịt nướng ,"35,000"
+3,Trà Tắc,"15,000"
+4,Cơm sườn trứng,"40,000"
+5,Nem ,"9,000"
+6,Bánh tráng giòn,"6,000"
+7,Bánh tráng ,"6,000"
+8,Bún,"10,000"

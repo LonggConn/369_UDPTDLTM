@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm tấm sườn ốp la,"30,000"
+1,Cơm gà chiên mắm,"35,000"
+2,Cơm gà xé,"30,000"
+3,Cơm thập cẩm,"30,000"
+4,Sườn thêm,"20,000"
+5,Ốp la thêm,"10,000"
+6,Cơm chiên trứng,"30,000"
+7,Cơm muối ớt,"30,000"

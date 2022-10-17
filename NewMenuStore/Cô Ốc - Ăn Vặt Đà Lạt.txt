@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh bò lá,"20,000"
+1,Bánh tráng cuộn khô gà,"20,000"
+2,Bánh tôm lá,"20,000"
+3,Bánh tráng cuộn tép cay,"20,000"

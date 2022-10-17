@@ -1,0 +1,7 @@
+,Food,Price
+0,Càng ghẹ rang muối,"50,000"
+1,Càng ghẹ rang me,"50,000"
+2,Ghẹ sữa rang me,"50,000"
+3,Ghẹ sữa rang muối,"50,000"
+4,Ghẹ sữa bơ tỏi,"50,000"
+5,Càng ghẹ bơ tỏi,"50,000"

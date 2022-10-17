@@ -1,0 +1,9 @@
+,Food,Price
+0,Mix 3 nhân tự chọn,"65,000"
+1,Bánh tráng lụi nhân thịt sốt me,"35,000"
+2,Nhân tôm,"60,000"
+3,Mix 4 nhân,"85,000"
+4,Nhân gà xúc xích xào bơ,"60,000"
+5,Nhân thịt phô mai trứng cút,"55,000"
+6,Nhân thịt truyền thống,"55,000"
+7,Nhân Bò Nấm Bơ Xúc Xích,"60,000"

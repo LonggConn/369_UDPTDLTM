@@ -1,0 +1,13 @@
+,Food,Price
+0,Gỏi Ướt,"79,000"
+1,Gỏi Cá Đặc Sản Nam Ô (Gỏi Khô),"79,000"
+2,Gỏi Cá Đặc Sản Nam Ô (Gỏi Ướt) - Phần Lớn,"109,000"
+3,Gỏi Cá Đặc Sản Nam Ô (Gỏi Khô) - Phần Lớn,"109,000"
+4,Cá nục cuốn rau muống,"69,000"
+5,Cá nục cuốn rau muống (Con lớn hơn) ,"79,000"
+6,Bánh tráng thịt ba chỉ,"55,000"
+7,Bánh tráng cuốn thịt heo phần lớn,"99,000"
+8,Bánh tráng nướng,"6,000"
+9,Bún mắm thịt luộc,"35,000"
+10,Rau thêm,"12,000"
+11,Tô Nhựa + Đũa,"2,000"

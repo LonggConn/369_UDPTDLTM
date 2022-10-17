@@ -1,0 +1,11 @@
+,Food,Price
+0,Xôi thịt hon,"30,000"
+1,Cơm heo quay ,"25,000"
+2,Cơm gà kho sả,"25,000"
+3,Cơm thập cẩm,"25,000"
+4,Cơm gà rôti,"25,000"
+5,Cơm thịt kho tàu-trứng ốp la,"25,000"
+6,Cơm sườn - trứng ốp la,"25,000"
+7,Cơm cá,"25,000"
+8,Cơm thịt luộc-mắm tôm,"25,000"
+9,Cơm sườn ,"25,000"

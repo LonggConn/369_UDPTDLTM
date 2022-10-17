@@ -1,0 +1,4 @@
+,Food,Price
+0,Bún Bò Huế Đặc Biệt,"50,000"
+1,Bún Bò Huế Không Móng,"45,000"
+2,Quẩy,"2,000"

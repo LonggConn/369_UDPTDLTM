@@ -1,0 +1,3 @@
+,Food,Price
+0,Đùi gà bó xôi,"35,000"
+1,Gà bó xôi nguyên con,"350,000"

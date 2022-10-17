@@ -1,0 +1,5 @@
+,Food,Price
+0,Sườn kho mè,"37,000"
+1,Thịt Kho trứng ,"35,000"
+2,Trứng xíu mại,"30,000"
+3,Nước Suối ,"8,000"

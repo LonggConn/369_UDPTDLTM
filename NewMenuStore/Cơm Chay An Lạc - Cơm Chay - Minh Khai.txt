@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm rang dưa bò chay- bán chạy top 1,"40,000"
+1,Cơm xuất ( phần lớn),"40,000"
+2,Cơm xuất ( Phần đặc biệt ),"50,000"
+3,Cơm xuất ( phần vừa),"35,000"
+4,Giò lụa chay - Giò Lá Gói Tay,"40,000"
+5,Ruốc Nấm,"35,000"
+6,Dồi chiên chay,"50,000"
+7,Chả quế chay,"40,000"
+8,Rau xào theo mùa,"40,000"
+9,Cổ vịt chay,"50,000"
+10,rau theo mùa,"30,000"

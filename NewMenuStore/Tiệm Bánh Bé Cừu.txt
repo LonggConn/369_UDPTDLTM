@@ -1,0 +1,12 @@
+,Food,Price
+0,Tiramisu Đặc Biệt 12x12x6cm,"130,000"
+1,Việt quất Cuộn Kem Cheese 12cm ,"110,000"
+2,Chocolate Phủ Hạt Cuộn 12cm ,"110,000"
+3,Vani Truyền Thống Cuộn 12cm,"85,000"
+4,Bạc Hà Chocolate Mini Cuộn 12cm,"85,000"
+5,Blackforest Cherry Mini Cuộn 12cm ,"110,000"
+6,Redvelvet Creamcheese Mini Cuộn 12cm,"85,000"
+7,Bông Lan Trà Sữa Early Grey Cuộn Mini 12cm,"110,000"
+8,Matcha Cuộn Kem Tươi Mini 12cm,"85,000"
+9,Trà Cam Quế   ( Cam + quế ướp trà ) ,"180,000"
+10,Trà Chanh Hoa Nhài 330ML,"30,000"

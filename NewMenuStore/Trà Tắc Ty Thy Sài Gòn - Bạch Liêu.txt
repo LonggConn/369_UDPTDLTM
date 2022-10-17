@@ -1,0 +1,8 @@
+,Food,Price
+0,Trà tắc,"13,000"
+1,Nước dừa ly to 1200ml,"26,000"
+2,Sữa đậu nành,"13,000"
+3,Nước mía ly vừa,"13,000"
+4,Nước mía ly to 1200ml,"20,000"
+5,Nước dừa ly vừa 800ml,"20,000"
+6,Chanh dây,"20,000"

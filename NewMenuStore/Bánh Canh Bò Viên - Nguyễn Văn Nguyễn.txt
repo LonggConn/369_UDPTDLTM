@@ -1,0 +1,12 @@
+,Food,Price
+0,Bò Viên Nửa Viên (1/2 Viên),"10,000"
+1,Giò,"25,000"
+2,Bánh Canh Giò Bắp Nửa Viên,"48,000"
+3,Bánh canh bò viên,"35,000"
+4,Đặc Biệt Thập Cẩm,"60,000"
+5,Bánh canh giò,"40,000"
+6,Tô 2 Viên Khổng Lồ,"51,000"
+7,Bánh Canh Viên Huyết (Nhỏ),"25,000"
+8,Bánh Canh Sườn,"40,000"
+9,Bò viên thêm,"20,000"
+10,Bánh Thêm,"13,000"

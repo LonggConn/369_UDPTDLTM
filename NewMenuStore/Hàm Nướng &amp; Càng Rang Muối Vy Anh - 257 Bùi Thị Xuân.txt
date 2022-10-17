@@ -1,0 +1,12 @@
+,Food,Price
+0,Hàm nướng lớn,"150,000"
+1,Mui  má  hàm,"150,000"
+2,Càng cúm rang muối nhỏ,"70,000"
+3,Hàm nướng nhỏ ,"130,000"
+4,Hàm nướng bự,"180,000"
+5,Càng cúm Rang muối lớn ,"100,000"
+6,Ếch  Nướng,"80,000"
+7,Phèo nướng,"80,000"
+8,Càng ghẹ rang muối nhỏ,"70,000"
+9,Càng ghẹ rang muối lớn,"100,000"
+10,Hàm  hấp,"140,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Sữa chua nhà làm lọ 100ml,"10,000"
+1,Quẩy Đùi Gà túi  size M,"30,000"
+2,Combo 5 quẩy  mặn to,"25,000"
+3,Quẩy đùi gà túi size S,"20,000"
+4,Quẩy  đùi gà túi size L,"60,000"
+5,Combo 10 quẩy mặn to,"50,000"
+6,Combo 1 túi quẩy đùi gà size M+ 1 hộp chua nhà làm,"39,000"
+7,Quẩy mặn chiên sơ  cấp đá,"50,000"

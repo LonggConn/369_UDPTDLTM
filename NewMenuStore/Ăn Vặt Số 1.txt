@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm cuộn chiên - hộp 2 thanh,"55,000"
+1,Nem chua - hộp 20 cái,"60,000"
+2,Chân gà rút xương chiên giòn - 9 thanh,"60,000"
+3,Khoai lang kén - 250g,"45,000"
+4,Chân gà xào sả ớt - 4-6 cái,"55,000"
+5,Đùi gà hầm nấm ngỉa cứu,"60,000"

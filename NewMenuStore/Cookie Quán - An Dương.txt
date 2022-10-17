@@ -1,0 +1,12 @@
+,Food,Price
+0,Mỳ Ý sốt kem nấm,"55,000"
+1,Miến trộn Trường Thọ đông trùng,"65,000"
+2,Mì la hán,"45,000"
+3,Cơm Hoàng Gia + Tô Diệp Trà,"55,000"
+4,Mì lan hán đông trùng,"65,000"
+5,Miến trộn Trường Thọ,"45,000"
+6,Miến chua cay,"45,000"
+7,Cơm Ngọc Bích + Tô Diệp Trà,"55,000"
+8,Miến chua cay đông trùng,"65,000"
+9,Phở kén,"45,000"
+10,Phở kén đông trùng,"65,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Hủ tiếu sườn heo,"35,000"
+1,Nui,"35,000"
+2,Hủ tiếu giò heo,"35,000"
+3,Hủ tiếu bò viên,"35,000"
+4,Bánh canh,"35,000"
+5,Hủ tiếu xíu mại,"35,000"

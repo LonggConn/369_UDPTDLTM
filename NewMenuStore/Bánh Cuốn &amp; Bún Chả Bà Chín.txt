@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh Cuốn Chả Nướng (bà chín) 259 yên hòa,"39,000"
+1,Bún Chả (bà chín) 259 yên hòa,"42,000"
+2,Bánh Cuốn Chả Quế (bà chín) 259 yên hòa,"37,000"
+3,Bánh cuốn Trứng Chả Nướng,"28,000"
+4,Gà ác tần thuốc bắc ngải cứu 259 yên hòa,"80,000"
+5,Bánh Cuốn Trứng Chả Quế,"28,000"

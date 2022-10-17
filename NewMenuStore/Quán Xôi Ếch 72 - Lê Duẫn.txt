@@ -1,0 +1,9 @@
+,Food,Price
+0,Xôi ếch mắm bơ ,"35,000"
+1,Trà đào,"17,000"
+2,xôi cá nục,"20,000"
+3,xôi cánh gà chiên mắm ,"30,000"
+4,Trà tắc mật ong,"13,000"
+5,Trà bí đao hạt chia,"13,000"
+6,Đá me miền tây,"15,000"
+7,Dừa xiêm nguyên trái ,"27,000"

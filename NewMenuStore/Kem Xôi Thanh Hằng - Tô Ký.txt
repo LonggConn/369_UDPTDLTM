@@ -1,0 +1,13 @@
+,Food,Price
+0,Kem xôi sầu riêng,"25,000"
+1,Kem xôi cà phê đậu phộng,"18,000"
+2,Kem xôi socola,"18,000"
+3,Kem xôi việt quất,"18,000"
+4,Kem xôi xoài,"18,000"
+5,Kem xôi dâu,"18,000"
+6,Kem xôi đào,"18,000"
+7,Kem xôi kiwi,"18,000"
+8,Kem xôi phúc bồn tử,"18,000"
+9,Kem xôi cà phê ,"18,000"
+10,Kem xôi ổi,"18,000"
+11,Kem xôi vải,"18,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Chân Gà Ủ Muối,"210,000"
+1,Gà Ủ Muối Thái Nguyên,"350,000"
+2,Cafe bọt,"20,000"
+3,Milo bọt,"20,000"
+4,Trà Dâu,"27,000"
+5,Trà Táo Xanh Rau má,"27,000"
+6,Trà Bí Đao Hạt Chia,"17,000"
+7,Trà Đào,"27,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,"Hộp Mochi 14 Viên Mix 7 Vị - Mix 7 vị, 2 Đậu Đỏ, 2 Dừa, 2 Trà Xanh, 2 Chocolate, 2 Dâu Tây","169,000"
+1,"Hộp Mochi 6 Viên Mix 6 Vị - Mix 6 vị: Dừa, Trà Xanh, chocolate, Hạt Dẻ , Việt Quất, Dâu Tây.","79,000"
+2,"Hộp Mochi 6 Viên: Đậu Đỏ, Dừa, trà Xanh, chocolate, Hạt Dẻ, Việt Quất.","75,000"
+3,"Hộp Mochi 3 Dừa, 3 Chocolate - 3 Dừa, 3 Chocolate","69,000"
+4,"Hộp Mochi 3 Dừa, 3 Việt Quất","75,000"
+5,"Hộp Mochi 2 Dừa, 2 Việt Quất, 2 Chocolate","73,000"
+6,"Hộp Mochi 2 Việt Quất, 2 Dừa, 2 Dâu Tây","75,000"
+7,Hộp Mochi 14 Viên Mix 2 Vị Dừa - Chocolate,"150,000"
+8,"Hộp Mochi 2 Việt Quất, 2 Chocolate, 2 Dâu Tây","80,000"

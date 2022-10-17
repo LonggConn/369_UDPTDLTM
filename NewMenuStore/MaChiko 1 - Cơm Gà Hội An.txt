@@ -1,0 +1,3 @@
+,Food,Price
+0,Cơm gà Hội An,"80,000"
+1,Trứng ốp,"8,000"

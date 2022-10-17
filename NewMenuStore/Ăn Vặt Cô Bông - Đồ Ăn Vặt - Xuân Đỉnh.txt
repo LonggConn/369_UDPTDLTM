@@ -1,0 +1,11 @@
+,Food,Price
+0,Khô gà lá chanh - 1kg,"195,000"
+1,Heo cháy tỏi - 1kg,"175,000"
+2,Ngô bò lá chanh - 500gr,"50,000"
+3,Ngô bò lá chanh - 1kg,"90,000"
+4,Ngô xóc mắm ớt - 500gr,"40,000"
+5,Ngô xóc mắm ớt - 1kg,"75,000"
+6,Bim tăm mix đậu - 500gr,"35,000"
+7,Bim tăm mix đậu - 1kg,"60,000"
+8,Nui - 500gr,"30,000"
+9,Nui - 1kg,"60,000"

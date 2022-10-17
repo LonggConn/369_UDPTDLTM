@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Panna Cotta,"17,600"
+1,Bánh Tiramisu Truyền thống - Size L,"64,800"
+2,Bánh Tiramisu Trà Xanh - Size L,"64,800"
+3,Combo 5 Panna Cotta  - 5 vị,"72,000"
+4,Combo 2 Tiramsu  - Size L,"110,000"

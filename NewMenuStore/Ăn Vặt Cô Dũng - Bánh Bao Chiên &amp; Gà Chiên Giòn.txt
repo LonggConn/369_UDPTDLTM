@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh Tráng Trộn,"10,000"
+1,Gà Chiên Giòn,"10,000"
+2,Bánh Bao Chiên,"10,000"
+3,Khoai Tây Chiên,"10,000"
+4,Khoai Lang Chiên,"10,000"
+5,Cảo Quảng Đông,"10,000"
+6,Mỳ Trộn Thái Lan,"10,000"
+7,Nem Chua Chiên,"10,000"
+8,Xúc Xích Chiên,"10,000"
+9,Chả Cá Viên Chiên,"10,000"

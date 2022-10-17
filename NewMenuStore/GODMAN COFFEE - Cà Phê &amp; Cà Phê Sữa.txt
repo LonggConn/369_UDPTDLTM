@@ -1,0 +1,5 @@
+,Food,Price
+0,Sữa đá ,"23,000"
+1,Cà phê đen đá ,"18,000"
+2,Cà phê Film Robussta ,"240,000"
+3,Cà phê pha phin ,"240,000"

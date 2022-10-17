@@ -1,0 +1,6 @@
+,Food,Price
+0,Lạp xưởng tươi  ,"110,000"
+1,Chao Môn hủ 450g,"47,000"
+2,Bánh tráng hạnh lớn,"10,000"
+3,Bánh tráng hạnh nhỏ,"3,500"
+4,Dứa mật Cayenne,"40,000"

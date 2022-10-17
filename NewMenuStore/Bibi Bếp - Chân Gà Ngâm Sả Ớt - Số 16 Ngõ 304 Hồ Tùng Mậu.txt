@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân gà rút xương ngâm sa ớt,"65,000"
+1,Chân gà có xương ngâm sả ớt,"65,000"
+2,combo,"125,000"

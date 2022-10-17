@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún Bò Huế Thập Cẩm,"40,000"
+1,Bún Bò Huế Đặc Biệt,"55,000"
+2,Bún Bò Chín,"40,000"
+3,Bún Bò Tái + Chả Viên,"40,000"
+4,Bún Bò Tái,"40,000"
+5,Bún Móng Giò,"40,000"
+6,Bún Chả Viên,"40,000"
+7,Cafe Cốt Dừa,"15,000"

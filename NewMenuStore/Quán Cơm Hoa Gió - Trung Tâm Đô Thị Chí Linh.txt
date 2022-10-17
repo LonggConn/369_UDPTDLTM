@@ -1,0 +1,14 @@
+,Food,Price
+0,Cơm sườn,"35,000"
+1,Thịt kho măng,"35,000"
+2,Đùi gà chiên,"35,000"
+3,Thịt ba chỉ chiên,35
+4,Thịt kho trứng,"35,000"
+5,Thịt kho mắm ruốc,"35,000"
+6,Thịt kho đậu,"35,000"
+7,Cá pasa kho,"30,000"
+8,Cá kho cà,"30,000"
+9,Cá lóc kho thơm,"30,000"
+10,Cá rô chiên ,"30,000"
+11,Cá rô kho,"30,000"
+12,Cá ngừ kho,"30,000"

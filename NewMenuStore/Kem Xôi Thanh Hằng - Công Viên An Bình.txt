@@ -1,0 +1,12 @@
+,Food,Price
+0,Kem xôi 15,"15,000"
+1,Kem Xôi 20,"20,000"
+2,Kem sữa đậu phộng,"15,000"
+3,Kem Socola,"15,000"
+4,Kem dâu,"15,000"
+5,Kem trà xanh Oreo,"20,000"
+6,Kem sầu riêng,"15,000"
+7,Sữa chua đá xay dâu,"20,000"
+8,Sữa chua đá xay việt quất,"20,000"
+9,Sữa chua đá xay xoài,"20,000"
+10,Sữa chua đá xay phúc bồn tử,"20,000"

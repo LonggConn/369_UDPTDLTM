@@ -1,0 +1,6 @@
+,Food,Price
+0,Mì Trộn Bò Trứng Lòng Đào,"50,000"
+1,Mì Trộn Hải Sản Trứng Lòng Đào,"50,000"
+2,Mì trộn gà xé trứng lòng đào,"50,000"
+3,Mì trộn sườn cây trứng lòng đào,"50,000"
+4,Bún Thái hải sản,"50,000"

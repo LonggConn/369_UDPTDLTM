@@ -1,0 +1,8 @@
+,Food,Price
+0,Mousse chanh leo,"75,000"
+1,Cookie dăm bông,"40,000"
+2,Cookie bơ,"40,000"
+3,Cookie nho,"40,000"
+4,Sandwich bơ sữa,"47,000"
+5,Bông lan trứng muối,"85,000"
+6,Bông lan trứng muối mix sốt,"95,000"

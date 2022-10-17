@@ -1,0 +1,6 @@
+,Food,Price
+0,Xôi thịt kho trứng,"30,000"
+1,Xôi chả cá,"35,000"
+2,Xôi chả mực Hạ Long,"40,000"
+3,Xôi pate,"25,000"
+4,Xôi mắm tép,"25,000"

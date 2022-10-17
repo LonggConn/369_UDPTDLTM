@@ -1,0 +1,10 @@
+,Food,Price
+0,Gato plan,"110,000"
+1,Bánh mì hoa cúc homemade,"70,000"
+2,Bánh trung thu,"430,000"
+3,Bánh trung thu mini,"190,000"
+4,Bánh mì mini phô mai tan chảy,"70,000"
+5,Bánh bông lan hai sốt,"90,000"
+6,Muffin hạnh nhân,"75,000"
+7,Bánh mì hoa cúc Pháp,"160,000"
+8,Sữa chua nếp cẩm,"110,000"

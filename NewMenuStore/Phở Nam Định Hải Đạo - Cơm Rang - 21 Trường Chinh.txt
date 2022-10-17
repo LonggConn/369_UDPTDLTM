@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm rang thập cẩm,"30,000"
+1,Cơm rang dưa bò,"40,000"
+2,Phở bò thập cẩm,"35,000"
+3,Bún bò,"35,000"
+4,Phở đặc biệt,"45,000"
+5,Bún đặc biệt,"45,000"
+6,Phở bò,"35,000"

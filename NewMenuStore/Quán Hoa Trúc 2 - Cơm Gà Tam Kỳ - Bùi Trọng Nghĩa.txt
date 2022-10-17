@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm Gà + Canh+ Gỏi,"40,000"
+1,Cháo gà,"35,000"
+2,Hột Vịt Lộn,"10,000"
+3,Cháo lòng gà,"35,000"
+4,Gà xé phay,"140,000"
+5,Gà Nguyên Con + Cháo + Gỏi ,"310,000"
+6,Cơm Góc Tư Đùi + Gỏi+ Canh,"110,000"
+7,Gỏi gà ,"100,000"
+8,Cơm Góc Tư Trên +GỎI +CANH,"90,000"
+9,Gỏi gà,"200,000"

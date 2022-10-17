@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh canh hẹ,"47,000"
+1,Bánh bèo nóng,"40,000"
+2,Bánh hỏi chà bông,"40,000"
+3,Chả lụa vắt,"7,000"
+4,Tàu hủ tươi cô vang,"18,000"
+5,Bánh flan,"13,000"
+6,Sữa đậu xanh sương sáo,"18,000"
+7,Che Duong Nhan ,"28,000"

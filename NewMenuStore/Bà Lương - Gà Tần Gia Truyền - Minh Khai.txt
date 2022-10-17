@@ -1,0 +1,5 @@
+,Food,Price
+0,Gà ác tần nguyên con,"100,000"
+1,Đùi gà ta tần,"85,000"
+2,1/2 con gà ta tần,"115,000"
+3, Chim câu tần,"150,000"

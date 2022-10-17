@@ -1,0 +1,12 @@
+,Food,Price
+0,Ếch Singapore (2 con) + cháo,"85,000"
+1,Ếch chiên mắm cháy tỏi,"75,000"
+2,Cơm trắng (1 chén) ,"5,000"
+3,Ếch chiên sốt phô mai ,"80,000"
+4,Ếch Singapore (1 con) + cháo ,"50,000"
+5,Ếch Singapore (3 con) + cháo ,"110,000"
+6,Bánh mì (1 ổ) ,"5,000"
+7,Ếch nấu tiêu đen (2 con) + cháo ,"85,000"
+8,Cháo (1 tô) ,"5,000"
+9,Ếch nấu tiêu đen (1 con) + cháo ,"50,000"
+10,Ếch nấu tiêu đen (3 con) + cháo ,"110,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Súp Lươn Bình Thường,"50,000"
+1,Bánh Cuốn Dò,"35,000"
+2,Súp Lươn Bát To,"60,000"
+3,Bánh Cuốn Chả Quế Hà Nội,"35,000"
+4,Bánh Mướt Nóng Chả Quế,"25,000"
+5,Bánh Mỳ Lươn Ngon,"35,000"
+6,Nem Chua Thanh Hoá Loại Vuông 1chục,"60,000"
+7,Bánh cuốn chả cuốn,"38,000"
+8,Bánh mướt chả cuốn,"25,000"
+9,Nem Cối Thành Hoá 1 Cái,"50,000"

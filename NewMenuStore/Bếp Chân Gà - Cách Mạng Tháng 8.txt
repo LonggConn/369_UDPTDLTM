@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân Gà Sả Tắc Mix Cóc (500gr),"93,000"
+1,Chân gà sốt Thái mix xoài (500gr),"93,000"
+2,Chân Gà Sả Tắc Mix Cóc (300gr),"64,000"

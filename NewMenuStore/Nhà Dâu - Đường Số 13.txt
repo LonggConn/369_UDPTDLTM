@@ -1,0 +1,6 @@
+,Food,Price
+0,Thông báo,1
+1,Trà dâu - chai 350ml,"60,000"
+2,Trà dâu - chai 1l,"155,000"
+3,Latte Dâu - chai 350ml,"60,000"
+4,Muối xí muội,"70,000"

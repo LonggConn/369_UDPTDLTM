@@ -1,0 +1,9 @@
+,Food,Price
+0,Phá lấu bò truyền thống,"31,500"
+1,Phá lấu bò xuất sắc (có trứng muối),"40,500"
+2,Phá Lấu Truyền thống Mì Gói ,"31,500"
+3,Bánh Mì Thêm ,"4,500"
+4,Phá lấu bò dịu dàng (có phô mai),"40,500"
+5,Phá Lấu Trứng Muối Mì Gói ,"40,500"
+6,Mì Gói Thêm ,"9,000"
+7,Phá Lấu Phô mai Mì Gói ,"40,500"

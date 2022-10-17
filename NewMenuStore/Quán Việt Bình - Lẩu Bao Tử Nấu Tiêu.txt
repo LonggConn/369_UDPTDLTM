@@ -1,0 +1,9 @@
+,Food,Price
+0,Lẩu bao tử nấu tiêu phần vừa,"150,000"
+1,Lẩu bao tử nấu tiêu phần đặc biệt,"200,000"
+2,Lẩu bao tử nấu tiêu phần nhỏ,"150,000"
+3,Lẩu bao tử nấu tiêu phần lớn,"180,000"
+4,Chả cá thát lát chiên,"100,000"
+5,Rau thêm,"5,000"
+6,Thịt thêm phần lớn,"80,000"
+7,Thịt thêm phần nhỏ,"60,000"

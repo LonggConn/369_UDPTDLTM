@@ -1,0 +1,12 @@
+,Food,Price
+0,Lẩu Thái,"99,000"
+1,Ram tôm,"45,000"
+2,Bò nướng lá lốt,"40,000"
+3,Lẩu hải sản cá diêu hồng,"99,000"
+4,Ram bắp,"35,000"
+5,Nem nướng Ninh Hòa,"40,000"
+6,Thịt nướng cuốn,"45,000"
+7,Bún thịt nướng,"30,000"
+8,Chè Tuyết Yến,"20,000"
+9,Bún nem nướng,"30,000"
+10,Lẩu hải sản cá ba sa,"99,000"

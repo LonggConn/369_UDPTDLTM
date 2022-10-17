@@ -1,0 +1,8 @@
+,Food,Price
+0,Combo 3cuốn Tôm Thịt,"40,000"
+1,Bánh Tráng Trộn,"20,000"
+2,Bánh Tráng Cuốn Tôm Thịt,"120,000"
+3,Combo 5 cuốn Tôm Thịt ,"60,000"
+4,Cơm Cháy Chà Bông,"45,000"
+5,Bánh Tráng Trộn Chưa Trộn,"25,000"
+6,Trà Quất,"10,000"

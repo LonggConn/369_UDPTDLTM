@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà ta xối mỡ góc tư đùi,"50,000"
+1,Cơm ức gà ta xối mỡ      ,"40,000"
+2,Cơm thêm,"5,000"
+3,Cơm gà ta xối mỡ ức + cánh,"50,000"
+4,Gà nữa con,"90,000"
+5,Gà nguyên con,"180,000"

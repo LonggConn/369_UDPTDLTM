@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún Gạo Lứt Gà Ta,"45,000"
+1,Bún Gạo Lứt Gà Ta Đặc Biệt,"50,000"
+2,Bánh Canh Cá Lóc Đặc Biệt,"45,000"
+3,Bánh Canh Cá Lóc,"40,000"
+4,Bánh  Canh Đầu Cá Lóc,"55,000"
+5,Bánh Canh Cá Lóc Đặc Biệt +Trà Tắc,"58,000"
+6,Bánh Canh Cá Lóc Đặc Biệt + Nước Cam,"68,000"
+7,Bánh Canh Đầu Cá Lóc + Trà Tắc,"68,000"
+8,Bánh Canh Đầu Cá Lóc + Nước Cam,"78,000"
+9,Nước Cam,"25,000"
+10,Trà Tắc,"15,000"
+11,Nước Chanh Đường,"15,000"

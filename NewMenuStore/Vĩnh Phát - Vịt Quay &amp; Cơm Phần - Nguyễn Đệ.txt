@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Vịt Quay HongKong,"48,000"
+1,Cơm Trắng,"6,000"
+2,Cơm Phá Lấu,"42,000"
+3,Cơm Xá Xíu,"42,000"
+4,Vịt Quay HongKong-nửa con,"190,000"
+5,"Phá Lấu Lưỡi,Tai,Bao Tử 100g","32,000"
+6,Xá Xíu 100g,"32,000"
+7,Vịt Quay HongKong-1 con,"380,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Nem Nướng,"33,000"
+1,Combo 1 Nem Nướng + 1 Chai Coca,"43,000"
+2,Combo 1 Nem Nướng + 1 Lon Coca,"48,000"
+3,Combo 1 Nem Nướng Nha Trang + 1 Chai Fanta,"43,000"
+4,Combo 1 Nem Nướng Nha Trang + 1 Chai Sprite,"43,000"
+5,Pepsi,"15,000"
+6,Nước Cam Twister,"15,000"
+7,Sprite,"10,000"
+8,Coca Lon,"15,000"
+9,Fanta,"10,000"

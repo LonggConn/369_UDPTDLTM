@@ -1,0 +1,3 @@
+,Food,Price
+0,Bún Thập Cẩm,"25,000"
+1,Bún Tôm,"20,000"

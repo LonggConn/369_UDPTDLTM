@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh gà,"6,000"
+1,Nem chua rán,"5,000"
+2,Bánh khoai phô mai,"5,500"
+3,Lạp sườn nướng,"9,000"
+4,Phomai que,"7,000"
+5,Dồi sụn,"10,000"
+6,Xúc xích,"8,000"
+7,Gà Xiên Chiên,"11,000"
+8,Trà quất,"10,000"
+9,Nước quất,"10,000"
+10,Trà chanh,"10,000"
+11,Nước chanh,"10,000"

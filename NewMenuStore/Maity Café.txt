@@ -1,0 +1,12 @@
+,Food,Price
+0,Nước sen nhãn,"44,000"
+1,Milo dầm,"35,000"
+2,Nước Dừa Hạt Chia,"39,000"
+3,Choco Milo,"40,000"
+4,Trà Cam Đào,"39,000"
+5,Trà Vải Nhiệt Đới,"39,000"
+6,Trà Ổi Đào,"40,000"
+7,Trà Sữa Hạnh Nhân,"35,000"
+8,Trà Sữa Hokkaido,"35,000"
+9,Trà Dâu Lựu Đỏ,"39,000"
+10,Trà Sữa Hạt Dẻ,"35,000"

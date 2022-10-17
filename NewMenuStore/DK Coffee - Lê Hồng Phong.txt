@@ -1,0 +1,4 @@
+,Food,Price
+0,Cà Phê Sữa Ông Zú To,"25,000"
+1,Cà Phê Đường,"22,000"
+2,Cà Phê Sữa “Tươi”,"30,000"

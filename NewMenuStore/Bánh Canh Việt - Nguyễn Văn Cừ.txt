@@ -1,0 +1,11 @@
+,Food,Price
+0,BÁNH CANH MỰC - TÔM - CHẢ,"35,000"
+1,BÁNH CANH MỰC,"35,000"
+2,BÁNH CANH CHẢ,"25,000"
+3,BÁNH CANH THỊT HEO,"35,000"
+4,BÁNH CANH ĐẦU CÁ VỪA,"35,000"
+5,BÁNH CANH CÁ LÓC,"35,000"
+6,BÁNH CANH GIÒ HEO,"35,000"
+7,THẬP CẨM ĐẶC BIỆT,"45,000"
+8,BÁNH CANH TÔM,"35,000"
+9,Chả Cá Nha Trang ( miếng 250g ),"35,000"

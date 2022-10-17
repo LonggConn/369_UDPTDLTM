@@ -1,0 +1,4 @@
+,Food,Price
+0,"Bánh mì thịt, xúc xích","15,000"
+1,Bánh mì trứng,"15,000"
+2,Bánh mì xúc xích,"15,000"

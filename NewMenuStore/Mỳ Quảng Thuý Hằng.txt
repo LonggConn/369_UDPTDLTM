@@ -1,0 +1,13 @@
+,Food,Price
+0,Mỳ gà ta,"35,000"
+1,Mỳ tôm thịt,"30,000"
+2,Trứng  gà,"6,000"
+3,Mỳ cá lóc,"35,000"
+4,Bánh tráng,"6,000"
+5,Mỳ thập cẩm,"45,000"
+6,Tô nhựa,"2,000"
+7,Bò Húc,"18,000"
+8,Nước Trà Xanh Không Độ,"15,000"
+9,Nước Coca Lon,"18,000"
+10,Pepsi lon,"18,000"
+11,Nước suối aquafina,"8,000"

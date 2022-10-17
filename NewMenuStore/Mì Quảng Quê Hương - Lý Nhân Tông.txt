@@ -1,0 +1,8 @@
+,Food,Price
+0,Mì quảng gà trứng,"30,000"
+1,Mì quảng gà,"25,000"
+2,Mì quảng cá lóc,"25,000"
+3,Mì quảng cá lóc có lòng,"30,000"
+4,Mì quảng thập cẩm,"35,000"
+5,Mì quảng gà nhỏ,"20,000"
+6,Mì quảng cá nhỏ,"20,000"

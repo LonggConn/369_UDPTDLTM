@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh Nhân Thịt,"5,000"
+1,Xuất Đầy Đủ,"30,000"
+2,Xuất Không Trứng,"30,000"
+3,Giò,"10,000"
+4,Bánh Trứng,"10,000"
+5,Xuất Không Giò,"30,000"

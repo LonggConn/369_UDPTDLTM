@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún Bò Thập Cẩm,"55,000"
+1,Bún Bò Huế (Tô Thường),"40,000"
+2,Bún Bò Huế ( Tô Đặc Biệt),"65,000"
+3,Bún Bò Huế ( Sườn Sụn),"55,000"

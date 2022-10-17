@@ -1,0 +1,17 @@
+,Food,Price
+0,Hủ tíu nam vang nước,"59,000"
+1,Hủ tíu nam vang khô,"59,000"
+2,Hủ Tíu  Đặc biệt khô,"69,000"
+3,Hủ Tíu  đặc biệt nước,"69,000"
+4,Mì vàng khô,"59,000"
+5,Mì vàng nước,"59,000"
+6,Đặc biệt nước,"69,000"
+7,hủ tíu khô em bé.  (thịt bằm trứng cút),"30,000"
+8,"Tô, muỗng đũa",1
+9,Tô Em Bé Nước ( thịt bằm Trứng cút ),"30,000"
+10,Cocacola,"15,000"
+11,nước dâu ngâm nhà làm ,"25,000"
+12,7 Up lon,"15,000"
+13,Nước suối,"10,000"
+14,Bánh thêm khô,"20,000"
+15,Bánh thêm nước,"20,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún riêu tóp mỡ đầy đủ,"65,000"
+1,Bún riêu tóp mỡ đặc biệt,"72,000"
+2,Bún riêu tóp mỡ ngon miệng,"50,000"
+3,Bún riêu tóp mỡ truyền thống,"35,000"
+4,Trứng vịt lộn ,"10,000"
+5,Tóp mỡ thêm,"15,000"
+6,Đậu mơ chiên,"5,000"
+7,Giò tai,"8,000"
+8,Mọc giòn,"10,000"
+9,Bò tái lăn,"15,000"
+10,Lẩu riêu cua nhỏ,"300,000"
+11,Lẩu riêu cua nhỏ ,"400,000"

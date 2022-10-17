@@ -1,0 +1,9 @@
+,Food,Price
+0,Red Velvet,"35,000"
+1,Earl Grey,"30,000"
+2,Chocolate Gateaux,"35,000"
+3,Tiramisu,"42,000"
+4,Chocolate Truffle,"10,000"
+5,Matcha Coconut Mousse,"30,000"
+6,Coconut Cake,"30,000"
+7,Passion Fruit Mousse,"30,000"

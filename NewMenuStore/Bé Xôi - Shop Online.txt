@@ -1,0 +1,11 @@
+,Food,Price
+0,Xoi gấc trứng dò ruốc bông ,"25,000"
+1,Xoi bắp trứng dò ,"20,000"
+2,Xoi gấc trứng dò ,"20,000"
+3,Xoi bắp ruốc bông trứng dò ,"25,000"
+4,Do thêm ,"8,000"
+5,Trứng thêm ,"8,000"
+6,Xoi lạc trứng dò ruốc bông ,"25,000"
+7,Xoi lạc trứng dò ,"20,000"
+8,Xoi không ,"18,000"
+9,Ruốc bông thđm,"15,000"

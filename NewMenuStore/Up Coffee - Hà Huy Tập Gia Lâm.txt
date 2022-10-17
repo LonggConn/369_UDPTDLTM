@@ -1,0 +1,11 @@
+,Food,Price
+0,Cam ép,"40,000"
+1,Sinh tố dưa hấu,"38,000"
+2,Sinh tố mãng cầu,"38,000"
+3,Sinh tố xoài,"38,000"
+4,Sữa chua việt quất,"30,000"
+5,Sinh tố bơ,"40,000"
+6,Việt quất đá xay,"35,000"
+7,Caramel chocochip ( Bestseller),"38,000"
+8,Cookie cream,"38,000"
+9,Chanh tuyết,"40,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Lẩu Thái,"250,000"
+1,Ngô Chiên,"30,000"
+2,Chân Gà Rang Muối,"80,000"
+3,Gà Rang Muối,"150,000"
+4,Khoai Chiên,"30,000"
+5,Lẩu Gà,"250,000"
+6,Lẩu Ếch,"250,000"
+7,Cơm Rang Sốt Gà,"40,000"

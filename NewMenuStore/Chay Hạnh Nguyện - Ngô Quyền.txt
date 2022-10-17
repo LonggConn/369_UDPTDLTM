@@ -1,0 +1,10 @@
+,Food,Price
+0,Mỳ quảng,"20,000"
+1,Ram cuốn cải,"30,000"
+2,Cơm món,"20,000"
+3,Bún riêu,"20,000"
+4,Bún mắm,"20,000"
+5,Bánh bèo,"15,000"
+6,Cơm chiên dương châu,"20,000"
+7,Bún thêm,"8,000"
+8,Rau thêm,"10,000"

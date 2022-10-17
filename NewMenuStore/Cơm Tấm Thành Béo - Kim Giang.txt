@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm sườn cốt lết. chả,"55,000"
+1,Cơm sườn cốt lết,"50,000"
+2,"Cơm sườn cốt lết, bì","55,000"
+3,"Cơm sườn cốt lết, bì, chả","60,000"
+4,"Cơm sườn cốt lết, trứng ốp","60,000"
+5,"Cơm sườn cốt lết, bì, chả, trứng ốp","70,000"
+6,"Cơm sườn cốt lết, chả, trứng ốp","65,000"
+7,Cơm gà nướng,"65,000"
+8,"Cơm gà nướng, trứng ốp","75,000"
+9,"Cơm sườn cốt lết, bì, trứng ốp","65,000"

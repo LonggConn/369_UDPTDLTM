@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm Đùi Gà Nướng,"55,000"
+1,Cơm Cá Kho,"55,000"
+2,Cơm Sườn Xào Chua Ngọt,"55,000"
+3,Cơm Thịt Nướng Tỏi,"55,000"
+4,Cơm Thịt kho trứng,"55,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Chè Đậu Xanh,"18,000"
+1,Chè Đậu Đen Bột Lọc Dừa Tươi,"15,000"
+2,Chè Đậu Xanh Bột Lọc,"18,000"
+3,Chè Đậu Đen Bột Lọc,"18,000"
+4,Chè Bột Lọc,"18,000"
+5,Đậu đen,"18,000"
+6,Bánh ngào: (mùa lạnh),"18,000"
+7,Xôi đặt cúng:50k/1 đĩa,"50,000"
+8,Bánh bèo:(mùa lạnh),"18,000"

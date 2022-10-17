@@ -1,0 +1,7 @@
+,Food,Price
+0,2. Cơm bò Úc lúc lắc ,"99,000"
+1,1. Nui xào bò Úc lúc lắc ,"99,000"
+2,4. Bò Úc lúc lắc khoai tây chiên,"119,000"
+3,5. Bò Úc lúc lắc phần lớn 300g ,"199,000"
+4,Coca cola,"28,000"
+5,Bò húc,"28,000"

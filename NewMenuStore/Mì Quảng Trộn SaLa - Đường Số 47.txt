@@ -1,0 +1,13 @@
+,Food,Price
+0,Mì quảng trộn Tôm rim,"47,000"
+1,Mì Quảng trộn thập cẩm,"62,000"
+2,Mì Quảng trộn chay,"47,000"
+3,Mì Quảng trộn nấm rau củ,"47,000"
+4,Mì Quảng trộn Gà xé,"52,000"
+5,Mì quảng trộn Chả bò tiêu đen,"57,000"
+6,Sting dâu ướp lạnh,"18,000"
+7,Trà ôlong ướp lạnh,"18,000"
+8,Sữa đậu xanh Vinamilk ướp lạnh,"20,000"
+9,Sữa trái cây Nutri ướp lạnh,"18,000"
+10,Sữa đậu đỏ Vinamilk ướp lạnh,"20,000"
+11,Nước suối ướp lạnh,"12,000"

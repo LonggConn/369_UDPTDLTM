@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm thịt kho trứng,"30,000"
+1,Cơm gà chiên,"25,000"
+2,Cơm đậu hủ dồn thịt,"23,000"
+3,Cơm cá nục kho,"23,000"
+4,Cơm cá lóc kho,"23,000"

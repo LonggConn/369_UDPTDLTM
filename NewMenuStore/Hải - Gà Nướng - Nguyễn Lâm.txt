@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân gà nướng (1 cặp),"20,000"
+1,Cánh gà nướng,"20,000"
+2,Đùi gà nướng,"25,000"

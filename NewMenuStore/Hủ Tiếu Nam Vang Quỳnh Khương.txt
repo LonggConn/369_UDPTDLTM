@@ -1,0 +1,13 @@
+,Food,Price
+0,Mì Quảng Sườn + 01 Pepsi (Hoặc nước khác),"71,000"
+1,Mì Quảng Đặc Biệt  + 01 Pepsi (Hoặc nước khác),"85,000"
+2,Mì Quảng Thường + 01 Pepsi (Hoặc nước khác),"69,000"
+3,Pepsi lẻ,"15,000"
+4,Combo 3 phần Mì Quảng Đặc Biệt Tặng 3 Chai Pepsi ,"207,000"
+5,Combo 3 phần Mì Quảng Sườn. Tặng 3 Chai Pepsi ,"170,000"
+6,Mì Quảng Thường. Chai Pepsi,"59,000"
+7,MÌ Quảng Đặc Biệt Tặng Chai Pepsi,"79,000"
+8,Mì quảng Sườn. Tặng Chai Pepsi,"69,000"
+9,Combo 3 phần Mì quảng thường. 3 Chai Pepsi,"160,000"
+10,Tô Đặc biệt ,"71,000"
+11,1gói Mì Thêm+ Nước Lèo,"20,000"

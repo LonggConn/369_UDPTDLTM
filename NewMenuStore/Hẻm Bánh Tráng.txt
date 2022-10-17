@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Tráng Cuộn,"25,000"
+1,Bánh Tráng Trộn,"30,000"
+2,Bánh Tráng Chiên,"35,000"
+3,Bánh Tráng Chấm,"35,000"
+4,Da heo cháy tỏi lắc phomai,"60,000"
+5,Bánh tráng trộn sa tế tôm,"30,000"
+6,Gỏi Xoài,"30,000"
+7,Trà Tắc,"15,000"

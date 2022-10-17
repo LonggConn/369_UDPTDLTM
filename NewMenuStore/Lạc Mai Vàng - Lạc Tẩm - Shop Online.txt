@@ -1,0 +1,4 @@
+,Food,Price
+0,Lạc Tẩm Cafe,"25,000"
+1,Lạc Muối,"20,000"
+2,Lạc Chay,"15,000"

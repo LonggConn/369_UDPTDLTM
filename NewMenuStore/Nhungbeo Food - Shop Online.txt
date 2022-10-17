@@ -1,0 +1,11 @@
+,Food,Price
+0,Bông lan trứng muối kem chesse mini,"70,000"
+1,Sukem nhân chesse dẻo ,"70,000"
+2,Choco cookie cream,"70,000"
+3,Lava phomai hoàng kim,"70,000"
+4,Trà sữa phuclong trân châu trắng,"35,000"
+5,Trà nhài sữa trân châu trắng,"30,000"
+6,Phú sĩ nhân kem lạnh,"70,000"
+7,Tiramisu,"80,000"
+8,Mousse chanh leo,"75,000"
+9,Nước cốt chanh leo,"45,000"

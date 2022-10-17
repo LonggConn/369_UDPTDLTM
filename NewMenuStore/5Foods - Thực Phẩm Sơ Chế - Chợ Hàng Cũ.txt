@@ -1,0 +1,12 @@
+,Food,Price
+0,Lẩu Bò Mỹ,"285,000"
+1,Lẩu Thập Cẩm,"285,000"
+2,Lẩu Uyên Ương (1-2 người ăn),"168,000"
+3,Lẩu Hải Sản,"320,000"
+4,Lẩu Nấm ,"299,000"
+5,Ba Chỉ Bò Thái Cuộn - 500G,"167,000"
+6,Sườn Sụn Thái Lát - 500G,"96,000"
+7,Bắp Bò Thái Cuộn - 500G,"155,000"
+8,Tỏi Gà (Kg),"66,000"
+9,Ba Chỉ Bò Thái Lát - 300G,"95,000"
+10,Ba Chỉ Heo Thái Lát - 300G,"95,000"

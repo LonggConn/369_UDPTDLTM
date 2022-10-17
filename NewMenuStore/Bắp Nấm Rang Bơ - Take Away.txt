@@ -1,0 +1,4 @@
+,Food,Price
+0,Bắp Nấm Rang Bơ Vị Phomai,"15,000"
+1,Bắp Nấm Rang Bơ Vị Caramel,"15,000"
+2,Bắp Rang Bơ Truyền Thống,"12,000"

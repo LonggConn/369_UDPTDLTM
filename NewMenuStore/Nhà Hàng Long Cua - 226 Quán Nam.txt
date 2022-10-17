@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm rang hải sản ,"95,000"
+1,Cơm rang dưa bò,"95,000"
+2,1 Lon Coca,"20,000"
+3,Cơm Rang Hải Sản+1lon Sprite,"115,000"
+4,1 Lon Sprite,"20,000"
+5,Cơm Rang Bò Băm+1 Lon Coca,"115,000"
+6,1 Lon Fanta,"20,000"
+7,Cơm Rang Bò Băm+1lon Fanta,"115,000"

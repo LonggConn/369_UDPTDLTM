@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh xèo củ hủ dừa + thịt vịt xiêm,"55,000"
+1,Bánh xèo củ hủ dừa + tôm thịt,"55,000"
+2,Bánh xèo giá + tôm thịt,"50,000"
+3,Bánh xèo đặc biệt,"60,000"
+4,Bánh xèo củ sắn + tôm thịt,"50,000"
+5,Bánh xèo củ sắn + thịt vịt xiêm,"50,000"

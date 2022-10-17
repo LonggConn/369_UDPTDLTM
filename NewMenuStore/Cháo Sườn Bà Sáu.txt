@@ -1,0 +1,8 @@
+,Food,Price
+0,Cháo sườn thịt bằm,"30,000"
+1,Bánh quẩy,"6,000"
+2,Cháo thịt bằm,"25,000"
+3,Cháo sườn,"30,000"
+4,Trứng gà,"5,000"
+5,Trứng bách thảo,"10,000"
+6,Cháo không,"15,000"

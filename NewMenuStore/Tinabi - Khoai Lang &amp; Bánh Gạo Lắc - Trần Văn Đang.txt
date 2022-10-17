@@ -1,0 +1,13 @@
+,Food,Price
+0,Khoai lang lắc phô mai,"12,000"
+1,Chuối lắc phô mai,"12,000"
+2,Khoai lắc xí muội,"12,000"
+3,Gà lắc phô mai,"24,000"
+4,Bánh gạo nhân phô mai,"25,000"
+5,Chuối lắc xí muội,"12,000"
+6,Khoai lang lắc phô mai cay,"12,000"
+7,Gà lắc phô mai cay,"24,000"
+8,Phô mai que,"13,000"
+9,Khoai tây lắc phô mai,"24,000"
+10,Hoành thánh,"18,000"
+11,Khoai tây lắc phô mai cay,"24,000"

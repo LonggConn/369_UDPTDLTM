@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Gà Sốt Teriyaki,"135,000"
+1,Mì Udon Lạnh & Thịt Chasyu,"95,000"
+2,Mì Ramen Lạnh,"100,000"
+3,Mì Ramen Lạnh Sốt Vang,"110,000"
+4,Salad Thịt Nướng,"126,000"
+5,Cơm Bò Nướng Suteki,"225,000"
+6,Mì Udon Salad,"95,000"
+7,Mì Udon Và Đậu Ngọt,"95,000"
+8,Mì Udon Và Trứng Gà,"98,000"

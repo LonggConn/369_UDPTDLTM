@@ -1,0 +1,7 @@
+,Food,Price
+0,Chân gà xả tắc 10 chân mix Cóc dầm+ sốt,"78,000"
+1,Chân gà sốt thái 10 chân mix cóc dầm+ sốt,"78,000"
+2,Chân gà sả tắc 10 chân to mix cóc + sốt,"78,000"
+3,Nước chấm thần thánh,"3,000"
+4,Cóc dầm,"23,000"
+5,Cóc ăn kèm,"7,000"

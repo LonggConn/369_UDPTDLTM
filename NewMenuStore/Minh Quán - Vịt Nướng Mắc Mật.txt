@@ -1,0 +1,6 @@
+,Food,Price
+0,Vịt mắc mật,"150,000"
+1,Cá nướng (rau rừng + mắm nêm + bánh tráng +..),"150,000"
+2,Heo Nướng Giả Cầy,"120,000"
+3,Gà ta mắc mật loại 1,"250,000"
+4,"Heo Nấu Giả Cầy ( 1,5 Kg )","180,000"

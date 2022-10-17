@@ -1,0 +1,5 @@
+,Food,Price
+0,Soup bào ngư tăng lực Ruby one,"299,000"
+1,Bún Thái Hải Sản,"89,000"
+2,Soup bào ngư - vi cá tăng lực Diamond one,"490,000"
+3,Miến/Mì Trộn Hải Sản,"99,000"

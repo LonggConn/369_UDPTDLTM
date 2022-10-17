@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh canh,"30,000"
+1,Bánh mì không,"5,000"
+2,Dĩa chả,"25,000"
+3,Bánh mì chả cá,"25,000"
+4,Súp + bánh mì,"34,000"

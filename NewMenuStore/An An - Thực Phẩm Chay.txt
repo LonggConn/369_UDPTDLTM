@@ -1,0 +1,5 @@
+,Food,Price
+0,Sữa đậu nành 330ml,"6,000"
+1,Đậu phộng tỏi ớt 40g,"5,000"
+2,Đậu phộng tỏi ớt 70g,"10,000"
+3,Đậu phộng tỏi ớt 250g,"35,000"

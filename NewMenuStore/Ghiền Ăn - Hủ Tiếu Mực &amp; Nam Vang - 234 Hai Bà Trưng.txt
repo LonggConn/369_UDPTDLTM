@@ -1,0 +1,6 @@
+,Food,Price
+0,Hủ tiếu mực,"75,000"
+1,Hủ tiếu Nam Vang,"75,000"
+2,Hủ tiếu mực tôm,"85,000"
+3,Hủ tiếu xương ống,"75,000"
+4,Hủ tiếu ghiền ăn,"75,000"

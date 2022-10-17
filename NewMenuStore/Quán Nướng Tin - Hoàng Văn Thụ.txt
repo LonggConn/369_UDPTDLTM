@@ -1,0 +1,5 @@
+,Food,Price
+0,Lòng non nướng,"55,000"
+1,Gà sa tế,"65,000"
+2,Ếch nướng,"50,000"
+3,Heo rừng xào lăn,"65,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Combo Gỏi Cuốn Mua 10 Tặng 2,"85,000"
+1,Combo Hột Vịt Lộn Luộc Nước Dừa Mua 10 Tặng 1,"85,000"
+2,Hột Vịt Lộn Luộc Nước Dừa,"8,500"
+3,Gỏi Cuốn,"8,500"

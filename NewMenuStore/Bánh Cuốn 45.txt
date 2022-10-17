@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh cuốn chả quế,"32,000"
+1,Bánh cuốn trứng,"15,000"
+2,Bánh cuốn không chả,"26,000"
+3,Bánh cuốn chả nướng,"45,000"
+4,Mì gà tần,"80,000"
+5,Gà tần,"70,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Lẩu bò bông atiso,"499,000"
+1,Cơm chiên Xưa,"89,000"
+2,Bò tơ nướng,"299,000"

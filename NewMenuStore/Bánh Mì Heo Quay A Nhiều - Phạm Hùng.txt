@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh mì heo quay,"50,000"
+1,Bánh mì phá lấu,"25,000"
+2,Bánh mì xá xíu,"30,000"

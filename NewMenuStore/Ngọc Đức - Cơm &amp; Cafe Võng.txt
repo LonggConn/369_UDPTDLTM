@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm sườn xào chua ngọt,"30,000"
+1,Cơm canh chua cá hú,"25,000"
+2,Cơm gà chiên nước mắm,"25,000"
+3,Cơm gà kho,"30,000"
+4,Cơm cá trê kho tiêu,"25,000"
+5,Cơm thịt kho hột vịt,"25,000"
+6,Cơm khổ qua nhồi thịt,"25,000"
+7,Cơm cá kho,"25,000"
+8,Cơm tàu hủ chiên nước mắm,"25,000"
+9,Cơm ốc bươu xào cà ri,"25,000"

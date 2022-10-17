@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún bò nạm gân,"40,000"
+1,Bún bò chả nạm,"40,000"
+2,Bún bò giò gân,"40,000"
+3,Bún riêu giò heo,"35,000"
+4,Bún bò giò heo,"40,000"
+5,Bún riêu xương,"35,000"
+6,Bún riêu,"30,000"

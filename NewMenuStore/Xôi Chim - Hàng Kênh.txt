@@ -1,0 +1,11 @@
+,Food,Price
+0,Xôi Chim,"35,000"
+1,Xôii Chim Thập Cẩm,"60,000"
+2,Xôi Thập Cẩm,"35,000"
+3,Chim Quay,"35,000"
+4,Xôi Thịt Thập Cẩm,"50,000"
+5,Xôi Chim Quay,"60,000"
+6,Xôi Thịt,"35,000"
+7,Xôi Chim Trứng Non,"60,000"
+8,Sữa Đậu Nành,"5,000"
+9,Sữa Ngô,"15,000"

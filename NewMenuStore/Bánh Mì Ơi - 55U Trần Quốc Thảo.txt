@@ -1,0 +1,25 @@
+,Food,Price
+0,Bánh Mì Bò Sa Tế,1
+1,Bánh Mì Xíu Mại,1
+2,Bánh Mì Gà Xíu,1
+3,Bánh Mì Heo Khìa,1
+4,Bánh Mì Bò Né,1
+5,Bánh Mì Sấy Bơ Tỏi,1
+6,Bánh Mì Sấy Hạnh Nhân Mật Ong,1
+7,Bánh Mì Que Pate Chà Bông,"12,000"
+8,Bánh Mì Ơi Đặc Biệt,"45,000"
+9,Bánh Mì Hai Vị,"35,000"
+10,Bánh Mì Chay,"22,000"
+11,Bánh Mì Trứng Ốp La Sốt Heo Khìa,"25,000"
+12,Bánh Mì Que Pate Chà Bông Cay,"12,000"
+13,Bánh Mì Lườn Ngỗng Bắc Kinh,"45,000"
+14,Bánh Mì Que Thịt Xông Khói,"18,000"
+15,Dừa Xiêm Xanh,"15,000"
+16,Dừa Xiêm Tắc,"15,000"
+17,Dừa Xiêm Sen,"15,000"
+18,Sữa Đậu Xanh,"15,000"
+19,Trà Tắc Mật Ong (455ml),"15,000"
+20,Combo 02,"75,000"
+21,Combo 03,"39,000"
+22,Combo 01 (Dừa Xiêm/ Sữa),"75,000"
+23,Bánh Mì Sấy Bơ Đậu Phộng,"29,000"

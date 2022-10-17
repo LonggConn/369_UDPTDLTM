@@ -1,0 +1,8 @@
+,Food,Price
+0,Tô lớn,"60,000"
+1,Tô nhỏ,"50,000"
+2,Lẩu nhỏ,"200,000"
+3,Lẩu vừa,"300,000"
+4,Lẩu lớn,"400,000"
+5,Chân gà sả tắc/ Chân gà sốt thái,"85,000"
+6,Đuôi heo ngâm nước mắm,"90,000"

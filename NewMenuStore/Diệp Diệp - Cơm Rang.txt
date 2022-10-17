@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Rang Thập Cẩm,"40,000"
+1,Cơm Rang Hải Sản ,"40,000"
+2,Cơm Rang Dưa Bò ,"40,000"
+3,Thêm ruốc tép,"10,000"
+4,Cơm Rang Ruốc Tép,"35,000"
+5,Trứng ốp ,"7,000"
+6,Thêm nhân,"10,000"
+7,Ruốc Chưng Mắm Tép Nhỏ,"60,000"
+8,Thêm  cơm,"5,000"

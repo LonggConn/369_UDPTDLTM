@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Đùi Gà,"48,000"
+1,Cơm đùi gà ốp la,"55,000"
+2,Cơm Má Đùi Lớn ,"48,000"
+3,Cơm chiên dưa bò (cải chua xào bò ),"48,000"
+4,Cơm chiên cải ngọt xào bò,"48,000"
+5,Cơm cánh gà,"48,000"
+6,Mì Xào Hải Sản,"50,000"
+7,Mì xào bò,"48,000"
+8,Cơm chiên hải sản,"50,000"

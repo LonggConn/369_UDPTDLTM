@@ -1,0 +1,11 @@
+,Food,Price
+0,Ếch 2 con (đã có cháo),"80,000"
+1,Cháo thêm,"10,000"
+2,Ếch 3 con (đã có cháo),"115,000"
+3,Đậu rồng,"10,000"
+4,Sâm Rong Biển,"10,000"
+5,Rau câu ( 2hủ),"15,000"
+6,Combo ( ếch 2con+1cháo+đậu+1rau câu(2hủ)+1 sâm),"115,000"
+7,Combo ( 2 phần /4ếch+3cháo+1đậu+rau câu(2hủ)+sâm),"185,000"
+8,Combo ( 3ếch+cháo+đậu+rau câu (2hủ)+sâm),"140,000"
+9,Combo ( 2phần/5 ếch +3cháo+đậu+rau câu (2hủ)+sâm),"220,000"

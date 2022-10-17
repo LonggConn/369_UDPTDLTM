@@ -1,0 +1,12 @@
+,Food,Price
+0,Nước sâm nhãn ly,"27,000"
+1,Chai Sâm nhãn,"37,000"
+2,Set 5 hủ Rau Câu,"47,000"
+3,Rau Má Béo,"25,000"
+4,Ly Sữa chua trái cây tươi,"33,000"
+5,Cà rốt ép,"27,000"
+6,Sting sữa,"19,000"
+7,Táo Hàn Quốc,"140,000"
+8,Nhãn + Táo_ thêm,"7,000"
+9,Nhãn thêm,"7,000"
+10,Táo thêm,"7,000"

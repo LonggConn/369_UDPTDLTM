@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm gà xối mỡ,"29,700"
+1,"Cơm gà đùi lớn "" chà bá lửa""","49,500"
+2,Cơm thêm,"6,300"

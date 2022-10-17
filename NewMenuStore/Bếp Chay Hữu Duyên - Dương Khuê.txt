@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm chay ,"25,000"
+1,Cơm chay đặc biệt,"30,000"
+2,Bún chay,"25,000"
+3,Bún xào nghệ ,"25,000"
+4,Trà bí đao,"15,000"
+5,Sting,"15,000"
+6,Bò húc,"20,000"
+7,Pepsi,"12,000"
+8,Bộ bát gáo dừa + muỗng gỗ,"30,000"
+9,Granola Siêu hạt sấy mật ong 500g,"200,000"

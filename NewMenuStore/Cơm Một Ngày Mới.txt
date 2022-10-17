@@ -1,0 +1,10 @@
+,Food,Price
+0,"Cơm Thịt Heo Quay ( Thịt rán, thịt luộc)","79,000"
+1,Cơm Thịt Lợn Kho Tàu,"79,000"
+2,Cơm Sườn Lợn Sốt Chua Ngọt,"89,000"
+3,Cơm  Đùi Gà Om Nấm,"79,000"
+4,Cơm Tự  Chọn Theo Yêu Cầu,"120,000"
+5,Cơm Cá Trắm Kho,"79,000"
+6,Cơm  Bò Bắp Kho Gừng ( Bò xào),"99,000"
+7,Cơm Cá     Thu Rim Gừng,"89,000"
+8,Cơm Sườn Lợn Nướng BBQ,"99,000"

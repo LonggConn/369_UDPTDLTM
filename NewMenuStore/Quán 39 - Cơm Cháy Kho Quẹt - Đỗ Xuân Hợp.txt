@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm cháy kho quẹt,"35,000"
+1,Cơm cháy thêm,"12,000"
+2,Chuối xào dừa,"15,000"
+3,Rau thêm,"10,000"

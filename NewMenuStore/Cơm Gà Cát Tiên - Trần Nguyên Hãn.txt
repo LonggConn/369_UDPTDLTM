@@ -1,0 +1,9 @@
+,Food,Price
+0,Miến gà,"44,000"
+1,Phở gà,"44,000"
+2,Mì  Gà,"44,000"
+3,Cơm gà xé,"44,000"
+4,Cơm gà chiên mắm,"50,000"
+5,Cơm Gà Chặt,"56,000"
+6,GỎI GÀ CÁT TIÊN,"50,000"
+7,Trà Tắc Mật Ong BONCHA,"15,000"

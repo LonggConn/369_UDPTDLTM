@@ -1,0 +1,10 @@
+,Food,Price
+0,Sinh tố dâu,"20,000"
+1,Coffee đá,"15,000"
+2,Coffee sữa,"18,000"
+3,Nước ép carot,"15,000"
+4,Nước ép carot sữa,"20,000"
+5,Nước ép ổi,"15,000"
+6,Nước ép táo,"20,000"
+7,Sinh tố bơ,"20,000"
+8,Sinh tố mãng cầu,"20,000"

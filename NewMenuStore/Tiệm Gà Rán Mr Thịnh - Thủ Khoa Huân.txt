@@ -1,0 +1,13 @@
+,Food,Price
+0,Gà viên kèm khoai tây,"30,000"
+1,Khoai lang lắc,"25,000"
+2,Đùi gà kèm khoai tây,"30,000"
+3,Bánh gạo lắc,"25,000"
+4,Đùi Gà +  1 Ly Coca,"30,000"
+5,Khoai tây lắc,"25,000"
+6,Hotdog phô mai,"25,000"
+7,Cánh gà kèm khoai tây,"30,000"
+8,Má đùi + 1 Ly Coca,"35,000"
+9,Cánh gà + 1 Ly Coca,"30,000"
+10,Má đùi kèm khoai tây,"35,000"
+11,Gà viên + 1 ly Coca,"30,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,"Gà tiềm ớt hiểm + cải xanh, mùng tơi","439,000"
+1,Gà hấp lá chúc + nấu miến 1.5kg,"449,000"
+2,Gà hấp lá chúc + nấu miến 1.8kg,"499,000"
+3,Gà hấp mắm nhĩ 1.5kg,"449,000"
+4,Gà hấp mắm nhĩ 1.8kg,"499,000"
+5,Gà tiềm ớt hiểm + xà lách xoan,"479,000"

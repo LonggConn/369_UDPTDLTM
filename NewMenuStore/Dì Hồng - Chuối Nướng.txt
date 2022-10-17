@@ -1,0 +1,12 @@
+,Food,Price
+0,Chuối thập cẩm,"30,000"
+1,Chuối nếp nướng và hấp,"25,000"
+2,Chuối nếp nướng và chuối xắt,"25,000"
+3,Chuối hấp và chuối xắt,"25,000"
+4,Chuối nếp nướng(nguyên trái),"20,000"
+5,Chuối  nếp nướng(phần nhỏ),"20,000"
+6,Chuối nếp nướng(phần lớn),"30,000"
+7,Chuối nếp nướng lá cẩm(phần nhỏ),"23,000"
+8,Bánh chuối hấp,"20,000"
+9,Chuối xắt,"20,000"
+10,Nước cốt thêm,"8,000"

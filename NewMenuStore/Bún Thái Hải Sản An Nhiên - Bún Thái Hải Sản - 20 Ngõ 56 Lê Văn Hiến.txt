@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún thái hải sản,"50,000"
+1,quẩy que,"3,000"
+2,Bún thái thập cẩm,"55,000"
+3,Bún cá,"45,000"
+4,Bún thái bò + sườn sụn,"50,000"
+5, mỳ thái hải sản ,"50,000"
+6,Bún thái bò,"50,000"
+7,Trà Chanh Đào,"20,000"
+8,Bún thái sườn sụn,"45,000"
+9,Trà Chanh,"15,000"
+10,Trà Chanh  Vị Bạc Hà,"20,000"
+11,Bún thái hải sản đặc biệt,"60,000"

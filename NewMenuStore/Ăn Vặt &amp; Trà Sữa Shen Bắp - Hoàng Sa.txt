@@ -1,0 +1,12 @@
+,Food,Price
+0,Mì thêm,"10,000"
+1,Mì trộn 1 vắt 1 trứng,"17,000"
+2,Mì trộn 2 vắt 1 trứng,"25,000"
+3,Bánh Bao Chiên,"8,000"
+4,Trà sữa 500ml,"55,000"
+5,Trà sữa 1000ml,"80,000"
+6,Trân châu trắng 3Q,"7,000"
+7,Trân châu đen,"7,000"
+8,Bánh tráng túi zip,"20,000"
+9,Muối thêm,"10,000"
+10,Trứng cút,"5,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Nha Trang fish-man pizza,"119,000"
+1,Johnny Meat Lover,"129,000"
+2,Pizza Magherita,"99,000"
+3,Pizza Paesana,"119,000"
+4,Pepperoni,"119,000"
+5,Thêm viên mozzarella 125gr,"99,000"
+6,Pizza All'Ortolanno,"119,000"
+7,Phần khoai ăn thêm,"49,000"
+8,Nước ngọt,"19,000"

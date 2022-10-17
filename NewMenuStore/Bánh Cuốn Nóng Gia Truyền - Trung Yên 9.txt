@@ -1,0 +1,12 @@
+,Food,Price
+0,Combo Bánh Cuốn Có Chả + Bánh Cuốn Trứng,"50,000"
+1,Bánh Cuốn Có Chả,"48,000"
+2,Bánh Cuốn Không Chả,"35,000"
+3,Bánh Cuốn Trứng Hấp,"15,000"
+4,Combo bánh cuốn ko chả + 1 quả trứng hấp,"40,000"
+5,Chả bánh cuốn ăn thêm,"15,000"
+6,Xuất trẻ em ít bánh,"25,000"
+7,Hành phi,"10,000"
+8,Bánh Cuốn Chay Có Chả,"48,000"
+9,Bánh Cuốn Chay Không Chả,"40,000"
+10,Chả Mỡ,"200,000"

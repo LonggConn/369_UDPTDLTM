@@ -1,0 +1,5 @@
+,Food,Price
+0,Combo 3 Bánh Mì Que,"36,000"
+1,Combo 2 Bánh Mì Que,"24,000"
+2,Bánh Mỳ Que Cay,"12,000"
+3,Bánh Mỳ Que Không Cay,"12,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Mì Quảng thập cẩm,"50,000"
+1,"Mì Quảng tôm, sườn","50,000"
+2,"Mì Quảng tôm, gà","50,000"
+3,Mì Quảng Sườn Non,"50,000"
+4,Mì Quảng Gà,"50,000"
+5,Mì-Nước Lèo,"15,000"
+6,Bánh Tráng,"10,000"
+7,Mì Quảng Tôm,"50,000"
+8,Sườn Non -Nước Lèo,"35,000"
+9,Gà-Nước Lèo,"35,000"
+10,Tôm-Nước Lèo,"35,000"

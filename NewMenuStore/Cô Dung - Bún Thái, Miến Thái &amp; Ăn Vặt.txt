@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún Thái đặc biệt,"60,000"
+1,Bún Thai.,"55,000"
+2,Bun Bo Hue,"50,000"
+3,Bùn Xao ,"33,000"
+4,Banh Canh  Cua  ,"50,000"

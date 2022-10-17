@@ -1,0 +1,7 @@
+,Food,Price
+0,cá lóc nướng 900gram đến 1kg,"175,000"
+1,cá lóc nướng 700gram đến 800gram,"140,000"
+2,Lẩu lòng bò,"150,000"
+3,Lòng bò lộn xộn luôc chín(kg),"115,000"
+4,Lẩu lòng bò nấu mẻ,"150,000"
+5,"Cá lóc nướng 1,2kg","195,000"

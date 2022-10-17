@@ -1,0 +1,5 @@
+,Food,Price
+0,Mẹt Gà 7 Món,"550,000"
+1,Mẹt Gà 5 Món,"450,000"
+2,Lẩu ốc,"350,000"
+3,Lẩu Riêu Cua Bắp Bò Sườn Sụn,"350,000"

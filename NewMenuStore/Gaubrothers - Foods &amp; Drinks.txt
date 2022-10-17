@@ -1,0 +1,4 @@
+,Food,Price
+0,Sứa biển 500gram,"60,000"
+1,Bánh bột lọc sống,"4,000"
+2,Hàu sữa sống 500gram,"60,000"

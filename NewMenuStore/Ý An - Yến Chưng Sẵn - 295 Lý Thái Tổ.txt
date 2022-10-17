@@ -1,0 +1,7 @@
+,Food,Price
+0,Yến đảo chưng sẵn Đông Trùng Hạ thảo,"80,000"
+1,Yến đảo chưng nhân sâm,"80,000"
+2,Yến đảo chưng sẵn đường phèn,"60,000"
+3,Set 6 hũ yến đảo chưng sẵn đường phèn,"360,000"
+4,Hộp quà nâu 6 hũ đảo yến chưng sẵn mix 3 vị,"550,000"
+5,Yến đảo chưng sẵn vị đường kiêng,"60,000"

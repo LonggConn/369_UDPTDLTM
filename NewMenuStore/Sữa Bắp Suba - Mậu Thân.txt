@@ -1,0 +1,12 @@
+,Food,Price
+0,Sữa Bắp Suba,"22,000"
+1,Sữa Bắp Đặc Biệt,"27,000"
+2,Hồng Trà Kem Bắp,"22,000"
+3,Sữa Xoài,"27,000"
+4,Combo 4 Ly SỮA BẮP Full topping,"108,000"
+5,Combo Cacao Sữa Và Matcha Sữa Full Topping,"54,000"
+6,Combo 3 Hồng Trà Kem Bắp,"66,000"
+7,Sữa Khoai Lang,"27,000"
+8,Cacao Sữa Full Topping,"27,000"
+9,Sữa Gạo Rang Full Topping,"27,000"
+10,Matcha Full Topping,"27,000"

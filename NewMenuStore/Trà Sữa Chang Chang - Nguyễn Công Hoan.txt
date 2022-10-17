@@ -1,0 +1,7 @@
+,Food,Price
+0,Trà sữa chai 330ml,"35,000"
+1,Trà dâu chai 330ml,"35,000"
+2,Cà phê sữa đá mix hạt cà phê,"25,000"
+3,Trà sữa ly,"25,000"
+4,Trà sữa  chai ( 1 lít),"110,000"
+5,Trà dâu ly,"25,000"

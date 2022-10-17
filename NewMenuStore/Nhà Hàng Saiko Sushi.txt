@@ -1,0 +1,12 @@
+,Food,Price
+0,Saba shio yaki set (phần cơm cá saba nướng),"111,100"
+1,Califonia roll (4 viên)(cơm cuộn kiểu  mỹ),"55,000"
+2,Avocado maki (cơm cuộn bơ),"44,000"
+3,Kani mentai roll (4 viên)(cơm cuộn thịt cua với trứng cá tuyết),"60,500"
+4,Ebi avocado roll (4 viên)(cơm cuộn tôm với bơ),"71,500"
+5,Tamago maki (trứng chiên cuộn kiểu nhật),"44,000"
+6,Yakiniku set (phần cơm thịt bò nướng),"159,500"
+7,Buta shogayaki set (phần cơm thịt heo xào gừng),"111,100"
+8,Chicken teri set (phần cơm gà áp chảo sốt Teri),"111,100"
+9,Sanma kabayaki set (phần cơm cá thu nhật nướng),"115,500"
+10,Sushi maki,"111,100"

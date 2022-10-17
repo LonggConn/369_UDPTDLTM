@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh bông lan trứng muối mix 2 sốt,"70,000"
+1,Bánh trà sữa trân châu đường đen,"70,000"
+2,Bánh milo kem cheese,"70,000"
+3,Bánh mì bơ tỏi phô mai,"75,000"

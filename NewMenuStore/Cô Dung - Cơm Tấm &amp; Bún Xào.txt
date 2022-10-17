@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm tấm sườn bì trứng,"18,000"
+1,Bún xào,"18,000"
+2,Bún thịt nướng,"18,000"
+3,Cơm tấm sườn trứng,"18,000"
+4,Cơm tấm sườn,"18,000"

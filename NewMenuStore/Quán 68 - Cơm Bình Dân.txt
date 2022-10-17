@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Sườn Chua Ngọt,"30,000"
+1,Cơm Gà Rang Sả,"30,000"
+2,Cơm Thịt Kho Tàu,"30,000"
+3,Cơm Đậu Phụ Sốt Cà Chua,"30,000"
+4,Cơm Thịt Luộc,"30,000"
+5,Cơm Chả Cuốn,"30,000"

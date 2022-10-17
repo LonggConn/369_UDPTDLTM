@@ -1,0 +1,13 @@
+,Food,Price
+0,Rau cau,"40,000"
+1,Combo 10 bánh tart,"165,000"
+2,Combo 10 Bánh đế cookie,"165,000"
+3,Combo cookie kem sữa dứa,"85,000"
+4,Bánh trứng mix vị,"75,000"
+5,Combo tart kem sữa phô mai beo béo,"85,000"
+6,Combo cookie kem sữa phô mai,"85,000"
+7,Combo tart kem sữa dứa nóng giòn,"85,000"
+8,Tart Trứng Phô Mai,"20,000"
+9,Tart đế cookie sữa dứa,"20,000"
+10,Tart đế cookie kem trứng,"20,000"
+11,Tart trứng kem sữa dứa,"20,000"

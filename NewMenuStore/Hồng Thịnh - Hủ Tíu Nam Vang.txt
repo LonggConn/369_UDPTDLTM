@@ -1,0 +1,7 @@
+,Food,Price
+0,Hủ tiếu,"63,000"
+1,Hủ tiếu xương xí quách,"73,000"
+2,Bánh bao đặc biệt,"27,000"
+3,Bánh bao thường,"27,000"
+4,Combo(hủ tiếu+sprite),"85,000"
+5,Combo(hủ tiếu+coca),"85,000"

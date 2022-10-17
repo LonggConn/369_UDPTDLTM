@@ -1,0 +1,3 @@
+,Food,Price
+0,Gà quay bánh bao  1 con + 4 bánh bao.rau dưa kim chi. Muối chấm ,"200,000"
+1,Bánh bao thêm 3 cái ,"10,000"

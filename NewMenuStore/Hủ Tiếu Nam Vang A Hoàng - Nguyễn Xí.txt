@@ -1,0 +1,9 @@
+,Food,Price
+0,Hủ tiếu nam vang khô,"45,000"
+1,Hủ tiếu nam vang,"50,000"
+2,Xí quách,"55,000"
+3,Hủ tiếu nam vang đầy đủ+xí quách,"75,000"
+4,Hủ tiếu khô + xí quách,"75,000"
+5,Vú heo ướp chao,"110,000"
+6,Chân gà  ủ muối  rút xương,"90,000"
+7,Mì gói khô,"50,000"

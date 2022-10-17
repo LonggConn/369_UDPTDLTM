@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh tráng trộn đặc biệt,"25,000"
+1,Bánh tráng sate tắc ( ko trộn),"15,000"
+2,Bánh tráng trộn sate hành phi trứng,"20,000"
+3,Bánh tráng trộn sate mỡ hành trứng,"20,000"
+4,Bánh tráng trộn mỡ hành hành phi trứng,"23,000"
+5,Bánh tráng trộn khô mực,"23,000"
+6,Bánh tráng trộn sate trứng,"20,000"
+7,Trứng cút cút,"3,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Lẩu thái lớn ,"300,000"
+1,Lẩu thái nhỏ,"200,000"
+2,Hủ tíu khô tôm thịt ,"45,000"
+3,Cháo ếch Singapore (1 con),"35,000"
+4,Cháo ếch Singapore (2 con),"65,000"
+5,Chén thịt thêm ,"25,000"
+6,Trứng gà ,"8,000"
+7,Lẩu bò nhỏ ,"200,000"
+8,Lẩu bò lớn ,"300,000"
+9,Bún bò Sài Gòn ,"35,000"
+10,Phở yên ,"35,000"

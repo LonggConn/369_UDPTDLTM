@@ -1,0 +1,11 @@
+,Food,Price
+0,Tasumi truyền thống,"39,000"
+1,Mì đào miếng,"39,000"
+2,Tasumi thập cẩm ,"49,000"
+3,Mì táo,"39,000"
+4,Mì dâu,"39,000"
+5,Mì vải,"39,000"
+6,Mì việt quất,"39,000"
+7,Rong biển cháy tỏi,"35,000"
+8,Khoai tây lắc phô mai,"29,000"
+9,Khoai tây chiên rong biển,"29,000"

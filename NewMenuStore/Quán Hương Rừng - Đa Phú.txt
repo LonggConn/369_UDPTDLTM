@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm trắng,"20,000"
+1,Cơm lam,"30,000"
+2,Các món rau,"60,000"
+3,Gà đồi,"380,000"
+4,Canh cá tầm măng chua,"150,000"
+5,Cá kèo kho tộ,"120,000"
+6,Heo rừng,"250,000"
+7,Lẩu cá tầm,"300,000"
+8,Canh rau thịt bằm,"70,000"
+9,Trà atiso,"10,000"
+10,Trà đá,"3,000"

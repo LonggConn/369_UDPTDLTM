@@ -1,0 +1,7 @@
+,Food,Price
+0,Sâm 24 Vị Cổ Truyền,"24,000"
+1,Mía Lau Củ Năng,"22,000"
+2,Nước Đắng,"24,000"
+3,Sâm Củ Sen,"22,000"
+4,Sanh Địa Rong Biển,"22,000"
+5,Quy Linh Cao,"22,000"

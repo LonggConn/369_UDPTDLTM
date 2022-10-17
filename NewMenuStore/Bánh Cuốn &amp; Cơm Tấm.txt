@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún Thịt Nướng,"27,000"
+1,Cơm Tấm Sườn Trứng,"35,000"
+2,Cơm Tấm Sườn Bì Chả,"35,000"
+3,Cơm Tấm Sườn,"27,000"
+4,Cơm Tấm Sườn Chả,"35,000"
+5,Bánh Cuốn (chả),"27,000"
+6,Cơm Tấm Sườn Bì Chả Trứng,"40,000"
+7,Bánh Cuốn - Sườn Nướng,"35,000"
+8,Cơm Tấm Sườn Bì,"27,000"
+9,*Cơm Thêm,"5,000"
+10,Cơm Tấm Sườn Bì Trứng,"35,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Cá nục kho rục xương 400gr,"95,000"
+1,Cá ngừ sọc mướp kho 400gr,"95,000"
+2,Mực trứng chiên nước mắm,"175,000"
+3,Cơm chiên cá mặn,"155,000"
+4,Bò lạc cảnh,"195,000"
+5,Mì xào giòn hải sản,"220,000"
+6,Tôm sấy cao cấp 200gr,"278,000"
+7,Phở áp chảo,"190,000"
+8,Tôm sấy cao cấp 1kg,"1,390,000"
+9,Lẩu cá giòn Nga nấu măng chua,"250,000"

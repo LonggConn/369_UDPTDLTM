@@ -1,0 +1,7 @@
+,Food,Price
+0,Combo dồi sụn + bánh bạch tuộc,"40,000"
+1,Dồi sụn đặc biệt,"30,000"
+2,Dồi sụn rán,"12,000"
+3,Hộp 8 viên,"40,000"
+4,1 cái,"6,000"
+5,Hộp 6 viên,"30,000"

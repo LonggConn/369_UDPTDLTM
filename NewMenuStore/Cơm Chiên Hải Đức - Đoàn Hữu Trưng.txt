@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm gà xối mỡ,"28,000"
+1,Cơm chiên sườn,"28,000"
+2,Cơm chiên gà xúc xích,"32,000"
+3,Cơm chiên thập cẩm,"28,000"
+4,Cơm chiên sườn xúc xích,"32,000"
+5,Cơm chiên xúc xích,"23,000"
+6,Cơm chiên trứng,"20,000"
+7,Cơm chiên lạp xưởng,"25,000"
+8,Cơm chiên chả,"27,000"
+9,Cơm chiên thêm,"10,000"

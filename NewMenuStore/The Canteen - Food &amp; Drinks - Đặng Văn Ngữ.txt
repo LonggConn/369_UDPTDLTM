@@ -1,0 +1,8 @@
+,Food,Price
+0,Kimbap bò chiên kiểu Nhật + Coca-Cola,"42,500"
+1,Coca-Cola,"9,900"
+2,Kimbap truyền thống + Coca-Cola,"39,950"
+3,Cơm trộn bibimbap+ 1 mỳ trộn trứng + 02 Coca-Cola,"83,300"
+4,Spaghetti classic + 1 khoai tây lắc phomai + 02 Coca-Cola,"84,150"
+5,2 Coca-Cola,"19,800"
+6,Coca-Cola chỉ 1Đ ,"11,000"

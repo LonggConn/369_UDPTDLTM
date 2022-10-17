@@ -1,0 +1,7 @@
+,Food,Price
+0,Hot dog phô mai,"6,000"
+1,Hot dog thập cẩm,"6,000"
+2,Hot dog xúc xích,"6,000"
+3,Hot dog chà bông,"6,000"
+4,Hot dog  pa tê,"6,000"
+5,Hot dog socola,"6,000"

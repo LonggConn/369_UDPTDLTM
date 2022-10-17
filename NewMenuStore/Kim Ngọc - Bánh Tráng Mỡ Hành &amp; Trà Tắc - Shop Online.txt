@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh tráng mỡ hành,"30,000"
+1,Trà tắc Tam Đường Đặc Biệt,"23,000"
+2,Tắc Xí Muội,"23,000"
+3,Tắc Đá,"23,000"
+4,Trứng Cút,"1,000"
+5,Bánh Tráng Sà Tế Mỡ Hành - Bịch Lớn 4 Trứng,"32,000"
+6,Bánh Tráng Sà Tế Mỡ Hành - Bịch Nhỏ 2 Trứng,"16,000"
+7,Bánh Tráng Sa Tế - Nhỏ,"13,000"
+8,Bánh Tráng Sa Tế- Lớn,"26,000"
+9,Bánh Tráng Sà Tế Mỡ Hành - Bịch Lớn ,"28,000"
+10,Bánh Tráng Sà Tế Mỡ Hành - Bịch Nhỏ,"14,000"

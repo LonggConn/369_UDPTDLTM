@@ -1,0 +1,5 @@
+,Food,Price
+0,Chè thái,"22,000"
+1,Bánh trôi nóng(chỉ bán vào mùa đông từ tháng 10 đến tháng 3),"22,000"
+2,Kem xôi,"22,000"
+3,Bánh Mây,"6,000"

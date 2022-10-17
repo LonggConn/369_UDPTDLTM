@@ -1,0 +1,6 @@
+,Food,Price
+0,Cheese Castella (Lớn),"119,200"
+1,Original Castella (Lớn),"95,200"
+2,Chà Bông Trứng Muối Phô Mai (Lớn),"127,200"
+3,Salt York Cheese Castella (Lớn),"127,200"
+4,Bánh Bông Lan Phô Mai Hạnh Nhân (Lớn),"119,200"

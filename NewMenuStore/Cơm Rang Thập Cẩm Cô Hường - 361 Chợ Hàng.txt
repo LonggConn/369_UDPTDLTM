@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm rang thập cẩm,"40,000"
+1,Cơm rang gà ,"40,000"
+2,Cơm Rang Thập Cẩm +1 Coca,"50,000"
+3,1 Chai Coca ,"12,000"
+4,1 Lon Coca,"15,000"
+5,Cơm Rang Xá Xíu+1 Coca ,"50,000"
+6,Cơm Rang Gà+1 Coca ,"50,000"
+7,1 Lon Sprite,"15,000"

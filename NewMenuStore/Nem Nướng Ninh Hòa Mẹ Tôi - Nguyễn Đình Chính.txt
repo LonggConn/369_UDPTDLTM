@@ -1,0 +1,6 @@
+,Food,Price
+0,Nem nướng Ninh Hòa,"50,150"
+1,Nem thêm,"34,000"
+2,Bún và rau thêm,"12,750"
+3,Nem chả thêm,"34,000"
+4,Chả thêm,"34,000"

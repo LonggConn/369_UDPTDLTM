@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún Riêu Cua Bò Giò,"65,000"
+1,Trứng Vịt Lộn,"10,000"
+2,Bún Riêu Cua Bò,"55,000"
+3,Bún Riêu Cua Bò Giò Chả Cá,"75,000"
+4,Bún Riêu Cua Đậu,"35,000"
+5,Bún Riêu Cua Bò Chả,"75,000"
+6,Bún Riêu Cua Giò Chả,"60,000"
+7,Tóp Mỡ,"20,000"
+8,Bún Riêu Cua Giò,"55,000"
+9,Bún Riêu Cua Chả Cá,"65,000"
+10,Sữa Đậu Nành,"10,000"
+11,Trà Đá,"3,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Gà ủ muối hoa tiêu - Nửa con 1vỉ,"120,000"
+1,Gà Ủ Muối Hoa Tiêu - Combo 2vỉ 1con,"230,000"
+2,Chân Gà Rút Xương Ủ Muối,"125,000"
+3,Gà Ri Nguyên Con Ủ Muối Hoa Tiêu,"230,000"
+4,Combo 500gr/2gói Lườn Ngỗng Nga Hun Khói Loại 1 Gói 250gr,"170,000"
+5,Gà Tam Kỳ Ủ Muối Nguyên Con,"285,000"
+6,Lườn Ngỗng Nga Hun Khói Loại 1 Gói 250gr,"89,000"

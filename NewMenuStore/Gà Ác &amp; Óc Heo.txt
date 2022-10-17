@@ -1,0 +1,4 @@
+,Food,Price
+0,Gà ác tiềm thuốc bắc,"70,000"
+1,Óc heo tiềm thuốc bắc,"70,000"
+2,Cật heo tiềm thuốc bắc,"60,000"

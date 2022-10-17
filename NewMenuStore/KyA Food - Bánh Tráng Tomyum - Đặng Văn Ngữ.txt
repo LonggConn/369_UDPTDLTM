@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh Trung Thu Thập cẩm  200gr /2 Trứng,"95,000"
+1,Bánh Trung Thu Gà Quay 200gr /2 Trứng ,"95,000"
+2,Bánh Trung Thu  Đậu Xanh 200gr /2 Trứng,"85,000"
+3,Bánh Trung Thu Trà Xanh 200gr /2 Trứng  ,"85,000"
+4,Bánh Trung Thu Dừa Sữa 200gr /2 Trứng,"85,000"
+5,Bánh Trung Thu Xá Xíu  200gr /2 Trứng ,"95,000"
+6,TRÀ SỮA Nhà Trồng  500ml Kèm Trân châu Trắng ,"65,000"
+7,Topping Trân châu trắng ,"10,000"
+8,TRÀ SỮA Nhà Trồng Chai 330ml Tặng kèm Trân châu Giòn,"40,000"
+9,Trà Sữa Nhà Trồng  1 Lít tặng Kèm Trân châu giòn,"135,000"
+10,Set Hộp bánh & Túi Giấy ,"25,000"

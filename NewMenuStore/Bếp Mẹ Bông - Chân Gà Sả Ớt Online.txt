@@ -1,0 +1,12 @@
+,Food,Price
+0,Chân Gà Rút Xương Sả Ớt,"125,000"
+1,Heo Ẩm Cháy Tỏi,"125,000"
+2,Bánh Bò Nướng,"100,000"
+3,Lava phomai tươi hoàng kim,"85,000"
+4,Bông lan trứng muối kem cheese,"85,000"
+5,Su Mix,"95,000"
+6,Tiramisu,"85,000"
+7,Bông lan Choco Milo creamcheese,"85,000"
+8,Chè Khoai Dẻo,"43,000"
+9,Cơm Cháy Chà Bông,"140,000"
+10,Khoai Lang Sấy Mật Ong,"55,000"

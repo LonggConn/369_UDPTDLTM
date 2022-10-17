@@ -1,0 +1,5 @@
+,Food,Price
+0,Chả ram bắp,"40,000"
+1,Nem Nướng ,"45,000"
+2,Coca-cola /7up/pesi/fanta,"15,000"
+3,Nước Suối ,"10,000"

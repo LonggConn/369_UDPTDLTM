@@ -1,0 +1,10 @@
+,Food,Price
+0,Gà Thả Vườn Nướng Muối Ớt 1 CON,"155,000"
+1,"Gà Thả Vườn Nướng Không Ớt, 1 CON","155,000"
+2,Gà Nướng Muối ớt  2 CON + 1  lon coca,"310,000"
+3,"10 Chén, Bánh Bèo Chén ","50,000"
+4,Chân Gà  Sã Tắc,"59,000"
+5,Muối Ớt Nhà Làm + Râu Răm + Dưa Leo,"15,000"
+6,Lụi Nướng 5 Cây ,"75,000"
+7,Chân Gà Tươi 60k/1kg,"60,000"
+8,Cocacola lon 1 lon,"20,000"

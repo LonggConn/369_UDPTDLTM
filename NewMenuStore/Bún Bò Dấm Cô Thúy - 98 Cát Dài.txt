@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún Bò Dấm,"36,000"
+1,Bún Bò Dấm Bát To,"51,000"
+2,Bún Bò Dấm + 1 Coca Pet ,"46,000"
+3,Bún Bò Dấm + 1 Sprite Pet,"46,000"
+4,Bún Bò Dấm + 1 Fanta Pet,"46,000"
+5,Coca,"11,000"
+6,Pepsi,"11,000"
+7,Nước lavi,"10,000"
+8,Nước Coca,"10,000"
+9,Nước Sprite,"10,000"
+10,Nước Fanta ,"10,000"

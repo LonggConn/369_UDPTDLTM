@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún Ốc Thập Cẩm,"35,000"
+1,Bún Ốc Đặc Biệt,"50,000"
+2,Bún Riêu Bò Giò Tai,"30,000"
+3,Bún Ốc Chả Ốc,"25,000"
+4,Bún Ốc Giò Tai,"25,000"
+5,Bún Ốc lẫn,"35,000"
+6,Bún Ốc Nhỏ,"25,000"
+7,Bún ốc,"25,000"
+8,Bún trộn,"39,000"

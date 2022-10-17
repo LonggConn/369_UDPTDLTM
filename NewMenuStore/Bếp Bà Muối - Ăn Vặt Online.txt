@@ -1,0 +1,4 @@
+,Food,Price
+0,Pate bơ béo (400gram),"85,000"
+1,Pate sate (400gram),"85,000"
+2,Muối nhuyễn thần thánh,"44,000"

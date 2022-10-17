@@ -1,0 +1,10 @@
+,Food,Price
+0,combo 2 Bún Bò Giò Heo + 2 coca,"160,000"
+1,Combo 2 Bún Bò Chả Cua + 2 Coca,"160,000"
+2,"Combo 2 Bún Bò, Gân + 2 Coca","160,000"
+3,"Bún Bò, Chả Cua","50,000"
+4,Bún Bò Giò Heo,"55,000"
+5,"Bún Bò Nồi, Gân Mềm","50,000"
+6,"Bún Bò, Gân","50,000"
+7,Bún Bò Đầy Đủ Không Móng ,"50,000"
+8,Bún bò đặc biệt,"65,000"

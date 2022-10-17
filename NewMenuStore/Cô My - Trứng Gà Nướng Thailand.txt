@@ -1,0 +1,2 @@
+,Food,Price
+0,Trứng Gà Nướng Thailand - 2 trứng,"20,000"

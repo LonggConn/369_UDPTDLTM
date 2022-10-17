@@ -1,0 +1,9 @@
+,Food,Price
+0,Thịt nướng phô mai,"66,000"
+1,Thịt nướng thường,"19,000"
+2,Cá viên sốt,"99,000"
+3,VÚ HEO NƯỚNG SATE (lạng),"55,000"
+4,Bạch tuộc nướng + Đậu bắp,"45,000"
+5,Trà Dâu Tươi,"25,000"
+6,Sụn xù,"60,000"
+7,Xúc xích Đức,"40,000"

@@ -1,0 +1,824 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody	Cửa hàng có menu
+Quán ăn	Gà Rán Chicken Plus - Ba Cu	7 Ba Cu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 21:30	15,000	189,000	0.0%	4.1	3	1
+Café/Dessert	Phi Long Tea &amp; Coffee	Đường Sách Ba Cu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 22:00	10,000	40,000	0.0%	10.0	1	1
+Ăn vặt/vỉa hè	Sinh Tố 52 - Nguyễn Bỉnh Khiêm	52 Nguyễn Bỉnh Khiêm, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 21:30	8,000	30,000	0.0%	8.2	4	1
+Quán ăn	Big Seafood - Súp Bào Ngư &amp; Hải Sản - Nguyễn An Ninh	443 Nguyễn An Ninh, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 10:00 - 20:00	120,000	1,050,000	0.0%	10.0	1	1
+Tiệm bánh	Thọ Vũng Tàu - Bánh Bông Lan Trứng Muối	14 Nguyễn Trường Tộ, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 21:00	25,000	30,000	0.0%	8.2	1	1
+Café/Dessert	Him Coffee	15 Lý Tự Trọng, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 21:00	14,000	40,000	0.0%	9.5	64	1
+Café/Dessert	Sinh Tố Nắng	56 Lê Văn Lộc, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 21:00	20,000	30,000	0.0%	9.3	3	1
+Café/Dessert	Trạm Cà Phê	18 Trương Văn Bang, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 21:00	15,000	35,000	0.0%	9.0	1	1
+Quán ăn	Cơm Niêu Rau Tập Tàng - Lê Hồng Phong	55 Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:30 - 22:30	30,000	110,000	0.0%	8.2	78	1
+Café/Dessert	Royaltea - Trà Sữa Hồng Kông - Thùy Vân	157 Thùy Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	25,000	50,000	0.0%	7.3	9	1
+Tiệm bánh	Tai Yang King Castella - Bánh Bông Lan Đài Loan - Lý thường Kiệt	94 Lý thường Kiệt, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 09:00 - 22:00	89,000	129,000	0.0%	7.7	50	1
+Ăn vặt/vỉa hè	Ăn Vặt 3 Yến	19/1 Lý Thường Kiệt, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 19:00	5,000	25,000	0.0%	7.7	2	1
+Tiệm bánh	Chon Chon Cake Shop	5K1 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 22:00	50,000	300,000	0.0%	7.7	4	1
+Nhà hàng	Petro House - Mì Vịt Quay	63 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 00:05 - 02:00 | 06:00 - 23:59	50,000	100,000	0.0%	7.8	9	1
+Quán ăn	Thuận Phúc - Lẩu Mực Nấu Chao	12 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 22:00	100,000	300,000	0.0%	9.4	18	1
+Café/Dessert	Diên Vĩ Coffee	Huỳnh Tấn Phát, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	0.0	4	 07:00 - 22:00	20,000	100,000	ShopeeFood</span	10.0	1	1
+Café/Dessert	Highlands Coffee - Tân Hoàng Mão VT	1215C - 1215D Bạch Đằng, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	999+	 07:00 - 22:00	9,000	65,000	0.0%	6.2	15	1
+Café/Dessert	Mr. Bo - Coffee &amp; Milktea	E4/6/23 Đường 18 Khu Đô Thị Chí Linh, P. 10, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 23:00	10,000	35,000	0.0%	8.0	2	1
+Quán ăn, Giao cơm văn phòng	Cơm Gà Xối Mỡ Đức Trọng	25 Tú Xương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 21:00	22,000	25,000	0.0%	7.7	8	1
+Ăn vặt/vỉa hè	Cozy - Trà Sữa Túi Lọc	132/35 Nguyễn Tri Phương, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 08:00 - 22:00	14,000	20,000	0.0%	7.8	16	1
+Ăn vặt/vỉa hè	Trà Sữa The Vami - Bà Triệu	128A Bà Triệu, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 10:30 - 21:00	10,000	50,000	0.0%	6.8	60	1
+Ăn vặt/vỉa hè	Cây Bồ Đề - Trái Cây Dĩa, Trứng Gà Lòng Đào &amp; Nước Mía	13 Vi Ba, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 17:00	10,000	20,000	ShopeeFood</span	9.6	1	1
+Café/Dessert	Trà Sữa Cozy	36/17A Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 20:00	10,000	15,000	0.0%	7.8	3	1
+Quán ăn	Dì Màng - Bánh Canh &amp; Nui	21 Lê Quý Đôn, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:30 - 21:00	20,000	35,000	0.0%	7.8	17	1
+Café/Dessert	MEAN Coffee &amp; Tea Leaf - Vũng Tàu Center	LK11 Vũng Tàu Center, 93 Lê Lợi, P. 6, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 22:00	20,000	45,000	0.0%	7.5	4	1
+Ăn vặt/vỉa hè	Quốc Sang - Xôi &amp; Bánh Mì - Lê Hồng Phong	123 Lê Hồng Phong, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 06:00 - 10:00	10,000	25,000	0.0%	8.4	5	1
+Café/Dessert	Palma - The Garden Cafe	32 Thi Sách, P. 8, Tp. Vũng Tàu, Vũng Tàu	5.0	10+	 06:30 - 22:00	9,000	50,000	0.0%	9.2	1	1
+Café/Dessert	Ngôi Nhà Số 6	208/5 Ba Cu, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 10:00 - 22:00	15,000	35,000	0.0%	6.0	7	1
+Café/Dessert	Status - Tea &amp; Coffee Express - Trần Hưng Đạo	7 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 22:00	15,000	35,000	0.0%	7.3	17	1
+Quán ăn	Hoàng Minh - Lẩu Cá Đuối - Trương Công Định	44 Trương Công Định, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 23:30	25,000	220,000	0.0%	6.3	395	1
+Café/Dessert	Joy Cafe &amp; Food	70 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu	5.0	4	 09:00 - 22:00	20,000	50,000	ShopeeFood</span	9.0	2	1
+Café/Dessert	Trà Sữa Anh Nấu - Lê Lai	79 Lê Lai, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:30 - 21:30	20,000	30,000	ShopeeFood</span	8.6	2	1
+Café/Dessert	Trà Sữa Good Life - Ba Cu	205 Ba Cu, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 20:00	12,000	37,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa UP	47 Tú Xương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 08:00 - 21:00	8,000	25,000	0.0%	1.0	1	1
+Quán ăn	Mẹt Tre - Bún Đậu Mắm Tôm - Trương Công Định	382 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 08:30 - 22:20	30,000	200,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Lotteria - CoopMart Vũng Tàu	36 Nguyễn Thái Học, P.7, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 08:00 - 23:00	50,000	77,000	0.0%	6.3	17	1
+Café/Dessert	Star Maxx Food - 10 Hàn Mặc Tử	10 Hàn Mặc Tử, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 21:30	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa &amp; Ăn Vặt - Huyền Tồ	456/14/5 Bình Giã, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 22:00	10,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Pizza Su Thái - Nguyễn Thái Học	19H2 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 08:00 - 21:00	50,000	300,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Gia Mẫn - Trà Sữa	187/50 Lê Lợi, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 23:00	12,000	20,000	0.0%	8.0	1	1
+Ăn vặt/vỉa hè	Star Maxx Tea - Hàn Mặc Tử	5 Hàn Mặc Tử, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 10:00 - 22:00	17,000	27,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cộng Cà Phê - Thống Nhất	4 Thống Nhất, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 Cả ngày	30,000	100,000	0.0%	7.2	147	1
+Quán ăn	Cửa Hàng Sữa Hạt Dinh Dưỡng Forny With Nuts - 206 Nguyễn Hữu Cảnh	206 Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 20:00	20,000	124,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Letto Coffee &amp; Tea	240A Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 23:59	20,000	40,000	0.0%	8.0	61	1
+Quán ăn	2 Ân Quán - Các Món Dê Đặc Sản	215/12 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 23:00	300,000	550,000	ShopeeFood</span	9.3	3	1
+Café/Dessert	Trà Sữa Bobapop - 30 Tháng 4	611 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 07:30 - 22:30	23,000	50,000	0.0%	6.1	16	1
+Shop Online	Bích Vân - Nem Chua Rán &amp; Ăn Vặt - Shop Online	A8 - 02 Vũng Tàu Center, 93 Lê Lợi, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 21:00	30,000	60,000	0.0%	8.8	31	1
+Quán ăn	Hoàng Minh - Lẩu Cá Đuối - Nguyễn Trường Tộ	94 Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 21:00	25,000	220,000	0.0%	6.4	2	1
+Quán ăn	Anh Vy - Cơm Gà Xối Mỡ	50 Hoàng Hoa Thám, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 08:30 - 21:00	20,000	40,000	0.0%	7.0	1	1
+Quán ăn	Mì Cay Michigo - 169 Bạch Đằng	169 Bạch Đằng, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	500+	 08:00 - 22:00	14,000	35,000	0.0%	6.6	10	1
+Café/Dessert, Ăn vặt/vỉa hè	Trái Cây Dĩa 31	121/8 Ba Cu, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 12:00 - 22:30	20,000	40,000	ShopeeFood</span	7.4	27	1
+Quán ăn	Bánh Kẹp Gốc Cột Điện - Bánh Bông Lan Trứng Muối	17B Nguyễn Trường Tộ, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 06:00 - 22:00	25,000	40,000	ShopeeFood</span	6.5	186	1
+Tiệm bánh	Salt Water Bakeshop	41 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 21:00	25,000	200,000	ShopeeFood</span	8.8	5	1
+Quán ăn	Cơm Gà Hưng Ký	44 Hùng Vương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 14:00 | 16:00 - 22:00	25,000	40,000	0.0%	6.1	2	1
+Ăn vặt/vỉa hè	Chè Thái A Khèn	34 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 21:00	10,000	20,000	0.0%	7.7	39	1
+Ăn chay	Nhà Hàng Ẩm Thực Chay Dinh Dưỡng Goodlife	128 Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 21:00	55,000	260,000	0.0%	8.9	20	1
+Nhà hàng	Good Morning Vietnam Restaurant - Nguyễn Trường Tộ	1A Nguyễn Trường Tộ, P.3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	50,000	300,000	0.0%	6.5	8	1
+Nhà hàng	Lotteria - Nguyễn Hữu Thọ	1-3 Nguyễn Hữu Thọ - P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	500+	 08:00 - 23:00	40,000	80,000	0.0%	5.2	9	1
+Quán ăn	HOÀNG TÂM EXPRESS FOOD - Japanese Street Food - Lương Thế Vinh	61 Lương Thế Vinh, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:30 - 19:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Vina Baby - Cháo Dinh Dưỡng - Nguyễn Văn Cừ	184 Nguyễn Văn Cừ, P. Long Toàn, Tp. Bà Rịa, Vũng Tàu	0.0	1	 05:00 - 18:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Xào Nhật Hoa - Phở Xào - Phan Chu Trinh	19 Phan Chu Trinh, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:30 - 10:30 | 16:30 - 21:00	0	0	0.0%	1.0	1	1
+Quán ăn, Ăn vặt/vỉa hè	Hủ Tiếu Bò Kho Thư - Cô Giang	86B Cô Giang, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 06:00 - 22:00	45,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hủ Tiếu Mì Ydo-Jihye - 07 Lê Hồng Phong Nối Dài	7 Lê Hồng Phong Nối Dài, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:00 - 22:00	10,000	80,000	0.0%	<span>_._</span>	0	1
+Sang trọng	Gà Rán KFC - Go Mall	1S4+5 Trong Trung Tâm Thương Mại, Đường Lê Thành Duy, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Chiên Gia Phúc Vũng Tàu - 149 Nguyễn An Ninh	149 Nguyễn An Ninh, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:00 - 20:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Quán Bánh Phèn La	17C Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 22:00	15,000	30,000	0.0%	7.9	2	1
+Quán ăn	Hào Chén &amp; Hào Né Chính Hiệu - Tâm Nguyễn	120 Nam Kỳ Khởi Nghĩa, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 12:00 - 21:00	50,000	200,000	ShopeeFood</span	8.3	12	1
+Quán ăn	Cơm Hấp Gà Ta Thuận An	229 Lê Hồng Phong, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 06:00 - 14:30 | 17:00 - 21:00	25,000	50,000	0.0%	5.7	4	1
+Quán ăn	Hủ Tiếu Nam Vang Gia Minh - 390 Trương Công Định	390 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 22:00	10,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	BMV Bánh Mì Việt - Tôn Thất Tùng	20H1 Tôn Thất Tùng, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Tana - Siêu Thị Bánh Tráng - Vũng Tàu	141 Lê Lai, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 09:00 - 21:30	12,000	155,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vina Baby - Cháo Dinh Dưỡng - Lê Lai	171 Lê Lai, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 05:00 - 17:00	20,000	1,000,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Chè Ngon Chang Hi - Trương Công Định	398A Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bò Nướng Miền Tây - Bò Nướng Lá Lốt - Nguyễn Văn Trỗi	78 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 20:00	10,000	55,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn - Ăn Vặt - Tú Xương	53 Tú Xương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Mắm Tôm Hà Bắc	A104 Lakeside A, Trung Tâm Đô Thị Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 21:00	5,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Thùy Vân	151 Thùy Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 23:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vina Baby - Cháo Dinh Dưỡng - Nguyễn Tri Phương	19F Nguyễn Tri Phương, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 05:00 - 19:00	10,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bebebop - Quán Ăn Hàn Quốc - Hàn Thuyên	134 Hàn Thuyên, P. 10, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 16:00 - 22:50	30,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Mắm Tôm Hà Bắc - Bình Giã	151 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 09:00 - 22:00	55,000	120,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tokbochii Korea - Tokbokkii - Nguyễn Văn Cừ	26 Nguyễn Văn Cừ, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 20:00	13,000	75,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Koala - Bánh Mì &amp; Hamburger - 112B Trần Bình Trọng	112B Trần Bình Trọng, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 20:00	15,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chin Chin - Lẩu &amp; Nướng	51/50 Lương Văn Can, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 22:00	15,000	170,000	ShopeeFood</span	8.7	3	1
+Quán ăn	Cơm Huỳnh Ký	73 Lê Lai, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 09:00 - 22:00	40,000	60,000	0.0%	5.3	3	1
+Quán ăn	Quê Nhà - Quán Cơm Niêu	158 Lê Hồng Phong, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	50,000	100,000	0.0%	7.0	47	1
+Tiệm bánh	Ngọc Hiệp - Bánh Bông Lan Trứng Muối &amp; Bánh Su Kem	11 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 21:00	20,000	50,000	0.0%	7.4	31	1
+Quán ăn	Lá Chuối Quán - Bánh Cuốn Nóng - 44 Nguyễn Du	44 Nguyễn Du, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	5.0	8	 06:00 - 20:00	10,000	220,000	0.0%	9.0	1	1
+Quán ăn	Bún Đậu Bắc Ninh - 477 Trương Công Định	477 Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:30 - 22:30	69,000	299,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ăn Vặt Hàn Quốc BUNSIK.ZIP K - Gà Rán &amp; Tobboky - 39 Đồ Chiểu	39 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 15:00 - 21:00	10,000	250,000	0.0%	<span>_._</span>	0	1
+Quán ăn	HƯƠNG - Bánh Canh Chả Cá Sườn Non - 63 Nguyễn Trọng Quản	63 Nguyễn Trọng Quản, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 20:00	15,000	75,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vina Baby - Cháo Dinh Dưỡng - Nguyễn An Ninh	96 Nguyễn An Ninh, P. 6, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 19:00	15,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vina Baby - Cháo Dinh Dưỡng - Nguyễn Hữu Cảnh	71 Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 05:00 - 19:00	10,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vina Baby - Cháo Dinh Dưỡng - Bình Giã	279 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 05:00 - 19:00	10,000	20,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Vườn Chay - Bình Giã	38/5 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 13:30 | 17:00 - 21:30	45,000	200,000	0.0%	8.8	4	1
+Quán ăn	Bòn Bon - Tiệm Ăn Vặt - 30 Tháng 4	193 Đường 30 Tháng 4, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 20:00	5,000	175,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mắt Híp - Ăn Vặt - Nguyễn Thị Minh Khai	180/10/4 Nguyễn Thị Minh Khai, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 20:00	60,000	200,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Bon Bon - Ăn Vặt - Bà Triệu	71 Bà Triệu, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 20:00	10,000	120,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Nhà Gạo - Bún Mắm Nêm Huế - Trương Công Định	580 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 20:00	10,000	240,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Dì Bé - Miến Xào Thập Cẩm - Hoàng Hoa Thám	91/5 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 23:59	6,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bé Quạo - Mì &amp; Cơm Trộn Trứng Chảy	L20 Bàu Sen 4, Khu Á Châu, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	BMV Bánh Mì Việt - 12 Trần Nguyên Hãn P1 VT	12 Trần Nguyên Hãn, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 20:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Tiệm bánh	NGUYỄN HOÀNG BAKERY - Bông Lan Trứng Muối - 75 Nam Kì Khởi Nghĩa	75 Nam Kì Khởi Nghĩa, P. 3, Tp. Vũng Tàu, Vũng Tàu	5.0	50+	 07:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Shop Online	Nhà Ny - Ăn Vặt - Trần Xuân Độ - Shop OnLine	75/15 Trần Xuân Độ, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	0.0	4	 09:00 - 19:00	30,000	400,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Nhà Jen - Chân Gà Sả Tắc &amp; Sốt Thái - Hàn Thuyên	78/28/6 Hàn Thuyên, P. 10, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 20:00	0	0	0.0%	<span>_._</span>	0	1
+Nhà hàng	Pizza Hut - Đường 30 Tháng 4	455 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 22:00	100,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Châu Ký - Cơm Gà Xá Xíu	43 Hoàng Hoa Thám, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 14:00 | 16:30 - 20:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thanh Tuyền - Trứng Gà Lòng Đào - Vi Ba	79 Vi Ba, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	5	 08:00 - 18:00	7,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Tiệm bánh	Mr Rado Milktea &amp; Bakery	Tầng 1, Gateway A Mặt Hậu, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 06:30 - 22:00	15,000	108,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Highlands Coffee - Hạ Long Vũng Tàu	150 Hạ Long, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 23:00	19,000	59,000	0.0%	6.5	3	1
+Café/Dessert	Trà Sữa Mixue - 183 Cách Mạng Tháng 8	183 Cách Mạng Tháng 8, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	50+	 09:00 - 22:00	19,000	65,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Kelly Chuột House - Cafe, Trà Sữa &amp; Ăn Vặt	26/1 Hoàng Văn Thụ, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 21:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Forny With Nuts - Thức Uống Dinh Dưỡng Từ Hạt - Đồ Chiểu	52 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:30 - 21:30	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Đông Dương CaFé - Coffee &amp; Bánh Ngọt - 04 Lê Quý Đôn	4 Lê Quý Đôn, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 07:00 - 20:00	17,000	72,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - BigC Go BRVT	2A Nguyễn Đình Chiểu, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	5.0	10+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mixue - Trưng Trắc	60 Trưng Trắc, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 09:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	TeaBap - Tea &amp; Milktea	388 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 09:00 - 21:00	19,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Artmio Coffee Shop - 11 Lê Văn Tám	11 Lê Văn Tám, P. 1, Tp. Vũng Tàu, Vũng Tàu	0.0	2	 07:00 - 21:00	7,000	21,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	CUNG Coffee &amp; MilkTea - Trung Tâm Đô Thị Chí Linh	E2-4/30 Trung Tâm Đô Thị Chí Linh, P. 10, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 20:00	15,000	125,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa For Her - 16 Đô Lương	16 Đô Lương, P. 11, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 18:00	8,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - 05 Ba Cu	5 Ba Cu, P.1, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Chè Huế - Thống Nhất Mới	272 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 23:00	15,000	1,000,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Trà Sữa Nguyên Lá Ten Ten - Lưu Chí Hiếu	71 Lưu Chí Hiếu (Phía Sau Quán Café Việt), P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 07:00 - 20:00	20,000	100,000	0.0%	10.0	1	1
+Café/Dessert	You and Me Coffee	48 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	6	 09:00 - 22:00	17,000	35,000	ShopeeFood</span	7.7	17	0
+Café/Dessert	The FM$ - Trà Sữa &amp; Sữa Tươi - Trần Phú	517A Trần Phú. P. 5, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	10,000	200,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	ITEA TRÀ TRÁI CÂY - Trà Sữa - Trưng Nhị	59 Trưng Nhị, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 21:30	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	New Deli Tea Shop	154A Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 08:00 - 22:00	19,000	42,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mixue - 64 Hoàng Hoa Thám	64 Đường Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:30	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mixue –  513 Trần Phú	513 Trần Phú, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 09:00 - 23:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Route 14 Coffee &amp; Tea	80 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 22:00	25,000	40,000	0.0%	8.6	2	1
+Café/Dessert	Riro Milk Tea 2	238 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 23:00	10,000	40,000	ShopeeFood</span	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Sinh Tố &amp; Nước Ép Chú Sâm - Sinh Tố Bơ - Hoàng Hoa Thám	91/5 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	3.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Trà Bean - Trà Sữa &amp; Trà Trái Cây - Trương Công Định	669 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 20:00	17,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	GA VŨNG TÀU - Street Food &amp;Tea - 5K2 TTTM	5K2 TTTM Nguyễn Kiệm, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Sơn Quang - Ba Cu	28 Ba Cu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 07:00 - 23:00	20,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cafe &amp; Sinh Tố - Hoàng Hoa Thám	67 Hoàng Hoa Thám , P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 14:00	10,000	30,000	0.0%	8.4	1	1
+Café/Dessert	YuTa Cafe	134 Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 22:00	20,000	60,000	0.0%	8.8	17	1
+Café/Dessert	TDMAISON COFFEE&amp;DRINKS - Cafe &amp; Trà - Bình Giã	138 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	0	0	0	20,000	50,000	0.0%	0	0	1
+Café/Dessert	Ritro Kafe - Cà Phê Hạt Nguyên Chất Pha Máy - 209 Thống Nhất Mới	209 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu	0	0	0	20,000	35,000	0.0%	0	0	1
+Quán ăn	Tô Garden Mlik Tea - Bến Nôm	85 Bến Nôm, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	10,000	1,000,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Vung Tau Chill - Coffee, Tea &amp; Cocktails - 35 Trưng Nhị	35 Trưng Nhị, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 23:00	17,000	50,000	0.0%	8.6	1	0
+Café/Dessert	Cô Hương - Ăn Vặt &amp; Trà Đào - Bình Giã	484/22A, Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	7	 07:00 - 19:00	12,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Kofi Kai - Cà Phê Tươi Pha Máy - Trương Công Định	190 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	0.0	3	 07:00 - 20:00	12,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Coffee House - 76 Nguyễn Hữu Thọ	76 Nguyễn Hữu Thọ, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	50+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Muối Cafe	124 Lý Thường Kiệt, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:30 - 22:00	20,000	50,000	0.0%	6.7	5	1
+Café/Dessert	An An Coffee Station - Cafe &amp; Trà Sữa - 190 Lê Hồng Phong	190 Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Nọng - 148 Nguyễn Văn Linh	148 Nguyễn Văn Linh, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	100+	 09:00 - 22:00	5,000	24,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Ăn Vặt Tyty - 107 Đô Lương	107 Đô Lương, P. 11, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 20:00	12,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Lion Coffee - Nam Kỳ Khởi Nghĩa	178 Nam Kỳ Khởi Nghĩa, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 22:00	20,000	50,000	0.0%	7.3	2	1
+Café/Dessert	Uyên Lâm - Trà Sữa &amp; Ăn Vặt - 21 Đống Đa	21 Đống Đa, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	5	 07:00 - 20:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Lapis Cafe - Food &amp; Drink - 12B Hoàng Hoa Thám	12B Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	5.0	10+	 14:00 - 20:00	18,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ngon Mà Rẻ - Trà Sữa &amp; Ăn Vặt - Nguyễn Văn Cừ	34 Nguyễn Văn Cừ, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 08:00 - 20:00	5,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Shop Online	The FM$ - Trà Sữa &amp; Sữa Tươi - Lê Hồng Phong	23 Lê Hồng Phong, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 08:00 - 22:00	10,000	20,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	OS Coffee	34B Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 22:00	25,000	35,000	0.0%	9.6	3	1
+Café/Dessert, Spa/Massage	La Vie En Rose Coffee &amp; Spa	6 Hạ Long, P. 2, Tp. Vũng Tàu, Vũng Tàu	0	0	0	20,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Milk Tea Lake	358 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	4	 08:00 - 22:00	15,000	30,000	0.0%	9.5	3	1
+Café/Dessert	Pucca - Trà Sữa - Tú Xương	79 Tú Xương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Foxy Sugar - Sữa Tươi Trân Châu Đường Đen - Nguyễn An Ninh	334 Nguyễn An Ninh, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 07:00 - 21:00	25,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà sữa Mixue - Đường 30 Tháng 4 Vũng Tàu	954 Đường 30/4, P. 11, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 22:30	15,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phúc Long 76 Trần Hưng Đạo	76 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 07:00 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Nọng - Trương Công Định	432 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 22:00	19,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Fox Coffee &amp; Tea	642 Cách Mạng Tháng 8, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 06:00 - 22:00	20,000	50,000	ShopeeFood</span	9.2	2	1
+Ăn vặt/vỉa hè	Trà Sữa Bé Dâu - Trần Phú	530 Trần Phú, P. 5, Tp. Vũng Tàu, Vũng Tàu	5.0	10+	 09:00 - 13:00 | 14:00 - 21:00	15,000	25,000	0.0%	8.2	2	1
+Café/Dessert	Cafe Ông Già - 51A Tú Xương	51A Tú Xương, P. 4, Tp. Vũng Tàu, Vũng Tàu	0.0	3	 07:00 - 20:00	10,000	95,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Đen Cafe &amp; Tea	4 Trần Hưng Đạo, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	7	 06:30 - 22:00	19,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cafe Ông Già	66 Trần Hưng Đạo, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 21:00	20,000	30,000	0.0%	5.0	1	1
+Quán ăn	Chibi Tea Coffee - Hàn Thuyên	138 Hàn Thuyên, P. 10, Tp. Vũng Tàu, Vũng Tàu	4.5	9	 07:00 - 20:00	10,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Trà Sữa Chin Chin - 30 tháng 4	928 Đường 30 Tháng 4, P.11, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:30 - 21:30	30,000	1,000,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Rau Má Lắk - Nguyễn Văn Cừ	2A Nguyễn Văn Cừ, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:30 - 22:00	12,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Attic Tea &amp; Coffee	14 Lý Thường Kiệt, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	16,000	45,000	0.0%	8.2	27	1
+Café/Dessert	Trà Sữa Minh Anh - 30 Tháng 4	945/1A, 30 Tháng 4, P. 11, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Mason Cafe &amp; Eatery	288 - 290 Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 22:00	22,000	55,000	0.0%	7.8	19	1
+Café/Dessert	Trà Sữa OLA - Trà Sữa Kem Dừa Nướng - Hoàng Hoa Thám	126F Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 20:00	15,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Con Cá Sấu - Trà Sữa Sầu Riêng	28/6/3 Lương Văn Can, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 21:00	20,000	30,000	0.0%	3.6	1	1
+Café/Dessert	KM Coffee - Cà Phê Espresso &amp; Cà Phê Cốt Dừa - 507B Trương Công Định	507B Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	0.0	1	 06:30 - 20:00	25,000	45,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Trà Bí Đao Chia Chia	282A Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 22:00	10,000	10,000	ShopeeFood</span	7.0	1	1
+Café/Dessert	Uyên Lâm - Trà Sữa &amp; Ăn Vặt - 17 Tiền Cảng	17 Tiền Cảng, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 20:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hí - Coffee &amp; Tea	63 Hai Bà Trưng, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	5.0	4	 08:00 - 22:00	25,000	45,000	ShopeeFood</span	8.3	4	1
+Café/Dessert	Seaside Cafe - Seaside Resort	28 Trần Phú, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:30 - 22:00	30,000	110,000	0.0%	7.4	86	1
+Café/Dessert	Highlands Coffee 199 Nam Kỳ Khởi Nghĩa – Vũng Tàu	199 Nam Kỳ Khởi Nghĩa, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 23:00	29,000	59,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Lyn House Tea &amp; Coffee	482 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 09:00 - 22:00	10,000	50,000	0.0%	8.0	6	1
+Café/Dessert	Bếp Cô Vy - Trà Sữa, Nước Ép &amp; Ăn Vặt	97/5/51 Phan Chu Trinh, P. 2, Tp. Vũng Tàu, Vũng Tàu	5.0	10+	 07:00 - 17:00	10,000	20,000	0.0%	9.0	2	1
+Café/Dessert	Quán Mới Mở - Cà Phê &amp; Trà Sữa - Nguyễn Thiện Thuật	78 Nguyễn Thiện Thuật, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	4	 08:00 - 17:00	10,000	25,000	0.0%	7.6	3	1
+Café/Dessert	Trà Sữa Rốt - Trà Sữa Phúc Long &amp; Trà Trái Cây - Lý Thường Kiệt	127A Lý Thường Kiệt, P. 1, Tp. Vũng Tàu, Vũng Tàu	0.0	1	 08:00 - 21:00	12,000	45,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Gà Rán Và Mì Ý - Jollibee - Go! Bà Rịa	1S6+7, Tầng Trệt, TTTM Go! Bà Rịa, 2A Nguyễn Đình Chiểu, KP. 1, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	100+	 09:00 - 22:00	15,000	44,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Like Steak - Bò Bít Tết &amp; Mì Ý Kiểu Pháp - Nguyễn Thái Học	47 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 20:00	5,000	250,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Bar/Pub	Gazebo Beach Front Lounge &amp; Cafe	90 Hạ Long, P. 2, Tp. Vũng Tàu, Vũng Tàu	5.0	3	 07:00 - 23:59	100,000	550,000	ShopeeFood</span	6.8	77	1
+Quán ăn	TorkiFood Monkeys - Gà Rán &amp; Mỳ Ý - 372 Bình Giã	372 Bình Giã, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	0.0	1	 06:00 - 20:00	15,000	165,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ngõ Thơm - Food &amp; Drink	152/7/4 Ba Cu, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 22:00	8,000	200,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè, Shop Online	Mamachin - Chân Gà Sốt Thái - Lê Lợi	187/38 Lê Lợi, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	40,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Bình Dân - Phạm Hồng Thái	183 Phạm Hồng Thái, P. 7, Tp. Vũng Tàu, Vũng Tàu	3.5	8	 07:00 - 21:00	25,000	40,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Thuận Ý	103 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	5	 06:00 - 23:00	20,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Gà Nấu Nấm - Xô Viết Nghệ Tĩnh	58 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	5	 06:00 - 21:00	30,000	60,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán Sơn Nga - Đặc Sản Gà	3-5-7 Phạm Hồng Thái, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:30 - 20:30	20,000	300,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Quán La Cà 3 - Bình Giã	600 Bình Giã Mới, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	5.0	2	 15:30 - 23:00	25,000	299,000	ShopeeFood</span	7.7	6	0
+Quán ăn	Nhím Nâu - Nhím, Bồ Câu &amp; Gà Ác	23 Nguyễn Lương Bằng, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 22:00	30,000	300,000	ShopeeFood</span	6.7	10	0
+Quán ăn	Quán Ăn Gia Đình - Lẩu Gà Lá É - Trần Phú	626 Trần Phú, P. 5, Tp. Vũng Tàu, Vũng Tàu	0	0	0	150,000	400,000	ShopeeFood</span	0	0	1
+Quán ăn	Ánh Dương - Cơm Tấm, Cafe &amp; Giải Khát	57 Phan Chu Trinh, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	2	 09:00 - 21:00	20,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Quán Trung Dê	A71/2 Khu Đô Thị Chí Linh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 22:00	20,000	200,000	ShopeeFood</span	10.0	1	1
+Nhà hàng	Ok Restaurant	7 Lê Hồng Phong Nối Dài, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 22:00	90,000	500,000	ShopeeFood</span	9.5	3	1
+Quán ăn	Cơm Niêu Huế Xưa	43 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:30 - 22:00	50,000	110,000	0.0%	6.9	20	1
+Quán ăn	Hàu Nhật Nướng Oyster Box - Cháo Hàu &amp; Mì Ý - 83 Hoàng Hoa Thám	83 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	6	 10:30 - 22:00	8,000	288,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ốc Vũng Tàu	8-10 Quang Trung, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 11:00 | 16:00 - 23:59	15,000	180,000	0.0%	5.7	5	1
+Nhà hàng	La Sirena - Bar &amp; Grill	159 Thùy Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	0.0	3	 10:00 - 22:30	50,000	1,500,000	ShopeeFood</span	8.5	24	1
+Nhà hàng	Ngon 15 - Lẩu Cá Đuối &amp; Bánh Khọt	15 Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 23:00	50,000	200,000	ShopeeFood</span	8.6	73	1
+Quán ăn	Quán 284 - Hải Sản Tươi Sống	284 Trần Phú, P. 5, Tp. Vũng Tàu, Vũng Tàu	0	0	0	10,000	160,000	ShopeeFood</span	0	0	1
+Quán ăn	Lẩu Cá Hoài Thu	26 Phạm Văn Nghị, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 16:00 - 21:00	80,000	200,000	ShopeeFood</span	6.8	3	1
+Quán ăn	Nam Vàng - Lẩu Bò	112/12 Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.0	5	 10:00 - 22:00	50,000	120,000	ShopeeFood</span	7.8	1	1
+Quán ăn	Quốc Bảo - Đặc Sản Thịt Trâu	191 Lê Quang Định, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.0	5	 10:00 - 22:00	50,000	165,000	ShopeeFood</span	7.7	2	1
+Quán ăn	Tấm - Foods &amp; Drinks	24 Kha Vạn Cân, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	4	 10:00 - 22:00	30,000	300,000	ShopeeFood</span	7.6	2	1
+Nhà hàng	Vịt Đồng Quê - Vịt Nướng &amp; Lẩu Vịt	459/20 Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 10:00 - 22:00	45,000	260,000	ShopeeFood</span	6.7	2	1
+Nhà hàng	Cơm Niêu Rồng Vàng	169 Thùy Vân, P. 8, Tp. Vũng Tàu, Vũng Tàu	0	0	0	20,000	100,000	ShopeeFood</span	0	0	1
+Nhà hàng	Cây Xoài - Quán Ăn Gia Đình	67 Yên Bái, P. 4, Tp. Vũng Tàu, Vũng Tàu	0	0	0	55,000	1,200,000	ShopeeFood</span	0	0	1
+Quán ăn	Lẩu Gà Ác	1 Phạm Hồng Thái, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 16:00 - 23:00	40,000	240,000	0.0%	3.0	1	1
+Quán ăn	Sushi Bụi	168 Lý Tự Trọng, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 11:00 - 14:00 | 16:00 - 22:00	10,000	420,000	0.0%	8.1	11	1
+Quán ăn	Lẩu Bò Phát	26H2 Đường Số 5, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 22:00	40,000	150,000	ShopeeFood</span	6.5	4	1
+Quán ăn	Lẩu Cá Đuối Vũng Tàu 7 Lượm.Chuyên Hải Sản Tươi Sống Bình Dân	37 Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 23:00	29,000	169,000	ShopeeFood</span	7.3	141	1
+Quán ăn	Nhà Lá Cơm Niêu	458 Nguyễn An Ninh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 23:00	500,000	1,100,000	ShopeeFood</span	6.3	19	1
+Quán ăn	Bánh Khọt 75	75 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:30 - 21:00	45,000	95,000	0.0%	8.6	5	1
+Quán ăn	Vườn Phố - Quán Ăn Gia Đình	412/32 Lê Hồng Phong, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	9	 08:00 - 23:30	500,000	2,200,000	ShopeeFood</span	5.7	3	1
+Quán ăn	Lẩu Cá Đuối Út Mười - 16A Trương Công Định	16A Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 00:00	80,000	550,000	ShopeeFood</span	5.3	44	1
+Nhà hàng	Nhà Hàng Tuyết Vân - Thống Nhất	426 Thống Nhất, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 Cả ngày | 10:00 - 22:00	50,000	300,000	ShopeeFood</span	5.0	1	1
+Quán ăn	Lẩu Cá Đuối Út Mười - 10 Trương Công Định	10 Trương Công Định, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 10:00 - 22:00	60,000	132,000	ShopeeFood</span	5.7	116	1
+Quán ăn	Quán Củ Chuối	21 Hoàng Hoa Thám, P. 3, Tp. Vũng Tàu, Vũng Tàu	5.0	2	 20:30 - 23:00	40,000	220,000	ShopeeFood</span	7.3	5	1
+Nhà hàng	Nhà Hàng Hàn Quốc Jinguk Vũng Tàu - Nướng Lẩu, Màn Thầu &amp; Lòng	7 Lê Hồng Phong Nối Dài, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 22:00	40,000	600,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Lẩu Dê Trần Gia - Trần Phú	291B Trần Phú, P. 5, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 23:00	50,000	120,000	0.0%	6.8	2	1
+Quán ăn	Lẩu Bò Chương Vương	929 Bình Giã, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	0.0	4	 15:00 - 23:00	15,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Minh Trọc - Quán Nhậu - Phan Văn Trị	27A Phan Văn Trị, Phường Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.0	10+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Cá Đuối Út Mười - Hoàng Hoa Thám	1 Hoàng Hoa Thám, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:30 - 22:00	50,000	220,000	ShopeeFood</span	6.8	5	1
+Quán ăn	Lẩu Bò Đức Trí - Đô Lương	127A Đô Lương, P. 12, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 23:00	15,000	200,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Bia Hơi Hà Nội - Nhậu Bình Dân	805B Bình Giã, P. 10, Tp. Vũng Tàu, Vũng Tàu	0.0	2	 15:00 - 23:00	50,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Ăn chay	Quán Chay Thiện Tâm	37 Nguyễn Hữu Thọ, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 06:00 - 20:00	10,000	20,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Nhà Hàng Thiên Vương Tửu - Nguyễn Hữu Tiến	Số 3 Nguyễn Hữu Tiến, P. 8, Tp. Vũng Tàu, Vũng Tàu	0	0	0	0	0	0.0%	0	0	1
+Ăn vặt/vỉa hè	Kiều Anh - Heo Quay Lạng Sơn	4 Nguyễn Tri Phương, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 06:00 - 20:00	150,000	250,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cô Duyên - Hủ Tiếu Tôm, Mực - Phó Đức Chính	2 Phó Đức Chính, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	0.0	2	 09:00 - 22:00	80,000	300,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Bê Thui Hương Sơn	960 Phạm Hùng, P. Long Toàn, Tp. Bà Rịa, Vũng Tàu	4.5	7	 09:00 - 21:00	100,000	250,000	0.0%	5.0	1	1
+Nhà hàng	Quán Dung - Quán Ăn Gia Đình	378/1/3 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.0	5	 10:00 - 22:00	50,000	200,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán Dê Xồm - Đặc Biệt Dê Mẹt - TTDT Chí Linh	A2 - 3/18 Trung Tâm Đô Thị Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	0	0	0	5,000	520,000	0.0%	0	0	1
+Quán nhậu	Trúc - Quán Nhậu Bình Dân	133 Ngô Quyền, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 23:30	20,000	365,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn, Quán nhậu	Quán 07 - Quán Ăn Gia Đình	15 Hùng Vương, P. 4, Tp. Vũng Tàu, Vũng Tàu	3.5	4	 09:30 - 22:00	15,000	140,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Long Sơn - Dê Núi Ninh Bình 2	B12/2/4 Khu Đô Thị Chí Linh, P. Thống Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	7	 09:00 - 22:00	50,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Thanh Vinh - Quán Ăn Gia Đình	824A Bình Giã, P. Rạch Rừa, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 09:00 - 22:00	35,000	250,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán Tuấn Cá - Nguyễn Thiện Thuật	Lô 8 - 9 Nguyễn Thiện Thuật, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 11:00 - 23:00	5,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Vân Đình - Quán Ăn Gia Đình	A2 - 2/5 Khu Đô Thị Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 09:00 - 22:00	50,000	300,000	ShopeeFood</span	<span>_._</span>	0	1
+Nhà hàng	Ẩm Thực Đồng Xanh	74 Yên Bái, P. 4, Tp. Vũng Tàu, Vũng Tàu	0	0	0	25,000	1,000,000	ShopeeFood</span	0	0	1
+Nhà hàng	Quán Long Ngân - Quán Nhậu Gà Đá	A8/B2 Nguyễn Hữu Cảnh, P. 10, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 09:00 - 23:00	50,000	300,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cô Hồng - Lẩu Cá Đuối	18 Hùng Vương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 11:00 - 22:00	100,000	200,000	ShopeeFood</span	7.9	5	0
+Quán ăn	Hải Sản Hùng Chi	F19 Ông Ích Khiêm, P. 6, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 22:00	50,000	200,000	ShopeeFood</span	7.8	16	0
+Quán ăn, Quán nhậu	Vạn Tuế - Quán Nhậu Bình Dân	82 Lê Văn Lộc, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.0	1	 09:00 - 22:00	20,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Vịt Cỏ Phương Thy	129 Tôn Đức Thắng, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	5.0	1	 11:00 - 21:00	25,000	240,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Ngọc Lan - Quán Ăn Gia Đình	846 Bình Giã, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	5.0	2	 09:00 - 23:00	15,000	300,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Đức Chính - Quán Nhậu Bình Dân	B12 - 1/1 Chí Linh, Khu Đô Thị Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	0	0	0	20,000	480,000	ShopeeFood</span	0	0	1
+Quán ăn	BUCHU QUÁN - Quán Nhậu - Bình Giã	442/1/9A Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	0	0	0	10,000	800,000	ShopeeFood</span	0	0	1
+Quán ăn	Dê Tơ Ninh Bình	20G1 Ngô Đức Kế, P. 7, Tp. Vũng Tàu, Vũng Tàu	3.5	6	 10:00 - 22:00	15,000	200,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Quán Nhậu Sân Vườn - Đường 30 Tháng 4	877/11 Đường 30 Tháng 4, P. 11, Tp. Vũng Tàu, Vũng Tàu	0	0	0	50,000	1,000,000	ShopeeFood</span	0	0	1
+Quán ăn	Vịt Quay Nam Huê	416 Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 21:00	100,000	300,000	ShopeeFood</span	<span>_._</span>	0	0
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Cách Mạng Tháng 8	560 Cách Mạng Tháng 8, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	100+	 09:00 - 22:00	15,000	100,000	ShopeeFood</span	<span>_._</span>	0	0
+Nhà hàng	Asahi Sushi - Nguyễn Hữu Thọ	41 Nguyễn Hữu Thọ, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	100+	 10:00 - 22:00	25,000	300,000	0.0%	<span>_._</span>	0	0
+Quán ăn, Quán nhậu	Zozo - Quán Nướng BBQ	86 Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	3.5	3	 10:00 - 21:00	20,000	250,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán 7 Sân - Bún, Hủ Tiếu &amp; Lẩu	6 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:00 - 21:00	25,000	200,000	0.0%	8.8	1	1
+Quán ăn	Quách - Hủ Tiếu Mực &amp; Bún Bò Huế - 187 Võ Thị Sáu	187 Võ Thị Sáu, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	0.0	2	 06:30 - 10:00	10,000	150,000	0.0%	<span>_._</span>	0	1
+Shop Online	Noshery - Ăn Vặt - Trương Công Định - Shop Online	205/15 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 08:00 - 20:00	7,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	MilkTea 1992 - Núi Xào Bò - Nguyễn An Ninh	36 Nguyễn An Ninh, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 20:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ngân - Bún Măng Gà	34 Tú Xương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 20:00	25,000	30,000	ShopeeFood</span	8.1	40	1
+Quán ăn	Mì Quảng Linh Linh - Lê Lai	74 Lê Lai, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:30 - 14:00 | 17:00 - 23:59	35,000	70,000	0.0%	7.4	9	1
+Quán ăn	Hủ Tiếu Mực Vũng Tàu - 42 Hoàng Hoa Thám	42 Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	7	 07:00 - 20:00	10,000	79,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Wiki Coffee Shop	96 Điện Biên Phủ, P. Phước Nguyên, Tp. Bà Rịa, Vũng Tàu	0.0	1	 06:30 - 21:30	20,000	60,000	ShopeeFood</span	9.7	2	1
+Ăn vặt/vỉa hè	Bếp Thảo Hý - Món Ngon Nhà Làm - Trần Quốc Toản	45/3 Trần Quốc Toản, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Sáu Hiếu - Bún Chả &amp; Bún Cá	22 Lô C, Ngô Đức Kế, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:00 - 19:00	25,000	40,000	ShopeeFood</span	8.0	6	1
+Quán ăn	Cơm Tấm Vũng Tàu - Cơm Tấm &amp; Hủ Tiếu Hải Sản - 4 Trần Hưng Đạo	4 Trần Hưng Đạo, P. 3, Tp. Vũng Tàu, Vũng Tàu	0.0	2	 07:00 - 20:00	40,000	79,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Chè Cây Bàng - Lý Thường Kiệt	2 Lý Thường Kiệt, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:00 - 22:00	6,000	10,000	ShopeeFood</span	8.8	6	1
+Quán ăn	Retro Steak - Món Âu	26 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 10:00 - 14:00 | 17:00 - 22:00	20,000	80,000	0.0%	7.6	28	1
+Quán ăn	Luna Pizzeria - Pizza, Spaghetti &amp; Ice Cream	157 Thùy Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	3.5	50+	 06:00 - 20:00	12,000	180,000	0.0%	3.6	3	1
+Quán ăn	Quán Phở 10	1 Phạm Ngọc Thạch, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 13:00 | 16:00 - 22:00	25,000	30,000	ShopeeFood</span	8.9	2	1
+Quán ăn	Hủ Tiếu Bà Hai	33 Tú Xương, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 11:00	20,000	35,000	ShopeeFood</span	6.6	5	1
+Quán ăn	Quán Bụi Trúc - Lẩu Cá &amp; Hải Sản	39 Trương Công Định, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 23:00	70,000	550,000	ShopeeFood</span	6.5	6	1
+Quán ăn	Bánh Canh Long Hương Thúy	667 Quốc Lộ 51A, P. Long Hương, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 05:00 - 20:30	30,000	55,000	ShopeeFood</span	6.8	81	1
+Quán ăn	Ngon City - Các Món Đặc Sản	4 Trần Hưng Đạo, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 08:00 - 22:00	40,000	100,000	ShopeeFood</span	7.1	21	1
+Quán ăn	Bánh Canh Long Hương - Cổng Chào Thị Xã Bà Rịa	Cổng Chào Thị Xã Bà Rịa, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 07:00 - 22:00	35,000	50,000	ShopeeFood</span	6.5	90	1
+Quán ăn	Mai Thảo - Cơm Phần, Hủ Tiếu &amp; Lẩu Hải Sản	161 Võ Thị Sáu, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 23:59	35,000	150,000	ShopeeFood</span	6.5	2	1
+Quán ăn	Bánh Đa Cua O Nhi Sài Gòn - Bún Riêu &amp; Canh Bún - Đô Thị Chí Linh	B12/2/7 Đô Thị Chí Linh, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 11:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	104 - Cơm Tấm, Cơm Gà Nướng &amp; Bún Thịt Nướng	43 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 14:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	O Lan - Bánh Canh Cá Lóc - Huyền Trân Công Chúa	54 Huyền Trân Công Chúa, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 21:00	20,000	45,000	0.0%	1.0	1	1
+Café/Dessert	Ô Cấp Cafe	80 Hạ Long, P. 2, Tp. Vũng Tàu, Vũng Tàu	5.0	4	 Cả ngày | 07:00 - 23:00	18,000	55,000	ShopeeFood</span	7.6	23	1
+Nhà hàng	StrEATs Restaurant - Ẩm Thực Á Âu - iBis Styles Hotel	Tầng Trệt, Tầng Trệt iBis Styles Hotel, 117 Thùy Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	0	0	0	50,000	600,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán O Hằng - Bún Bò Huế - Nguyễn Thiện Thuật	39C Nguyễn Thiện Thuật, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 21:00	25,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hủ Tiếu Nhật Anh	32 Đồng Khởi, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 21:00	35,000	45,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Quán Tre - Hải Sản Tươi Sống	411 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 11:00 - 23:00	50,000	150,000	ShopeeFood</span	6.8	22	1
+Quán ăn	Quán Ăn 08 - Cơm, Lẩu &amp; Hải Sản	8 La Văn Cầu, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	3.0	3	 09:00 - 21:00	25,000	200,000	ShopeeFood</span	3.7	8	1
+Nhà hàng	Cơm Niêu Hoa Sữa	569/19A Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 11:00 - 20:30	80,000	220,000	ShopeeFood</span	5.5	77	1
+Quán ăn	Ốc Gái Bà Rịa - Nguyễn Văn Linh	30-32 Nguyễn Văn Linh, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 16:30 - 23:00	30,000	100,000	ShopeeFood</span	6.2	1	1
+Quán ăn	Bún Bò Huế Bến Ngự - Võ Thị Sáu	151 Võ Thị Sáu, P. 2, Tp. Vũng Tàu, Vũng Tàu	3.5	5	 06:00 - 23:00	20,000	30,000	ShopeeFood</span	3.2	4	1
+Quán ăn	Phở Phương Tâm	258 Đường 30 Tháng 4, Tp. Vũng Tàu, Vũng Tàu	5.0	1	 07:00 - 21:00	30,000	50,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Bún Bò, Phở Bò - Ngư Phủ	1 Ngư Phủ, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	4	 06:00 - 19:00	30,000	35,000	ShopeeFood</span	<span>_._</span>	0	1
+Nhà hàng	Sambal - Món Malaysia	63 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu	3.5	8	 06:00 - 02:00	50,000	550,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	7 Tú - Cơm Tấm, Bún Cá - Nam Kỳ Khởi Nghĩa	86A Nam Kỳ Khởi Nghĩa, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 20:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Tiệm bánh	Bánh Kẹp Gốc Cột Điện - Bánh Bông Lan Trứng Muối - Hoàng Hoa Thám	43 Hoàng Hoa Thám, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 22:00	25,000	50,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Bánh Đa Cua Hải Phòng	23 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 12:00	20,000	30,000	ShopeeFood</span	4.8	1	1
+Quán ăn	Bánh Canh Ghẹ 72 - Bánh Canh Ghẹ - Hoàng Hoa Thám	83 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Ăn Vặt Bà Béo - Chân Gà Sả Tắt	60/11 Thắng Nhì, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	7	 10:00 - 22:00	50,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Hai Duyên - Trần Quốc Toản	24 Trần Quốc Toản, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	0	0	0	7,000	40,000	0.0%	0	0	0
+Ăn vặt/vỉa hè	Đình Nguyên - Food &amp; Drinks	18 Bùi Xuân Phái, P. Phước Hưng, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 08:00 - 21:00	5,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Phở Lý Quốc Sư	959 Bình Giã, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 11:00	30,000	35,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Phở Việt - Đồ Chiểu	9 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 11:00 - 23:00	40,000	60,000	ShopeeFood</span	3.8	4	1
+Quán ăn	Bún Đậu Phố Cổ	526 Trương Công Định, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 22:00	10,000	280,000	ShopeeFood</span	9.3	2	0
+Quán ăn, Quán nhậu	Bia Tươi Bạch Đằng - Quán Ăn Bình Dân	4 Lê Lợi, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 23:00	15,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Bánh Canh Cua	27-29 Nguyễn Văn Linh, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	50+	 11:00 - 21:00	45,000	50,000	ShopeeFood</span	<span>_._</span>	0	0
+Quán ăn	Bún Bò, Bún Riêu &amp; Bánh Đa	414 Đường 30 Tháng 4, P. Rạch Rừa, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 20:00	20,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	O Lan - Bánh Canh Cá Lóc - Hoàng Văn Thụ	44 Hoàng Văn Thụ, P. 7, Tp. Vũng Tàu, Vũng Tàu	0.0	3	 05:40 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Riêu Cô Điệp	43 Tôn Đức Thắng, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 10:30 - 20:00	20,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Nhà hàng	Nori Food - Nhà Hàng Đối Chứng Hải Sản	A2-2/6 KĐT Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.0	10+	 06:00 - 22:00	49,000	150,000	ShopeeFood</span	8.3	6	1
+Quán ăn	Bún Chay 42 Đồ Chiểu	42 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 20:00	17,000	25,000	ShopeeFood</span	8.1	9	0
+Quán ăn	Táo Tôm - Mực Tẩm Khô &amp; Cơm Trộn Hàn Quốc - Hoàng Hoa Thám	91/5 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	0	0	0	15,000	55,000	0.0%	0	0	1
+Quán ăn	DELI Kitchen - Bún Bò Nam Bộ - Hải Đăng	12 Hải Đăng, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 20:00	7,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	O Lan - Bánh Canh Cá Lóc - Chí Linh 12	A7/6/13 Chí Linh 12, Khu Đô Thị Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	5.0	8	 05:40 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Ăn chay	Quán Chay Ngọc Định	4 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 05:00 - 21:00	10,000	18,000	ShopeeFood</span	7.8	2	0
+Quán ăn	Miến Lươn Kim Lương	1E Lương Thế Vinh, P. 9, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:00 - 21:00	25,000	50,000	ShopeeFood</span	7.6	3	0
+Quán ăn	Bún Mắm Lệ - Bà Huyện Thanh Quan	34 Bà Huyện Thanh Quan, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:00 - 20:30	25,000	40,000	ShopeeFood</span	7.5	13	0
+Quán ăn	Bún Riêu Đồ Chiểu	145 Đồ Chiểu, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 11:00 - 20:00	20,000	45,000	ShopeeFood</span	7.2	12	0
+Café/Dessert, Ăn vặt/vỉa hè	The TAMI Cofee - Đường 30 Tháng 4	33 Đường 30 Tháng 4, P. 9, Tp. Vũng Tàu, Vũng Tàu	0	0	0	12,000	65,000	ShopeeFood</span	0	0	1
+Quán ăn	Hải Hoàng - Bún, Hủ Tiếu &amp; Bánh Canh	140 Lê Lai, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 08:30 - 23:00	25,000	55,000	ShopeeFood</span	6.8	35	0
+Quán ăn	Mẹt Tre - Bún Đậu Mắm Tôm - Lê Duẩn	93 Lê Duẩn, Khu Phố 1, P. Phước Nguyên, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 09:00 - 21:30	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Vàng - Lê Duẩn	421 Lê Duẩn, P. Phú Mỹ, Huyện Tân Thành, Vũng Tàu	0	0	0	10,000	50,000	ShopeeFood</span	0	0	1
+Quán ăn	Mì Quảng Gà	132 Nguyễn Hữu Thọ, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	10+	 06:00 - 22:00	30,000	50,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Bia Hơi Rạch Dừa	553 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	5.0	1	 10:00 - 23:00	20,000	300,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Quán Phố Biển - Nhậu Hải Sản	262 Trần Phú, P. 5, Tp. Vũng Tàu, Vũng Tàu	5.0	2	 11:00 - 23:00	50,000	500,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ Dì Bé - Hoàng Hoa Thám	91/5B, Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	3.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Lộc Vũng Tàu - 72 Xô Viết Nghệ Tĩnh	72 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 19:00	12,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ăn Khiêm Ký - Cơm Gà Xối Mỡ &amp; Cơm Chiên Dương Châu - 139 Nguyễn Văn Trỗi	139 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 09:00 - 21:00	15,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán 8A Bình Dân - Cơm Phần, Canh Chua &amp; Cá Kho Tộ	33 Hoàng Hoa Thám, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 20:00	25,000	40,000	0.0%	6.0	6	1
+Ăn vặt/vỉa hè	Ăn Vặt Ship Liền - Cơm Cháy Chà Bông - Khu Biệt Thư Phương Nam	H3 Khu Biệt Thự Phương Nam, P. 8, Tp. Vũng Tàu, Vũng Tàu	0.0	2	 08:00 - 20:00	155,000	160,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ Ông Già - Cơm Gà - 157 Trương Công Định	157 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 09:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Gác Mơ - Kem Bơ Sầu Riêng &amp; Xôi Sầu Riêng Múi - Bà Triệu	129 Bà Triệu, P. 4, Tp. Vũng Tàu, Vũng Tàu	5.0	10+	 06:40 - 21:00	20,000	65,000	0.0%	8.5	2	1
+Nhà hàng, Tiệc cưới/Hội nghị	Vườn Phố - Nhà Hàng Hải Sản - Seaside Resort	28 Trần Phú, P. 1, Tp. Vũng Tàu, Vũng Tàu	2.0	1	 06:30 - 22:00	29,000	500,000	0.0%	7.6	10	1
+Quán ăn	Cơm Chiên Gà Xối Mỡ - 183 Lê Lợi	183 Lê Lợi, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Lộc Tỷ - Cơm Gà Xối Mỡ	544 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 09:00 - 14:00 | 16:30 - 21:00	25,000	35,000	0.0%	1.5	3	1
+Quán ăn	Cơm Mười Dừa	42 Nguyễn Bỉnh Khiêm, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 21:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Cuốn &amp; Cơm Tấm	221/41 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 10:00	16,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Đệ Nhất - Nam Kỳ Khởi Nghĩa	163 Nam Kỳ Khởi Nghĩa, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 07:00 - 22:00	5,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Đắc Sản Huế - Cơm Hến &amp; Bánh Bột Lọc	103 Ngô Đức Kế, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 06:00 - 21:00	17,000	35,000	ShopeeFood</span	5.5	2	1
+Quán ăn	Cơm Hiếu - Bình Giã	10 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 11:30 - 20:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán 330 - Quán Cơm - Trương Công Định	330 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 11:00 - 16:00 | 17:00 - 19:30	10,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà &amp; Ăn Vặt - Bảo Trâm	196/18 Lê Lai, Phường 4, TP. Vũng Tàu, Bà Rịa - Vũng Tàu, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 00:01 - 23:59	5,000	30,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Phú Vinh - Quán Ăn Gia Đình	10 - 12 Lý Tự Trọng, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 14:00	50,000	100,000	ShopeeFood</span	5.3	6	1
+Quán ăn	Cơm Tấm Đệ Nhất 2 - Hoàng Hoa Thám	38 Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Sầu Riêng Dầm - Lê Lai	117 Lê Lai, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.0	10+	 07:00 - 20:00	55,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tài Chi	42A Nguyễn Bỉnh Khiêm, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 08:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Niêu Vũng Tàu - 42 Hoàng Hoa Thám	42 Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	0.0	1	 10:00 - 20:00	10,000	170,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ Vy - Lê Lai	184 Lê Lai, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:30 - 21:30	5,000	35,000	ShopeeFood</span	<span>_._</span>	0	1
+Tiệm bánh	Đan Phượng Bakery	20 Nguyễn Vắn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu	5.0	4	 08:00 - 21:00	8,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	PIPOOL	111 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 22:00	15,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Anh Vy - Cơm Gà Xối Mỡ - Trương Công Định	479 Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 10:00 - 20:00	27,000	32,000	ShopeeFood</span	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Hoàng Anh - Heo Quay, Vịt Quay &amp; Xôi Bắc	2 Nguyễn Tri Phương, P. 7, Tp. Vũng Tàu, Vũng Tàu	5.0	10+	 06:00 - 20:00	10,000	260,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm BiBi - Lê Lợi	217 Lê Lợi, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 07:00 - 20:00	30,000	85,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hoàng Nguyên - Cơm Phần, Dĩa, Hộp - Lê Quang Định	9 Lê Quang Định, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	0.0	1	 10:00 - 21:00	15,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Tuyết Loan	967 Đường 30 Tháng 4, P. 11, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 20:00	20,000	25,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Sáu Hiếu - Quán Ăn Gia Đình	17 Bế Văn Đàn, P. 7, Tp. Vũng Tàu, Vũng Tàu	3.5	3	 08:00 - 21:00	25,000	750,000	ShopeeFood</span	5.3	2	1
+Shop Online	Cơm Lam Gà Nướng - Shop Online	780/35B19 Bình Giã, P. 11, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 19:00	15,000	220,000	ShopeeFood</span	10.0	1	0
+Ăn vặt/vỉa hè	Bánh Mì Sơn Phát	60 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu	0	0	0	3,000	20,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán Cơm 53	32 Nam Kỳ Khởi Nghĩa, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 08:00 - 21:00	20,000	20,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Xôi Ngọc Anh - Đường 30 Tháng 4	492 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	2	 08:00 - 21:00	12,000	25,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn, Ăn vặt/vỉa hè	Kim Kim Bistro - Cơm Gà Nước Mắm - Trương Công Định	458A Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu	5.0	2	 05:00 - 21:00	15,000	25,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Hội Quán Biển - Quán Hải Sản - Nguyễn Trường Tộ	32 Nguyễn Trường Tộ, P. 3, Tp. Vũng Tàu, Vũng Tàu	2.0	1	 09:00 - 22:00	25,000	250,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Minh	17A Nguyễn Thiện Thuật, P. Thống Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 09:00 - 21:00	20,000	30,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Thành Tâm - Cơm Tấm Bình Dân	114 Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:30 - 20:00	20,000	40,000	ShopeeFood</span	7.9	6	0
+Quán ăn	Xuxu Quán - Quán Ăn Gia Đình	40/1 Lê Hồng Phong, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 23:00	0	0	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Thằng Bờm	17 Trần Hưng Đạo, P. Phước Nguyên, Tp. Bà Rịa, Vũng Tàu	4.0	10+	 10:00 - 14:00	18,000	20,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	Quán Tràng An - Đặc Sản Thịt Dê	847/2 Đường 30 Tháng 4, P. 11, Tp. Vũng Tàu, Vũng Tàu	0	0	0	15,000	30,000	ShopeeFood</span	0	0	1
+Nhà hàng	Cơm Niêu Đất Việt - Ngô Đức Kế	59 Ngô Đức Kế, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 10:00 - 14:30 | 17:00 - 22:00	50,000	100,000	ShopeeFood</span	6.7	14	0
+Quán ăn	Quán Cơm Hoa Gió - Trung Tâm Đô Thị Chí Linh	A2 - 2/5 Trung Tâm Đô Thị Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	0	0	0	25,000	35,000	0.0%	0	0	1
+Quán ăn	Quán Cơm 534 Nguyễn An Ninh	534 Nguyễn An Ninh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu	4.5	8	 10:00 - 15:00	20,000	20,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Hoa Hướng Dương	140 Nam Kỳ Khởi Nghĩa, P. 2, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 07:00 - 21:00	20,000	55,000	ShopeeFood</span	5.5	102	0
+Quán ăn	Cơm Tấm Hướng Dương	142 Nam Kỳ Khởi Nghĩa, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 09:00 - 22:00	20,000	44,000	ShopeeFood</span	4.7	29	0
+Ăn vặt/vỉa hè	Quán A Châu - Ốc Mang Tận Nhà	132/21 Nguyễn Tri Phương, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 11:00 - 23:00	25,000	75,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Mai Thìn	410 Cách Mạng Tháng 8, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu	4.5	50+	 06:00 - 20:00	15,000	35,000	ShopeeFood</span	<span>_._</span>	0	0
+Quán ăn	Cơm Gà Anh Vy	621 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 10:00 - 20:00	20,000	25,000	ShopeeFood</span	<span>_._</span>	0	0
+Quán ăn	A Mập Food - Gà Nướng Muối Ớt	225 Nam Kỳ Khởi Nghĩa, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 11:30 - 20:00	0	0	0.0%	<span>_._</span>	0	0
+Quán ăn	Ăn Vặt B.A	33 Phạm Cự Lạng, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 08:00 - 22:00	30,000	50,000	0.0%	10.0	6	1
+Shop Online	Momo's Kitchen - Ăn Vặt Online	36 Đồng Khởi, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 14:00 - 21:00	10,000	25,000	0.0%	7.2	9	1
+Café/Dessert	Sakura Kissa - Mì Cay, Pizza &amp; Fastfood	69/2 Lê Hồng Phong, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	999+	 09:00 - 21:00	18,000	36,000	0.0%	7.8	8	1
+Quán ăn	Cơm Tấm Sườn Cây - Cơm Tấm Sườn - Nguyễn Thái Học	107 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	500+	 06:00 - 14:00	0	0	0.0%	4.6	1	1
+Quán ăn	NED KELLY - Hamburger &amp; Fish N Chips - Nguyễn Trãi	1 Nguyễn Trãi, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 09:00 - 20:00	20,000	180,000	0.0%	9.6	1	1
+Quán ăn	Bếp Nhà An - Bánh Mỳ &amp; Cơm - Nguyễn Hữu Cảnh	231A Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 09:00 | 15:00 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	A Lũ - Cơm Sườn - 122 Yên Bái	122 Yên Bái, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 18:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Xôi Nhất - Nguyễn Tri Phương	26 Nguyễn Tri Phương, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 13:00 | 16:00 - 20:30	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Hồng - Sà Bì Chưởng - 2A Lý Thường Kiệt	2A Lý Thường Kiệt, P. 3, Tp. Vũng Tàu, Vũng Tàu	4.5	100+	 06:00 - 11:00	5,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Miền Tây - Cơm Tâm &amp; Bún Thịt Nướng - Lê Lợi	222/13 Lê Lợi, P. 4, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 11:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Tiệm bánh	Như Quang Bakery - Bánh Mì &amp; Bánh Ngọt - 60 Lý Thường Kiệt	60 Lý Thường Kiệt, P. 1, Tp. Vũng Tàu, Vũng Tàu	4.5	50+	 07:00 - 20:00	25,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quốc Tuấn - Bánh Mì &amp; Xôi Mặn Hà Nội - Trương Công Định	633 Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu	4.5	10+	 06:00 - 21:00	22,000	32,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Kebab Torki - Đường 30 Tháng 4	126 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 06:00 - 20:00	13,000	15,000	0.0%	8.3	5	1
+Quán ăn	Gà Bia Lulu - Hoàng Hoa Thám	74 Hoàng Hoa Thám, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	10,000	50,000	0.0%	7.8	2	1
+Shop Online	Bếp Bà Ngọc - Chân Gà Chua Cay - Shop Online	198/5 Đường 30 Tháng 4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	15,000	120,000	0.0%	5.8	48	1
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - Đại Lộ Bình Dương	309A - 311 Đại Lộ Bình Dương, Khu 12, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 21:30	20,000	60,000	0.0%	7.3	47	1
+Café/Dessert	Highlands Coffee - Nguyễn Văn Tiết	80 Nguyễn Văn Tiết, P. Lái Thiêu, Thuận An, Bình Dương	4.5	999+	 07:00 - 23:00	9,000	65,000	0.0%	8.0	1	1
+Café/Dessert	Highlands Coffee - Đại Lộ Bình Dương	325 Đại Lộ Bình Dương, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 22:00	39,000	100,000	0.0%	6.6	8	1
+Café/Dessert	Trà Dâu AnHy - Cách Mạng Tháng 8	629 Đ. Cách Mạng Tháng 8, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 22:00	15,000	35,000	0.0%	10.0	1	1
+Café/Dessert	Xanh 2Go - Lê Thị Trung	27 Lê Thị Trung, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	15,000	45,000	0.0%	9.8	1	1
+Café/Dessert	Cô Cám - Nước Ép Nguyên Chất	42 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:30 - 23:59	15,000	35,000	ShopeeFood</span	9.2	1	1
+Café/Dessert	D'Latcha - Tea &amp; Bistro	G55 Đường N3, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 07:00 - 22:45	0	0	0.0%	9.9	2	1
+Café/Dessert	Trà Sữa Pozaa Tea Thuận An - KDC Thuận Giao	1A/109 Tổ 3, Khu Phố Hòa Lân 1, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 08:00 - 22:00	25,000	35,000	0.0%	10.0	1	1
+Quán ăn	Bánh Cuốn Nóng Kim Loan - Cách Mạng Tháng 8	1405 Cách Mạng Tháng 8, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 06:00 - 10:00	15,000	40,000	0.0%	10.0	1	1
+Quán ăn	Bún Riêu Mộc - Huỳnh Văn Lũy	160 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 11:00 - 21:00	25,000	40,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Chè Thái Cô Ba	9 Lê Thị Trung, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 06:00 - 22:00	14,000	30,000	0.0%	10.0	1	1
+Café/Dessert	Rau Má Pha 3 - Lê Thị Trung	130 Lê Thị Trung, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:30 - 21:00	20,000	40,000	0.0%	8.6	1	1
+Quán ăn	Bánh Cuốn Nóng Kim Loan	319 Đường 30 Tháng 4, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 06:00 - 10:00	15,000	20,000	0.0%	9.6	2	1
+Quán ăn	Xèo Xèo - Cơm Xèo &amp; Beefsteak	62-64 Đường D4 N1, KDC Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 22:00	5,000	78,000	0.0%	8.6	1	1
+Quán ăn	Haru Korean Food - Cơm Gà Teriyaki &amp; Gà Sốt Hàn - Đông Nhì	2B/1 Đông Nhì, P. Lái Thiêu, Thuận An, Bình Dương	4.5	50+	 10:30 - 22:30	30,000	55,000	0.0%	10.0	2	1
+Café/Dessert	D&amp;P Milk Tea - Võ Thành Long	32 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 04:30 - 23:00	20,000	30,000	0.0%	8.5	2	1
+Café/Dessert	Cheese Gelato - Kem &amp; Trà sữa Đài Loan - D8	Ô 5 Đường D8, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:00 - 22:00	0	0	0.0%	10.0	1	1
+Café/Dessert	3000 Tea - Nguyễn Trãi	15 Nguyễn Trãi, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 21:45	30,000	55,000	0.0%	8.4	3	1
+Tiệm bánh	Tiệm Bánh Tú An	37/1 Hẻm 69 Đường 30/04, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 09:00 - 22:00	22,000	700,000	0.0%	9.2	1	1
+Café/Dessert	Lạc Thần Hoa Coffee &amp; Tea - Đường D5	26G Đường D5, KDC. K8, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 23:00	15,000	36,000	0.0%	9.4	10	1
+Quán ăn	Bún Đậu Bờm - Trần Văn Ơn	99 - 101 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 11:00 - 22:00	40,000	150,000	0.0%	8.9	3	0
+Quán ăn, Khu Ẩm Thực	BJ Tokbokki - Đại Lộ Bình Dương	Lầu 2, Khu Food Court Aeon Mall Bình Dương, 1 Đại Lộ Bình Dương, P. Thuận Giao, Thuận An, Bình Dương	4.5	50+	 09:00 - 21:00	45,000	295,000	0.0%	9.6	5	1
+Quán ăn	Quán Phố Nhỏ - Bún Đậu Mắm Tôm	21 Trần Tử Bình, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 12:00 - 22:00	25,000	55,000	0.0%	7.8	6	1
+Quán ăn, Giao cơm văn phòng	Cơm Chiên Đại Nam	48/87 Nguyễn Bình (Hoàng Hoa Thám Cũ), P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 21:00	20,000	30,000	ShopeeFood</span	9.0	1	1
+Quán ăn	Vị Thái - Huỳnh Văn Lũy	29 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 14:00 | 16:00 - 22:00	30,000	300,000	0.0%	8.2	6	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn Gánh Hàng Rong	113/108B Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 21:00	5,000	50,000	0.0%	8.7	2	1
+Café/Dessert	Cool - Pizza, Trà Sữa &amp; Ăn Vặt	453/85 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 22:00	10,000	85,000	0.0%	9.6	21	1
+Café/Dessert	Sữa Chua Trân Châu Quảng Ninh - KDC Chánh Nghĩa	93 Đường D3, KDC Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	5,000	33,000	0.0%	10.0	2	1
+Quán ăn	Bún Đậu Mắm Tôm Thị Nở	126 Hoàng Văn Thụ, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 09:00 - 21:00	10,000	100,000	0.0%	10.0	2	1
+Quán ăn	Bún Riêu Bành Dã - Nguyễn Đình Chiểu	31 Nguyễn Đình Chiểu, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 06:30 - 21:00	20,000	50,000	0.0%	7.9	8	1
+Ăn chay	Quán Chay Gia Đình Đậu	38 Đường D1, Khu Dân Cư Phú Hòa 1, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 06:00 - 22:00	35,000	45,000	ShopeeFood</span	9.3	4	1
+Ăn vặt/vỉa hè	Bánh Tráng Diệu - Phú Lợi	25/5 Phú Lợi, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 16:00 - 22:00	10,000	20,000	0.0%	8.4	5	1
+Ăn vặt/vỉa hè	Tàu Hũ Papa	76C Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 22:00	15,000	25,000	0.0%	8.4	23	1
+Café/Dessert	TocoToco Bubble Tea - Đường D8	145 Đường D8, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 23:00	29,000	57,000	0.0%	8.6	1	1
+Ăn vặt/vỉa hè	Nước Ép AZ - Fresh - Thích Quảng Đức	216 Thích Quảng Đức, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 22:00	15,000	30,000	0.0%	8.6	1	1
+Café/Dessert	Peace Coffee - Trần Phú	185 Trần Phú, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 06:30 - 22:30	12,000	35,000	0.0%	8.4	4	1
+Café/Dessert, Quán ăn	Trà Sữa Te Amo - Tân Lập	16/1 Đường Vào Đại Học Quốc Gia, Khu phố 6, Linh Trung, Thủ Đức, Dĩ An, Bình Dương	4.5	100+	 09:00 - 22:30	24,000	29,000	0.0%	8.4	1	1
+Quán ăn	Burger Việt - Cách Mạng Tháng 8	115 Cách Mạng Tháng 8, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 05:00 - 22:00	12,000	34,000	0.0%	8.6	1	1
+Café/Dessert	Trà Sữa NẤM - Lái Thiêu	95/2 Ngô Quyền, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 10:00 - 22:00	10,000	35,000	0.0%	8.6	4	1
+Quán ăn	Bún Đậu Mắm Tôm Hà Thành	198 Hoàng Văn Thụ, KDC. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 11:00 - 22:00	15,000	50,000	0.0%	7.1	6	1
+Café/Dessert	Trà Sữa Heekcaa Original - Ngô Gia Tự	31 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	39,000	57,000	0.0%	7.1	7	1
+Café/Dessert	Trà Sữa Hẻm	424/67 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 11:00 - 22:00	15,000	30,000	0.0%	7.6	2	1
+Quán ăn	Cơm Chiên Gà Xối Mỡ K8	Lô H46, Đường N4, KDC K8, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	15,000	35,000	0.0%	8.6	2	1
+Café/Dessert	MQ Coffee - Võ Thành Long	76 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 07:00 - 22:00	15,000	29,000	0.0%	7.2	20	1
+Café/Dessert	D5 Tea &amp; Coffee - Đường D5	 Ô4, DC20, KDC Việt Sing, Đường D5, P. An Phú, Thuận An, Bình Dương	4.5	100+	 10:00 - 22:00	20,000	35,000	0.0%	8.0	1	1
+Café/Dessert	MQ Coffee - Tòa Nhà Becamex	Tầng 2, Tầng 3, Tòa Nhà Becamex, 230 Đại Lộ Bình Dương, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	15,000	42,000	0.0%	8.0	1	1
+Café/Dessert	Rau Má Lá - Trần Tử Bình	8 Trần Tử Bình, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 11:00 | 15:00 - 20:00	12,000	34,000	0.0%	7.8	1	1
+Quán ăn	Sóc Sushi - Nguyễn Đình Chiểu	3 Nguyễn Đình Chiểu, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 16:00 - 21:00	30,000	100,000	0.0%	6.9	21	1
+Quán ăn, Giao cơm văn phòng	Bánh Canh Chả Cá Nha Trang - Sỹ Tẹt Quán	77/3 Đông Nhì, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 06:30 - 21:30	25,000	40,000	0.0%	7.7	8	1
+Quán ăn	Gà Rán Popeyes - Nguyễn Trãi	2 Nguyễn Trãi, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 22:00	30,000	70,000	0.0%	7.8	1	1
+Café/Dessert	Highlands Coffee - Nguyễn An Ninh	232 Nguyễn An Ninh, Dĩ An, Bình Dương	4.5	500+	 07:00 - 23:00	9,000	65,000	0.0%	7.8	1	1
+Quán ăn	Pizza Bình Dương - Đường ĐX 001	187 Đường ĐX 001, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:30 - 22:30	30,000	250,000	0.0%	9.7	10	1
+Quán ăn	Phở Anh Vũ - Bún Bò &amp; Miến Gà	178/2 Đại Lộ Bình Dương, Khu Phố 6, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 05:00 - 22:00	20,000	50,000	0.0%	8.1	8	1
+Quán ăn	Phở &amp; Bún Bò A Đù - Lê Thị Trung	59A/1 Lê Thị Trung, P. An Phú, Thuận An, Bình Dương	4.5	10+	 06:00 - 22:00	15,000	200,000	0.0%	10.0	1	1
+Shop Online	Milo Dầm Lái Thiêu - Shop Online	174C Cách Mạng Tháng 8, P. Lái Thiêu, Thuận An, Bình Dương	4.5	500+	 11:00 - 21:00	20,000	50,000	0.0%	7.3	2	1
+Nhà hàng	Sukiya - Cơm Bò Hầm &amp; Mì Ramen - AEON Mall Bình Dương	Tầng 2, Tầng 2 AEON Mall Bình Dương, 1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	500+	 11:00 - 20:00	5,000	80,000	0.0%	7.6	2	1
+Quán ăn	Quý Dậu - Bánh Canh Hẹ &amp; Cơm Gà Phú Yên	29/2 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 06:30 - 20:30	25,000	30,000	0.0%	7.6	8	1
+Café/Dessert	Fika - Coffee To Go	358 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 06:00 - 21:00	15,000	35,000	0.0%	8.4	1	1
+Quán ăn	Cơm Tấm Đêm 777	185 Thích Quảng Đức, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 21:30	15,000	44,000	0.0%	7.3	2	1
+Café/Dessert	GM Tea	384 Nguyễn Tri Phương, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 22:00	20,000	35,000	0.0%	8.0	2	1
+Café/Dessert	Highlands Coffee - 540 Đại Lộ Bình Dương	540 Đại Lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 23:00	9,000	65,000	0.0%	1.0	1	1
+Café/Dessert	Ông Chủ Nhí Milk Tea	79 Lý Thường Kiệt, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 14:00 - 22:00	5,000	25,000	0.0%	7.2	10	1
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - AEON Mall Bình Dương	Gian Hàng G25, Tầng Trệt AEON Mall Bình Dương, 1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	999+	 09:00 - 21:30	20,000	60,000	0.0%	7.3	75	1
+Quán ăn	Gà rán và Mì Ý - Jollibee - Đại Lộ Bình Dương	Tầng 2, S - 19 Tầng 2 AEON Mall Bình Dương, 1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	999+	 10:00 - 21:00	25,000	150,000	0.0%	7.1	11	1
+Quán ăn	Lò Quay Sài Gòn - Cách Mạng Tháng 8	50/2 Cách Mạng Tháng 8, P. An Thạnh, Thuận An, Bình Dương	4.5	100+	 05:00 - 23:30	130,000	1,100,000	0.0%	8.0	3	1
+Quán ăn	Quán Cơm Trí Bếp - 10 Đại Lộ Bình Dương	10 Đại Lộ Bình Dương, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 08:30 - 20:30	18,000	68,000	0.0%	7.4	1	1
+Quán ăn	Cơm Tấm 68	309 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 05:00 - 23:59	20,000	32,000	0.0%	7.0	12	1
+Café/Dessert	MQ Coffee - Ngô Gia Tự	179 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	20,000	40,000	0.0%	6.9	14	1
+Café/Dessert	Trà Sữa Happy Tea	7 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	10,000	30,000	0.0%	6.9	6	1
+Shop Online	Bánh Tráng Chấm Thoại Châu - Shop Online	39/22 Bùi Quốc Khánh 2, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 10:30 - 21:30	20,000	20,000	0.0%	7.0	1	1
+Quán ăn	Bà Hai - Bún Riêu Cua Giò Heo	129 Bàu Bàng, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 14:00 - 21:00	15,000	30,000	0.0%	8.0	2	1
+Ăn vặt/vỉa hè	Pappa Roti SG - Coopmart Bình Dương	Bình Dương Square, 1 Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 08:00 - 21:00	12,000	25,000	0.0%	7.1	3	1
+Café/Dessert, Quán ăn	Hồng Trà Ngô Gia Vsip 1	Ô16, DC36, Đường D33, Khu Dân Cư Việt Sing, P. An Phú, Thuận An, Bình Dương	4.5	500+	 07:00 - 22:00	12,000	45,000	0.0%	6.4	1	1
+Nhà hàng	Gà Rán KFC - Lotte Mart Bình Dương	Quốc Lộ 13, P. Lái Thiêu, Thuận An, Bình Dương	4.5	500+	 09:00 - 22:00	39,000	135,000	0.0%	6.8	4	1
+Café/Dessert	KOI Thé - Bình Dương Square	Tầng 1, Tầng 1 - 2, Toà Nhà Biconsi Tower, 1 Phú Lợi, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 22:00	25,000	60,000	0.0%	7.2	1	1
+Quán ăn	Nam Ký - Cơm Gà Xối Mỡ &amp; Cơm Gà Quay - Huỳnh Văn Luỹ	439 Huỳnh Văn Luỹ, Khu 4, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 20:30	30,000	50,000	0.0%	6.8	2	1
+Nhà hàng	Phở Sâm Ngọc Linh	176 Quốc Lộ 13, KP. Hòa Lân, P. Thuận Giao, Thuận An, Bình Dương	4.5	10+	 05:00 - 22:00	0	0	0.0%	7.0	1	1
+Quán ăn	Phở Pasteur - 232 Cách Mạng Tháng Tám	232 Cách Mạng Tháng Tám, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 09:00 - 22:00	34,000	50,000	0.0%	6.2	4	1
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - Lý Thường Kiệt	3 Lý Thường Kiệt, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 21:30	35,000	65,000	0.0%	7.4	22	1
+Café/Dessert	CAFE LOC - Ăn Uống - Nguyễn Chí Thanh	326 Nguyễn Chí Thanh, P. Hiệp An, Thị xã Thủ Dầu Một, Bình Dương	0	0	0	10,000	26,000	0.0%	0	0	1
+Café/Dessert	RUBY HOUSE - Trà Sữa, Cà Phê &amp; Ăn Vặt - 287 Phạm Ngũ Lão	287 Phạm Ngũ Lão, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:00 - 22:00	0	0	0.0%	10.0	1	1
+Café/Dessert	Trà Sữa Cueicha - Phạm Ngũ Lão	264 Phạm Ngũ Lão, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 07:30 - 22:00	25,000	45,000	0.0%	7.0	14	1
+Café/Dessert	Trà Sữa Pozaa Tea - Lê Hồng Phong	504 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 22:00	10,000	40,000	0.0%	6.2	5	1
+Café/Dessert	Chè Bưởi Vĩnh Long - Cách Mạng Tháng 8	749 Cách Mạng Tháng 8, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 21:00	15,000	40,000	0.0%	5.5	3	0
+Nhà hàng	Lotteria - Dĩ An Big C	TTTM Green Square, Quốc Lộ 1K, P. Đông Hòa, Dĩ An, Bình Dương	4.5	500+	 08:30 - 22:00	30,000	88,000	0.0%	6.9	9	1
+Nhà hàng	Marukame Udon - AEON Mall Bình Dương	A-15, Tầng 2 AEON Mall Bình Dương, 1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 10:00 - 22:00	30,000	50,000	0.0%	7.6	43	1
+Nhà hàng	Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Aeon Mall Bình Dương	G-26, Tầng Trệt AEON MALL Bình Dương,1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	50+	 10:00 - 22:00	150,000	300,000	0.0%	7.4	12	1
+Café/Dessert	KOI Thé - Đại Lộ Bình Dương	621A Đại Lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	25,000	60,000	0.0%	7.0	9	1
+Café/Dessert	Bún Đậu Mắm Tôm - Boss Coffee	32 Phú Lợi, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:30 - 22:00	10,000	39,000	0.0%	5.9	11	1
+Café/Dessert, Quán ăn	The TRAN Coffee &amp; Tea	Hẻm 69, Đường 30/4, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:00 - 22:00	19,000	49,000	0.0%	6.2	1	1
+Quán ăn	Bún Đậu Chí Phèo 2	260 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 11:30 - 22:00	35,000	55,000	0.0%	8.0	2	1
+Ăn vặt/vỉa hè	Bánh Bèo Chén Cô Cám - Trần Văn Ơn	Hẻm 172 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 21:00	10,000	50,000	0.0%	7.8	15	1
+Café/Dessert	The Alley - Trà Sữa Đài Loan - Hoàng Văn Thụ	35 Hoàng Văn Thụ, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 23:00	30,000	80,000	0.0%	7.4	11	1
+Quán ăn	Sơn Ký 2 - Cơm Chiên Gà Xối Mỡ	617/2 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:30 - 20:30	22,000	35,000	0.0%	7.1	2	1
+Quán ăn	Bún Đậu A Tỳ - Đường 30 Tháng 4	77 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 12:00 - 21:30	6,000	50,000	0.0%	5.9	21	1
+Nhà hàng	Lotteria - Bình Dương Nguyễn Kim	1 Trần Hưng Đạo, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:30 - 22:00	30,000	88,000	0.0%	5.5	3	1
+Café/Dessert	Phúc Long AEON Mall Bình Dương	G-31, Tầng Trệt AEON Mall Bình Dương, 1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	999+	 07:00 - 21:00	35,000	100,000	0.0%	7.0	89	1
+Café/Dessert	Halu Tea	1 Văn Công Khai, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:30 - 21:30	15,000	28,000	0.0%	9.4	1	1
+Quán ăn	Mì Cay Seoul	40 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	25,000	40,000	0.0%	5.4	11	1
+Quán ăn	Nem Nướng Ninh Hòa - Nhã Phương	117/1 Phú Lợi, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 21:00	12,000	30,000	0.0%	5.2	11	1
+Nhà hàng	Pizza Hut - Aeon Mall Bình Dương	Tầng 2, Lô S1, Tầng 2, Aeon Mall Bình Dương, 1 Đại Lộ Bình Dương, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 10:00 - 22:00	29,000	300,000	0.0%	5.5	6	0
+Café/Dessert	Highlands Coffee - Nguyễn Kim Bình Dương	01 Trần Hưng Đạo, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 23:00	9,000	65,000	0.0%	7.4	20	0
+Ăn vặt/vỉa hè	Quán Chè Mùa Hè - Trà Sữa &amp; Trà Đào - Bình Đường 1	9 Bình Đường 1, P. An Bình, Dĩ An, Bình Dương	4.5	10+	 08:00 - 22:00	0	0	0.0%	5.0	1	1
+Café/Dessert	YoTea Thuận Giao	 2/48 Thủ Khoa Huân, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 08:00 - 22:00	25,000	40,000	0.0%	10.0	1	1
+Nhà hàng	Lotteria - Coop Mart Bình Dương	Đường 30 Tháng 4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:30 - 22:00	30,000	88,000	0.0%	4.8	5	1
+Café/Dessert	Miutea - Nguyễn Văn Trỗi	114B/2 Nguyễn Văn Trỗi, KP. 1B, P. An Phú, Thuận An, Bình Dương	4.5	50+	 08:30 - 22:00	10,000	26,000	ShopeeFood</span	10.0	4	1
+Café/Dessert	Highlands Coffee - CoopMart Bình Dương	CoopMart Bình Dương, Đường 30 Tháng 4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	39,000	100,000	0.0%	6.7	5	1
+Café/Dessert	Đậu Milk Tea - Thích Quảng Đức	72 Thích Quảng Đức, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	10,000	42,000	0.0%	6.1	16	1
+Nhà hàng	Pizza Hut - Đại Lộ Bình Dương	Big C Bình Dương, 555B Đại Lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 22:00	40,000	165,000	0.0%	5.9	28	1
+Quán ăn	Quán Ăn Minh Ký - Ẩm Thực Việt Hoa	492 Đường D1, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	40,000	70,000	0.0%	6.1	3	1
+Café/Dessert	Vua Hồng Trà	38 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 22:00	15,000	30,000	0.0%	10.0	1	1
+Nhà hàng	Kimchee Restaurant	Ô 121 Đường D11, P. An Phú, Thuận An, Bình Dương	4.5	100+	 10:00 - 22:00	39,000	59,000	0.0%	10.0	2	1
+Café/Dessert	Coffee Bike - Cà Phê &amp; Ăn Vặt	353/3 Phú Lợi, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 06:00 - 21:00	10,000	32,000	0.0%	9.5	12	1
+Quán ăn	Pizza Hut - Lái Thiêu	91A Đường Cách Mạng Tháng Tám, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 10:00 - 22:00	150,000	330,000	0.0%	5.0	1	1
+Café/Dessert	Todaycha - D3 Đường N2	D3 Đường N2 Cụm SXCN, P. An Thạnh, Thuận An, Bình Dương	4.5	10+	 09:30 - 22:00	15,000	45,000	0.0%	9.4	1	1
+Café/Dessert	Highlands Coffee - Lý Thường Kiệt	5 Lý Thường Kiệt, Dĩ An, Bình Dương	4.5	100+	 07:00 - 23:00	9,000	65,000	0.0%	6.7	2	1
+Café/Dessert	Phúc Long Nguyễn Đình Chiểu Bình Dương	44 Nguyễn Đình Chiểu, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 22:00	25,000	70,000	0.0%	5.7	29	1
+Ăn vặt/vỉa hè	Đá Bào Singapore - Bùi Quốc Khánh	234/5 Bùi Quốc Khánh, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 22:00	10,000	75,000	0.0%	6.7	36	1
+Nhà hàng	Lotteria - Bình Dương Big C	555B Đại lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:30 - 22:00	30,000	88,000	0.0%	5.5	11	1
+Quán ăn	Gà Baby - Gà Nướng &amp; Lẩu Thượng Hạng - Đường GS01	156 Đường GS01, Khu Phố Tây A, P. Đông Hoà, Dĩ An, Bình Dương	4.5	100+	 10:00 - 22:00	70,000	250,000	0.0%	8.6	1	1
+Ăn vặt/vỉa hè	Hồng Trà Ngô Gia Chi Nhánh Thủ Dầu Một	8 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	12,000	35,000	0.0%	4.4	1	1
+Café/Dessert	Karin - Tiệm Ăn Vặt Quốc Dân	48 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 15:00 - 22:00	8,000	35,000	0.0%	4.1	3	1
+Nhà hàng	Gà Rán KFC - CoopMart Bình Dương	30 Tháng 4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	40,000	110,000	0.0%	5.4	7	1
+Nhà hàng	Pizza Hut - Midori Park The View	Tầng Trệt, Tòa Nhà 1, Lô H9 Midori Park The View, Lý Thái Tổ, KĐT Hòa Phú, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 22:00	100,000	300,000	0.0%	4.6	1	1
+Café/Dessert	Jeepgo Coffee	114 Hoàng Văn Thụ, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	10,000	30,000	0.0%	9.4	5	1
+Café/Dessert	Trà Sữa 39 - Lê Hồng Phong	444 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 22:00	12,000	35,000	0.0%	10.0	1	1
+Café/Dessert	Đậu Milk Tea - Hoàng Hoa Thám	126 Hoàng Hoa Thám, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 22:00	20,000	75,000	0.0%	4.2	1	1
+Café/Dessert	Trà Sữa Thu Hiền - Nguyễn Thị Minh Khai	88 Nguyễn Thị Minh Khai, P. Tân Đông Hiệp, Dĩ An, Bình Dương	4.5	100+	 09:00 - 21:00	15,000	50,000	0.0%	9.6	7	1
+Nhà hàng	Gà Rán KFC - Big C Dĩ An	Shop 26, TTTM Green Square (Big C Dĩ An), P. Đông Hòa, Dĩ An, Bình Dương	4.5	500+	 09:00 - 22:00	40,000	165,000	0.0%	4.7	5	0
+Ăn vặt/vỉa hè	Kuai Cha Milktea &amp; Freeze	295 Phạm Ngũ Lão, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 20:00	20,000	32,000	0.0%	8.7	2	1
+Café/Dessert	We Milk Tea &amp; Dessert	1152 Cách Mạng Tháng 8, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 08:30 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sinh Tố 43	43 Hùng Vương, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	10,000	30,000	0.0%	6.0	2	1
+Quán ăn	Cơm Gà Xối Mỡ 77	120 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 13:00 - 22:00	30,000	50,000	0.0%	3.8	1	1
+Quán ăn	Gà rán và Mì Ý - Jollibee - Phú Lợi	Bình Dương Square, 1 Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	25,000	100,000	0.0%	3.5	3	1
+Quán ăn	Gà Cục Tác	324/47 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	3.5	6	 10:00 - 22:00	30,000	350,000	0.0%	8.4	1	1
+Café/Dessert	1990 Coffee	3 Đường N4, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 06:00 - 22:30	14,000	22,000	0.0%	8.6	1	1
+Ăn vặt/vỉa hè	Bếp Milo - Chân Gà Sốt Thái	132/2/24 Đại lộ Bình Dương, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 00:01 - 23:59	10,000	170,000	0.0%	8.8	1	1
+Quán ăn	Mì Quảng Phố Hội 3	23 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 06:00 - 13:00 | 16:00 - 22:00	25,000	40,000	0.0%	8.4	1	1
+Quán ăn	C.Tao Chinese Restaurant - Ngô Gia Tự	108 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 13:30 | 17:00 - 21:30	50,000	180,000	0.0%	5.7	3	1
+Quán ăn	Steak Bin &amp; Pizza - Dĩ An	181 Đường GS1, P. Đông Hòa, Dĩ An, Bình Dương	4.5	100+	0	5,000	120,000	0.0%	0	0	1
+Quán ăn	Royal Seafood - Súp Bào Ngư Vi Cá &amp; Hải Sâm Đại Bổ - Ngô Thì Nhậm	1 Ngô Thì Nhậm, Khu Phố Nhị Đồng 2, Thị xã Thủ Dầu Một, Bình Dương	3.5	9	 07:00 - 19:00	30,000	1,200,000	0.0%	4.2	1	1
+Café/Dessert	Highlands Coffee - AEON Mall Bình Dương	G24, Tầng Trệt AEON Mall Bình Dương, 1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	500+	 08:00 - 22:00	9,000	65,000	0.0%	7.4	35	1
+Nhà hàng	Bánh Xèo Thuỷ Tiên	55 Phạm Thị Tân, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 09:00 - 21:00	15,000	200,000	0.0%	8.0	1	1
+Quán ăn	Bánh Canh Cua - Hủ Tiếu Hải Sản Bà Chiểu	B11/1 Tổ 26, Đường D4, KP. Bình Thuận 2, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 11:00 - 21:00	20,000	40,000	0.0%	8.0	1	1
+Quán ăn	Bựa Quán - Thịt Xiên Bánh Hỏi	1171 Cách Mạng Tháng 8, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 16:00 - 23:00	10,000	50,000	0.0%	7.4	4	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Go! Dĩ An	Tầng Trệt, TTTM Go! Dĩ An, P. Đông Hòa, Dĩ An, Bình Dương	4.5	999+	 09:00 - 21:00	25,000	150,000	0.0%	3.6	1	1
+Nhà hàng	Khế Bistro - Vietnamese Cuisine	40 Đường D9, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:30 - 22:30	49,000	269,000	0.0%	8.4	1	1
+Quán ăn	Cháo Trắng Bình Minh	600 Cách Mạng Tháng 8, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 11:00 - 23:00	10,000	30,000	0.0%	7.8	1	1
+Nhà hàng, Buffet	Sumo BBQ - Aeon Mall Canary Bình Dương - Buffet Nướng &amp; Lẩu	Tầng 2 Aeon Mall Canary Bình Dương, Đại Lộ Bình Dương, P. Thuận Giao, Thuận An, Bình Dương	4.5	5	 09:00 - 22:00	250,000	400,000	0.0%	7.9	39	1
+Quán ăn	Bạch Đằng Quán - Cơm Trưa &amp; Lẩu Gà Lá É	1020/3 Cách Mạng Tháng 8, Tổ 36, Khu 5, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.0	50+	 07:00 - 21:00	30,000	40,000	0.0%	7.4	2	1
+Nhà hàng	Mini Indian Restaurant	1070 Cách Mạng Tháng 8, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 22:00	20,000	80,000	0.0%	9.1	3	1
+Ăn vặt/vỉa hè	Gỏi Cuốn Cô Ba Bình Dương	335 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 10:30 - 20:00	20,000	25,000	0.0%	7.1	2	1
+Nhà hàng	Phố Nướng Tokyo Bình Dương	145 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 10:00 - 23:00	25,000	340,000	0.0%	7.7	32	1
+Quán ăn	Tao Ngộ - Lẩu Gà Lá É - Đường D1	62 Đường D1, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	20,000	200,000	0.0%	9.0	1	1
+Quán ăn	Mì Quảng - Phố Hội An - Cách Mạng Tháng 8	33 Cách Mạng Tháng 8, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:00 - 13:00 | 17:00 - 21:30	20,000	30,000	0.0%	6.7	2	1
+Quán ăn	Bà Bảy - Bánh Bèo Chén - Bàu Bàng	101 Bàu Bàng, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 11:00 - 18:00	10,000	25,000	0.0%	5.9	19	1
+Nhà hàng	Yumyum Thai - Nhà Hàng Thái	79 Hoàng Văn Thụ, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 11:00 - 14:00 | 17:00 - 22:00	65,000	400,000	0.0%	7.6	2	1
+Quán nhậu, Du lịch sinh thái	Ẩm Thực Đồng Quê - Gà Đất Sét	1214/48 Lê Chí Dân, P. Tương Bình Hiệp, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 07:00 - 22:00	100,000	200,000	0.0%	8.2	3	1
+Quán ăn	Bếp Nhà - Quán Ăn Gia Đình	22 Đường D9, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 10:00 - 22:30	15,000	200,000	0.0%	7.8	4	1
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Đại Lộ Bình Dương	506 Đại Lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	35,000	79,000	0.0%	6.7	31	1
+Café/Dessert	Thanh Thanh - Kem Xôi Dừa	 40 Đường Số 6, KDC Hiệp Thành 3, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 11:00 - 21:00	10,000	20,000	0.0%	6.1	12	1
+Café/Dessert	Ăn Vặt Me Sữa	145 Bùi Quốc Khánh, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	0	10,000	25,000	0.0%	0	0	1
+Tiệm bánh	Tiệm Bánh Xuân Ngọc	52 Ngô Quyền, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	3.5	8	 13:00 - 19:00	0	0	ShopeeFood</span	10.0	3	1
+Quán ăn	Cơm Tấm Bành Dã - Phạm Ngũ Lão	29 Phạm Ngũ Lão, P.Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 06:00 - 22:00	15,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu 1986	Ô 57-59, Đường D1, Thuận An, Bình Dương	4.5	500+	 09:00 - 21:00	20,000	55,000	0.0%	6.6	7	1
+Quán ăn	Bún Mắm Mười Thanh	186/2 Nguyễn Văn Tiết, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 07:30 - 21:00	15,000	25,000	0.0%	6.9	13	1
+Ăn vặt/vỉa hè	Bánh Xèo Trần Hà	Trần Tử Bình (Ngã 4 Quốc Tế), P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 09:00 - 22:00	15,000	20,000	ShopeeFood</span	7.8	5	1
+Quán ăn	Bún Đậu Mắm Tôm Hà Thành 2	Đường D5, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 21:00	12,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Tráng Trộn Gánh Hàng Rong - Võ Thành Long	9 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Song Ngọc Chi Nhánh 2 - Lê Hồng Phong	66 Lê Hồng Phong, P. Tân Đông Hiệp, Dĩ An, Bình Dương	4.5	10+	 06:00 - 20:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Việt Hàn - Gà Rán &amp; Ăn Vặt Chuẩn Hàn - Lý Thường Kiệt	89 Lý Thường Kiệt, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 21:00	25,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Long Thành Hà Nội Bún Chả - Bún Đậu &amp; Cơm Gà	243 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 15:00 - 22:00	25,000	35,000	0.0%	7.3	3	1
+Quán ăn	Phở Lý Quốc Sư	7 Đường 30 Tháng 4, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:00 - 23:00	25,000	45,000	0.0%	6.1	2	1
+Quán ăn	Bánh Giò Bánh Chưng Mẹ Múp - An Bình	71 Khu Phố 4, Đường Số 5, P. An Bình, Dĩ An, Bình Dương	4.5	10+	 06:00 - 23:59	20,000	400,000	0.0%	8.9	4	1
+Quán ăn	Yến Magui - Trà Sữa &amp; Bánh - KDC VietSing	Đường DA8 Góc NA3, KDC VietSing, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 09:00 - 22:00	29,000	95,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Maity Café	Cổng Phố Đi Bộ Bạch Đằng 1C Bạch Đằng, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:00 - 23:00	20,000	55,000	0.0%	7.5	2	1
+Quán ăn	Phở Thanh Cảnh	150 Trương Định, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:00 - 20:00	35,000	50,000	0.0%	10.0	1	1
+Nhà hàng	Pizza Hut - Nguyễn An Ninh	210 Nguyễn An Ninh, P. Dĩ An, Dĩ An, Bình Dương	4.5	100+	 10:00 - 21:00	29,000	300,000	0.0%	1.0	1	1
+Quán ăn	Bún Đậu Hà Thành	9 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:30 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Song Ngọc Chi Nhánh 1 - Nguyễn Thị Minh Khai	208 Nguyễn Thị Minh Khai, P. Tân Đông Hiệp, Dĩ An, Bình Dương	4.5	10+	 06:00 - 20:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Ngon Lắm Lunnn - Thức Ăn Nhanh	101/14 Phan Đình Giót, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 15:00 - 22:00	7,000	12,000	0.0%	9.4	1	1
+Quán ăn	Mì Cay's Chef - Thích Quảng Đức	244 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 22:00	20,000	150,000	0.0%	5.6	7	1
+Quán ăn	Mẹt Tre - Bún Đậu Mắm Tôm - Thích Quảng Đức	306 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Yến Magui - Trà Sữa &amp; Bánh - CMT8	174C Cách Mạng Tháng 8, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 09:00 - 22:00	29,000	95,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Scafe - Khu Dân Cư Hiệp Thành 3	C107 Đường Số 8, Khu Dân Cư Hiệp Thành 3, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	5.0	6	 06:00 - 21:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	CucLe - Gà Ủ Muối - Huỳnh Văn Lũy	288/12 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	5	 09:00 - 22:00	100,000	300,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Hẻm Bánh Tráng Nướng 2	Cuối Hẻm 69, Đường 30/4, Khu 6, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 16:00 - 21:00	10,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ăn 7 Sang - Lẩu &amp; Gà Ta - Đại Lộ Bình Dương	561/180 Đại Lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	0.0	1	 08:00 - 17:00	45,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Mắm Lẩu Mắm Cô 5 Đồng Tháp - Lái Thiêu	108 Đường 3 Tháng 2, Khu Phố Đông Tư, P. Lái Thiêu, Thuận An, Bình Dương	4.5	10+	 10:00 - 14:00 | 16:00 - 22:00	50,000	375,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Shop Online	Oh! Ngon - Chân Gà Sả Tắc	74 Ô 20 Đường D1 Khu Dân Cư Việt Sing, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 09:00 - 21:00	75,000	95,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Gà Rán Mr Thịnh - Thủ Khoa Huân	2/179 Thủ Khoa Huân, Khu Phố Hoà Lân 1, P. Thuận Giao, Thuận An, Bình Dương	4.5	50+	 10:30 - 22:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Bánh Hotdog - 382 Nguyễn An Ninh	382 Nguyễn An Ninh, KP. Đông Tân, P. Dĩ An, Dĩ An, Bình Dương	4.5	10+	 06:00 - 22:00	9,000	9,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Món Ngon Xứ Huế	94/11/25 Bùi Quốc Khánh, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	3.5	100+	 09:00 - 21:00	25,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Ròm - Bánh Tránh Trộn &amp; Ăn Vặt - Lý Thường Kiệt	95 Lý Thường Kiệt, P. Dĩ An, Dĩ An, Bình Dương	4.5	50+	0	0	0	0.0%	0	0	1
+Quán ăn	Cơm Gà Xối Mỡ Dì 7 Út - Cơm Gà - Chiêu Liêu	2/41 Chiêu Liêu, P. Tân Đông Hiệp, Dĩ An, Bình Dương	4.5	10+	 10:00 - 20:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Hủ Tiếu 3 Con Mực	329 Hoàng Văn Thụ, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	5.0	8	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Bún Bò Huế &amp; Phở - Hoàng Hoa Thám	48/109 Hoàng Hoa Thám, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 06:00 - 12:00 | 16:00 - 22:00	40,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Hà Nội Xưa	97 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	0	5,000	159,000	0.0%	0	0	1
+Quán ăn	Mì Cay Naga - Đường 30 Tháng 4	Ô 16 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	22,000	54,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bột Chiên Chợ Đình	108/29 Đường 30/4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 15:00 - 21:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Lẩu Chay Hoàng Đạt 2 - Đường Tô Vĩnh Diện	87/4 Đường Tô Vĩnh Diện, P. Đông Hoà, Dĩ An, Bình Dương	4.5	50+	 10:00 - 22:00	90,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Chay Tâm Hải - Cơm Tấm &amp; Lẩu Chay - Nguyễn Văn Thành	53 Nguyễn Văn Thành, Khu phố Phú Hòa, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 08:00 - 20:00	15,000	100,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Q.A Coffee	67 Trần Phú, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 07:00 - 22:00	30,000	45,000	0.0%	9.2	6	1
+Café/Dessert	Glee Tea	146 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	20,000	35,000	0.0%	3.4	1	1
+Café/Dessert	The Xanh Kitchen Coffee	25 - 26 Đường D8, KDC Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:30 - 19:00	20,000	40,000	0.0%	7.2	6	1
+Café/Dessert	Xanh2Go - KDC Phú Hoà	196 Đường D1, KDC Phú Hòa, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:30 - 22:30	28,000	28,000	0.0%	8.6	2	1
+Café/Dessert	Nest Coffee - Võ Thành Long	1 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 22:00	20,000	100,000	0.0%	8.0	1	1
+Café/Dessert	Vita Cafe - Biconsi	TTTM Bình Dương Square, Đường Số 1, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:00 - 23:00	0	0	0.0%	8.8	1	1
+Café/Dessert	Passio Coffee - 525 Thích Quảng Đức	525 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 23:00	15,000	50,000	0.0%	7.5	13	1
+Café/Dessert	Mochi - Trà Sữa Thái Lan &amp; Ăn Vặt Hàn Quốc	12 Nguyễn Trãi, P. Dĩ An, Dĩ An, Bình Dương	0.0	4	0	12,000	45,000	0.0%	0	0	1
+Café/Dessert	Candy Tea Nguyễn Du	9B/4A Nguyễn Du, KP. Bình Đáng, P. Bình Hòa, Thuận An, Bình Dương	4.5	10+	 08:00 - 22:00	15,000	30,000	0.0%	9.0	1	1
+Café/Dessert	Ơ Tea - Trà Sữa, Cafe &amp; Ăn Vặt - Trần Văn Ơn	244/37/23 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:00 - 21:00	20,000	40,000	0.0%	10.0	1	1
+Café/Dessert	More Than Coffee - Đường D8	155 Đường D8, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 20:00	29,000	35,000	0.0%	8.1	8	1
+Café/Dessert	La Belle - Trà Sữa Đài Loan - Ngô Gia Tự	31 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	39,000	62,000	0.0%	7.2	9	1
+Café/Dessert	Highlands Coffee - Big C Dĩ An	Big C Dĩ An, Quốc Lộ 1K, P. Đông Hòa, Dĩ An, Bình Dương	4.5	100+	 09:00 - 21:00	9,000	65,000	0.0%	6.1	7	1
+Café/Dessert	Highlands Coffee - Bình Dương Square	1 Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 07:00 - 20:45	9,000	65,000	0.0%	4.3	5	1
+Café/Dessert	Miss Tea - Bình Hòa 24	19/1B Bình Hòa 24, P. Bình Hòa, Thuận An, Bình Dương	4.5	10+	 07:00 - 22:30	15,000	30,000	0.0%	8.6	1	1
+Ăn vặt/vỉa hè	Trà Dâu 185 - Yersin	185 Yersin, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	5.0	5	 10:00 - 21:00	0	0	0.0%	5.0	1	1
+Café/Dessert	The Mint Coffee	222 Đường 30 Tháng 4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 22:00	16,000	35,000	0.0%	8.3	7	1
+Café/Dessert	Vita Cafe - Becamex Tower	Tầng Trệt Becamex Tower, 230 Đại lộ Bình Dương, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 21:00	15,000	200,000	0.0%	7.3	10	1
+Café/Dessert	Phước Sanh Cafe	86 Lý Thường Kiệt, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 07:00 - 21:00	10,000	30,000	0.0%	6.2	1	1
+Quán ăn	Trà Dâu Mr.Đỏ - Thích Quảng Đức	263 Thích Quảng Đức, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 08:30 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Dâu Mr. Đỏ - Nguyễn An Ninh	60 Nguyễn An Ninh, P. Dĩ An, Dĩ An, Bình Dương	4.5	10+	 08:30 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Wang Coffee &amp; Tea	6 Đông Nhì, P. Lái Thiêu, Thuận An, Bình Dương	4.5	500+	 06:00 - 22:00	16,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Piichi Tea - Trà Trái Cây &amp; Trà Sữa	71 Nguyễn Văn Tiết, P. Lái Thiêu, Thuận An, Bình Dương	4.5	10+	 08:00 - 22:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Nọng - Nguyễn Văn Tiết	24B Nguyễn Văn Tiết, Khu Phố Bình Hòa, P. Lái Thiêu, Thuận An, Bình Dương	4.5	50+	 08:00 - 22:00	19,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	AZ - Trà Sữa &amp; Chè Khúc Bạch - Đối Diện Đại Học Khoa Học Tự Nhiên TP.HCM	Đối Diện Đại Học Khoa Học Tự Nhiên TP.HCM, P. Đông Hòa, Dĩ An, Bình Dương	4.5	500+	 06:50 - 22:55	2,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Lotus Tea	205 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 08:00 - 22:00	20,000	50,000	0.0%	7.8	5	1
+Café/Dessert	Venice Coffee &amp; Bún Bắp Bò Đà Lạt - Yersin	37/5 Yersin, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Yến Magui - Trà Sữa &amp; Bánh - DT747	10/18 Đường DT747, KP. Bình Phước B, P. Bình Chuẩn, Thuận An, Bình Dương	4.5	100+	 09:00 - 22:00	29,000	95,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Nọng - Thủ Khoa Huân	 2/23 Đường Thủ Khoa Huân, KP. Hòa Lân 1, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 08:00 - 22:00	19,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	33% - Trà Trái Cây Tươi Mát - Cách Mạng Tháng 8	669 Cách Mạng Tháng 8, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hallo - Coffe &amp; Tea - 30 Tháng 04	138 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.0	2	 06:00 - 22:00	20,000	40,000	0.0%	8.6	2	1
+Café/Dessert	Highlands Coffee - Lotte Mart Bình Dương	Đại Lộ Bình Dương, P. Lái Thiêu, Thuận An, Bình Dương	4.5	500+	 08:00 - 22:00	39,000	100,000	0.0%	6.0	2	1
+Café/Dessert	Nhà Rau Má - Nguyễn Trãi	32 Nguyễn Trãi, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Papaya - Nước Ép Trái Cây - CN 2	339 Huỳnh Văn Lũy, P.Phú Lợi, Thủ Dầu Một, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 21:30	18,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hội Coffee - Sinh Tố &amp; Đá Xay	113/120 Trần Văn Ơn, Khu 6 Tổ 3, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 07:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen Z88 - Lý Thường Kiệt	5 Lý Thường Kiệt, P. Dĩ An, Dĩ An, Bình Dương	4.5	500+	 09:00 - 21:30	20,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Trà Dâu Mr. Đỏ - Phú Lợi	214 Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 10:00 | 19:30 - 21:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Yến Magui - Trà Sữa &amp; Bánh - Trần Quốc Toản	46A Trần Quốc Toản, P. Dĩ An, Dĩ An, Bình Dương	4.5	500+	 09:00 - 22:00	29,000	95,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Rau Má Cô Út - Huỳnh Văn Lũy	153 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 09:30 - 21:30	16,000	38,000	0.0%	8.5	3	1
+Ăn vặt/vỉa hè	Nước Sâm Nhãn &amp; Rau Câu - Quán Nước Cỏ Ba Lá - Ngô Quyền	27B Ngô Quyền, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 08:00 - 20:00	8,000	26,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	KATUN - Trà Sữa, Bò Né &amp; Ăn Vặt	Tạo Lực 5 (Đối Diện Chợ Phú Chánh A), Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 21:00	10,000	50,000	0.0%	5.1	2	1
+Quán ăn	Trà Sữa Mặn	9/1 Nguyễn Chí Thanh, P. An Thạnh, Thuận An, Bình Dương	4.5	100+	 09:00 - 22:00	13,000	69,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Bumba Milk Tea - Thủ Dầu Một	58 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:30 - 22:00	8,000	44,000	0.0%	9.5	5	1
+Café/Dessert	Kim Dung Milk Tea - Lê Hồng Phong	253 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:30	9,000	52,000	0.0%	6.4	6	1
+Café/Dessert	Thức Coffee - Ngô Quyền	7 Ngô Quyền, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	8	 08:00 - 22:00	20,000	50,000	ShopeeFood</span	8.0	6	1
+Café/Dessert	Nước Mía Chợ Búng	110/1A KP. Thạnh Lợi, Tỉnh Lộ 745, P. An Thạnh, Thuận An, Bình Dương	4.5	10+	 08:00 - 22:30	10,000	25,000	0.0%	9.4	1	1
+Café/Dessert	CÀ PHÊ MANG VỀ MILANO HÀ LAN	48/63 Hoàng Hoa Thám, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:30 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Nước Ép Nguyên Chất Laxy - Võ Thành Long 	53 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	5.0	5	 07:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	DAN Milk Tea - Trà Sữa - Mạch Thị Liễu	156/9A Mạch Thị Liễu, KP Đông Chiêu, P. Tân Đông Hiệp, Dĩ An, Bình Dương	5.0	10+	 10:00 - 20:00	22,000	35,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	An An’s Tea &amp; Cake - Chợ Búng	216 Cách Mạng Tháng 8, P. An Thạnh, Thuận An, Bình Dương	4.5	100+	 09:00 - 21:30	10,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Nước Ép Detox - Nước Ép Cần Tây - Lái Thiêu	133 Ngô Quyền, Long Thới, P. Lái Thiêu, Thuận An, Bình Dương	4.5	10+	 08:30 - 22:00	32,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Chanh Bụi Phố - Đường D22	Ô5 - DC05 Đường D22, P. An Phú, Thuận An, Bình Dương	4.5	6	 09:00 - 23:59	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Boo Tea - Nguyễn Văn Tiết	79A Nguyễn Văn Tiết, P. Lái Thiêu, Thuận An, Bình Dương	4.5	10+	0	15,000	50,000	0.0%	0	0	1
+Café/Dessert	Rau Má Phố - Huỳnh Văn Lũy	181 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 22:00	12,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Chè Khúc Bạch Chicken - Trà Sữa &amp; Ăn Vặt - Thích Quảng Đức	301 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:30 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Cô Ba	 30 Lý Thường Kiệt, P. Dĩ An, Dĩ An, Bình Dương	4.5	50+	0	15,000	30,000	0.0%	0	0	1
+Café/Dessert	789 - Nước Ép &amp; Bánh Tráng Trộn - Lê Thị Trung	76 Lê Thị Trung, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:30 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Peace Coffee - Hùng Vương	21A Hùng Vương, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:30 - 22:00	12,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hồng Trà Ngô Gia - Thủ Khoa Huân	35 Thủ Khoa Huân, Khu Phố Bình Thuận 2, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	0	10,000	60,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa Sunday Basic - Nguyễn Trung Trực	1 Nguyễn Trung Trực, P. Đông Hòa, Dĩ An, Bình Dương	4.5	100+	 07:30 - 23:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Starbucks Coffee - Hikari	Lô M3, Tầng Trệt, Khu Phức Hợp Hikari, Lô A11, A12, A16, Đ. Tạo Lực 2, 4 Khu Đô Thị Mới, P. Phú Chánh, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 07:00 - 21:00	60,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	TIKTOK Milktea Coffee - Đường Số D32	11 Block A1b1, Đường Số D32, Khu NOXH Việt Sing, P. An Phú, Thuận An, Bình Dương	4.5	10+	 08:30 - 20:30	15,000	69,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	An An's - Tea &amp; Cake - Becamex Tower	230 Đại Lộ Bình Dương, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 08:00 - 22:00	10,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hồng Trà Ngô Gia Dĩ An - 85 Nguyễn Trãi	85 Nguyễn Trãi, P. Dĩ An, Dĩ An, Bình Dương	4.5	100+	 08:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sinh Tố Hương Ngọc	14/35 Lái Thiêu 17, KP. Bình Hòa, P. Lái Thiêu, Thuận An, Bình Dương	4.5	10+	 05:00 - 20:30	10,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Quán Nước Mía Ngô Quyền - Đường Ngô Quyền	16 Ngô Quyền, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 22:00	6,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Zen Tea - Thích Quảng Đức	254 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 07:00 - 22:30	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hồng Trà Ngô Gia - Phú Lợi	193 Phú Lợi, Tổ 33, KP. 4, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 21:30	12,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Bobapop - Hoàng Văn Thụ	116 Hoàng Văn Thụ, KCD Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	33,000	60,000	0.0%	6.4	13	1
+Café/Dessert	Tiệm Cà Phê Nguyễn Garden - Ngô Gia Tự	29/21 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	0	0	0	20,000	50,000	0.0%	0	0	1
+Café/Dessert	The Tea King	43 Lê Hồng Phong, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	30,000	55,000	0.0%	4.8	2	1
+Café/Dessert	New Coffee - Trà Sữa &amp; Cafe - DT743B	160 Đường DT743B, KP. Đông Ba, P. Bình Hòa, Thuận An, Bình Dương	0.0	4	 06:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	SWEET - Nước Ép, Trà Sữa &amp; Trà Trái Cây	73/1 Bạch Đằng (Đường Bờ Kênh ), P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	0.0	4	 08:00 - 17:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa &amp; Cà Phê Gia Phát - Trà Sữa, Cà Phê &amp; Sinh Tố - Bình Phú	37/19 Bình Phú, P. Bình Chuẩn, Thuận An, Bình Dương	4.5	7	 09:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Miutea Tân Bình - Lê Hồng Phong	252 Lê Hồng Phong, KP Đông Chiêu, P. Tân Đông Hiệp, Dĩ An, Bình Dương	4.5	10+	 08:00 - 22:00	13,000	37,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Ăn chay	Cơm Chay Thiện Phẩm - 30 Tháng 4	183A Đường 30 Tháng 4, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 06:00 - 19:30	12,000	20,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Cơm Chay Thiên Nhiên - Đường Số 10	Đường Số 10, P. Dĩ An, Dĩ An, Bình Dương	4.5	50+	 06:00 - 19:00	7,000	18,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Lẩu Chay Hoa Sen - Tô Vĩnh Diện	22/15 Tô Vĩnh Diện, P. Đông Hòa, Dĩ An, Bình Dương	4.5	10+	 09:00 - 22:00	15,000	80,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Ăn chay	Quán Diệu Thật - Cơm Chay	73 Huỳnh Văn Cù, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:00 - 20:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Chay Thiên Dung - Đường D5	27 Đường D5, KDC K8, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:30 - 20:00	22,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Chay An Nhiên - Đường D6	75 D6, KDC Vietsing, P. An Phú, Thuận An, Bình Dương	4.5	50+	 06:30 - 20:30	8,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ẩm Thực Chay Sen - Cơm Chay &amp; Lẩu Chay - Phan Đình Giót	31A Phan Đình Giót, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 09:00 - 20:30	20,000	80,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Quán Chay Cô Lệ Quyên - Đường D4	E4/5 Đường D4, KP Bình Thuận 2, P. Thuận Giao, Thuận An, Bình Dương	4.5	10+	 06:00 - 13:00 | 16:00 - 19:00	15,000	200,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Lẩu Chay Di Lặc	52A Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Cơm Chay Thanh Tịnh	521 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 06:00 - 19:30	10,000	10,000	ShopeeFood</span	<span>_._</span>	0	1
+Ăn chay	Hương Sen - Thuần Chay Quán	779 Cách Mạng Tháng 8, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 07:00 - 13:00 | 16:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Chay Thăng Hoa	506C Nguyễn Trãi, P. Lái Thiêu, Thuận An, Bình Dương	4.5	10+	 07:00 - 14:00 | 16:30 - 21:00	15,000	230,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Hỉ Duyên Chay - Đường D8	156 Đường D8, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 06:00 - 22:00	10,000	220,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Ăn chay	Vua Lẩu Chay 9 Món Mị Châu	133 Tô Vĩnh Diện, P. Đông Hoà, Dĩ An, Bình Dương	4.5	100+	 09:00 - 22:00	10,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	PIZZA HOA ORI 61 LÊ HỒNG PHONG - Pizza - Lê Hồng Phong	 963/26 Lê Hồng Phong, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	5.0	3	 09:00 - 23:59	0	0	0.0%	<span>_._</span>	0	1
+Ăn chay	Tàu Hủ Phố - Nhà Hàng Chay	2 Lý Thường Kiệt, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 22:00	30,000	100,000	ShopeeFood</span	7.7	7	0
+Ăn chay	Nấm Rơm - Nhà Hàng Chay - Bờ Kè Bưng Cải	561/237 Ngô Quyền, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:00 - 20:30	0	0	0.0%	<span>_._</span>	0	1
+Nhà hàng	Pizza Hut - CMT8 Bình Dương	564 Cách Mạng Tháng 8, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 10:00 - 22:00	100,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Bia Lulu - Chánh Nghĩa	63 Đường D8, Khu Dân Cư Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 09:00 - 22:00	15,000	200,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Gà Rán KFC - BigC Bình Dương	555B Đại Lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	30,000	88,000	0.0%	1.0	1	1
+Quán ăn	Gà Bia Lulu - 168 Nguyễn Văn Tiết	168 Nguyễn Văn Tiết, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Lotteria - Bình Dương AeonMall	Siêu Thị Aeon Mall, Lầu 2, Khu Phức Hợp Canary, Đại Lộ Bình Dương, P. Bình Hòa, Thuận An, Bình Dương	4.5	100+	 09:30 - 21:00	30,000	300,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Lulu - Khu Dân Cư Chánh Nghĩa	63 Đường D8, Khu Dân Cư Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	HAPPY UDON - Lý Thái Tổ	HT12 - 1B Midori Park, Lý Thái Tổ, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	2.0	1	 10:00 - 14:00 | 16:00 - 21:00	30,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Ly Viên Chiên Nước Mắm 2T - Đông Nhì	45 Đông Nhì, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	0	8,000	200,000	0.0%	0	0	1
+Quán ăn	KUAI HotPot - Dimsum - Võ Thành Long	32 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	3.5	10+	 09:00 - 21:30	35,000	289,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Phúc Lâm - Cơm Gà &amp; Lẩu Gà Lá É	41A Phạm Ngũ Lão, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	0	30,000	300,000	ShopeeFood</span	0	0	1
+Buffet	Subin BBQ - Quán Nướng Hàn Quốc - Vincom Dĩ An	Tầng 4, Tầng 4 Vincom Dĩ An, 3 Tỉnh Lộ 743, P. Tân Đông Hiệp, Dĩ An, Bình Dương	0.0	1	 10:30 - 22:00	15,000	259,000	0.0%	6.2	2	1
+Quán ăn	Mì Cay Ngọc Nấu - Kim Chi Mẹ Làm	42 Phan Đình Phùng, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 10:30 - 22:00	30,000	140,000	0.0%	5.0	1	1
+Quán ăn	Quán Lẩu Dựng Bò Siu - Cách Mạng Tháng Tám	88B/3 Cách Mạng Tháng Tám, KP. Thạnh Lộc, P. An Thạnh, Thuận An, Bình Dương	0.0	4	 06:00 - 22:00	5,000	250,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hải Sản Gió Biển - Đường GS1	Lô AO27, Đường GS1, KP Tây B, P. Đông Hòa, Dĩ An, Bình Dương	0.0	4	 10:00 - 22:00	50,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Dê Thuần Ký Phú Hòa - Lê Hồng Phong	424/58 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:30 - 22:30	40,000	400,000	0.0%	<span>_._</span>	0	1
+Quán ăn	GÀ NƯỚNG XÔI MẸT &amp; LẨU GÀ - D1 Vietsing	Ô 42 DC 64 Đường D1 Vietsing, P. Thuận Giao, Thuận An, Bình Dương	4.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Nhà hàng	Ẩm Thực Cô 3 Bình Dương	134/36 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:00 - 21:00	12,000	300,000	ShopeeFood</span	9.8	5	1
+Quán ăn	Cháo Vịt Hố Trầu	Lò Lu, Xã Tương Bình Hiệp, P. Tương Bình Hiệp, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:00 - 21:00	70,000	300,000	ShopeeFood</span	7.2	1	1
+Ăn vặt/vỉa hè	Gà Quay Bánh Bao Huy Phát 68 - 184 Nguyễn An Ninh	184 Nguyễn An Ninh, P. Dĩ An, Dĩ An, Bình Dương	4.5	10+	 08:00 - 20:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Song Anh	501 Nguyễn Trãi, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 09:00 - 21:30	35,000	100,000	ShopeeFood</span	4.0	1	1
+Quán ăn	Lẩu Cua Đồng Chung Mập - Lẩu &amp; Bánh Đa Cua - Xuyên Á	137/4A Xuyên Á, P. An Bình, Dĩ An, Bình Dương	0	0	0	0	0	0.0%	0	0	1
+Nhà hàng	Lẩu Cá Đuối - Nguyễn Tri Phương	377 Nguyễn Tri Phương, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 10:00 - 22:00	100,000	150,000	ShopeeFood</span	5.9	10	1
+Quán ăn	Quán Bò Sốt Cay 99 - Đường Bạch Đằng	184 Bạch Đằng, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:00 - 23:00	139,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	TAO NGỘ QUÁN - Lẩu Gà Lá É - 500C Nguyễn Trãi	500C Nguyễn Trãi, P. Lái Thiêu, Thuận An, Bình Dương	0.0	4	 07:00 - 23:30	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Bia Lulu - Nguyễn Văn Tiết	168A Nguyễn Văn Tiết, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 21:00	10,000	50,000	0.0%	10.0	1	1
+Quán ăn	Quán Hủ Tiếu Nam Vang - Bún Mắm &amp; Lẩu Mắm - Đường D1	Ô 72 - 74 DC 14, Đường D1, KDC Việt Sing, P. An Phú, Thuận An, Bình Dương	4.5	10+	 06:00 - 13:00 | 17:00 - 22:00	30,000	350,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Nhà Hàng Chay &amp; Cafe Niêu - Huỳnh Văn Lũy	65 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:30 - 20:00	19,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chiều Nay Quán	1045 Lê Hồng Phong, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 22:00	60,000	150,000	ShopeeFood</span	7.1	6	1
+Quán ăn	Bình Dân Quán - Lẩu &amp; Bò Nướng - Nguyễn Đức Thuận	133 Nguyễn Đức Thuận, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	0.0	3	 13:00 - 22:00	10,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Cay Yumi - Huỳnh Văn Lũy	220/16 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 09:00 - 22:30	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bistro 18+ Beer Craft - Beef Steak	113/11 Đường 30 Tháng 4, KP6, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	5.0	8	 07:00 - 22:00	10,000	349,000	0.0%	9.0	1	1
+Quán ăn	Lẩu Quốc Tế Hoàng Tâm	125 Bàu Bàng, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.0	100+	 08:00 - 23:00	120,000	200,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Dê Núi Ninh Bình 19 Món - Lê Hồng Phong	19 Lê Hồng Phong, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 08:00 - 23:59	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Hải Sản Thằng Mập - Đường GS1	89 Đường GS1 Khu Phố Tây B, P. Đông Hòa, Dĩ An, Bình Dương	0.0	4	 09:00 - 23:00	39,000	499,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lò Quay Sài Gòn	52 Tỉnh Lộ 745, P. Lái Thiêu, Thuận An, Bình Dương	4.0	10+	 06:00 - 20:30	280,000	300,000	0.0%	1.0	1	1
+Quán ăn	Lẩu Bò Mắm Ruốc - Nguyễn Tri Phương	Nguyễn Tri Phương, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:00 - 22:00	20,000	150,000	ShopeeFood</span	7.2	2	1
+Quán ăn	Quán Nướng &amp; Lẩu Tuấn Khang - Đường Số 2	84 Đường Số 2, KP. Bình Đường 2, P. An Bình, Dĩ An, Bình Dương	4.5	10+	 09:00 - 23:00	15,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Cay Naga - KDC Thuận Giao	E4/9 Đường N9, KDC Thuận Giao, Thuận An, Bình Dương	4.5	500+	 09:00 - 20:00	25,000	54,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ốc Lẩu Đêm Kiều Cua - Ốc 30k &amp; Lẩu Thái Hải Sản - Lê Hồng Phong	35 Lê Hồng Phong, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 13:00 - 23:00	25,000	79,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	The Sushi Bar - Lý Thái Tổ	Lô A11 - A12 - A16 Lý Thái Tổ, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 11:00 - 22:00	100,000	500,000	ShopeeFood</span	7.7	2	1
+Quán ăn	Gà Nướng Thiên Phước - Lê Thị Trung	2-26 Lê Thị Trung, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:00 - 18:00	20,000	400,000	0.0%	5.0	1	1
+Quán ăn	Quán Dì Hồng 2 - Bún Chả &amp; Ốc Đêm	2/12 Thuận An Hoà, P. Thuận Giao, Thuận An, Bình Dương	4.5	8	 06:00 - 11:00 | 15:00 - 22:00	30,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	611 Lẩu Gà Lá É - Nguyễn Văn Trỗi	689 Nguyễn Văn Trỗi, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:30 - 23:59	79,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ẩm Thực 979 - Lẩu &amp; Mẹt Đồng Quê - Phan Đình Giót	93 Phan Đình Giót, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	0.0	1	 10:00 - 23:59	15,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lò Quay Sài Gòn - Tân Hiệp 53	Tân Hiệp 53, P. Tân Hiệp, Tân Uyên, Bình Dương	4.5	2	 05:00 - 23:30	130,000	1,600,000	ShopeeFood</span	4.2	1	1
+Quán ăn	KORENO MÌ CAY 7 CẤP ĐỘ - Bò Hàu Sốt Phô Mai &amp; Mì Cay Cấp Độ 7 - Bình Hòa 24	14c1/1a Bình Hòa 24, P. Bình Hòa, Thuận An, Bình Dương	4.5	7	 10:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Nhà - Lẩu &amp; Cơm - Lê Thị Trung	55 Lê Thị Trung, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:00 - 21:00	30,000	210,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thầy Giáo Kim Bap	104 Block A, Biconsi, Chung Cư Hiệp Thành 3, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 21:00	30,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì cay Sasin - Dĩ An	62 Đường GS1, P. Đông Hoà, Dĩ An, Bình Dương	4.5	100+	 09:30 - 22:00	15,000	250,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lò Quay Hoà Lân Quán - Thủ Khoa Huân	4/144 Thủ Khoa Huân, KP. Hoà Lân 1, P. Thuận Giao, Thuận An, Bình Dương	4.5	10+	 14:30 - 23:50	150,000	350,000	0.0%	<span>_._</span>	0	1
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Cách Mạng Tháng 8	160/6 Cách Mạng Tháng 8, P. Lái Thiêu, Thuận An, Bình Dương	4.5	100+	 08:00 - 20:30	30,000	249,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Vân Chí Phèo	256 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:00 - 21:30	35,000	75,000	ShopeeFood</span	5.6	1	1
+Quán ăn	Tiệm Lẩu Bò Giáo Sĩ - Bún Bò &amp; Bò Cuốn Bánh Tráng - KDC Chánh Nghĩa	175A Hoàng Văn Thụ, KDC Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	0.0	3	 10:00 - 22:00	139,000	449,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Bún Mắm Lẩu Mắm Việt Giàu - CMT8	955 Cách Mạng Tháng 8, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 06:00 - 21:00	50,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phố Lẩu - Ngô Gia Tự	157 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 15:00 - 21:00	160,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Bò Phong Lan - Huỳnh Văn Lũy	164 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	9	 09:00 - 21:00	40,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Phú Lợi	301 Phú Lợi, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 08:00 - 22:00	35,000	79,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bông Súng Đồng	453/94 Phú Hoà, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	0	0	0	50,000	300,000	0.0%	0	0	1
+Quán ăn	Nhà Kho Số 9 - Ăn Uống - Đường D9	23-25-27 Đường D9, Khu Dân Cư Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	0	0	0	30,000	80,000	0.0%	0	0	1
+Quán ăn	Lẩu Bò Út Phước	61/5 Đường ĐX001, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 10:00 - 21:00	150,000	200,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Lẩu Gà Lá É 68 - 293B Nguyễn Chí Thanh	293B Nguyễn Chí Thanh, P. An Thạnh, Thuận An, Bình Dương	0.0	1	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	0
+Café/Dessert, Quán ăn	Béo Quán - Lẩu Nướng Và Bia	45 Nguyễn Du, P. Dĩ An, Dĩ An, Bình Dương	5.0	8	 09:00 - 21:45	15,000	589,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán Bê Thui - Đường D8	C3O1 Đường D8, P. Thuận Giao, Thuận An, Bình Dương	0.0	4	 08:00 - 23:00	30,000	300,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Cá Lóc Nướng 17 - Nguyễn Trãi	40 Nguyễn Trãi, P. Dĩ An, Dĩ An, Bình Dương	0.0	1	 10:00 - 21:00	140,000	160,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Nhà Gỗ - Đại Lộ Bình Dương	595 Đại Lộ Bình Dương, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	0.0	4	 10:00 - 23:00	20,000	400,000	0.0%	<span>_._</span>	0	0
+Nhà hàng, Quán ăn	Nhà Hàng Bình Phát - D23 - KDC VietSing	Đường D23, KDC VietSing, P. An Phú, Thuận An, Bình Dương	0.0	2	 11:00 - 22:00	60,000	400,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Gà Nướng 68 - Lê Hồng Phong	605/2 Lê Hồng Phong, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 09:00 - 21:00	20,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bờ Kè Quán - Gà Nướng Cơm Cháy	162 Bàu Bàng, Khu 1, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 11:00 - 23:00	100,000	150,000	ShopeeFood</span	5.0	60	0
+Nhà hàng	Nhà Hàng Phương Sơn	59 Phan Đình Phùng. P. Lái Thiêu, Thuận An, Bình Dương	4.5	10+	 10:00 - 22:00	99,000	349,000	0.0%	<span>_._</span>	0	1
+Shop Online	Lẩu Ly - Boss Coffee	32 Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 22:30	10,000	400,000	0.0%	<span>_._</span>	0	0
+Café/Dessert, Quán ăn	SUNFLOWER - Lẩu Khổ Hoa Rừng	79A/2 Đường GS17, KP Nhị Đồng 2, P. Dĩ An, Dĩ An, Bình Dương	0.0	1	 16:00 - 21:00	12,000	250,000	0.0%	<span>_._</span>	0	0
+Shop Online	Lẩu Ngon Tròn Vị - Đại Lộ Bình Dương - Shop Online	68 Đại Lộ Bình Dương, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	3.5	2	 10:00 - 22:30	50,000	399,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán Lẩu 89 - Đường Số 5	30 Đường Số 5, KP. Bình Đường 4, P. An Bình, Dĩ An, Bình Dương	0	0	0	30,000	100,000	0.0%	0	0	1
+Quán ăn	Combo Lan Anh - Lẩu Cá - Làng Đại Học	50 Đường Vào Đại Học Quốc Gia, P. Đông Hòa, Dĩ An, Bình Dương	4.0	1	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	0
+Quán ăn	Lẩu Bò Năm Cường 5 - Lẩu Bò - DT743	54/1 DT743, KP. Đông Tác, P. Tân Đông Hiệp, Dĩ An, Bình Dương	5.0	5	 10:00 - 23:00	150,000	200,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Ốc Khang Anh	285/16A Nguyễn Tri Phương, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 11:00 - 22:30	40,000	700,000	ShopeeFood</span	<span>_._</span>	0	0
+Quán ăn	Mama Lẩu - Thích Quảng Đức	300 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	5.0	6	 10:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	0
+Quán nhậu	Lẩu Bò 100	183 Đại Lộ Bình Dương, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:00 - 21:00	50,000	150,000	ShopeeFood</span	3.4	1	0
+Quán ăn	Quán Gà Nướng Anh Thư - Nguyễn Trãi	55/6 Nguyễn Trãi, KP. Đông Tân, P. Dĩ An, Dĩ An, Bình Dương	0.0	2	 15:00 - 22:00	20,000	120,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Nhà Hàng Ẩm Thực Rừng Xanh - Đường N2	401 Đường N2, Kp.Thống Nhất , P. Dĩ An, Dĩ An, Bình Dương	0.0	1	 10:00 - 22:00	15,000	400,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ăn Gia Đình Quý Vinh - Lẩu Bò &amp; Bò Nướng Mỡ Chài - 59/31 Nguyễn Thị Tươi	59/31 Nguyễn Thị Tươi, P. Tân Bình, Dĩ An, Bình Dương	0	0	0	0	0	0.0%	0	0	0
+Quán ăn	Mì Ý &amp; Lẩu Chay - Bít Tết Oishi&nbsp;Nabe - Becamex Tower	Tầng 3 Toà Nhà Becamex Tower, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	0	0	0	22,000	444,000	0.0%	0	0	1
+Nhà hàng	Oishi Hotpot Restaurant	89 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.0	1	 12:00 - 22:00	29,000	339,000	0.0%	9.2	1	0
+Quán ăn	Cửa Biển Quán - Mắt Cá Ngừ Hầm Thuốc Bắc - Đường Số 1	689/39/8 Đường Số 1, Khu Phố 9, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	0.0	1	 12:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bò Nầm Nướng Nàng Zenda - Bò Nầm &amp; Bò Nướng - 22/12	1/779 Đường 22/12, KP. Hoà Lân 2, P. Thuận Giao, Thuận An, Bình Dương	0	0	0	69,000	499,000	0.0%	0	0	0
+Quán ăn	Ăn Vặt - Ngáo	72 Trần Quốc Toản. P. Dĩ An, Dĩ An, Bình Dương	0	0	0	6,000	35,000	ShopeeFood</span	0	0	0
+Quán ăn	Cô Hai Quán - 12 Bis QL13	12Bis Quốc Lộ 13, KP. Bình Hoà, P. Lái Thiêu, Thuận An, Bình Dương	0	0	0	16,000	300,000	0.0%	0	0	1
+Quán ăn	Lẩu Mắm Bảy Vui Dĩ An - Bún Mắm &amp; Lẩu Mắm	25/17A Hẻm 199&nbsp;Nguyễn Đức Thiệu, Khu Phố Thống Nhất 2, P. Dĩ An, Dĩ An, Bình Dương	4.5	9	 10:00 - 22:00	50,000	500,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Chicken Plus - Thủ Dầu Một	356 Đường 30/4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 22:00	15,000	200,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán Nướng Cô Ba - Đường Số 5	96 Đường Số 5, P. Dĩ An, Dĩ An, Bình Dương	0.0	4	 14:00 - 22:00	0	0	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán Mì Quảng Cô Ba - D4	C9.5B Đường D4, KDC Thuận Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	10+	 06:00 - 11:00 | 16:30 - 21:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	BÚN ĐẬU GIA KHÁNH - 1 - Lê Lợi	Bún Đậu Gia Khánh, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Khu Ẩm Thực	Bún Bò Huế Đông Ba Gia Hội - Bún Bò - Đông Nhì	28 Đông Nhì, P. Lái Thiêu, Thuận An, Bình Dương	0.0	4	 06:00 - 20:00	0	0	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Đậu Mắm Tôm Gánh - KDC Việt Sing	Đường D1, KDC Việt Sing, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương	4.5	100+	 09:00 - 23:00	15,000	180,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Cơm Tấm Nông Lâm - Đường Tỉnh 743A	156 Đường Tỉnh 743A P. Bình An, Dĩ An, Bình Dương	4.5	50+	 05:00 - 18:00	30,000	40,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Cọ - Bò Bít Tết - Thích Quảng Đức	181 Thích Quảng Đức, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:00 - 23:00	15,000	80,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Nem Nướng &amp; Bún Nem Nướng - Đặc Sản Nha Trang - Thích Quảng Đức	180 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 09:00 - 22:00	35,000	55,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Mì Cay &amp; Ăn Vặt 24h	504 Lê Hồng Phong, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Gà 123	123 Phú Lợi, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 10:00 - 22:00	7,000	315,000	0.0%	<span>_._</span>	0	0
+Quán ăn	NEM NƯỚNG THANH THẢO - Nem Nướng &amp; Bún Thịt Nướng - 67 D1	67 Đường D1 Khu Dân Cư Phú Hoà, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:30 - 22:00	0	0	0.0%	<span>_._</span>	0	0
+Quán ăn	Mì Cay Seoul - Cách Mạng Tháng 8	655 Cách Mạng Tháng 8, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 09:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Mắm Tôm Tràng An - Nguyễn Văn Tiết	137/2 Nguyễn Văn Tiết (Ngã Ba Lái Thiêu 22), P. Lái Thiêu, Thuận An, Bình Dương	0.0	4	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	0
+Quán ăn	Bánh Mì Chấm Diệu - Bún Trộn &amp; Trà Trái Cây	3 Đường D6, Khu Dân Cư Phú Hòa, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:30 - 20:00	20,000	50,000	0.0%	<span>_._</span>	0	0
+Ăn vặt/vỉa hè	Ăn Vặt Cường Anh 24/7	Hẻm 85/7 Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 00:01 - 23:59	20,000	30,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Bò Rất Huế	453/60 Lê Hồng Phong, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương	4.5	500+	 06:00 - 21:00	25,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Đậu Mắm Tôm Hà Nội	C8/3 Đường D4, P. Thuận Giao, Thuận An, Bình Dương	4.5	500+	 08:00 - 22:00	30,000	55,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Vinh Thủy - Bún Bắp Bò Đà Lạt - Thích Quảng Đức	194 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương	4.5	9	 14:00 - 22:00	8,000	70,000	0.0%	<span>_._</span>	0	1
+Quán ăn	HALO - Cơm Phần &amp; Mì Cay - KDC Phú Hòa	3 Đường N8, KDC Phú Hòa, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 08:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bánh Cuốn Nóng Thu Loan	313 Đại Lộ Bình Dương, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 07:00 - 22:00	35,000	50,000	0.0%	<span>_._</span>	0	0
+Nhà hàng	Sukiya - Cơm Bò Hầm &amp; Mì Ramen - Midori Park Bình Dương	H8 Tạo Lực 5, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 11:00 - 19:30	5,000	80,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Cơm Tấm Cô Linh - Cơm Tấm &amp; Bún Thịt Nướng	1/DC78/ Ô 51, KP. Hoà Lân 2, P. Thuận Giao, Thuận An, Bình Dương	4.5	10+	 06:00 - 20:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Mì Cay Yumi - Lê Hồng Phong	1A Lê Hồng Phong, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:00 - 22:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Riêu 102 - Bún Riêu Cua &amp; Bún Riêu Giò Ốc - Thích Quảng Đức	145 Thích Quảng Đức, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:00 - 21:30	30,000	30,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Mì Gia Mỹ Hiền - Đường 30 Tháng 4	272 Đường 30 Tháng 4, P.  Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 07:00 - 22:00	15,000	33,000	ShopeeFood</span	6.0	4	0
+Quán ăn	Bún Riêu Cô Huệ	57/10 Vĩnh Phú 40, P. Vĩnh Phú, Thuận An, Bình Dương	0	0	0	0	0	0.0%	0	0	0
+Quán ăn	Cơm Gà Thiên Phát - Chánh Nghĩa	240 Đường 30/4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	999+	 10:00 - 20:00	30,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Mì Quảng Phố Hội An - Lý Thường Kiệt	165 Lý Thường Kiệt, P. Dĩ An, Dĩ An, Bình Dương	4.5	10+	 06:30 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Chả Hà Nội - Bún Thái &amp; Bún Mọc	C3-0.23 Đường 20, KDC Nam Long, KP Hoà Long, P. Lái Thiêu, Thuận An, Bình Dương	4.5	7	 06:00 - 20:00	35,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quang Tèo Quán - Bún Đậu Mắm Tôm Hà Nội - KDC Đồng An	A2/22 KDC Đồng An, P. Bình Hòa, Thuận An, Bình Dương	4.5	10+	 10:00 - 22:00	7,000	70,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Đậu Mắm Tôm - Hà Nội Phố	123 Nguyễn An Ninh, P. Dĩ An, Dĩ An, Bình Dương	4.5	100+	 09:00 - 22:00	25,000	210,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Tình Xứ Quảng - Bánh Canh Chả Cá &amp; Ram Bắp - Phạm Ngũ Lão	555 Phạm Ngũ Lão, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 09:00 - 21:30	10,000	99,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Hana Quán - Mỳ Cay &amp; Ăn Vặt - Đường Số 15	Đường 15, KP 1, Tân Uyên, Bình Dương	4.5	10+	 07:00 - 22:00	15,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Canh Cá Dầm Cô Hai 2	327 Huỳnh Văn Luỹ, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	50+	 06:00 - 22:00	20,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Thu Trang - Thủ Khoa Huân	201 Thủ Khoa Huân, P. An Thạnh, Thuận An, Bình Dương	4.5	10+	 08:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Thanh Hân - Bò Kho &amp; Hủ Tíu - Nguyễn Hữu Cảnh	121 Nguyễn Hữu Cảnh, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	VUA BÚN ĐẬU 8 - Đường D1	A17/7 KP Bình Thuận 2, P. Thuận Giao, Thuận An, Bình Dương	4.5	10+	 10:00 - 21:00	50,000	150,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Đậu Mắm Tôm Chang Chang - Bún Đậu Chay &amp; Bún Đậu Mẹt - Hoàng Văn Thụ	175 Hoàng Văn Thụ, KDC Chánh Nghĩa, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	4.5	6	 10:00 - 22:00	55,000	220,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Lươn Đồng Xứ Nghệ - Phú Lợi	674 Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 06:00 - 20:00	10,000	200,000	0.0%	<span>_._</span>	0	1
+Nhà hàng, Tiệc cưới/Hội nghị	Tiamo Phú Thịnh Restaurant	Đường số 2, Khu Biệt Thự Phú Thịnh, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương	5.0	3	 10:00 - 23:00	50,000	200,000	0.0%	6.5	8	0
+Ăn vặt/vỉa hè	Hải Nguyên - Bánh Tráng Nướng Đà Lạt	48/14 Hoàng Hoa Thám 2, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 13:00 - 22:00	10,000	85,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Xôi Hà Nội - Đồng An	22M/6A Đồng An, P. Bình Hòa, Thuận An, Bình Dương	4.5	10+	 06:00 - 21:00	15,000	40,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Cơm Tấm Sài Gòn 99 - Cơm Tấm &amp; Bún Thịt Nướng - Phạm Ngọc Thạch	409 Phạm Ngọc Thạch, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 06:30 - 12:30 | 15:00 - 21:00	32,000	47,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Cơm Gà Xối Mỡ Phú Cường - Ẩm Thực Phú Cường - Huỳnh Văn Luỹ	789 Huỳnh Văn Luỹ, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương	4.5	10+	 10:00 - 21:00	40,000	80,000	0.0%	<span>_._</span>	0	0
+Ăn vặt/vỉa hè	Xôi Gà &amp; Gà Nướng - Quán Gà Nướng Hai Thành - Nguyễn Đình Chiểu	93/11 Nguyễn Đình Chiểu, Khu Phố Đông B, P. Đông Hòa, Dĩ An, Bình Dương	5.0	9	 10:30 - 21:00	40,000	199,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Nhà - Đường 30 Tháng 4	416 Đường 30 Tháng 4, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương	0.0	3	 06:00 - 22:00	35,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	102 - Cơm Chiên Và Mì Xào - Huỳnh Văn Lũy	178/96 Huỳnh Văn Lũy, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 08:00 - 23:59	25,000	49,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hoa Lá Cafe	Nguyễn Chí Thanh, P. Hiệp An, Thị xã Thủ Dầu Một, Bình Dương	5.0	3	 06:00 - 22:30	12,000	25,000	ShopeeFood</span	8.6	2	1
+Quán ăn	Cơm Gà Tam Kỳ - Diễm Thuý	190 Khu Dân Cư Hiệp Thành 3, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương	4.5	100+	 10:00 - 22:00	30,000	400,000	0.0%	<span>_._</span>	0	1

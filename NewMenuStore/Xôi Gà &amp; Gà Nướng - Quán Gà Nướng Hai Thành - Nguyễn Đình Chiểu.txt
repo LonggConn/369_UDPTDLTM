@@ -1,0 +1,5 @@
+,Food,Price
+0,Gà nướng (1 con) + xôi,"190,000"
+1,Xôi đùi gà,"43,000"
+2,Xôi cánh gà,"43,000"
+3,1 Cặp Chân Gà Nướng,"18,000"

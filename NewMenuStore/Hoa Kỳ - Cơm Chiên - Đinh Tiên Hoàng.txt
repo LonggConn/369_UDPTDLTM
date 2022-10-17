@@ -1,0 +1,10 @@
+,Food,Price
+0,"Cơm chiên thịt kho trứng đậu khuôn , sườn tứ quý","25,000"
+1,"Cơm chiên gà , sườn tứ quý","25,000"
+2,"Cơm chiên gà , thịt kho trứng đậu khuôn","25,000"
+3,"Cơm chiên ốp la , sườn tứ quý","25,000"
+4,Trứng thêm 1c,"5,000"
+5,"Cơm chiên ốp la , thịt kho trứng cút đậu khuôn","25,000"
+6,Sườn thêm 1c,"10,000"
+7,"Cơm chiên gà , ốp la","25,000"
+8,Đùi gà thêm 1c,"12,000"

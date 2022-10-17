@@ -1,0 +1,6 @@
+,Food,Price
+0,Kem bơ Ban Mê ,"30,000"
+1,COUPLE: Kem bơ Ban Mê,"55,000"
+2,Combo 5x ly kem bơ Ban Mê,"135,000"
+3,Combo 10x ly kem bơ Ban Mê,"265,000"
+4,Chai cafe ,"50,000"

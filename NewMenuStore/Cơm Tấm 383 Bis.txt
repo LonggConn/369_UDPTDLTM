@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm sườn bì,"16,000"
+1,Cơm gà xào,"22,000"
+2,Cơm sườn cọng,"25,000"
+3,Cơm sườn bì chả,"27,000"
+4,Trứng thêm,"5,000"
+5,Cơm sườn trứng,"20,000"
+6,Cơm canh khổ qua,"18,000"
+7,Cơm thêm,"3,000"
+8,Cơm tàu hủ dồn thịt sốt cà,"16,000"
+9,Cơm thịt kho hột vịt,"16,000"
+10,Cơm sườn,"16,000"
+11,Lạp xưởng thêm,"10,000"

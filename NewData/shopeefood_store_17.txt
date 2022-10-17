@@ -1,0 +1,497 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody	Cửa hàng có menu
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Đinh Tiên Hoàng	49BS2 Đinh Tiên Hoàng, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	999+	0	25,000	150,000	0.0%	0	0	1
+Café/Dessert	Phê La - Nguyễn Chí Thanh	7 Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:30 - 21:00	38,000	50,000	0.0%	8.8	1	1
+Café/Dessert	Phúc Long Trần Phú Đà Lạt	28 Trần Phú, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 08:00 - 21:30	30,000	60,000	0.0%	3.8	5	1
+Quán ăn	Như Ý 3 - Quán Cơm Gà Xối Mỡ	56/2 Hải Thượng, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 08:00 - 20:00	50,000	55,000	0.0%	8.2	1	1
+Quán ăn	Quán Cơm Ngon - Phan Đình Phùng	216 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 08:00 - 20:00	30,000	35,000	0.0%	6.8	4	1
+Café/Dessert	Trà Sữa 123 - Bùi Thị Xuân	244/5 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 22:00	19,000	188,000	0.0%	10.0	2	1
+Quán ăn	Pizza Like - Hoàng Diệu	1A Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 10:00 - 22:00	15,000	155,000	0.0%	7.9	42	1
+Nhà hàng	Lotteria - Đà Lạt Big C	Food Court Big C Đà Lạt, Hồ Tùng Mậu, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 22:00	30,000	88,000	0.0%	6.1	11	1
+Quán ăn	Bánh Ướt Lòng, Gà &amp; Xôi, Mì Quảng, Thịt Nướng Cô Nga	1 Hai Bà Trưng, P. 6 , Tp. Đà Lạt, Lâm Đồng	4.5	999+	 10:00 - 22:00	25,000	30,000	0.0%	7.7	2	1
+Café/Dessert	Trà Sữa 123 - Nhà Chung	1 Nhà Chung, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 06:00 - 22:00	12,000	79,000	0.0%	9.5	18	1
+Café/Dessert	Trà Sữa White Tea &amp; Coffee - Bùi Thị Xuân	282 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 22:00	17,000	35,000	0.0%	9.0	18	1
+Quán ăn	Pizza Bingo Đà Lạt	2/43 Phạm Ngũ Lão, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 09:30 - 22:30	50,000	170,000	0.0%	9.8	1	1
+Quán ăn	Pizza Dalat 24H	54 Hải Thượng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 22:00	10,000	139,000	0.0%	8.8	6	1
+Quán ăn	Trà Sữa Ngo Đà Lạt	A12 Khu Quy Hoạch Phạm Hông Thái, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 21:00	35,000	35,000	0.0%	9.5	125	1
+Quán ăn	Tiệm Gà Tiềm Đà Lạt - Thông Thiên Học	98/5 Thông Thiên Học, P. 2  (Hẻm 98 Thông Thiên Học), Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 23:00	0	0	0.0%	10.0	4	1
+Café/Dessert	Trà Sữa 123 - Khu Hoà Bình	Số 1 Khu Hoà Bình, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 22:00	19,000	188,000	0.0%	9.9	3	1
+Nhà hàng	Gà Rán Popeyes - Bùi Thị Xuân - Đà Lạt	50F Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 22:00	50,000	100,000	0.0%	4.3	3	1
+Café/Dessert	Ốm Sữa Milk Tea	Hẻm 31 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	999+	0	10,000	28,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa AT	89 Nguyễn Văn Trỗi, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 21:00	22,000	36,000	0.0%	7.5	4	1
+Ăn vặt/vỉa hè	Gà Quay Lửa Hồng	2/1 Trần Hưng Đạo, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 15:00 - 20:30	100,000	100,000	0.0%	9.6	2	1
+Quán ăn	Ăn Là Ghiền - Cháo Ếch Singapore 151	151 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 10:30 - 22:00	10,000	35,000	0.0%	7.4	29	1
+Quán ăn	Thụy Kha 6 - Cơm Chiên Gà Xối Mỡ	344 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 09:00 - 21:00	20,000	35,000	0.0%	7.7	4	1
+Quán ăn	Quán Long - Bánh Ướt Lòng Gà	Hẻm 202, Lô A16 KQH Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 07:00 - 18:00	4,000	15,000	0.0%	6.8	161	1
+Quán ăn	Cơm Nem Nướng Gà Xối Mỡ	261 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	500+	0	15,000	59,000	0.0%	0	0	1
+Nhà hàng	MiMi Sushi &amp; Pizza	103 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 11:00 - 14:00 | 17:00 - 22:00	80,000	160,000	0.0%	9.5	76	1
+Ăn vặt/vỉa hè	Rau Má Pha Ông Chín - Nguyễn Văn Trỗi	112B Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 09:00 - 22:00	10,000	30,000	0.0%	9.4	2	1
+Quán ăn	Lee's Pizza House - Hải Thượng	17 Hải Thượng, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 10:00 - 21:30	30,000	300,000	0.0%	10.0	1	1
+Quán ăn	Yaourt Phô Mai Đà Lạt Quán 48	48 Khe Sanh, P. 10 (Dưới chân dốc chùa Tàu), Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 22:00	10,000	100,000	0.0%	9.1	50	1
+Tiệm bánh	Bánh Mì Kingf - Nguyễn Văn Trỗi	91D Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 07:00 - 22:00	12,000	15,000	0.0%	7.6	4	1
+Café/Dessert	Trà Sữa KOS - Nguyễn Văn Cừ	2/10 Nguyễn Văn Cừ, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	500+	0	20,000	40,000	0.0%	0	0	1
+Café/Dessert	Highlands Coffee - 01 Hai Bà Trưng - Đà Lạt	1 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 07:00 - 22:00	29,000	55,000	0.0%	7.1	3	1
+Café/Dessert	Trà Sữa GonKi Tea	37B Hùng Vương, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	500+	0	20,000	40,000	0.0%	0	0	1
+Quán ăn	Nem Nướng Phương Quang	Tầng Trệt, 27/10 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 21:00	15,000	50,000	0.0%	8.9	40	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Bùi Thị Xuân	280 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 23:00	10,000	50,000	0.0%	8.1	4	1
+Ăn vặt/vỉa hè	Đông Sương Sầu - Thế Giới Ăn Vặt	16/6 Đào Duy Từ, P. 4 , Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:30 - 21:30	12,000	109,000	0.0%	8.2	13	1
+Café/Dessert	Trà Sữa DingTea - 3 Tháng 2	68 Đường 3 Tháng 2, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:30 - 22:00	25,000	49,000	0.0%	7.4	20	1
+Shop/Cửa hàng	The Choco Station - Nama Chocolate	19 Trương Công Định, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:30 - 22:00	29,000	60,000	0.0%	9.5	32	1
+Café/Dessert	Kingf Tea - Trà Sữa Thảo Mộc - Nguyễn Văn Trỗi	91C Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 22:00	15,000	30,000	0.0%	7.9	69	1
+Ăn vặt/vỉa hè	Bánh Hotdog, Bánh Cá - Uyên Lê	96 Thi Sách, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 14:00 - 20:00	10,000	15,000	0.0%	8.6	1	1
+Café/Dessert, Quán ăn	Rain Lee - Trà Sữa - Nguyễn Văn Trỗi	Hẻm 104 Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 20:00	10,000	40,000	0.0%	8.4	1	1
+Quán ăn	Ăn Vặt, Bánh Tráng Nướng Út Nhỏ - Trần Khánh Dư	79A Trần Khánh Dư, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 21:00	10,000	45,000	0.0%	8.0	1	1
+Quán ăn	Mì Cay Cừu Food &amp; Drink	Hẻm Số 3 Đoàn Thị Điểm, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 10:30 - 21:00	15,000	50,000	0.0%	5.7	7	1
+Quán ăn	Quán Vịt Số 1 Chi Lăng	1 Chi Lăng, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 23:00	69,000	209,000	0.0%	9.7	2	1
+Quán ăn	Phở Thưng - Nguyễn Văn Cừ	2/8 Nguyễn Văn Cừ, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 11:00 | 17:00 - 21:00	6,000	45,000	0.0%	6.4	12	1
+Quán nhậu	Cây Đa Quán 2 - Nướng &amp; Lẩu Cua Đồng	30/1 Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 10:00 - 23:00	30,000	150,000	0.0%	8.4	1	1
+Quán ăn	Gia Cát - Hủ Tiếu Nam Vang &amp; Dừa Dầm Đà Lạt	221/9 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 20:00	20,000	40,000	0.0%	7.6	6	1
+Nhà hàng, Quán ăn	Phở Dê Bò Bát Đá Đà Lạt - Phở Dê &amp; Bò - 85 Đoàn Thị Điểm	85 Đoàn Thị Điểm, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	3	 05:00 - 22:00	0	0	0.0%	10.0	1	1
+Nhà hàng	Tokyo Sushi Đà Lạt	5 Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 16:30 - 22:00 | 16:30 - 22:00	20,000	990,000	0.0%	8.6	6	1
+Quán ăn	Khap Bun Kha - Món Thái	26 Nguyễn Văn Cừ, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 11:00 - 22:00	14,000	160,000	0.0%	8.3	495	1
+Café/Dessert	Phúc Long Trương Công Định	30 Trương Công Định, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Pizza Chorio Delivery	414/23 Võ Trường Toản, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 11:00 - 22:00	80,000	100,000	0.0%	10.0	2	1
+Quán ăn	Bún Đậu Phố Cổ	197 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 09:00 - 21:00	50,000	100,000	0.0%	8.5	3	1
+Café/Dessert	Milano Coffee - Phạm Ngũ Lão	12 Phạm Ngũ Lão, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:30 - 22:00	10,000	18,000	0.0%	9.1	6	1
+Café/Dessert	Tỏi Đen Coffee Roastery - Phan Đình Phùng	370 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	4	 07:00 - 17:30	30,000	50,000	0.0%	10.0	110	1
+Ăn vặt/vỉa hè	Chè Thái - Bà Triệu	15 Bà Triệu, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 09:30 - 21:30	15,000	20,000	0.0%	6.1	38	1
+Quán ăn	Pizza Anh Em	2A Nguyễn Trãi, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 22:00	79,000	139,000	0.0%	9.6	4	1
+Quán ăn	Mì Quảng Nhà Shin - Nguyễn Công Trứ	209 Nguyễn Công Trứ, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:30 - 14:00	25,000	40,000	0.0%	8.2	6	1
+Ăn vặt/vỉa hè	Cá Nướng Cơm Lam	Đèo Mimosa, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 11:30 - 23:00	22,000	12,000	0.0%	9.6	31	0
+Nhà hàng	Nhà Hàng Thái Trân - Mì Cay Naga	3 Lê Thị Hồng Gấm, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 22:00	35,000	200,000	0.0%	6.7	2	1
+Café/Dessert	Vcafe Da Lat Viet Nam	1/1 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:30 - 22:00	10,000	30,000	0.0%	9.9	7	1
+Quán ăn	A Nhi - Bánh Ướt Lòng Gà	128 Hà Huy Tập, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 21:30	25,000	50,000	0.0%	9.8	1	1
+Quán ăn	Lẩu Gà Lá É - Hai Bà Trưng	89 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 21:00	123,000	200,000	0.0%	9.3	49	1
+Quán ăn	Cháo Dinh Dưỡng Việt Soup - Đường 3 Tháng 2	123 Ba Tháng Hai, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 06:00 - 19:00	20,000	22,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Đại Phát	82 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 21:00	10,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Young Tea - Vạn Thanh Trà - Trà Hữu Cơ	267 Hai Bà Trưng, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:30	15,000	30,000	0.0%	10.0	2	1
+Quán ăn	Lân Hà - Cơm Gà Xối Mỡ - Tản Đà	5 Tản Đà, P. 6 , Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 19:00	25,000	35,000	0.0%	9.4	6	1
+Quán ăn	Seoul - Ẩm Thực Đường Phố Hàn Quốc	1F Nam Kì Khởi Nghĩa, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 21:30	7,000	45,000	0.0%	5.6	17	1
+Café/Dessert	Tiệm Cà-Phê Cô Bông - Yersin	238 Yersin, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	100+	0	15,000	35,000	0.0%	0	0	1
+Nhà hàng	Gà Rán KFC - Đà Lạt Center	TTTM Đà Lạt Center, Khu C Chợ Đà Lạt, 10 Phan Bội Châu, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 22:00	35,000	88,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa KOS - Bùi Thị Xuân	217 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	50+	0	20,000	100,000	0.0%	0	0	1
+Ăn vặt/vỉa hè	Long Nga - Ẩm Thực Chè	76D Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 15:00 - 21:00	10,000	20,000	0.0%	8.0	5	1
+Café/Dessert	Trà Sữa Zealtea	212 Hai Bà Trưng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:30 - 22:00	25,000	42,000	0.0%	8.5	18	1
+Quán ăn	Lẩu Gà Tao Ngộ 2 - Hải Thượng	28B Hải Thượng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	5	 08:00 - 23:00	100,000	300,000	0.0%	9.5	8	1
+Café/Dessert	Thảo - Cafe &amp; Bánh Mì	213 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 19:00	15,000	25,000	0.0%	7.3	5	1
+Ăn chay	Quán Chay An Lạc Tâm 3	68 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:30 - 19:30	20,000	30,000	0.0%	6.1	2	1
+Quán ăn	Lẩu Gà Lá É Tao Ngộ 2	99 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:30 - 22:00	5,000	500,000	0.0%	8.2	1	1
+Café/Dessert	Trà Sữa Hu Tea (Hồ Trà)	Bên Trong Nhà Hàng &amp; Cà Phê Bích Câu, Hồ Xuân Hương, Phường 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 17:00	35,000	65,000	0.0%	9.5	3	1
+Quán ăn	Gà Nướng Tửu Lầu	125 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 22:00	50,000	150,000	0.0%	9.5	3	1
+Café/Dessert	Cà phê tỏi đen - Bùi Thị Xuân	318 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:30 - 17:30	30,000	50,000	0.0%	10.0	99	1
+Café/Dessert	Chạm - Kem Bơ &amp; Cafe	27 Nguyễn Trãi, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 22:00	10,000	30,000	0.0%	8.1	12	1
+Café/Dessert	Trà Sữa Nọng - Bùi Thị Xuân	79A3 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 22:00	19,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nem Nướng Cô Thu	56/13 Hải Thượng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:30 - 21:00	20,000	35,000	ShopeeFood</span	9.0	65	1
+Quán ăn	Burger House	63 Đường 3 Tháng 2, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 09:00 - 21:00	50,000	50,000	0.0%	9.2	1	1
+Quán ăn	Tửu Lầu Quán - Quán Ăn Gia Đình	92 Nguyễn Đình Quân, P. 5, Tp. Đà Lạt, Lâm Đồng	0.0	3	 08:08 - 23:23	109,000	330,000	0.0%	8.2	1	1
+Quán ăn	BA LẠNG RƯỠI - Bò Tơ &amp; Cá Ngừ Đại Dương Phú Yên - Hai Bà Trưng	402 Hai Bà Trưng P. 6, Tp. Đà Lạt, Lâm Đồng	3.5	10+	 10:00 - 23:00	10,000	300,000	0.0%	2.4	1	1
+Quán ăn	Lẩu Gà Lá É Tao Ngộ - Bùi Thị Xuân	155 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 23:30	200,000	500,000	0.0%	8.0	1	1
+Quán ăn	Quán 26 - Lẩu Bò Ba Toa	26 Nguyễn Thị Định, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 23:30	30,000	300,000	0.0%	9.3	3	1
+Quán ăn	Lẩu Gà Lá É Tao Ngộ - 155 Bùi Thị Xuân	155 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 23:30	200,000	400,000	0.0%	9.6	1	1
+Khu Ẩm Thực	Chíp Chíp - Bánh Ướt Lòng Gà &amp; Bánh Căn - Tăng Bạt Hổ	2 - 4 Tăng Bạt Hổ, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	8	 09:00 - 22:00	0	0	0.0%	7.4	1	1
+Quán ăn	Xắp Xắp Cô Năm Quán	49/5 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 19:30	15,000	20,000	0.0%	9.6	1	1
+Café/Dessert	Emdrink - Trà Của Người Việt	79 Nguyễn Văn Trỗi, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:00	0	0	0.0%	7.0	3	1
+Café/Dessert	Kimochi Coffee	2/4 Trần Quang Diệu, P. 10, Tp. Đà Lạt, Lâm Đồng	0.0	1	 00:01 - 23:59	15,000	50,000	0.0%	8.8	1	1
+Shop Online	Ăn Vặt Online Thính	Hẻm 78 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 20:00	0	0	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	TL Ice &amp; Food	13 Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 19:00	10,000	25,000	0.0%	8.0	1	1
+Quán ăn	Chả Ram Bắp Tân Long	290 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 15:00 - 20:00	25,000	30,000	0.0%	7.1	39	1
+Quán ăn	Lẩu Bắp Hoa - Lẩu Bò Hồng Kông	12 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 22:00	200,000	200,000	ShopeeFood</span	8.4	267	1
+Ăn vặt/vỉa hè	Trà Tắc Rosa - Bùi Thị Xuân	294 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 21:00	10,000	10,000	0.0%	8.0	1	1
+Café/Dessert	Gấu's Cafe	02 Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 23:00	20,000	50,000	0.0%	8.4	4	1
+Café/Dessert	Là Việt Coffee - Nguyễn Công Trứ	200 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	35,000	60,000	0.0%	<span>_._</span>	0	1
+Shop Online	Chân Gà Sả Tắc Đà Lạt - Shop Online	36A Trần Khánh Dư, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 22:00	50,000	100,000	0.0%	8.2	4	0
+Quán ăn	Cơm Gà Sơn Ký - Phan Đình Phùng	92 Hai Bà Trung P.6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:30 - 19:30	40,000	45,000	0.0%	8.0	1	1
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - Bùi Thị Xuân	Số 302 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:30 - 21:30	40,000	80,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trang Coffee - Hai Bà Trưng	34 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 21:00	10,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Bùi Văn Ngọ Coffee - Đường 3 Tháng 4	31 Đường 3 Tháng 4, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:30 - 22:00	15,000	35,000	0.0%	7.8	37	1
+Quán ăn	Bún Bò Hương - Nguyễn Đình Chiểu	92 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 22:00	40,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Chè Cung Đình - Kem Bơ	164 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:00	7,000	20,000	0.0%	9.0	76	1
+Nhà hàng, Café/Dessert	Midway Tea &amp; Coffee - Hai Bà Trưng	292A Đường Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 22:00	30,000	80,000	0.0%	9.2	6	1
+Café/Dessert	Milano Coffee - Nguyễn Công Trứ	158 Nguyễn Công Trứ, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:30 - 22:00	20,000	40,000	0.0%	6.9	13	1
+Café/Dessert	Trà Dâu Mr. Đỏ - 91A1 Nguyễn Văn Trỗi	91A1 Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Dốc.Garden - Coffee Shop &amp; Food	106 Phan Chu Trinh, P. 9, Tp. Đà Lạt, Lâm Đồng	5.0	1	 06:00 - 22:00	15,000	35,000	0.0%	8.6	1	1
+Shop Online	Hecotea - Healthy Coffee And Tea	Tầng hầm 29 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 09:00 - 21:00	22,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phúc Long  Ngô Quyền	105 Ngô Quyền, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Gà Nướng 2 Anh Em	8 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:30 - 20:30	140,000	170,000	0.0%	6.0	7	1
+Quán ăn	Trà Sữa Ăn Vặt Sam - Phan Chu Trinh	38 Phan Chu Trinh, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:30 - 21:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Súp Cua Ngọc Đồng - Nguyễn Văn Trỗi	86C Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 07:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Cà Phê Hoa Hồng	123 Yersin, P. 9, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	50,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa TocoToco - 44 Trần Lê	44 Trần Lê, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 08:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Bánh Nhà Mèo - Hai Bà Trưng	222/3 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 21:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Ma's Milktea &amp; Gelato	2 Trần Thái Tông, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 17:00	15,000	69,000	0.0%	7.8	5	1
+Café/Dessert	Ding Tea Special	17A Xuân An, P. 3, Tp. Đà Lạt, Lâm Đồng	4.0	8	 09:00 - 22:00	25,000	49,000	ShopeeFood</span	6.1	8	1
+Quán ăn	H'mông Quán - Lẩu Gà Khô Cay &amp; Thịt Ngựa	17 - 19 Đường 3 Tháng 4, P. 3, Tp. Đà Lạt, Lâm Đồng	0.0	4	 10:00 - 23:00	70,000	300,000	0.0%	6.9	11	1
+Quán ăn	Ăn Vặt Phúc An - Mạc Đĩnh Chi	14/1 Mạc Đĩnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 22:00	15,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hoàng Anh Res - Chuyên Rau Hữu Cơ &amp; Cháo Ếch Singapore.	Lô H100 Khu Quy Hoạch Nguyễn Thị Nghĩa, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 21:00	35,000	245,000	0.0%	8.6	73	1
+Quán ăn	Đà Lạt BIG Seafood Hải Sản Thượng Hạng - Lê Hồng Phong	5 Lê Hồng Phong, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	2	 08:00 - 20:00	100,000	1,500,000	0.0%	8.8	1	1
+Café/Dessert	Cà Phê - Bánh Bao 171 Phan Đình Phùng	106 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 22:00	20,000	50,000	ShopeeFood</span	8.2	2	1
+Ăn vặt/vỉa hè	Bánh Mì Mai	27/1 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	20,000	ShopeeFood</span	0	0	1
+Quán ăn	Cơm Tiệm A Vũ - Huyền Trân Công Chúa	20 Huyền Trân Công Chúa, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 22:00	20,000	50,000	0.0%	9.4	15	1
+Quán ăn	Bún Đậu Mắm Tôm Quán Quê - Đoàn Thị Điểm	20 Đoàn Thị Điểm (Bờ Kè Nguyễn Văn Cừ), P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 20:00	10,000	40,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Bánh Mì Bé Bự - Bùi Thị Xuân	193 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 22:00	15,000	20,000	0.0%	10.0	1	1
+Quán ăn	Miến Gà Hoa Trân	126 Đường 3 Tháng 2, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 21:00	35,000	150,000	ShopeeFood</span	8.9	2	1
+Quán ăn	Cơm Gà Ta Cô Hoa Quán - Mạc Đỉnh Chi	44 Mặc Đỉnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 07:00 - 21:00	10,000	70,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Đậu Nành Đà Lạt - Đào Duy Từ	16/6 Đào Duy Từ, P. 4, Tp. Đà Lạt, Lâm Đồng	4.0	10+	 08:00 - 22:00	39,000	39,000	0.0%	9.5	3	1
+Café/Dessert	GeyLang Đà Lạt	Lô B2 An Sơn, P. 4, Tp. Đà Lạt, Lâm Đồng	5.0	6	 09:30 - 19:30	40,000	99,000	0.0%	9.8	12	1
+Quán ăn	Lẩu Gà Lá É Phú Yên	178 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	5.0	1	 09:00 - 22:00	100,000	300,000	0.0%	8.4	3	1
+Quán ăn	Tiệm Cơm Mỹ Thu	146 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 19:30	20,000	35,000	ShopeeFood</span	7.3	4	1
+Quán ăn	Tiệm Ăn 1996	40 Đoàn Thị Điểm, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	100+	0	60,000	300,000	0.0%	0	0	1
+Nhà hàng	Nhà Hàng Trên Đỉnh Đồi Trăng - Triệu Việt Vương	1 Triệu Việt Vương, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	9	 08:00 - 23:00	70,000	350,000	ShopeeFood</span	8.3	274	1
+Quán ăn, Quán nhậu	Dê Phúc Nguyên - Cơm Nị &amp; Cà Ri Dê	32 Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 21:00	200,000	300,000	ShopeeFood</span	7.6	12	1
+Nhà hàng, Café/Dessert	Aussie Burger &amp; Coffee	58 Trương Công Định, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 22:00	20,000	200,000	0.0%	8.0	6	1
+Quán ăn	Cơm Tiệm A Vũ - Nguyễn Công Trứ	82 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 21:00	20,000	50,000	0.0%	9.3	13	1
+Quán ăn	Lẩu Mắm Hoa Trên Đá - Ba Tháng Hai	161 Đường Ba Tháng Hai, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	1	 11:00 - 22:00	50,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hủ Tiếu Mực Dũng Chi - Hủ Tiếu Mực - 09 Nguyễn Công Trứ	09 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	4	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Hương - Nhà Chung	7A Nhà Chung, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:30 - 20:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phố Ghẹ - Bánh Canh Ghẹ - Đoàn Thị Điểm	4 Đoàn Thị Điểm, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	1	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Shop Online	Tiệm Bánh Ngọt Đà Lạt - Shop Online	42 Bạch Đằng, P. 7, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 10:00 - 20:00	70,000	75,000	ShopeeFood</span	8.0	2	1
+Quán ăn	Bánh Xèo Giòn Tan - Bùi Thị Xuân	288 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 11:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Tiệm bánh	Tiệm Bánh Tâm Đoan	13 Tăng Bạt Hổ, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:30 - 21:00	10,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Đặc Sản Quỳnh Thoa - Nguyễn Thị Minh Khai	82 Nguyễn Thị Minh Khai, P. 1, Tp. Đà Lạt, Lâm Đồng	5.0	5	 07:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cô Chang - Cháo Ếch Singapore - Võ Trường Toản	401 Võ Trường Toản (Sát vườn sen Mộc), P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	2	 15:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Khô Gà, Cơm Cháy &amp; Khô Bò - Phan Đình Phùng	359 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	4	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Nhà hàng	Quán Xưa Đà Lạt - Thiên Đường Đồ Nướng	427/3 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	3.5	3	 11:30 - 23:00	20,000	99,000	0.0%	7.3	220	1
+Quán ăn	Quán Cơm Chiên Xá Xíu - Vạn Hạnh	61 Vạn Hạnh, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Bánh Canh Tôm Tít - Bùi Thị Xuân	261 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 21:00	35,000	45,000	0.0%	8.4	97	1
+Quán ăn	Cơm Tấm Phù Đổng	92 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	2	 09:00 - 19:00	20,000	30,000	ShopeeFood</span	7.3	2	1
+Quán ăn	Bún Riêu Ốc Đào Ngọc - Nguyễn Công Trứ	21/13/6 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	3.5	10+	 07:00 - 20:00	35,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Hiếu Đà Lạt - Nguyễn Văn Trỗi	103 Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 20:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Tóp Mỡ, Mực Rim &amp; Khô Gà - Phan Đình Phùng	359 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	5	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	An - Bánh Canh Cá Lóc	23/2 Trần Phú, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:30 - 19:00	15,000	30,000	0.0%	7.7	21	1
+Quán ăn	Kem Bánh Trứng HONGKONG - Lê Đại Hành	1 Lê Đại Hành, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 10:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Bánh Tráng Nhà Ốm - Phan Chu Trinh	40 Phan Chu Trinh, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 08:20 - 20:30	25,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chân Gà Sốt Thái Ngọc Minh - Trần Khánh Dư	16/3 Trần Khánh Dư, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 20:00	40,000	50,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Lẩu Cá Tầm Ngư Sơn	33/15/3 Phan Đình Phùng, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 22:00	15,000	350,000	0.0%	8.6	23	1
+Quán ăn	Cơm Tiệm A Vũ - Hai Bà Trưng	93 Hai Bà Trưng P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 21:00	20,000	50,000	0.0%	9.4	9	1
+Quán ăn	Lẩu Ốc 88	88 Nguyễn Thị Nghĩa, Tp. Đà Lạt, Lâm Đồng	5.0	2	 09:00 - 23:00	0	199,000	ShopeeFood</span	10.0	6	1
+Quán ăn	Ăn Vặt Ohayo - Thánh Mẫu	93 Thánh Mẫu, P. 7, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 18:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Khanh Kiều - Cơm Tấm Sài Gòn	37A/3 Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 07:30 - 19:00	30,000	40,000	ShopeeFood</span	6.2	10	1
+Quán ăn	Quán ốc - Yersin	27/57 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	0	50,000	200,000	0.0%	0	0	1
+Quán ăn	Cơm Miền Tây Phúc Đạt 1 - Phù Đổng Thiên Vương	125 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cà Phê &amp; Bánh Mì Cô Trâm - Hai Bà Trưng	442 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ăn Vặt Hàn Quốc KT Food - Phan Chu Trinh	36 Phan Chu Trinh, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 20:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Rán Chicken Plus - Bà Triệu	52 Bà Triệu, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 20:00	100,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cháo Ếch Singapore Ông Cao - Thông Thiên Học	3A Thông Thiên Học, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	2	 08:00 - 21:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nâu Burger - Bạch Đằng	69 Bạch Đằng, P. 7, Tp. Đà Lạt, Lâm Đồng	5.0	50+	 07:00 - 19:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Tiệm bánh	Hokkaido Baked Cheese Tart - Đường 3 Tháng 2	92 Đường 3 Tháng 2, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 22:00	35,000	195,000	0.0%	9.0	1	1
+Café/Dessert	Maybe Blue Cafe	5 Lê Hồng Phong, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Viva Coffee - Phạm Ngũ Lão	50 Phạm Ngũ Lão, P. 3, Tp. Đà Lạt, Lâm Đồng	0.0	1	 07:00 - 20:00	20,000	40,000	0.0%	6.8	1	1
+Café/Dessert, Quán ăn	Lapis Milk Tea And More - Trà Sữa HOKKAIDO - Đường 3 Tháng 2	94 Đường 3 Tháng 2, P. 1, Tp. Đà Lạt, Lâm Đồng	0.0	4	 09:00 - 20:30	10,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Hecotea - Healthy Coffee And Tea - Ngô Quyền	52 Ngô Quyền, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:00	22,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cà Phê Cốt Dừa Cô Hạnh - Nguyễn Văn Trỗi	134 Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 08:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Shop Online	Hecotea - Healthy Coffee And Tea - Phan Đình Phùng	54 Phan Đình Phùng, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	0	15,000	28,000	0.0%	0	0	1
+Café/Dessert	Nhật Nguyệt Cafe	A15 Trần Lê, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	70,000	ShopeeFood</span	0	0	1
+Café/Dessert	Rose Coffee &amp; Tea - Huyền Trân Công Chúa	51 Huyền Trân Công Chúa, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	2	 06:00 - 20:30	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Windmills Coffee - Phan Đình Phùng	133 Phan Đình Phùng, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Ăn Vặt Cô Giao Nam Thiên - Ngô Thì Nhậm	167 Ngô Thì Nhậm, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 21:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	F Coffee &amp; Shop	Lô 76 - 79 Khu Quy Hoạch Nguyễn Công Trứ, P. 2, Tp. Đà Lạt, Lâm Đồng	4.0	10+	 06:30 - 23:00	20,000	50,000	ShopeeFood</span	7.6	38	1
+Café/Dessert	KoKoTea - Phù Đổng Thiên Vương	89 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	5.0	7	 13:00 - 22:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Dogi Milktea - Hùng Vương	25 Hùng Vương, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	6	 07:30 - 21:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cổng Tea - Trà Dâu &amp; Trà Sữa - Yên Thế	19 Tên Thế, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sinh Tố &amp; Nước Ép Hồng - Phan Đình Phùng	236 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 20:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Homemade Food	38/13 Trần Phú, P. 4, Tp. Đà Lạt, Lâm Đồng	4.0	10+	 09:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa 3979 - Hoàng Diệu	57 Hoàng Diệu,P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 08:30 - 21:30	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hecotea - Healthy Coffee And Tea - Nhà Chung	Hẻm 1 Nhà Chung, P. 3, TP. Đà Lạt, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 08:15 - 21:30	10,000	28,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Milano Coffee - Bùi Thị Xuân	31 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	15,000	29,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phúc Long Hoàng Diệu	35A - 35B - 35C Hoàng Diệu, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Dreamer - Trà &amp; Trà Sữa - Thông Thiên Học	5/15 Thông Thiên Học, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	3	 09:30 - 19:30	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phúc Long Phan Đình Phùng	83 Phan Đình Phùng, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phúc Long Mê Linh	85 Mê Linh, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa C9 - Trần Lê	A19 Trần Lê, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	1	 09:00 - 20:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Bittersweet Coffee	5 Nguyễn Văn Trỗi, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 21:30	25,000	45,000	0.0%	8.7	3	1
+Café/Dessert	Trà Sữa Royal Tea Baci - Quang Trung	2A Quang Trung, P. 10, Tp. Đà Lạt, Lâm Đồng	0.0	1	 07:00 - 22:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cafe More	71B Thủ Khoa Huân, P. 1, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	30,000	0.0%	0	0	1
+Ăn vặt/vỉa hè	Sữa Đậu Nành &amp; Sữa Hạt Sen	1 Phan Đình Phùng, P. 1, Tp. Đà Lạt, Lâm Đồng	0.0	3	 06:00 - 23:00	8,000	10,000	ShopeeFood</span	9.4	2	1
+Café/Dessert	Trà Sữa Roll Tea - Xô Viết Nghệ Tĩnh	24 Xô Viết Nghệ Tĩnh, P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 10:00 - 20:00	10,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa GonKi - Hai Bà Trưng	343 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Phúc Long Bùi Thị Xuân	89 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	35,000	75,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Dâu Mêli - Đặng Thái Thân	5/2 Đặng Thái Thân, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 21:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	The F - Drink &amp; Food - Trương Công Định	16 Trương Công Định, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	5,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The Alley - Trà Sữa Đài Loan - Bùi Thị Xuân	274 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 22:30	30,000	70,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa - Cà Phê Ròm's House Đà Lạt	59 Nguyễn Lương Bằng, P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	5	 07:00 - 22:00	13,000	35,000	0.0%	8.4	8	1
+Café/Dessert	Tiệm Cà Phê Tháng 5	20 An Sơn, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	1	 06:30 - 21:00	35,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sinh Tố Hà - Sinh Tố &amp; Nước Ép - Bùi Thị Xuân	227 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:30 - 21:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Quán Mju - Rau Má &amp; Trà Tắc	48 Bà Triệu, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 08:00 - 18:30	5,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nước Ép Trái Cây Mập Healthy - Đồng Tâm	27 Đồng Tâm, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 18:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tasumi - Trà Sữa Mì - Hoàng Diệu	29A Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	0.0	2	 12:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Hana - Bùi Thị Xuân	99 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	30,000	0.0%	0	0	1
+Café/Dessert	Tiệm Hạnh Sữa - Hải Thượng	4 Hải Thượng, P. 1, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	40,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa TocoToco - TTTM GO	Tầng 1, TTTM Go, Quảng Trường Lâm Viên, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:30 - 22:00	33,000	56,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Muối Cà Phê - Trần Phú	5/24 Trần Phú, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	1	 07:00 - 18:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Love Tea	3 Tản Đà, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	8	 09:00 - 22:00	30,000	30,000	0.0%	8.8	1	1
+Café/Dessert	Le J' Café	51A Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	0.0	4	 08:00 - 22:00	20,000	50,000	ShopeeFood</span	9.3	5	1
+Quán ăn	The Deer - Coffee And Lounge	30B Triệu Việt Vương, P. 3, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	80,000	ShopeeFood</span	0	0	1
+Café/Dessert	K’fe House Coffee - Quảng Trường Lâm Viên	2 Trần Quốc Toản (Khối Nụ Hoa Quảng Trường Lâm Viên), P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	100,000	ShopeeFood</span	0	0	1
+Café/Dessert	Hồng Trà Phan Gia - Hai Bà Trưng	383 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	0.0	1	 09:00 - 22:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Aimée Teabar	6 Nguyên Tử Lực, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	89,000	ShopeeFood</span	0	0	1
+Café/Dessert	Gạt Tàn Đời Cafe	17 Nguyễn Thị Nghĩa, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Lang Thang Cafe &amp; Beer	76 Hoàng Văn Thụ, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	2	 09:00 - 21:00	0	0	ShopeeFood</span	9.8	1	1
+Café/Dessert	Big Brother Coffee	 59 Đào Duy Từ, P. 3, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	ShopeeFood</span	0	0	1
+Café/Dessert	Rừng Ngo - Coffee &amp; Tea	C20 Khu Quy Hoạch Viện Ngiên Cứu Hạt Nhân, Hùng Vương, P. 11, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Ăn vặt/vỉa hè	Ổn - Trà Sữa - Phù Đổng Thiên Vương	63 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	6	 19:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Highlands Coffee - Go Mall Đà Lạt	Quảng Trường Lâm Viên, Trần Quốc Toản, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:30 - 21:30	29,000	55,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Viva Coffee &amp; House	5 Triệu Việt Vương, P. 9, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	ShopeeFood</span	0	0	1
+Café/Dessert	Avatar Coffee	11 Ankroet, P. 7, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	30,000	0.0%	0	0	1
+Café/Dessert	Tháng 4 Coffee	45 Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	3	 06:30 - 22:00	20,000	300,000	0.0%	9.0	3	1
+Café/Dessert	Tiệm Trà Sữa 2292 - Vạn Hạnh	126 Vạn Hạnh , P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	2	 08:00 - 19:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Quán Trà Sữa 90's - Nguyễn Lương Bằng	65 Nguyễn Lương Bằng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 22:00	30,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Pini Coffee	1 Hồ Tuyền Lâm, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	MistyForest Coffee	124 Bạch Đằng, P. 7, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	30,000	ShopeeFood</span	0	0	1
+Café/Dessert, Cửa Hàng - Phụ Kiện	Fog City - Vape &amp; Coffee	Lô 4 Hoàng Văn Thụ, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	55,000	ShopeeFood</span	0	0	1
+Café/Dessert	B.O.X Coffee	72A Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	14,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Đà Lạt Dawn Cafe	14C Đống Đa, P. 3, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Cà Phê Industry - Phan Đình Phùng	415 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 22:00	25,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tick Tea - Nguyễn Trãi	59 Nguyễn Trãi, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	6	 08:00 - 20:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Rạp chiếu phim	The Dreamer - Cine, Coffee &amp; Tea	27B Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	60,000	ShopeeFood</span	0	0	1
+Café/Dessert	2P Coffee	9 Hải Thượng, P. 5, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	70,000	ShopeeFood</span	0	0	1
+Ăn vặt/vỉa hè	Trà Sữa &amp; Ăn Vặt PoTea	15 Nhà Chung, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 08:00 - 18:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cộng Cà Phê - Phan Đình Phùng	94-96 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 23:00	40,000	80,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Dâu Cafe	Ankroet (36 Đa Phú), P. 7, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert, Thăm quan &amp; chụp ảnh	Vườn Sen - Succulents &amp; Coffee	92 Cao Bá Quát, Tp. Đà Lạt, Lâm Đồng	1.0	1	 07:00 - 22:00	20,000	40,000	ShopeeFood</span	8.5	4	1
+Café/Dessert	Sugoi - Nước Ép &amp; Sinh Tố	91D Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	15,000	39,000	ShopeeFood</span	0	0	1
+Café/Dessert	Milano Coffee - Nguyễn Trãi	25 Nguyễn Trãi, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 22:00	10,000	30,000	ShopeeFood</span	7.5	2	1
+Café/Dessert	Tròn Quán - Trà &amp; Cafe	79/8 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	8	 07:00 - 22:00	20,000	40,000	ShopeeFood</span	8.5	18	1
+Café/Dessert	Hoang Cafe - Trần Khánh Dư	18 Trần Khánh Dư, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	The Green Coffee	57 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	14,000	45,000	ShopeeFood</span	0	0	1
+Café/Dessert	Maiday - Coffee &amp; Brewski	40/32 Ma Trang Sơn, P. 5, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 08:00 - 22:00	40,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Yên Cafe - Phan Đình Phùng	264 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:30 - 22:30	29,000	55,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Start Up Coffee	16 Trần Lê, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Sữa Cô Lan	1 Nam Kỳ Khởi Nghĩa, P. 1, Tp. Đà Lạt, Lâm Đồng	5.0	1	 09:00 - 21:00	5,000	20,000	ShopeeFood</span	8.3	18	1
+Café/Dessert	Thung Lũng Đèn Coffee	Dốc Số 7, Quốc Lộ 20, P. 11, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	50,000	ShopeeFood</span	0	0	1
+Café/Dessert	Manki Cafe - By The 1992	A11 Hải Thượng, P. 1, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	100,000	ShopeeFood</span	0	0	1
+Café/Dessert	Napoli Coffee - Phù Đổng Thiên Vương	21 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	30,000	ShopeeFood</span	0	0	1
+Café/Dessert	Berry House - Cafe &amp; Trà Sữa	96 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.0	4	 08:00 - 22:00	15,000	45,000	ShopeeFood</span	8.2	2	1
+Café/Dessert	Trà Sữa Gun Gun	292 Xô Viết Nghệ Tĩnh, P. 7, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Gỗ Cafe	Trần Khánh Dư, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	45,000	ShopeeFood</span	0	0	1
+Café/Dessert	Prettea - Tea &amp; Milk Tea - Bà Triệu	17/4 Bà Triệu, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:30 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Quán Cà Phê Anh Út - Nguyễn Du	24B Nguyễn Du, P. 9, Tp. Đà Lạt, Lâm Đồng	4.0	4	 07:00 - 19:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sunny Coffee - Mạc Đĩnh Chi	G12 Mạc Đĩnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	50,000	0.0%	0	0	1
+Café/Dessert	Innokafe	2B Lữ Gia, P. 9, Tp. Đà Lạt, Lâm Đồng	0	0	0	12,000	55,000	0.0%	0	0	1
+Café/Dessert	Trà Chanh &amp; Trà Tắc - Quán 133	133 Ngô Quyền, P. 6, Tp. Đà Lạt, Lâm Đồng	5.0	1	 07:00 - 19:00	10,000	12,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Napoli Coffee - Khu Quy Hoạch Hoàng Văn Thụ	B15 Khu Quy Hoạch Hoàng Văn Thụ, P. 4, Tp. Đà Lạt, Lâm Đồng	5.0	6	 07:00 - 22:00	10,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Mút	18 Phạm Ngũ Lão, P. 3, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 12:00 - 23:00	25,000	35,000	ShopeeFood</span	8.0	2	1
+Ăn vặt/vỉa hè	Trà Sữa &amp; Ăn Vặt Bộ	15B Khu Hoà Bình, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Savour Eatery - Lẩu Xiên Nhúng Đà Lạt	51A Hùng Vương, P. 9, Tp. Đà Lạt, Lâm Đồng	0.0	2	 06:00 - 22:00	0	0	0.0%	9.6	1	1
+Café/Dessert	Trung Cường Cafe - Sư Vạn Hạnh	114/2 Sư Vạn Hạnh, P. 8 , Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	40,000	ShopeeFood</span	0	0	1
+Nhà hàng	Chú Hà - Bê Thui Nóng	402 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 14:00 - 22:00	150,000	300,000	0.0%	10.0	1	1
+Nhà hàng	Gà Nướng Cơm Lam - Cơm Niêu Kim Gia	65 Quang Trung, P. 9, Tp. Đà Lạt, Lâm Đồng	4.0	10+	 08:30 - 21:30	20,000	300,000	0.0%	7.8	39	1
+Quán ăn	Ghiền Ăn - Hủ Tiếu Mực &amp; Nam Vang - 234 Hai Bà Trưng	234 Hai Bà Trưng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Chay Hằng Thiện - Bùi Thị Xuân	265/4 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	5.0	9	 09:00 - 22:00	30,000	350,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Nhà Nhi - Quán Ăn	 4/5 Hoàng Văn Thụ, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	7	 06:00 - 22:00	0	0	ShopeeFood</span	9.0	1	1
+Quán ăn	Lẩu Gà Lá É Phú Yên - Phan Đình Phùng	237 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:30	200,000	400,000	0.0%	9.5	2	1
+Quán ăn	Bò Kho &amp; Ăn Vặt An Nhiên - Hai Bà Trưng	363 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	0.0	1	 08:00 - 22:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Bàu Sen Vũng Tàu - Lẩu Và Nướng - Đầu Khu Quy Hoạch Phạm Hồng Thái	Đầu Khu Quy Hoạch Phạm Hồng Thái, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Ăn Vặt &amp; Trà Sữa Ô Dề - Bùi Thị Xuân	208A Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Ăn Cao Nguyên	2 Nguyễn Thị Minh Khai, P. 1, Tp. Đà Lạt, Lâm Đồng	4.0	10+	 08:00 - 21:00	15,000	200,000	0.0%	9.0	1	1
+Quán nhậu	Ẩm Thực Bazan	24A Đường 3 Tháng 4, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	7	 10:00 - 23:00	39,000	400,000	ShopeeFood</span	9.2	142	1
+Quán ăn	Hạnh Đà Lạt - Lẩu Gà Lá É	27B Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	6	 10:00 - 23:00	200,000	350,000	ShopeeFood</span	6.1	16	1
+Buffet	The Jeju BBQ &amp; Hot Pot	161 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	5.0	1	 10:00 - 22:00	100,000	300,000	ShopeeFood</span	9.1	13	1
+Quán ăn	Ẩm Thực Quán Ku Út	66/69 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	90,000	0.0%	0	0	1
+Quán ăn	Lẩu Nướng Cao Tốc	251 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	0.0	1	 11:00 - 23:00	50,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Nhà - Quán Ăn Gia Đình	12 Nguyễn Lương Bằng, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	39,000	300,000	ShopeeFood</span	0	0	1
+Quán ăn	Tiệm Mì Cay Samyang - Nguyễn Đình Chiểu	68 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 11:00 - 22:00	20,000	100,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Lẩu Bò Mắm Ruốc 99	99 KQH Yersin, Tp. Đà Lạt, Lâm Đồng	4.5	8	 10:00 - 23:00	49,000	249,000	ShopeeFood</span	7.7	4	1
+Quán ăn	Quán Dìn (Batoa) - Lẩu Bò	8/1 Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 10:00 - 22:30	35,000	20,000	ShopeeFood</span	8.7	31	1
+Quán ăn	Nem Nướng Phượng - Nguyễn Trãi	2A/1 Nguyễn Trãi (Ngay Dốc Ga Đà Lạt), Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 21:00	15,000	45,000	ShopeeFood</span	8.9	5	1
+Quán ăn	Tiệm Ăn Nhà Táo	51E An Dương Vương, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 10:00 - 22:00	90,000	180,000	ShopeeFood</span	8.0	6	1
+Quán ăn	Quán 33 - Ốc Nhồi Thịt &amp; Lẩu Đuôi Bò 3	41 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	50+	0	80,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn	Big Lẩu - Lẩu Ly Tobokki - Phan Bội Châu	4 - Tr - 05 Chợ Mới Đà Lạt, Phan Bội Châu, Tp. Đà Lạt, Lâm Đồng	4.5	6	 10:30 - 21:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Sáu Hít - Nướng Ngói &amp; Lẩu Đuôi Bò	1E Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 22:00	100,000	300,000	ShopeeFood</span	7.0	5	1
+Nhà hàng	Khói BBQ - Lẩu, Nướng &amp; Hải Sản	115 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	8	 10:00 - 23:00	10,000	295,000	ShopeeFood</span	7.9	34	1
+Quán ăn	Nhà Hàng Bích Câu 3 - Huỳnh Thúc Kháng	9 Huỳnh Thúc Kháng, P. 4, Tp. Đà Lạt, Lâm Đồng	5.0	1	 10:00 - 22:00	50,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Nhớ - Hùng Vương	200 Hùng Vương, P. 11, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	200,000	0.0%	0	0	1
+Quán ăn	Tiệm Nướng MêLi - Đồ Nướng Ướp Sẵn - Đặng Thái Thân	5/2 Đặng Thái Thân, P. 3, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	160,000	0.0%	0	0	1
+Quán ăn	Lẩu Gà Lá É Tao Ngộ Chi Nhánh 2 - Yersin	25 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	200,000	300,000	0.0%	0	0	1
+Quán ăn	LÀNG KÒ HƠ - Nguyễn Chí Thanh	84F Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	3.5	2	 10:00 - 21:30	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Mắm Dzìa Miền Tây - Khu Quy Hoạch Yersin	137B Khu Quy Hoạch Yersin, P. 9, Tp. Đà Lạt, Lâm Đồng	3.5	6	 08:00 - 20:00	50,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Nữ - Các Món Gà, Vịt &amp; Heo	1 Lý Nam Đế, P. 8, Tp. Đà Lạt, Lâm Đồng	5.0	1	 07:00 - 22:00	20,000	300,000	ShopeeFood</span	7.7	9	1
+Quán ăn	Quán 33 - Ốc Nhồi Thịt &amp; Lẩu Đuôi Bò 4	157 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	0	50,000	190,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán Thiết 168 - Món Ăn Việt Nam	168 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	3	 10:00 - 22:00	30,000	300,000	ShopeeFood</span	7.6	8	1
+Quán ăn	Cô Na Quán - Bánh Canh, Bánh Đa Cá Rô &amp; Cơm Gia Đình	2/1B Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	150,000	0.0%	0	0	1
+Quán ăn	Tiệm Ăn Bếp Củi Đà Lạt - Cao Thắng	2A Cao Thắng, P. 7, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	200,000	0.0%	0	0	1
+Shop Online	Xù - Chuyên Ăn Vặt - Online	80 Nguyễn Văn Trỗi, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	999+	 15:00 - 20:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Gà Lá É Hội Ngộ - Nguyễn Đình Chiểu	13 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	0	0	0	100,000	300,000	0.0%	0	0	1
+Quán ăn	Ngói Nướng Quán - Thiện Mỹ	1 Thiện Mỹ, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	40,000	120,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán Lệ Dung - Đặc Sản Dê	5 Hồ Xuân Hương, P. 9, Tp. Đà Lạt, Lâm Đồng	5.0	1	 10:00 - 22:00	50,000	200,000	ShopeeFood</span	7.2	6	1
+Quán ăn	Lẩu Thái Vi Cá Hồi Sạch	5 Yagout, P. 5, Tp. Đà Lạt, Lâm Đồng	5.0	1	 11:00 - 22:30	35,000	150,000	ShopeeFood</span	10.0	2	1
+Quán ăn	Hoa Lư Quán - Dê Ninh Bình	3/2Bis Trần Quý Cáp, Tp. Đà Lạt, Lâm Đồng	5.0	2	 09:00 - 21:00	0	0	ShopeeFood</span	9.3	2	1
+Nhà hàng	Thùy Dương Family Restaurant - Đặc Sản Rừng	Hoa Cẩm Tú Cầu, P. 3, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	500,000	ShopeeFood</span	0	0	1
+Quán ăn	Lò Than - Lẩu &amp; Nướng	76 Hoàng Diệu, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	ShopeeFood</span	0	0	1
+Quán ăn	Quán Nướng Tí Hon - Hoàng Diệu	19/1 Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	0	0	0	100,000	200,000	0.0%	0	0	1
+Quán ăn	Nhà Hàng Cá Tầm Đà Lạt - Triệu Việt Vương	80 Triệu Việt Vương, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	100,000	0.0%	0	0	1
+Nhà hàng, Café/Dessert	Momiji Japanese Restaurant - Pizza Củi	98 Trương Công Định, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 Cả ngày | 09:00 - 22:00	20,000	350,000	ShopeeFood</span	6.2	15	1
+Quán nhậu	Lẩu Bò Dã Chiến	116 Hùng Vương, P. 11, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 22:00	25,000	100,000	ShopeeFood</span	7.2	15	1
+Quán ăn	Ốc Nhà Gỗ	B20 KQH Hoàng Văn Thụ, Pasteur, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	280,000	ShopeeFood</span	0	0	1
+Quán ăn	Lẩu &amp; Nướng GangnamGu - Hà Huy Tập	155 Hà Huy Tập, P. 3, Tp. Đà Lạt, Lâm Đồng	0.0	1	 10:00 - 23:00	50,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Big Lẩu	Cửa Hiệu Số 4, TR05, Chợ Mới Đà Lạt Center, Phan Bội Châu, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	9	 09:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Thăng Long Quán - Mẹt Gà	Khu Quy Hoạch Phạm Hồng Thái, P. 10, Tp. Đà Lạt, Lâm Đồng	0.0	4	 09:00 - 22:00	450,000	550,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Mãn Vị Lẩu - Trần Phú	Hẻm 21 Bis Trần Phú, P. 3, Tp. Đà Lạt, Lâm Đồng	3.5	8	 11:00 - 22:00	20,000	200,000	ShopeeFood</span	9.0	5	1
+Quán ăn	Dì Năm - Lẩu Cá Tầm - Đoàn Thị Điểm	6 Đoàn Thị Điểm (Mặt bờ kè), P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	3	 17:00 - 21:30	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Beto Nabe - Lẩu Nhật Bản	11/3 Trần Phú, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	350,000	ShopeeFood</span	0	0	1
+Nhà hàng	Trịnh Gia BBQ &amp; Hotpot	Lô B004 Chung Cư Mạc Đĩnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	259,000	ShopeeFood</span	0	0	1
+Quán ăn	Lẩu Gà Số 7	7 Tô Hiến Thành, P. 3, Tp. Đà Lạt, Lâm Đồng	5.0	6	 12:00 - 22:00	80,000	300,000	ShopeeFood</span	8.6	5	1
+Nhà hàng	Đà Lạt BBQ	91 Phan Bội Châu, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	45,000	365,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán Lẩu Nướng 23- Lẩu Cua Đồng - An Dương Vương	23 An Dương Vương, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	2	 10:00 - 22:00	50,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Yến Hải Sản	Lô K9 Khu Quy Hoạch Đoàn Thị Điểm, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 15:00 - 23:00	30,000	30,000	0.0%	8.2	6	1
+Quán ăn	Nướng Ngói Cu Tây	20 - 35B An Dương Vương, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	39,000	149,000	ShopeeFood</span	0	0	1
+Sang trọng	Nhà Hàng Nhật Ly - Phan Đình Phùng	88 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	100,000	200,000	0.0%	0	0	1
+Quán ăn	Quán Lẩu Bò Hẻm - Mẫu Tâm	1 Mẫu Tâm, P. 4, Tp. Đà Lạt, Lâm Đồng	4.0	1	 11:00 - 20:00	100,000	200,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Ăn chay	Lò Quay Cường - Heo Quay &amp; Vịt Quay Bắc Kinh - Ngô Quyền	45 Ngô Quyền, P. 6, Tp. Đà Lạt, Lâm Đồng	5.0	2	 10:00 - 19:00	200,000	350,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán 1996 - Bánh Mì Xíu Mại Trứng Muối - Lương Thế Vinh	02 Lương Thế Vinh, P. 3, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Nướng Ngói Thành Công - Lẩu Riêu Cua Đồng Bắp Bò Đà Lạt	71 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	9	 10:00 - 23:30	34,000	199,000	ShopeeFood</span	7.7	59	1
+Quán ăn	KIBIPOT - Lẩu Sườn Bò Bách Thảo Cay - Hồ Tùng Mậu	Hẻm 1 Hồ Tùng Mậu, P.3, Tp. Đà Lạt, Lâm Đồng	0.0	1	0	0	0	0.0%	0	0	1
+Quán ăn	Soju 49 - Lẩu &amp; Nướng - Nguyễn Viết Xuân	8 Nguyễn Viết Xuân, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	4	 16:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Đà Lạt	141 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	7	 10:00 - 21:00	45,000	350,000	ShopeeFood</span	6.0	10	1
+Quán nhậu	Quán Nướng Tin - Hoàng Văn Thụ	66A Hoàng Văn Thụ, P. 4, Tp. Đà Lạt, Lâm Đồng	2.0	2	 14:00 - 23:00	35,000	65,000	ShopeeFood</span	7.0	8	1
+Quán ăn	Lẩu Nấm Hana - Bùi Thị Xuân	99 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	1	 10:00 - 22:00	100,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ăn Vặt Nhím - Nguyễn Thượng Hiền	10 Nguyễn Thượng Hiền, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 22:00	35,000	100,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Ming Yang Lẩu Quán	 188 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	1.0	1	 11:00 - 22:30	0	0	ShopeeFood</span	6.5	7	1
+Quán nhậu	Hiến - Quán Ăn Gia Đình	3 Vạn Hạnh, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn	Cơm Tấm 79 - Mê Linh	12 Mê Linh, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Bê Thui Sân Vườn Nướng - Sương Nguyệt Ánh	44 Sương Nguyệt Ánh, P. 9, Tp. Đà Lạt, Lâm Đồng	0.0	2	 10:00 - 21:00	100,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Cay Sasin 7 Cấp Độ Hàn Quốc - 204 Bùi Thị Xuân	204 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 21:00	0	0	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Phong Thuỷ Quán Ăn Gia Đình - An Dương Vương	19A An Dương Vương, P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 09:00 - 21:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quản Lẩu Ghẹ Kim Chi - Bùi Thị Xuân	151 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	5,000	600,000	ShopeeFood</span	0	0	1
+Quán ăn	Lữ Khách Quán - Trần Lê	C20 Trần Lê, P. 4, Tp. Đà Lạt, Lâm Đồng	3.5	10+	 06:30 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Hương Rừng - Đa Phú	6B Đa Phú, P. 7, Tp. Đà Lạt, Lâm Đồng	0	0	0	55,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn	Lẩu Gà Lá É Tao Ngộ - Phù Đổng Thiên Vương	178 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	5.0	6	 08:00 - 22:00	200,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Thiên Phú - Lẩu &amp; Gà Nướng Cơm Lam - Lý Tự Trọng	78 Lý Tự Trọng, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	1	 10:00 - 19:00	100,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bếp Chị Bảy - Bánh Hỏi &amp; Bún Thịt Nướng - Hoàng Diệu	73/6 Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	40,000	0.0%	0	0	1
+Quán ăn	BBQ Lẩu Bò Beef Strip - Nguyễn Trung Trực	42 Nguyễn Trung Trực, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	3	 10:30 - 21:00	100,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ốc 2T - Phù Đổng Thiên Vương	 60B Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 21:00	30,000	80,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Tây Nguyên Quán - Nguyễn Công Trứ	170 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	5.0	1	 10:20 - 22:00	0	0	0.0%	1.0	1	1
+Quán ăn	Ẩm Thực Tám Lúa - Hoàng Diệu	15 Hoàng Diệu, Tp. Đà Lạt, Lâm Đồng	0.0	1	 11:00 - 21:30	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	The Cat Grill &amp; Chill - Sườn Nướng Nguyên Tảng - Yersin	35/6 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	200,000	300,000	0.0%	0	0	1
+Quán nhậu	Tới Bến - Món Nướng &amp; Lẩu Gà Lá É	46 Trần Nhật Duật, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	6	 10:00 - 23:00	35,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Thanh Thảo - Trần Hưng Đạo	13 Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	200,000	300,000	0.0%	0	0	1
+Quán ăn	Long Hải Quán - Hải Sản - Mạc Đĩnh Chi	27 Mạc Đĩnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	5.0	1	 09:00 - 22:00	200,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cu Đức - Quán Nướng Ngói - Nguyễn Công Trứ	170 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	9	 10:00 - 22:30	100,000	220,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Ngộ - Yersin	53 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 09:00 - 23:00	15,000	200,000	0.0%	8.7	94	0
+Quán ăn	Ngon BBQ Đà Lạt - Nguyễn Chí Thanh	17 Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	5.0	1	 10:00 - 23:00	50,000	900,000	0.0%	<span>_._</span>	0	1
+Quán ăn	King BBQ - Vua Nướng Hàn Quốc Đà Lạt - Nguyễn Trãi	11A Nguyễn Trãi, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	100,000	0.0%	0	0	1
+Quán ăn	Tiệm Nướng Màu Vàng - Nướng Và Lẩu	5 Khe Sanh, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Bia Lạnh Huế Thương - Nguyễn Đình Chiểu	5 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	5.0	1	 09:00 - 22:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Nhất Nướng BBQ - Thông Thiên Học	9 Thông Thiên Học, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 11:00 - 23:59	20,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Quán Nướng Bản Địa - An Bình	66 An Bình, P. 3, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	300,000	0.0%	0	0	1
+Quán ăn	Phở Hằng - Nguyên Tử Lực	74 Nguyên Tử Lực, P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	1	 06:00 - 21:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thanh Trúc - Quán Ăn Gia Đình	90 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 06:00 - 19:00	25,000	35,000	ShopeeFood</span	7.3	5	1
+Quán ăn	Bún Chả Nem Thuỷ Tiên - Khu Đồi Trà	1/3 Khu Đồi Trà, P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	1	 07:00 - 21:00	30,000	35,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Bia Tươi Đức	Lô 89 Phù Đổng Thiên Vuong, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	140,000	ShopeeFood</span	0	0	1
+Quán ăn	Phở Hoàng Anh	1 Vạn Hạnh, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	35,000	ShopeeFood</span	0	0	1
+Quán ăn	Bé Ba Gỏi Ốc Nha Trang - Nguyễn Thị Nghĩa	Lô i6 Nguyễn Thị Nghĩa (Vào Hẻm 30m), P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 09:00 - 22:00	50,000	75,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Gà Xe Lam - Nguyễn Đình Chiểu	49/1 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:00	5,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ghiền Ăn - Hủ Tiếu Mực &amp; Nam Vang - Số 5 Sương Nguyệt Ánh	Số 5 Sương Nguyệt Ánh, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Hủ Tiếu Trộn Ngọc Minh - Trần Khánh Dư	16/3 Trần Khánh Dư, P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	1	 08:00 - 20:00	30,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Chay An Lạc Tâm 1 - Bùi Thị Xuân	104 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 06:30 - 19:30	10,000	200,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Quán Chay An Lạc Tâm 4 - Xô Viết Nghệ Tĩnh	18 Xô Viết Nghệ Tĩnh, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:30 - 19:30	10,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Liên	4 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	35,000	ShopeeFood</span	0	0	1
+Quán nhậu	BBQ Thành Long - Bùi Thị Xuân	296 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	7,000	190,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán Bánh Canh Chả Cá Phan Rang - Phan Chu Trinh	10 Phan Chu Trinh, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 07:00 - 20:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Canh Cá Lóc Chú La - Bùi Thị Xuân	148 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 21:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Xứ Quảng Thuỷ Long - Bùi Thị Xuân	280 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	30,000	0.0%	0	0	0
+Quán ăn	Bún Bò Huế O Trâm - Nguyễn Đình Chiểu	1 Nguyễn Đình Chiều, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 22:00	35,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Quán Suki - Lẩu &amp; Bún Thái - Phan Đình Phùng	226/7 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 10:00 - 14:00 | 16:00 - 21:00	40,000	50,000	0.0%	<span>_._</span>	0	0
+Shop Online	T &amp; D - Lẩu Ly &amp; Trà Sữa - Shop Online	159 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	36,000	58,000	0.0%	0	0	1
+Quán ăn	Quán Ăn 79 - Cơm &amp; Hủ Tiếu	79/7 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 08:00 - 22:00	30,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Mì Kosame	59 Nguyễn Trãi, P. 9, Tp. Đà Lạt, Lâm Đồng	3.5	6	 08:00 - 22:00	30,000	50,000	0.0%	9.3	4	0
+Quán ăn	Mì Quảng Nôm - Phố Quảng Quán	31/31 Nguyễn Công Trứ, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 06:00 - 21:00	25,000	45,000	0.0%	8.7	45	0
+Quán ăn	Bánh Canh Cá Lóc Bẩy Nhẹ - Nguyễn Thị Nghĩa	88 Nguyễn Thị Nghĩa, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Quán Ăn Gia Đình - Bánh Canh Cá Lóc - Xô Viết Nghệ Tĩnh	58E Xô Viết Nghệ Tĩnh, P. 7, Tp. Đà Lạt, Lâm Đồng	4.5	8	 06:00 - 20:00	5,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Mì Quảng Vịt Lê Gia - An Dương Vương	112/10 An Dương Vương, P. 2, Tp. Đà Lạt, Lâm Đồng	5.0	2	 11:00 - 20:30	30,000	40,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Hủ Tíu SaTế Chú Ba - Bùi Thị Xuân	98 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	100,000	0.0%	0	0	0
+Quán ăn	Quán Bún Măng Vịt Ngọc Hà - Thông Thiên Học	44 Thông Thiên Học, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Thịt Nướng Cậu Bình - Phan Đình Phùng	427/12 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	3.5	10+	 07:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm &amp; Mì Dobary - Nguyễn Chí Thanh	46 Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 20:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Hà Nội Phố - Phan Đình Phùng	71 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:30 - 21:30	35,000	50,000	0.0%	6.8	19	1
+Quán ăn	Tiệm Ăn Hoa Mộc - KQH Phạm Hồng Thái	43/2 Khu Quy Hoạch Phạm Hồng Thái, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:30 - 13:00 | 17:00 - 22:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Canh Dung - 15 Trần Hưng Đạo	15 Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	5	 09:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Cơm Mì Vĩnh Lợi - Lê Quý Đôn	Số 3 Lê Quý Đôn, P. 5, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 07:00 - 20:30	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Canh Phan Rang - Trần Hưng Đạo	15 Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 11:00 - 18:00	20,000	20,000	ShopeeFood</span	7.7	13	1
+Quán ăn	Bún Đậu Cô Oanh	5B Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 21:00	25,000	40,000	0.0%	5.0	34	1
+Quán ăn	Quán Ông Diệm - Hủ Tiếu Mực - Nguyễn Chí Thanh	72A Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	0.0	4	 06:30 - 21:45	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Bò Huế Sơn - Hồ Tùng Mậu	12A Hồ Tùng Mậu, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	30,000	ShopeeFood</span	0	0	1
+Quán ăn	Bánh Canh Cua &amp; Ghẹ Chị Ba Thỏ - Hai Bà Trưng	242 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	0.0	1	 08:00 - 20:00	40,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ủn Ỉn Food - Bún Cá Sứa &amp; Ăn Vặt - Thi Sách	112A Thi Sách, P. 6, Tp. Đà Lạt, Lâm Đồng	0.0	3	 06:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Xào 38	38 Phan Đình Phùng, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 21:00	35,000	45,000	ShopeeFood</span	3.2	1	1
+Quán ăn	Phở 24 - Phan Đình Phùng	211/2 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	55,000	0.0%	0	0	1
+Café/Dessert, Quán ăn	Bún Đậu Lúa - Nguyễn Trãi	6 Nguyễn Trãi, P. 10, Tp. Đà Lạt, Lâm Đồng	3.5	10+	 10:00 - 21:30	30,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Cơm Tấm Bún Thịt Nướng Hương Giang - Hai Bà Trưng	5 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 22:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bò Né &amp; Mì Cay 3 Ngon	2/3 Nguyễn Văn Cừ, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 22:00	40,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Cơm Út Miền Tây - Phan Bội Châu	3 Phan Bội Châu, P. 1, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	50,000	ShopeeFood</span	0	0	1
+Quán ăn	Tiệm Mì Vĩnh Lợi - Ngô Quyền	37 Ngô Quyền, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 06:00 - 19:00	40,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Thoa - Nguyễn Thị Minh Khai	82 Nguyễn Thị Minh Khai, P. 1, Tp. Đà Lạt, Lâm Đồng	3.0	1	 06:00 - 20:00	50,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thảo - Bánh Mì &amp; Bánh Bèo	01 Trần Quý Cáp, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 14:00 - 19:00	15,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Gỏi Tai Heo &amp; Nem Thính Cô Nguyệt - Phạm Hồng Thái	49/23/8 Phạm Hồng Thái, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 21:00	50,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bà Liên - Bánh Bèo Chén	41 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	25,000	ShopeeFood</span	0	0	0
+Quán ăn	Quán Anh Đầu Bếp - Lẩu Thả &amp; Chả Cuốn Cá Trích - Hai Bà Trưng	48 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	2.0	1	 14:00 - 22:00	40,000	500,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Phương Quán	74/6 Ngô Quyền, P. 6, Tp. Đà Lạt, Lâm Đồng	0	0	0	40,000	400,000	0.0%	0	0	1
+Ăn vặt/vỉa hè, Shop Online	Ăn Vặt Totemo Kakkoi	33C Cao Bá Quát, P. 7, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	45,000	0.0%	0	0	1
+Quán ăn	Bún Mắm Miền Tây Ron - N1 Cư Xá Hoả Xa	N1 Cư Xá Hoả Xa Phạm Hồng Thái, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Quán Phở Nhớ - Hai Bà Trưng	234 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	0	0	0	40,000	60,000	0.0%	0	0	1
+Quán ăn	Mì Quảng &amp; Bò Kho - Duy Thảo	38C Trần Nhật Duật, P. 5, Tp. Đà Lạt, Lâm Đồng	2.5	5	 07:00 - 19:00	40,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Salt Restaurant - Phan Bội Châu	10 Phan Bội Châu, P. 1, Tp. Đà Lạt, Lâm Đồng	0	0	0	60,000	500,000	0.0%	0	0	1
+Quán ăn	Quán Ni - Hủ Tíu Mì Hoành Thánh &amp; Bánh Xèo - Ngô Gia Tự	31 Ngô Gia Tự, P. 12, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	40,000	0.0%	0	0	1
+Quán ăn	Bánh Canh Thố	Mặt Sau 40 Đoàn Thị Điểm, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	25,000	0.0%	0	0	0
+Quán ăn	Long Đỉnh 1 - Lẩu Nấm - Hai Bà Trưng	242 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	5.0	1	 09:00 - 22:00	20,000	600,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bún Bò O Cúc - La Sơn Phu Tử	97 La Sơn Phu Tử, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	7	 06:30 - 22:00	40,000	55,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bánh Canh Dung - Nguyễn Thị Định	6 Nguyễn Thị Định, P. 5, Tp. Đà Lạt, Lâm Đồng	0.0	3	 08:00 - 18:00	30,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Phượng Lan - Bún Bò &amp; Bò Kho - Lô 5 Khu Quy Hoạch Hoàng Văn Thụ	Lô 5 Khu Quy Hoạch Hoàng Văn Thụ, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	1	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Thảo - Bánh Ướt Lòng Gà	9 Đồng Tâm. P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 08:00 - 19:30	6,000	45,000	0.0%	8.3	30	1
+Quán ăn	Bún Cá Ghiền - Mạc Đĩnh Chi	27C Mạc Đĩnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	4	 07:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mỡi Kitchen - Quán Ăn - 57 Đào Duy Từ	57 Đào Duy Từ, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Canh Bún &amp; Bún Ốc - Hoàng Văn Thụ	62 Hoàng Văn Thụ, P. 5, Tp. Đà Lạt, Lâm Đồng	0	0	0	20,000	30,000	ShopeeFood</span	0	0	1
+Quán ăn	Bún Riêu Cua Đồng Cô Hoa - Hà Huy Tập	75B Hà Huy Tập, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 06:00 - 18:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Mộc Đà Lạt - Mạc Đĩnh Chi	35 Mạc Đĩnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 19:00	45,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Thanh - Bột Chiên &amp; Phở Xào - Đào Duy Từ	29 Đào Duy Từ, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 11:00 - 22:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Pizza Su Thái	59 Đào Duy Từ, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:30 - 21:15	50,000	150,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Carrot Restaurant - Món Âu Giá Việt	36 Bà Triệu, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 07:00 - 22:00	35,000	195,000	ShopeeFood</span	8.4	24	1
+Ăn vặt/vỉa hè	Trà Sữa Bòn Bon - Võ Trường Toản	2/10 Võ Trường Toản, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	35,000	0.0%	0	0	1
+Quán ăn	Quán Hiền Ty - Cơm Gia Đình &amp; Nem Nướng	56 Phù Đổng Thiên Vương, P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	2	 06:30 - 22:30	20,000	120,000	ShopeeFood</span	6.3	8	1
+Quán ăn	Quán Bảo Ngọc Cơm Gà &amp; Cháo Vịt - Nguyên Tử Lực	36 Nguyên Tử Lực, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 21:00	30,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm 369 - Nguyên Tử Lực	128 Nguyên Tử Lực, P. 8, Tp. Đà Lạt, Lâm Đồng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Cơm Tấm Sườn Que Lan Anh - Bùi Thị Xuân	261 Bùi Thị Xuân, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 10:00 - 18:00	40,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	An Fast Food - An Dương Vương	132 An Dương Vương, P. 2, Tp. Đà Lạt, Lâm Đồng	0.0	3	 11:00 - 23:59	20,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Sài Gòn 49 - Nguyễn Công Trứ	49 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:30 - 15:00	35,000	45,000	0.0%	<span>_._</span>	0	1
+Shop/Cửa hàng	Bếp Nhà Út - Ăn Vặt &amp; Đặc Sản Đà Lạt	H19 Nguyễn Thị Nghĩa, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 23:00	25,000	135,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lân Hà - Cơm Gà Xối Mỡ - Nguyễn Đình Chiểu	8 Nguyễn Đình Chiểu, P. 9, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 09:00 - 20:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Gà Túk Túk - Trần Khánh Dư	Hẻm 45 Trần Khánh Dư, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 11:00 - 21:00	50,000	300,000	0.0%	10.0	1	0
+Quán ăn	Bếp Cô Ba	194 Cổ Loa, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	25,000	30,000	0.0%	0	0	1
+Nhà hàng	Cừu Ô Vương - Ẩm Thực Việt	37 Nguyễn Trãi, P. 9, Tp. Đà Lạt, Lâm Đồng	3.5	3	 09:00 - 21:00	0	0	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Hồng Hoa	77 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 06:00 - 21:00	15,000	40,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán Cơm THANH NAM - CƠM TẤM &amp; CƠM GÀ	59 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	5.0	3	 10:00 - 22:00	35,000	40,000	0.0%	<span>_._</span>	0	0
+Ăn vặt/vỉa hè	Muội Quán - Xôi &amp; Bánh Mì	10 Nguyễn Văn Trỗi, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 12:00 | 16:00 - 23:00	18,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Nhà - Hai Bà Trưng	1 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 10:00 - 20:30	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Cơm &amp; Xôi Nhà Út - Đoàn Thị Điểm	22 Đoàn Thị Điểm, P. 4, Tp. Đà Lạt, Lâm Đồng	5.0	7	 10:00 - 22:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ăn Cô Ba - Salad &amp; Cơm Phần - Nguyễn Chí Thanh	21 Nguyễn Chí Thanh, P. 1, Tp. Đà Lạt, Lâm Đồng	0.0	3	0	10,000	389,000	0.0%	0	0	1
+Quán ăn	Cơm Gà Bà Tám - Phan Đình Phùng	367/4/18 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	7	 11:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Siêu Thị Ăn Vặt Bà Tố	99 Đường 3 Tháng 2, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 08:00 - 21:30	15,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lân Hà - Cơm Gà Xối Mỡ - Phan Đình Phùng	479 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 10:00 - 19:00	25,000	35,000	0.0%	6.6	11	1
+Ăn vặt/vỉa hè	Cô Ốc - Ăn Vặt Đà Lạt	31/14 Tô Vĩnh Diện, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	8	 09:00 - 22:00	20,000	70,000	0.0%	8.0	1	1
+Nhà hàng	Nhà Hàng Đà Lạt Xưa	Villa HQ, 27 Trần Hưng Đạo, P. 10, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	250,000	ShopeeFood</span	0	0	1
+Quán ăn	Cơm Tấm Anh Tùng - Hai Bà Trưng	93 Hai Bà Trưng, P. 6, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 06:00 - 20:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Cơm Vĩnh Ký - Cơm Niêu	7 Nam Kỳ Khởi Nghĩa, P. 1, Tp. Đà Lạt, Lâm Đồng	0	0	0	30,000	55,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán Bánh Mì &amp; Xôi Cô Nguyệt - Phạm Hồng Thái	49/23/8 Phạm Hồng Thái, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 00:01 - 23:59	15,000	20,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hawaiian Poke Dalat - 3 Tháng 2	102 3 Tháng 2, P. 1, Tp. Đà Lạt, Lâm Đồng	0	0	0	100,000	160,000	0.0%	0	0	1
+Quán ăn	Cơm Phở Hà Nội	5 Hải Thượng, P. 5, Tp. Đà Lạt, Lâm Đồng	0.0	2	 09:00 - 20:00	35,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Ngọc - Phan Đình Phùng	170 Phan Đình Phùng, P. 2, Tp. Đà Lạt, Lâm Đồng	0	0	0	40,000	50,000	0.0%	0	0	1
+Nhà hàng	Nhà Hàng Cơm Niêu Việt Nam - Nam Kì Khởi Nghĩa	3H Nam Kì Khởi Nghĩa, P. 1, Tp. Đà Lạt, Lâm Đồng	0.0	4	 09:00 - 22:00	30,000	400,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cửa Hàng Ăn Uống Số 6-Mươi-9	27 Khu Ba Toa, Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	1.0	1	 11:00 - 23:00	69,000	149,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Vịt Toàn Thắng - 21 Trần Bình Trọng	21 Trần Bình Trọng, P. 5, Tp. Đà Lạt, Lâm Đồng	0	0	0	100,000	300,000	0.0%	0	0	1
+Quán ăn	Bếp Nhà Kem - Ăn Vặt - Đào Duy Từ	1/64 Đào Duy Từ, P. 4, Tp. Đà Lạt, Lâm Đồng	4.5	7	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cảnh Anh Steak - Mạc Đỉnh Chi	G13 Mạc Đỉnh Chi, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	3	0	50,000	200,000	0.0%	0	0	1
+Quán ăn	Cơm Gà Xối Mỡ Sài Gòn - Hà Huy Tập	155 Hà Huy Tập, P. 3, Tp. Đà Lạt, Lâm Đồng	4.5	10+	 08:00 - 23:00	45,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Xưa &amp; Nay - Quán Ăn Gia Đình	30 Pasteur, P. 4, Tp. Đà Lạt, Lâm Đồng	0	0	0	50,000	150,000	ShopeeFood</span	0	0	1
+Ăn chay	Quán Chay Từ Sen - Lương Thế Vinh	4 Lương Thế Vinh, P. 3, Tp. Đà Lạt, Lâm Đồng	0.0	1	 07:00 - 20:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Bò Úc Lúc Lắc - Cơm &amp; Mì Nui - Đào Duy Từ	32 Đào Duy Từ, P. 4, Tp. Đà Lạt, Lâm Đồng	3.5	9	 10:00 - 22:00	50,000	80,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Bắc Tràng An - Triệu Việt Vương	24 Triệu Việt Vương, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	3	 06:00 - 18:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Quán Như Ý - Cơm Gà Xối Mỡ - Hoàng Văn Thụ	Lô 12 Hoàng Văn Thụ, P.4, Tp. Đà Lạt, Lâm Đồng	4.5	4	 07:00 - 19:30	30,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Tiệm Cơm Cám Ơi - Xô Viết Nghệ Tĩnh	356 Xô Viết Nghệ Tĩnh, P. 7, Tp. Đà Lạt, Lâm Đồng	5.0	2	 09:00 - 20:00	30,000	60,000	0.0%	<span>_._</span>	0	0
+Café/Dessert	La Mappa - Cafe &amp; Bistro	8 Triệu Việt Vương, P. 4, Tp. Đà Lạt, Lâm Đồng	0.0	4	 06:30 - 22:00	20,000	1,905,000	ShopeeFood</span	9.9	2	1
+Quán ăn	Cơm Niêu Đa Phú - Ankoret	11 Ankoret, P. 7, Tp. Đà Lạt, Lâm Đồng	0	0	0	10,000	2,500,000	0.0%	0	0	1
+Quán ăn	Cơm Tấm Vườn Hoa - Nguyên Tử Lực	28 Nguyên Tử Lực, P. 8, Tp. Đà Lạt, Lâm Đồng	0.0	1	 10:00 - 18:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lân Hà - Cơm Gà Xối Mỡ - Nguyễn Công Trứ	189 Nguyễn Công Trứ, P. 8, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 09:00 - 21:00	25,000	44,999	0.0%	8.4	8	1
+Quán ăn	Cơm Tiệm A Vũ - Phan Chu Trinh	97 Phan Chu Trinh, P. 9, Tp. Đà Lạt, Lâm Đồng	5.0	5	 09:00 - 22:00	20,000	50,000	0.0%	9.3	12	1
+Quán ăn	Tiệm Cơm Dory's Papa	78 Yersin, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	500+	 11:00 - 21:00	30,000	50,000	0.0%	8.5	2	1
+Quán ăn	Căn Tin 59	86 Trương Công Định, P. 1, Tp. Đà Lạt, Lâm Đồng	4.5	50+	 11:30 - 20:30	15,000	15,000	0.0%	9.4	1	1
+Quán ăn	Cơm Tiệm A Vũ - Hùng Vương	92 Hùng Vương, P. 11, Tp. Đà Lạt, Lâm Đồng	5.0	10+	 09:00 - 22:00	20,000	50,000	0.0%	9.2	9	1
+Quán ăn	Cơm Gà Hoàng Diệu	2 Hoàng Diệu, P. 5, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 11:00 - 15:00	10,000	35,000	0.0%	7.2	18	1
+Quán ăn	Bánh Mì - Sandwich Nướng Hà Bà Già	2/2 Khởi Nghĩa Bắc Sơn, P. 10, Tp. Đà Lạt, Lâm Đồng	4.5	100+	 07:00 - 18:00	10,000	20,000	0.0%	<span>_._</span>	0	1

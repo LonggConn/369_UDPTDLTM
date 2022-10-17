@@ -1,0 +1,7 @@
+,Food,Price
+0,Bún riêu,"25,000"
+1,Bún chả cá,"20,000"
+2,Bún riêu - chả cá,"30,000"
+3,Bún riêu -chả cá,"25,000"
+4,Chả cá thêm,"12,000"
+5,Bún thêm,"5,000"

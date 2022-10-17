@@ -1,0 +1,13 @@
+,Food,Price
+0,Súp cua trứng bắc thảo,"55,000"
+1,Súp cua nấm đông cô,"45,000"
+2,Súp   Thịt bằm trứng bắc thảo,"60,000"
+3,Súp tôm hùm viên,"65,000"
+4,"Súp tôm hùm viên,trứng bắc thảo","70,000"
+5,Súp nhà Mon,"80,000"
+6,Súp  thanh cua,"60,000"
+7,Trứng cút,"8,000"
+8,Thịt heo,"15,000"
+9,Trứng bắc thảo,"15,000"
+10,Tôm hùm viên,"20,000"
+11,Thanh cua,"18,000"

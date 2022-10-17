@@ -1,0 +1,12 @@
+,Food,Price
+0,Gỏi cuốn tôm thịt,"8,000"
+1,Bò bía,"8,000"
+2,Bánh tráng trộn,"16,000"
+3,Gỏi đu đủ thập cẩm,"40,000"
+4,"Gỏi đu đủ tôm ,da heo","25,000"
+5,Gỏi đu đủ khô bò đen,"25,000"
+6,Cơm cháy trứng cút chà bông,"16,000"
+7,Bánh tráng cuộn sốt me bơ,"21,000"
+8,Gỏi đu đủ chân gà rút xương ,"25,000"
+9,Khô bò sợi,"25,000"
+10,Bánh tránh xìke,"8,000"

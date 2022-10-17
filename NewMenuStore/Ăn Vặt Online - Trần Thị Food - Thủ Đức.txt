@@ -1,0 +1,9 @@
+,Food,Price
+0,Chân gà sả tắc,"70,000"
+1,Cơm cháy chiên nước mắm,"12,000"
+2,Chân Gà Ngâm Sả Tắc - Lớn,"130,000"
+3,Bắp rim khô bò,"18,000"
+4,Chùm ruột rim,"27,000"
+5,Coca,"15,000"
+6,Pepsi,"15,000"
+7,7 up,"15,000"

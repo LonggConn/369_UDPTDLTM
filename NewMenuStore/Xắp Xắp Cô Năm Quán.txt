@@ -1,0 +1,11 @@
+,Food,Price
+0,Xắp xắp,"15,000"
+1,Mì thịt,"20,000"
+2,Chè thập cẩm,"17,000"
+3,Chè Thái,"22,000"
+4,Chè bột,"15,000"
+5,Chè sâm bổ lượng,"17,000"
+6,Bánh tráng sốt me,"20,000"
+7,Bánh mì xíu mại,"20,000"
+8,Bánh tráng tôm,"20,000"
+9,Mật ong nhãn,"220,000"

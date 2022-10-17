@@ -1,0 +1,9 @@
+,Food,Price
+0,Chè khúc bạch truyền thống,"22,000"
+1,Khúc bạch đặc biệt,"28,000"
+2,Khúc bạch trà xanh,"22,000"
+3,Khúc bạch socholate,"22,000"
+4,Chè khúc bạch trà xanh,"22,000"
+5,Chè khúc bạch trà xanh thập cẩm,"25,000"
+6,Khúc bạch socholate thập cẩm,"25,000"
+7,Phô Mai Que,"12,000"

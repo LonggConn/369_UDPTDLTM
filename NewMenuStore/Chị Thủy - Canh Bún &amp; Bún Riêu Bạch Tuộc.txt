@@ -1,0 +1,6 @@
+,Food,Price
+0,Canh bún bạch tuộc,"50,000"
+1,Bún riêu bạch tuộc,"50,000"
+2,Canh bún cua chả,"30,000"
+3,Bún riêu cua chả,"30,000"
+4,Giò thêm,"15,000"

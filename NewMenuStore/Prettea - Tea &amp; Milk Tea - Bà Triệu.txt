@@ -1,0 +1,6 @@
+,Food,Price
+0,Boba milk tea,"69,000"
+1,Lemonade tea,"59,000"
+2,Grapefruit tea,"79,000"
+3,cinnamon chocolate,"79,000"
+4,Matcha latte,"69,000"

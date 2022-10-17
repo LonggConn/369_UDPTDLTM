@@ -1,0 +1,5 @@
+,Food,Price
+0,Chân gà sả tắc trộn cóc (500gr),"120,000"
+1,Chân gà sả tắc trộn cóc,"65,000"
+2,thập cẩm sấy mix nhiều loại (200g),"40,000"
+3,Khô gà lá chanh ( 100g),"40,000"

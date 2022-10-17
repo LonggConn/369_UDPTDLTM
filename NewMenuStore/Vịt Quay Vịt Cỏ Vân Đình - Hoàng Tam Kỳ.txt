@@ -1,0 +1,12 @@
+,Food,Price
+0,Vịt quay lá móc mật 1/2 con to,"140,000"
+1,Gà nướng muối ớt 1 con to,"200,000"
+2,Vịt Quay Lá Móc Mật 1 Con To,"270,000"
+3,Vịt quay lá móc mật 1 con vừa,"260,000"
+4,Chân gà sống - 1kg,"60,000"
+5,Nước mía,"16,000"
+6,Trà tắc,"18,000"
+7,Nước cam,"20,000"
+8,Nước chanh leo,"18,000"
+9,Cafe đen đá,"20,000"
+10,Cafe sữa đá,"20,000"

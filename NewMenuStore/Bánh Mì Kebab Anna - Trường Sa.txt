@@ -1,0 +1,11 @@
+,Food,Price
+0,Kebab Tam Giác,"25,200"
+1,Cuộn Gyros Hy Lạp,"29,700"
+2,Kebab Tam Giác Hoàng Kim phô mai lát,"31,500"
+3,Cuộn Gyros Hy Lạp Hoàng kim phomai lát,"36,900"
+4,Nước Cam Vắt - Ly 700ml,"22,500"
+5,Trà Chanh Mật Ong - Ly 1 Lít,"22,500"
+6,Trà Chanh Mật Ong - Ly 700ml,"18,000"
+7,Nước Cam Vắt - Ly 1 Lít,"27,000"
+8,Nước Sâm Táo Tàu Củ Năng - Chai Nguyên Chất Lớn,"27,000"
+9,Nước Sâm Táo Tàu Củ Năng - Ly Nguyên Chất,"20,700"

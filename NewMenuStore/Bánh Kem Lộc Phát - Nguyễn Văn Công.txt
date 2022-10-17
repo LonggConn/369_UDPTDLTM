@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh  mì fomai  chà bông,"20,000"
+1,Banh mì xúc xích ,"20,000"
+2,Bánh mi tra bông ,"20,000"
+3,Hamburger bò,"25,000"
+4,Hamburger gà,"25,000"
+5,Hamburger hải sản,"25,000"
+6,Bánh  kem bắp ,"200,000"
+7,Banh kem sô-cô-la ,"200,000"
+8,Banh kem bắp ,"250,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Ngũ cốc bung,"60,000"
+1,Bánh tráng pho mai bò khô,"50,000"
+2,Bánh Quế,"40,000"
+3,Bánh Ống Gạo,"20,000"
+4,Kẹo Dẻo Bạc Hà,"12,000"

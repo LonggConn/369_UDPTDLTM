@@ -1,0 +1,8 @@
+,Food,Price
+0, Chân gà sốt thái rút xương,"100,000"
+1,Chân gà ngâm sả tắc rút xương,"100,000"
+2, Chân gà rang muối rút xương,"100,000"
+3,trà đào ,"20,000"
+4,trà tắc thái đỏ (đặc biệt),"15,000"
+5,trà vải,"20,000"
+6,trà tắc thái xanh (đặc biệt),"15,000"

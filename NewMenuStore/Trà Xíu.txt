@@ -1,0 +1,11 @@
+,Food,Price
+0,Hồng trà sữa trân châu 3q (chai 350ml),"15,000"
+1,Trà vải,"20,000"
+2,Nước chanh leo sz M (400ml),"20,000"
+3,Khoai tây chiên,"30,000"
+4,Trà sữa pudding trân châu 3q,"20,000"
+5,Trà đào ,"20,000"
+6,Sữa tươi trân châu đường đen sz L,"35,000"
+7,Sữa tươi trân châu đường đen sz M,"25,000"
+8,Trà đào cam sả,"30,000"
+9,Trà sữa trân châu đường đen,"20,000"

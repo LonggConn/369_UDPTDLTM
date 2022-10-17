@@ -1,0 +1,6 @@
+,Food,Price
+0,Seafood Pizza,"243,000"
+1,Club Sandwich,"243,000"
+2,Meat Lover Pizza,"289,000"
+3,Korean Pizza,"243,000"
+4,Grilled Beef Burger,"231,000"

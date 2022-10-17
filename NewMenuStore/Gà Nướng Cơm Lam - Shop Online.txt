@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm lam (1 ống),"15,000"
+1,Gà ta nướng muối ớt (1 con),"210,000"
+2,Heo Rừng Nướng Óng Tre,"160,000"

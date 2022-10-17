@@ -1,0 +1,13 @@
+,Food,Price
+0,Gà nướng kampot - gà ta - con lớn,"245,000"
+1,Bánh bao chiên (5 cái),"30,000"
+2,Đòn Xôi Nướng Cuộn Giấy Bạc,"35,000"
+3,"Combo1 . 1 Gà Kampot, 1x Đòn Xôi Nướng Giấy Bạc , 5x Bánh bao chiên","295,000"
+4,Gà Nướng Lá Chanh,"245,000"
+5,Xôi chiên ( 5 cái ),"30,000"
+6,Gà ta nướng Tây Bắc - con lớn,"245,000"
+7,Gà ta nướng sả ớt- con lớn,"245,000"
+8,Vịt nướng chao - con lớn,"350,000"
+9,Vịt nướng Tây Bắc - con lớn,"350,000"
+10,"Combo vịt ( 1 vịt, 1 xôi nướng, 5 bánh bao )","395,000"
+11,Vịt nướng kampot,"350,000"

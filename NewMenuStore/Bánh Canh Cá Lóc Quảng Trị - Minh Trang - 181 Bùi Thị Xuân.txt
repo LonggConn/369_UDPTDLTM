@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh canh bột gạo ,"26,000"
+1,Trứng cút lẻ,"1,500"
+2,Nem,"6,000"
+3,Nem rán,"7,000"
+4,Chả heo,"6,000"
+5,Bánh canh bột mỳ ,"26,000"
+6,Bánh canh bột lọc ,"26,000"
+7,Cá thêm ,"14,000"
+8,Lòng thêm ,"16,000"
+9,Trứng cút luộc,"16,000"

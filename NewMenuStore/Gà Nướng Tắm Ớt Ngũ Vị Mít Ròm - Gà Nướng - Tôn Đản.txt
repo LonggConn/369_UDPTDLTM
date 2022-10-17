@@ -1,0 +1,4 @@
+,Food,Price
+0,Gà nướng tắm ớt cay kèm xôi,"200,000"
+1,Gà nướng ngũ vị kèm xôi,"200,000"
+2,Gà nướng tắm ớt kèm xôi,"200,000"

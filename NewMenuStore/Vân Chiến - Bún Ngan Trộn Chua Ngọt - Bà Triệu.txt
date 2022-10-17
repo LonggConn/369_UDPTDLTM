@@ -1,0 +1,6 @@
+,Food,Price
+0,Combo 5 Miến Ngan Trộn + 1 Canh Măng Tiết,"275,000"
+1,Miến Ngan Trộn,"48,000"
+2,Bún Ngan Trộn,"48,000"
+3,Bún Ngan Nước,"48,000"
+4,Miến Ngan Nước,"48,000"

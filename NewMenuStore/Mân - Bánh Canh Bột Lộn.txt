@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh canh cua bột mỳ,"20,000"
+1,Nui,"20,000"
+2,Bánh canh cua bột lộn,"20,000"
+3,Bánh canh cua giò nạc,"30,000"
+4,Bánh canh cua bột lọc,"20,000"
+5,Bánh canh bò + cua,"30,000"
+6,Trứng cút,"12,000"
+7,Tré,"5,000"
+8,Nem,"10,000"
+9,Chả lọn,"7,000"

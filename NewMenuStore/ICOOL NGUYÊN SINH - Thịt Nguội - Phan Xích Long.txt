@@ -1,0 +1,10 @@
+,Food,Price
+0,Pate Nguyên Sinh - Loại 200g,"54,000"
+1,Pate Nguyên Sinh - Loai 500g,"135,000"
+2,Pate Nguyên Sinh - Loại 1kg,"270,000"
+3,Jambon Gà - 1kg,"345,000"
+4,Jambon Heo - 1kg,"345,000"
+5,Bánh Mì - Đặc biệt,"35,000"
+6,Bánh Mì - Truyền thống,"25,000"
+7,Xúc Xích Xông Khói - 1kg,"345,000"
+8,Xúc Xích Tỏi - 1 kg,"345,000"

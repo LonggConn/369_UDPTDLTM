@@ -1,0 +1,11 @@
+,Food,Price
+0,Lẩu riêu cua gà đen,"550,000"
+1,Lẩu gà đen nấm,"450,000"
+2,Lẩu gà,"400,000"
+3,Lẩu ếch măng cay,"350,000"
+4,Gà hấp lá chanh,"300,000"
+5,Lẩu cá chép,"350,000"
+6,Gà nướng muối tuyết,"400,000"
+7,Lẩu thắng cố,"450,000"
+8,Lẩu gà nấm,"400,000"
+9,Chép om dưa,"350,000"

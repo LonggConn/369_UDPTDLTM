@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh tráng cuốn thịt heo quay,"65,000"
+1,Bánh tráng cuốn thịt heo luộc,"55,000"
+2,Nem lụi,"50,000"
+3,Bún mắm nêm heo quay,"20,000"
+4,Bánh Tráng Cuốn Nhân Giò Heo,"55,000"
+5,Bún mắm nêm heo luộc,"15,000"
+6,Cơm Cháy ,"50,000"
+7,Rau,"10,000"
+8, Bánh Tráng + Bánh Phở ,"10,000"
+9,Trà sâm dứa,"5,000"
+10,Coca,"15,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh Mỳ Bò Xào,"60,000"
+1,Bánh Mỳ Thêm,"5,000"
+2,Dưa Góp,"7,000"
+3,Trứng Ốp,"7,000"
+4,Sữa Đậu Nành,"15,000"
+5,Coca,"15,000"
+6,Pepsi,"15,000"
+7,Twister Cam Ép,"15,000"
+8,Lavie,"10,000"

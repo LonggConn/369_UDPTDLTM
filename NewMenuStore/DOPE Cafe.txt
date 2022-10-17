@@ -1,0 +1,4 @@
+,Food,Price
+0,Cafe muối size M,"25,000"
+1,Cafe muối - chai 330ml,"70,000"
+2,Cafe muối size L,"42,000"

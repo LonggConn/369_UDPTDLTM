@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm gạo lứt Cá hồi áp chảo + Tặng 01 Pepsi 0đ (Hoặc nước khác),"82,000"
+1,Cơm gạo lứt Gà teriyaki + Tặng 01 Pepsi 0đ (Hoặc nước khác),"70,000"
+2,Pepsi,"15,000"
+3,Chicken Mango salad + Tặng 01 Pepsi 0đ (Hoặc nước khác),"82,000"
+4,Chicken Teriyaki with rice/ Cơm gà teriyaki,"65,000"
+5,Seared Salmon with rice/ Cơm Cá Hồi Áp chảo,"78,000"
+6,Beef steak salad,"80,000"
+7,Grilled chicken avocado mango salad,"75,000"
+8,Seared Tuna Avocado Salad,"80,000"
+9,Seared Salmon Salad,"88,000"
+10,Beef jerky salad,"70,000"
+11,Pepsi Zero,"17,000"

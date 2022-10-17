@@ -1,0 +1,5 @@
+,Food,Price
+0,Cháo không,"10,000"
+1,Gỏi gà,"55,000"
+2,Gỏi gà nguyên con,"240,000"
+3,Lòng gà,"15,000"

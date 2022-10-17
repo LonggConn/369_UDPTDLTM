@@ -1,0 +1,12 @@
+,Food,Price
+0,Sashimi Cá Hồi,"158,000"
+1,Sashimi Cá Trích Ép Trứng,"130,000"
+2,Combo Sashimi 01,"239,000"
+3,Sashimi Sò Đỏ Hokkigai,"130,000"
+4,Combo Sashimi 03,"689,000"
+5,Sashimi Bạch Tuộc,"130,000"
+6,Sashimi Sò Điệp,"160,000"
+7,Sashimi Bào Ngư Úc Viền Xanh,"190,000"
+8,Combo Sashimi 02,"569,000"
+9,Trứng Cá Hồi,"175,000"
+10,Trứng Cá Chuồn,"120,000"

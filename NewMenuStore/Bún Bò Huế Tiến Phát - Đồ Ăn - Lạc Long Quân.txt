@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún bò Huế Tái Nạm Chả Huế,"50,000"
+1,Bún bò Huế Tái Chả Huế,"40,000"
+2,Bún bò Huế Đặc Biệt Tái Bắp Gân Giò Heo Nạm,"80,000"
+3,Bún bò Huế Bắp Giò Heo,"55,000"
+4,Bún bò Huế Bắp Nạm Bò,"50,000"
+5,Bún bò Huế Bắp Sườn Bò,"55,000"
+6,Bún bò Huế Giò Heo Sườn Bò,"50,000"
+7,Bún bò Huế Tái Bắp Gân,"55,000"
+8,Bún bò Huế Tái Nạm Gân,"55,000"
+9,Bún bò Nạm Bắp Gân,"50,000"
+10,Bún bò Huế Tái Bắp Nạm,"55,000"

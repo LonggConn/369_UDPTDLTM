@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún cá chấm,"40,000"
+1,Bún cá chan,"40,000"
+2,Bún cá đặc biệt(cá giòn+ chả cá  sụn),"48,000"
+3,Bún Cá Trộn,"40,000"
+4,Cá Thêm,"25,000"
+5,Bún Chả Cá Sụn,"40,000"
+6,Bún Thêm,"7,000"
+7,Chả Cá Sụn Thêm,"25,000"
+8,Coca,"15,000"
+9,Nước Cam Twister,"15,000"
+10,Nước Bò Húc,"18,000"
+11,1kg Chả Cá Sụn,"220,000"

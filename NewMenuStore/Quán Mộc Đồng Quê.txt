@@ -1,0 +1,6 @@
+,Food,Price
+0,Bò nướng lá lốt + Bánh hỏi,"59,000"
+1,Lẩu bò Nam Vang lớn,"259,000"
+2,Bò lụi + Bánh hỏi,"69,000"
+3,Bò nướng là cách + Bánh hỏi,"59,000"
+4,Lẩu bò Nam Vang nhỏ,"159,000"

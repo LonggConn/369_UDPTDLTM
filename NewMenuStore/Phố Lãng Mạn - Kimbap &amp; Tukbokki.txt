@@ -1,0 +1,5 @@
+,Food,Price
+0,"Combo Kimbap, Soup, Tokbokki","45,000"
+1,Kimbap,"25,000"
+2,Tokbokki,"30,000"
+3,Chả cá chiên,"10,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Chân Gà Rút Xương Sốt Thái (Nhỏ),"65,000"
+1,Chân gà rút xương sốt thái(Phần Lớn),"125,000"
+2,Chân Gà Rút Xương Sả Tắc (Nhỏ),"65,000"
+3,Chân gà rút xương sả tắc (phần Lớn),"125,000"
+4,Khô Gà Lá Chanh 300gram,"89,000"
+5,Mắm Ruốc Xào chấm trái cây,"37,000"
+6,Mứt Dừa Non  Túi 500gram,"115,000"
+7,Sữa tươi cafe,"22,000"
+8,Sữa tươi thốt nốt rim,"28,000"
+9,Sữa chua Thốt Nốt Rim,"28,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún Riêu,"25,000"
+1,Bún Chả Cá,"35,000"
+2,Bún Chả Cá Có Cá,"39,000"
+3,Bún Mắm Nêm,"39,000"
+4,Canh Bún Riêu cua,"25,000"
+5,Bánh canh Chả Cá Có Cá,"39,000"
+6,Bánh Canh Chả Cá,"35,000"
+7,Mì Chả Cá,"35,000"
+8,Mì Chả Cá Có Cá,"39,000"
+9,Coca Ly,"9,000"

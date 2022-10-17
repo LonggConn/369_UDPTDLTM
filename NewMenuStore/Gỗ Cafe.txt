@@ -1,0 +1,9 @@
+,Food,Price
+0,Sinh tố dâu ,"25,000"
+1,Cà phê đen ,"15,000"
+2,Cà phê sữa ,"18,000"
+3,Cacao ,"18,000"
+4,Nước ép cam ,"25,000"
+5,Nước ép xoài ,"25,000"
+6,Sinh tố bơ ,"25,000"
+7,Sinh tố xoài ,"25,000"

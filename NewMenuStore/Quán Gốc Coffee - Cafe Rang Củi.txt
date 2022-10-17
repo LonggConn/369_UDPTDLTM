@@ -1,0 +1,12 @@
+,Food,Price
+0,Cà phê sữa đá,"20,000"
+1,Latte lạnh,"25,000"
+2,Bạc xỉu,"25,000"
+3,Ca cao nguyên chất (lạnh),"30,000"
+4,Cà phê phin đen đá,"20,000"
+5,Cà phê sữa nóng,"20,000"
+6,Capuchino nóng,"25,000"
+7,Latte nóng,"25,000"
+8,Ca cao nguyên chất (nóng),"30,000"
+9,Cà phê rang xay nguyên hạt,"100,000"
+10,Cà phê phin đen nóng,"20,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Sườn ram mặn,"30,000"
+1,Cơm Thịt kho tiêu Trứng cút,"30,000"
+2,Cơm  Xá Xíu,"30,000"
+3,Cơm Mưc Xào Sate,"30,000"
+4,Cơm Canh chua chả cá,"30,000"
+5,Gà Chiên Nước Mắm,"30,000"
+6,Bò Xào Rau Muống,"30,000"
+7,Canh Thêm,"5,000"

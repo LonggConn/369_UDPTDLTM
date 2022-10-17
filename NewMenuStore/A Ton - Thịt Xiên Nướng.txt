@@ -1,0 +1,6 @@
+,Food,Price
+0,Thịt xiên nướng,"12,000"
+1,Bánh mì thịt nướng (2 xiên),"28,000"
+2,Thịt xiên nướng phô mai,"15,000"
+3,Bánh mì thịt nướng (1 xiên),"16,000"
+4,Bún thịt xiên (2 xiên) ,"36,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Gà Xé Phay,"42,000"
+1,Cơm Đùi Gà Tỏi nhúng mắm,"39,000"
+2,Cơm Thịt Xá Xíu Nướng,"42,000"
+3,Cơm Chiên Dương Châu,"32,000"
+4,Cơm Thêm,"8,000"
+5,Đùi Gà Thả Vườn nhúng mắm,"60,000"
+6,Gà Thả Vườn nhúng mắm (Phần Cánh 1/4),"55,000"
+7,Cơm Đùi Gà Luộc ,"60,000"

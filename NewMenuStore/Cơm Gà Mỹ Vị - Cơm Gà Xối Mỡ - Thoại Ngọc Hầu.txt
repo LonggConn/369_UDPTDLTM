@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Gà Xối Mỡ - Đùi Lớn,"36,500"
+1,Cơm Gà Xối Mỡ - Đùi Góc Tư,"48,000"
+2,Cơm Thêm,"8,000"
+3,Cơm Chiên - Trứng Ốp La,"15,000"
+4,Cơm Chiên - Trứng Ốp Lết,"28,500"
+5,Canh Súp,"9,000"
+6,Trứng Ốp La - Không Cơm,"9,000"
+7,Đùi Xối Mỡ - Không Cơm,"30,000"
+8,Đùi Xối Mỡ Góc Tư - Không Cơm,"40,500"

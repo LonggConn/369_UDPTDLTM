@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún bò giò,"55,000"
+1,Bún bò,"45,000"
+2,Chân gà sốt Thái,"65,000"
+3,Gân bò trộn xoài,"75,000"

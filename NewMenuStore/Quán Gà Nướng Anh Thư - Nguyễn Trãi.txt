@@ -1,0 +1,11 @@
+,Food,Price
+0,Rau Má Đậu xanh Sữa Tươi ,"20,000"
+1,Tra Sua Banh Plan,"25,000"
+2,Nước Mía Lý Lớn ,"12,000"
+3,Trà đào,"25,000"
+4,CA PHÊ ĐEN ĐA,"12,000"
+5,CA PHÊ SỮA ĐA,"15,000"
+6,Trà Tắc ,"13,000"
+7,TRÀ BI ĐAO LY LỚN ,"20,000"
+8,Cam Ép ,"20,000"
+9,Gà nướng muối ớt,"180,000"

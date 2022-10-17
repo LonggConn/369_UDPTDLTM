@@ -1,0 +1,5 @@
+,Food,Price
+0,Cà phê muối size XL ,"32,000"
+1,Cà phê muối size L ,"28,000"
+2,Cafe muối chai nhỏ - 350ml,"65,000"
+3,Cà phê muối chai 480ml,"110,000"

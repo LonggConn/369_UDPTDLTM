@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh bông lan trứng muối sốt phô mai,"65,000"
+1,Su Kem,"35,000"
+2,Bánh bông lan trứng muối sốt phô mai + bò khô,"70,000"
+3,Bánh Tiramisu,"55,000"
+4,Su Kem mix Chocolate,"42,000"
+5,Bánh kem sinh nhật size 15cm,"150,000"
+6,Bánh Tiramisu vị trà xanh,"60,000"
+7,Kem ly Dừa hộp lớn,"28,000"
+8,Bánh phô mai chanh dây.,"60,000"
+9,Kem ly Dừa hộp nhỏ,"15,000"
+10,Kem ly Sô cô la hộp nhỏ,"15,000"
+11,Kem ly Sô cô la hộp lớn,"28,000"

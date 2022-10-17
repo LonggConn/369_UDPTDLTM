@@ -1,0 +1,4 @@
+,Food,Price
+0,BÚN RIÊU CUA CHẢ ĐẶC BIỆT ,"38,000"
+1,CANH BÚN CUA CHẢ ĐẶC BIỆT,"38,000"
+2,BÁNH ĐA CUA CHẢ ĐẶC BIỆT ,"38,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Bún chả nướng,"40,000"
+1,Bún thêm,"5,000"
+2,Chả nướng nguyên vỉ,"70,000"

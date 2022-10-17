@@ -1,0 +1,13 @@
+,Food,Price
+0,Rau má đậu xanh,"21,500"
+1,Sâm bí đao,"15,000"
+2,Rau má truyền thống,"15,000"
+3,Rau má sữa dừa,"18,000"
+4,Trà tắc xí muội,"15,000"
+5,Trà đào,"22,000"
+6,Trà tắc,"13,000"
+7,Trà vải atiso đỏ,"26,900"
+8,Trà atiso đỏ,"20,000"
+9,Trà sữa,"21,500"
+10,Trà vải,"22,000"
+11,Trà bí đao sữa,"21,500"

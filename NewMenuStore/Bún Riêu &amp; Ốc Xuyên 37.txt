@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún riêu cua có ốc,"32,000"
+1,Bún riêu cua đặc biệt,"42,000"
+2,Bún riêu cua tô thường,"25,000"
+3,Bún riêu cua giò,"37,000"
+4,Bún riêu cua xương,"42,000"

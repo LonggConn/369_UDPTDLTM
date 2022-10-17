@@ -1,0 +1,934 @@
+Loại cửa hàng	Tên cửa hàng	Địa chỉ cửa hàng	Số sao trên ShopeeFood	Số lượt đánh giá trên ShopeeFood	Thời gian mở cửa	Giá thấp nhất	Giá cao nhất	Phí dịch vụ	Số sao trên Foody	Số lượt đánh giá trên Foody	Cửa hàng có menu
+Quán ăn	INDIAN CURRY- Authentic Indian Restaurant	110 Phạm Cự Lượng, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	100+	 09:00 - 22:30	45,000	150,000	0.0%	8.2	2	1
+Quán ăn	Bún Ngon - Cơm Tấm Kim Ngân	159 Phan Đăng Lưu, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	0	24,000	32,000	0.0%	0	0	1
+Quán ăn	Duyên - Cơm Gà Xối Mỡ - Nguyễn Công Trứ	133 Nguyễn Công Trứ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	999+	 10:00 - 21:00	25,000	45,000	0.0%	2.2	2	1
+Quán ăn	Mì Quảng Giao Thủy - Ba Đình	1B Ba Đình, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	100+	 07:00 - 20:00	25,000	40,000	0.0%	8.1	8	1
+Quán ăn, Giao cơm văn phòng	Cơm Gà Hoàng Yến	429 Điện Biên Phủ, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:00 - 14:00 | 16:30 - 21:00	30,000	80,000	0.0%	6.9	12	1
+Quán ăn	Mỹ Linh - Cơm Gà Tam Kỳ	222C Hải Phòng, P. Tam Thuận, Quận Thanh Khê, Đà Nẵng	4.5	100+	 09:00 - 21:00	25,000	35,000	0.0%	7.2	6	0
+Quán ăn	Cơm Gà Trang - Lê Thanh Nghị	195 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:30 - 21:00	20,000	35,000	ShopeeFood</span	7.8	24	1
+Quán ăn, Giao cơm văn phòng	Cơm Tấm Trâm - Đống Đa	240 Đống Đa, P. Thuận Phước, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 20:00	30,000	50,000	0.0%	6.6	14	1
+Quán ăn	Mì Quảng Bà Mua - Đặng Dung	25 Đặng Dung, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	999+	 06:00 - 22:00	20,000	35,000	0.0%	6.7	14	1
+Quán ăn	Cơm Gà Hồng Phát	211A Khúc Hạo, P. Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng	4.5	50+	 07:00 - 20:00	15,000	25,000	ShopeeFood</span	9.2	1	1
+Quán ăn	Cơm Gà &amp; Bún Bò Huế - Hồ Nghinh	54 Hồ Nghinh, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	100+	 10:00 - 14:30 | 17:00 - 21:30	15,000	25,000	0.0%	8.2	2	1
+Quán ăn	Cơm - Cháo - Miến Gà Thu Hiền	97 Lý Đạo Thành, P. Mân Thái, Quận Sơn Trà, Đà Nẵng	4.5	999+	 09:00 - 22:00	20,000	140,000	0.0%	6.7	13	1
+Quán ăn	Cơm Gà Hoàng Lan - Hà Huy Tập	15 Hà Huy Tập, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:00 - 21:00	25,000	50,000	0.0%	6.7	3	1
+Quán ăn	Cơm Tấm Sài Gòn 304 - Cơm Tấm - Núi Thành	304 Núi Thành, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	8	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Shop Online	Trà Sữa Hìn Unnie	K58/34 Nguyễn Thành Hãn, P. Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng	4.0	4	 08:00 - 22:00	10,000	55,000	0.0%	9.0	1	1
+Nhà hàng	Maharaja Indian Restaurant	9 An Thượng 2, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	0	0	0	50,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn	Cơm Gà Vân - Lê Đình Lý	177 Lê Đình Lý, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 15:00 | 16:30 - 21:00	20,000	40,000	0.0%	6.0	7	1
+Quán ăn	Cơm Gà Khang Ký	215/2 Hoàng Diệu, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	10+	 10:00 - 20:00	20,000	35,000	ShopeeFood</span	9.2	1	1
+Quán ăn	Cơm Gà Hìn Mập - Phạm Hồng Thái	29 Phạm Hồng Thái, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 22:00	20,000	66,000	0.0%	3.7	6	1
+Quán ăn, Giao cơm văn phòng	Hồng Phúc - Cơm Tấm Sài Gòn	17 Phan Tứ, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	 10:30 - 14:00	15,000	25,000	0.0%	5.6	4	1
+Quán ăn	Phú Minh Lê - Trứng Gà Nướng Cơ Sở 2	215 Tô Hiệu, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 12:00 - 22:00	20,000	65,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Bà Thu - Nguyễn Tri Phương	340A Nguyễn Tri Phương, P. vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	100+	 11:00 - 14:00 | 16:00 - 19:00	25,000	40,000	0.0%	5.0	2	1
+Quán ăn	Bánh Ép Mắt Hí - Bánh Ép - 631 Nguyễn Tất Thành	631 Nguyễn Tất Thành, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	10+	 14:00 - 21:00	10,000	40,000	0.0%	<span>_._</span>	0	1
+Shop Online	Map Ăn Vặt	K149/29/11B Lê Đình Lý, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	5	 07:00 - 23:00	5,000	100,000	0.0%	10.0	1	1
+Nhà hàng	Mumtaz - Ẩm Thực Ấn Độ	26 An Thượng 6, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	 10:00 - 22:00	80,000	220,000	0.0%	7.9	18	1
+Quán ăn	Gà Nướng Ông Tý	12 Lê Độ, P. Tam Thuận, Quận Thanh Khê, Đà Nẵng	4.5	100+	 11:00 - 21:00	140,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Viễn Thông	82 Lê Tấn Trung, P. Thọ Quang, Quận Sơn Trà, Đà Nẵng	4.5	100+	 09:30 - 20:30	25,000	50,000	0.0%	6.0	3	1
+Quán ăn	Gia Linh (Ngọc Quyên) - Cơm Tấm, Bún Mắm &amp; Mỳ Quảng	323 Tôn Đản, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	 07:00 - 20:00	20,000	45,000	0.0%	<span>_._</span>	0	1
+Nhà hàng, Buffet	Trúc Lâm Viên Cafe &amp; Restaurant	8 Trần Quý Cáp, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	10+	 06:30 - 14:30	35,000	1,100,000	0.0%	7.3	60	1
+Café/Dessert	Coffee, Ăn Sáng &amp; Ẩm Thực Monarchys	51 - 52 Trần Hưng Đạo, Quận Sơn Trà, Đà Nẵng	5.0	2	 10:00 - 23:00	20,000	50,000	0.0%	8.9	2	1
+Quán ăn	Mì Quảng Hương - Tôn Đức Thắng	758 Tôn Đức Thắng, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	0	0	0	13,000	22,000	ShopeeFood</span	0	0	1
+Quán ăn	Cơm Gà A Đô	77 Duy Tân, P. Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng	4.5	10+	 10:00 - 20:30	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ngọc Tửu Quán - Nhậu Bình Dân	Lô 3 - 4 Đường Bình Minh 1, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	0	0	0	50,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn	Mì Quảng Sen	934/7 Trần Cao Vân, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng	4.5	100+	 06:00 - 18:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Quán nhậu	Hải Sản Tý Lĩnh	K139/H59 Trần Quang Khải, P. Thọ Quang, Quận Sơn Trà, Đà Nẵng	4.5	10+	 09:00 - 22:30	25,000	120,000	ShopeeFood</span	6.7	27	1
+Quán ăn	Cơm Gà 52	296 Lê Văn Hiến, P. Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	 10:00 - 21:00	25,000	45,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Quán Cơm Gà Bé Gái	54 Lê Tấn Trung, P. Thọ Quang, Quận Sơn Trà, Đà Nẵng	4.5	50+	 10:00 - 20:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ - Âu Cơ	341 Âu Cơ, P. Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 10:30 - 14:00 | 16:30 - 20:00	25,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hà Nội Food - Hồ Nghinh	291 Hồ Nghinh, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	10+	 06:00 - 22:00	40,000	150,000	0.0%	<span>_._</span>	0	1
+Shop Online	Thế Giới Ăn Vặt Pig - Lê Đại Hành	Tầng 2, 102 Lê Đại Hành, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.0	10+	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Hoa Kỳ - Cơm Chiên - Đinh Tiên Hoàng	40 Đinh Tiên Hoàng, Quận Hải Châu, Đà Nẵng	0	0	0	20,000	35,000	0.0%	0	0	1
+Café/Dessert, Quán ăn	Phê - Cơm Gà Xối Mỡ - Lê Thanh Nghị	249 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	5.0	4	 09:00 - 15:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Quảng Quê Hương - Lý Nhân Tông	56 Lý Nhân Tông, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	50+	 06:00 - 21:00	20,000	25,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Gà Nướng Cay - Hà Huy Tập	189 Hà Huy Tập, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	5.0	6	 09:00 - 22:00	25,000	200,000	ShopeeFood</span	<span>_._</span>	0	1
+Shop Online, Quán nhậu	Thúc Tịnh Quán - Giòn Heo Chiên &amp; Gà Roti - Đỗ Thúc Tịnh	17 Đỗ Thúc Tịnh, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Mì Quảng Sông Thu	56 Huỳnh Ngọc Huệ, P. An Khê, Quận Thanh Khê, Đà Nẵng	4.5	10+	 06:00 - 17:00	15,000	25,000	0.0%	<span>_._</span>	0	0
+Ăn vặt/vỉa hè	VTC Quán	406 Thăng Long, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	0	0	0	15,000	165,000	ShopeeFood</span	0	0	1
+Ăn vặt/vỉa hè	Gà Nướng Huynh Đệ - Kỳ Đồng P	121 Kỳ Đồng P, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	8	 11:00 - 20:00	170,000	170,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ông Thụn Quán - Chè, Trà &amp; Ăn Vặt	407 Tôn Đản, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	0	0	0	35,000	75,000	0.0%	0	0	1
+Quán ăn	Ăn Vặt Út Béo - Nguyễn Văn Bổng	5 Nguyễn Văn Bổng, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	3.5	10+	 10:00 - 22:00	6,000	10,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè, Shop Online	Tiệm Ăn Vặt Nhà Bon - Chân Gà Tứ Xuyên &amp; Khô Gà - Nguyễn Thị Bảy	88  Nguyễn Thị Bảy, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	5.0	7	 08:00 - 23:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Vịt Quay Công Huy	389 Trần Cao Vân, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	10+	 09:00 - 22:00	110,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	37 RV - Cơm Gà Xứ Nghệ	6 Tú Mỡ, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 10:00 - 22:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	The Bao's BBQ	77 Nguyễn Phan Vinh, P. Thọ Quang, Quận Sơn Trà, Đà Nẵng	0	0	0	15,000	50,000	ShopeeFood</span	0	0	1
+Ăn vặt/vỉa hè	Cơm Khang Vy	Vỉa Hè 3 Trưng Nữ Vương, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	5.0	1	 11:00 - 14:00	20,000	25,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán nhậu	The River House - Gà Nướng - 114 Bạch Đằng	114 Bạch Đằng, P. Hải Châu I, Quận Hải Châu, Đà Nẵng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Chân Gà Tiên Tiên - An Thượng 5	21 An Thượng 5, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	0	0	0	20,000	50,000	0.0%	0	0	0
+Quán ăn	Cơm Tấm 1989	345 Cách Mạng Tháng 8, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	 06:00 - 20:00	0	0	0.0%	4.7	2	1
+Quán ăn	Monsieur Crêpes - Ẩm Thực Đường Phố Pháp	27 An Thượng 5, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	 09:00 - 21:00	29,000	99,000	0.0%	8.8	4	1
+Ăn vặt/vỉa hè	Bánh Tráng Cô Thê	381 Nguyễn Văn Linh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	 14:00 - 22:00	10,000	20,000	0.0%	7.6	17	1
+Quán ăn	Đặc Sản Bò Lụi Bé Na - Bún Thịt Nướng	267 Ông Ích Khiêm, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	100+	 06:00 - 22:00	8,000	25,000	0.0%	8.9	19	1
+Quán ăn	Sáu Hào - Đặc Sản Gỏi Cá	232 Trần Cao Vân, P. Tam Thuận, Quận Thanh Khê, Đà Nẵng	4.5	500+	 10:00 - 23:00	50,000	200,000	0.0%	7.6	45	1
+Nhà hàng	Thai Market - Nguyễn Văn Thoại	183 Nguyễn Văn Thoại, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	 10:00 - 22:00	35,000	170,000	0.0%	7.2	35	1
+Nhà hàng	Thai Market - Bình Minh 5	43 Bình Minh 5, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	100+	 11:00 - 22:00	35,000	170,000	0.0%	6.5	20	1
+Quán ăn	Thai Market - Trần Quốc Toản	4 Trần Quốc Toản, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	500+	0	18,000	300,000	0.0%	0	0	1
+Quán ăn	Tokbokki 56 - Hồ Huân Nghiệp	106 Hồ Huân Nghiệp, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	 10:00 - 22:00	10,000	50,000	0.0%	8.1	4	1
+Quán ăn	Lẩu Gà 76 - Lẩu Gà Lá É - 183 Tiểu La	183 Tiểu La, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	9	 07:00 - 13:00 | 16:00 - 22:00	25,000	260,000	0.0%	9.6	1	1
+Quán ăn	Ẩm Thực Gánh - Bún Đậu Mắm Tôm - Ngô Thì Nhậm	54B Ngô Thì Nhậm, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 11:00 - 21:00	15,000	150,000	0.0%	4.9	3	1
+Quán ăn	Zé Food - Món Hàn Quốc	218/3 Đống Đa, P. Thuận Phước, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:00 - 21:30	20,000	40,000	0.0%	6.7	537	1
+Quán ăn	Út Hạnh - Bê Thui &amp; Bún Bê - Hồ Tùng Mậu	252 - 254 Hồ Tùng Mậu, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 06:00 - 22:30	30,000	300,000	0.0%	7.3	3	1
+Quán ăn	Ẩm Thực Gánh - Bún Đậu Mắm Tôm - Đống Đa	141 Đống Đa, P. Thuận Phước, Quận Hải Châu, Đà Nẵng	4.5	999+	0	15,000	150,000	0.0%	0	0	1
+Quán ăn	Cá Nục Quán - Tiểu La	143 - 145 Tiểu La, P. Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng	4.5	500+	 10:30 - 21:30	40,000	66,000	0.0%	6.7	14	1
+Quán ăn	Mì Cay Cheoeum - Lê Thanh Nghị	321 Lê Thanh Nghị, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	500+	 09:00 - 22:00	35,000	50,000	0.0%	5.6	3	1
+Quán ăn	Cá Câu - Cháo &amp; Lẩu	151 Triệu Nữ Vương, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	50+	 11:00 - 23:00	20,000	50,000	0.0%	10.0	1	1
+Quán ăn	Hùng - Lẩu Gà Lá É &amp; Hủ Tiếu Xào	1 Đông Du, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	50+	 15:00 - 22:00	30,000	130,000	0.0%	8.8	1	1
+Nhà hàng, Buffet	Sumo BBQ - Buffet Lẩu &amp; Nướng	Tầng 4, Vincom Center, 910A Ngô Quyền, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.0	1	 11:00 - 22:00	219,000	299,000	0.0%	7.0	149	1
+Quán ăn	Hải Sản Năm Rảnh - Đồng Giá 60K	71 Chương Dương, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	 10:30 - 22:30	60,000	60,000	ShopeeFood</span	5.9	64	1
+Quán nhậu	Bé Hòa - Hải Sản Bình Dân	46 Nguyễn Trực, P. Thọ Quang, Quận Sơn Trà, Đà Nẵng	0.0	3	 09:00 - 22:00	45,000	170,000	ShopeeFood</span	10.0	1	1
+Quán ăn	Quán 307 - Bánh Xèo - Bún Thịt Nướng &amp; Nem Lụi	307 Hà Huy Tập, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	999+	 11:00 - 21:00	15,000	50,000	0.0%	7.7	8	1
+Quán ăn	Gỏi Cá Nhung - Ngọc Hồi	10 Ngọc Hồi, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 07:00 - 23:00	40,000	120,000	0.0%	8.0	1	1
+Nhà hàng	Nhà Hàng Nguyễn Gia Trang	20 Nguyễn Thuật, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	0	30,000	300,000	0.0%	0	0	1
+Quán ăn	Như Ý Quán - Bún Thịt Nướng &amp; Nem Lụi	127 Nguyễn Xí, P. Hoà Minh, Quận Liên Chiểu, Đà Nẵng	4.5	10+	 14:00 - 20:30	0	0	0.0%	10.0	2	1
+Quán ăn	Quán Thao - Lẩu &amp; Món Nhậu Bình Dân	K190/25 Ông Ích Khiêm, Quận Thanh Khê, Đà Nẵng	4.5	50+	 09:30 - 23:30	150,000	500,000	ShopeeFood</span	7.4	12	1
+Quán ăn	Bà Tình - Bánh Xèo Miền Trung - Hoàng Diệu	280/14 Hoàng Diệu, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 22:00	20,000	33,000	0.0%	7.3	24	1
+Quán ăn	Tiệm Ăn PY's Fúd	29 Nguyễn Chí Thanh, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	500+	0	15,000	55,000	0.0%	0	0	1
+Nhà hàng	Phố Nướng Tokyo	4 Phạm Văn Đồng, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	50+	 11:00 - 23:00	50,000	150,000	0.0%	7.5	319	1
+Quán ăn	Hải sản Cô Bê	254/6 Hoàng Diệu, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	100+	 11:00 - 22:00	30,000	80,000	0.0%	5.9	4	1
+Quán ăn	Dê Hùng - Đặc Sản Dê Hương Sơn	83 - 85 - 87 Đặng Huy Tá, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	10+	 10:00 - 22:00	35,000	250,000	ShopeeFood</span	8.2	1	1
+Ăn vặt/vỉa hè	Ốc Chảo Đà Nẵng	15 Lê Tấn Trung, P. Thọ Quang, Quận Sơn Trà, Đà Nẵng	4.5	10+	 16:00 - 22:00	45,000	60,000	0.0%	7.5	25	1
+Quán ăn	Đồng Dao - Hải Sản Bình Dân	117 Lê Đại Hành, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.0	10+	 09:00 - 22:00	40,000	200,000	ShopeeFood</span	9.2	1	1
+Quán ăn	Quán Min - Lẩu Nướng &amp; Ăn Vặt	83B Dũng Sĩ Thanh Khê, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	4.5	50+	 17:00 - 23:00	15,000	50,000	0.0%	9.2	4	1
+Quán ăn	Bê Thui Lão Hạc	128 Nguyễn Phan Vinh, P. Thọ Quang, Quận Sơn Trà, Đà Nẵng	4.5	10+	 08:00 - 22:00	150,000	380,000	ShopeeFood</span	6.7	5	1
+Quán ăn	3 BiG - Nướng &amp; Lẩu	134 Phan Châu Trinh, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	10+	 11:00 - 21:30	55,000	59,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Happy Thái	37 Quang Trung, Quận Hải Châu, Đà Nẵng	3.5	10+	 11:00 - 22:00	45,000	150,000	0.0%	7.9	17	1
+Nhà hàng	Bé Anh Restaurant - Hải Sản	Lô B14-15, Ngã ba Hồ Nghinh - Nguyễn Cao Luyện, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	7	 07:00 - 23:00	100,000	500,000	ShopeeFood</span	6.9	64	1
+Quán ăn	Ốc Và Lẩu 62	126 Hàm Nghi, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	10+	 08:00 - 22:00	50,000	120,000	ShopeeFood</span	9.8	2	1
+Quán ăn	June Food &amp; Drink - Pizza &amp; Tokbokki -&nbsp;Trần&nbsp;Cao&nbsp;Vân	538 Trần Cao Vân, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	10+	 09:00 - 22:00	5,000	110,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Kin Kin Thai Food - Tôn Thất Đạm	59 Tôn Thất Đạm, Quận Thanh Khê, Đà Nẵng	4.5	100+	0	30,000	100,000	0.0%	0	0	1
+Quán nhậu	Quán Nhậu Mỹ Liên - Nguyễn Tường Phổ	Ngã 3 Nguyễn Tường Phổ - Trung Nghĩa 9, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 10:00 - 22:00	30,000	150,000	ShopeeFood</span	8.4	4	1
+Quán nhậu	Quang Trường - Hải Sản Bình Dân	4 Hồ Thấu, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	5.0	1	 09:00 - 22:30	30,000	170,000	ShopeeFood</span	7.6	5	1
+Shop Online	Gà Nướng Cơm Lam - Shop Online	K523/55 Cách Mạng Tháng 8, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	50+	 08:00 - 20:00	13,000	210,000	ShopeeFood</span	9.1	2	1
+Quán ăn	Sabaidi - Đặc Sản Lào	148 Xô Viết Nghệ Tĩnh, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	100+	 09:00 - 22:30	15,000	260,000	0.0%	7.6	13	1
+Quán nhậu	Út Thuận - Nhậu Bình Dân	246 Hồ Tùng Mậu, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	9	 11:00 - 23:00	10,000	80,000	ShopeeFood</span	7.4	1	1
+Quán ăn	Mạnh Tài - Lẩu Bò &amp; Gà Nướng	01 Ngô Mây, P. Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng	4.5	6	 12:00 - 22:00	8,000	160,000	0.0%	8.4	1	1
+Nhà hàng	Zzuggubbong - Nhà Hàng Hàn Quốc	4 Nguyễn Hữu Thông, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	9	0	30,000	600,000	ShopeeFood</span	0	0	1
+Quán ăn	2 Phệ - Lẩu Bò &amp; Phá Lấu - Tố Hữu	128 Tố Hữu, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	50+	 10:00 - 22:00	10,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Nướng Mẹ Nhu - 05 Mẹ Nhu	5 Mẹ Nhu, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	4.5	10+	 10:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Ốc Xã Xệ - Khu đô thị FPT Nam Kỳ Khởi Nghĩa	Lô V05.B06.01 Khu đô thị FPT Đường Nam Kỳ Khởi Nghĩa, P. Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng	0.0	1	0	0	0	0.0%	0	0	1
+Quán ăn	Cây Sung - Quán Ăn &amp; Quán Nhậu - An Trung 11	2 An Trung 11, An Hải Tây, Quận Sơn Trà, Đà Nẵng	4.5	100+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Nướng Lu &amp; Vịt Quay Lá Mắc Mật	201 Dũng Sĩ Thanh Khê, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	4.5	100+	 09:30 - 21:00	250,000	250,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	K-Pub - Nướng Phong Cách Pub Hàn Quốc - Sơn Trà	 Lô 6 – A10 Võ Văn Kiệt, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng	0	0	0	150,000	200,000	0.0%	0	0	1
+Shop Online	Thùy - Chân Gà &amp; Ăn Vặt - Shop Online	255 Đống Đa, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	100+	 11:00 - 23:00	8,000	50,000	0.0%	5.7	4	1
+Quán ăn	Cô Lan - Vịt Quay Lu &amp; Heo Quay Giòn Bì - Trần Cao Vân	610 Trần Cao Vân, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	2.5	2	 15:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán nhậu	Nhậu Bình Dân Minh Đen - Gà Quay Lá Chanh	Lô 143 Võ Duy Dương (Đường Số 5 - Bờ Hồ), P. Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng	4.5	10+	 10:00 - 23:00	50,000	180,000	ShopeeFood</span	8.8	1	1
+Nhà hàng	Hải Sản Lê Gia III	250 Hàn Thuyên, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	2.5	3	 09:00 - 22:30	100,000	550,000	ShopeeFood</span	7.8	4	1
+Quán ăn	Lẩu Bò Hồng - Nguyễn Đức Trung	57 Nguyễn Đức Trung, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:00 - 22:00	30,000	20,000	ShopeeFood</span	8.3	2	1
+Quán ăn	Chef Lộc - Vịt Quay Lá Móc Mật Lạng Sơn	24 Hồ Đắc Di, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 09:00 - 21:00	60,000	160,000	0.0%	7.5	2	1
+Nhà hàng	Thời Cổ Restaurant	354/1 Võ Nguyên Giáp, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	 10:00 - 22:00	30,000	150,000	0.0%	8.6	41	1
+Quán nhậu	Gỏi Cá Miền Trung - Gỏi Cá - 28 Nguyễn Phong Sắc	28 Nguyễn Phong Sắc, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	10+	 11:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Bê Thui Thọ - Ngô Quyền	385 Ngô Quyền, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	10+	 09:00 - 21:00	40,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	A Thành - Bún Đậu Mắm Tôm &amp; Lẩu Ốc	35 Bãi Sậy, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 10:00 - 22:00	10,000	20,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Nhà Quê - Gà 3 Món	141 Nguyễn Đình Tứ, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 09:00 - 22:30	35,000	170,000	ShopeeFood</span	10.0	1	1
+Nhà hàng	Nhà Hàng Nhất Ngư - Chả Cá Lã Vọng	457 Trần Hưng Đạo, P. An Hải Tây, Quận Sơn Trà, Đà Nẵng	5.0	1	 09:00 - 22:00	25,000	250,000	ShopeeFood</span	8.4	4	1
+Quán ăn	Hanoi Taste - Lẩu Nướng Hà Thành	92 Nguyễn Văn Thoại, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	50+	 00:01 - 02:00 | 10:00 - 23:59	25,000	250,000	0.0%	8.1	56	1
+Nhà hàng	Khui Beer Restaurant	Lô 14 - 15 Đường 2 Tháng 9, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	5.0	10+	 11:00 - 23:00	40,000	200,000	ShopeeFood</span	9.5	3	1
+Quán ăn	Lẩu Bò Thu	281 Nguyễn Tri Phương, P. Hoà Thuận Đông, Quận Hải Châu, Đà Nẵng	4.5	100+	 09:00 - 23:00	30,000	165,000	0.0%	5.7	9	1
+Quán ăn	HƯƠNG QUÊ QUÁN - Dê Núi Ninh Bình &amp; Gà mẹt - 132 Châu Thị Vĩnh Tế	132 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Nhà hàng	Hải Sản Lê Gia II	Lô A5 Phạm Văn Đồng, Quận Sơn Trà, Đà Nẵng	2.5	10+	 07:00 - 23:00	100,000	550,000	ShopeeFood</span	7.3	32	1
+Quán nhậu	Tự Do Quán - Hải Sản Biển &amp; Các Món Nhậu Bình Dân	147 - 151 Lê Đại Hành, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	50+	 10:00 - 22:00	9,000	75,000	ShopeeFood</span	5.1	7	1
+Quán ăn	Aloha - Ẩm Thực Hàn Quốc	338/10 Phan Châu Trinh, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 22:00	20,000	50,000	0.0%	6.6	217	1
+Quán ăn	Quán Huế Ngon - Lẩu Nướng - Trần Quốc Toản	65 Trần Quốc Toản, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	3.5	10+	 12:00 - 23:00	30,000	150,000	0.0%	7.4	43	1
+Quán nhậu	Quán Nhậu Minh Phượng	279 Yên Khê 2, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	4.5	100+	 11:00 - 23:00	35,000	60,000	ShopeeFood</span	8.0	9	1
+Nhà hàng	La Bàn Seafood &amp; Beer	Lô A57 - A58 Trần Văn Trứ, Quận Hải Châu, Đà Nẵng	5.0	7	 09:00 - 23:00	29,000	350,000	ShopeeFood</span	8.9	6	1
+Nhà hàng	Hải Sản Cua Biển 2	Lô 14 - 17 Võ Văn Kiệt, Quận Sơn Trà, Đà Nẵng	4.5	5	 06:00 - 22:00	30,000	200,000	ShopeeFood</span	7.3	5	1
+Nhà hàng	Hải Đăng Restaurant - Hải Sản	1249 - 1250 Xô Viết Nghệ Tĩnh, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng	0	0	0	35,000	270,000	ShopeeFood</span	0	0	1
+Nhà hàng	FA Lounge - Seafood Restaurant &amp; More	Lô 18 Võ Văn Kiệt, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	5.0	10+	 10:00 - 23:00	45,000	600,000	ShopeeFood</span	8.8	13	1
+Nhà hàng	Dana Bay Seafood	10 Võ Văn Kiệt, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	0	0	0	100,000	3,000,000	0.0%	0	0	1
+Quán ăn	Bò Lỳ Em - Ẩm Thực Bò Việt - 308 Ngũ Hành Sơn	308 Ngũ Hành Sơn, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	0.0	1	 11:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Rô - Bê Thui Cầu Mống	8 Bắc Sơn, P. Hòa An , Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 08:00 - 22:00	100,000	300,000	ShopeeFood</span	7.5	7	1
+Nhà hàng	Nhà Hàng Bếp Việt	Đường 30 Tháng 4, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	3.5	5	 09:00 - 22:00	0	0	0.0%	8.0	1	1
+Quán nhậu	Năm Bảy Quán - Nhậu Bình Dân	74 Mai Hắc Đế, P. An Hải Tây, Quận Sơn Trà, Đà Nẵng	4.5	10+	 11:00 - 23:00	25,000	250,000	ShopeeFood</span	7.6	1	1
+Quán ăn	Bê Thui Thanh Huyền - 85 Nam Cao	85 Nam Cao, P. Hoà Khánh Nam, Quận Liên Chiểu, Đà Nẵng	3.5	10+	 06:00 - 21:30	30,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Út Hạnh - Bê Thui &amp; Bún Bê - Thăng Long	Lô 24 Thăng Long, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 06:00 - 22:00	20,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Jingmei - Ẩm Thực Đài Loan	155A Châu Thị Vĩnh Tế, P. Bắc Mỹ Phú, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	 10:00 - 22:00	15,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Nhậu Mỹ Liên - Nguyễn Đôn Tiết	17 Nguyễn Đôn Tiết, P. Thanh Bình, Quận Hải Châu, Đà Nẵng	4.5	100+	0	20,000	250,000	ShopeeFood</span	0	0	1
+Quán nhậu	A. Tuấn - Nhậu Bình Dân	176/5 Nguyễn Hoàng, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	100+	 15:00 - 21:00	30,000	80,000	0.0%	7.5	11	1
+Quán ăn	Quán Lý - Bê Thui	328 Ngũ Hành Sơn, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	6	 09:00 - 22:30	70,000	165,000	ShopeeFood</span	7.5	5	1
+Nhà hàng	Phù Sa Restaurant - Cơm Niêu	Lô F1 Trần Bạch Đằng, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	3.5	10+	 08:00 - 22:00	35,000	350,000	ShopeeFood</span	8.3	16	1
+Nhà hàng	Cá Mú - Nhà Hàng Hải Sản	100 Trần Bạch Đằng, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	0	0	0	40,000	300,000	ShopeeFood</span	0	0	1
+Quán ăn	Bê Thui Nông Sơn - 153 Nguyễn Chánh	153 Nguyễn Chánh, P. Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	9	 06:00 - 22:00	25,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Già Lang	Lô 26 Phan Thành Tài, Quận Hải Châu, Đà Nẵng	4.5	100+	 09:00 - 22:30	70,000	165,000	ShopeeFood</span	7.4	29	1
+Café/Dessert, Ăn chay	Phiêu Quán - Mẹt Gà Uyên Ương &amp; Mẹt Nướng Tổng Hợp	100 Bùi Tá Hán, P. Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng	4.0	5	 10:30 - 14:00	20,000	300,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Gà Nướng Muối Ớt - Đặc Biệt Không Cay - Lê Độ	26 Lê Độ, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	4.5	100+	 11:00 - 22:00	160,000	160,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Nhà Gỗ Đà Nẵng - Huỳnh Thúc Kháng	121 Huỳnh Thúc Kháng, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	0.0	1	 10:00 - 14:00 | 16:00 - 22:30	10,000	200,000	0.0%	1.0	1	1
+Ăn vặt/vỉa hè	Ăn Vặt 3Colu - Hà Huy Tập	52 Hà Huy Tập, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	100+	 15:30 - 21:30	10,000	20,000	0.0%	7.1	81	1
+Nhà hàng	Nhà Hàng Hải Sản Gió Biển	231 Nguyễn Văn Thoại, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	3.0	2	 08:00 - 23:00	35,000	200,000	ShopeeFood</span	8.1	6	1
+Nhà hàng	Organic Restaurant - Nướng &amp; Lẩu Hơi	7 - 9 Hồ Nghinh, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.0	10+	 07:00 - 22:00	100,000	400,000	0.0%	8.7	18	0
+Quán nhậu	7 Nga - Bê Thui Nóng	62B Bắc Sơn, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	50+	 08:00 - 20:30	35,000	100,000	ShopeeFood</span	7.5	8	1
+Nhà hàng	Amazon Beer	161 - 165 Tiểu La, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng	0.0	2	 10:00 - 23:00	29,000	215,000	ShopeeFood</span	7.9	4	1
+Quán ăn	Lẩu Nướng Nhà Hường Phát	36 - 38 Dương Tử Giang, P. Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng	5.0	1	 09:00 - 22:00	25,000	250,000	ShopeeFood</span	8.1	4	1
+Quán ăn	Cô Lý 2 - Hotpot &amp; Beer	211 Tiểu La, P. Hòa Thuận Nam, Quận Hải Châu, Đà Nẵng	4.5	10+	 10:00 - 23:30	20,000	120,000	0.0%	7.6	29	1
+Nhà hàng	Quán 45A	45A Ngô Gia Tự, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	10+	 09:00 - 22:00	35,000	350,000	ShopeeFood</span	6.8	10	1
+Quán ăn	Nướng Bơ Hà Nội 2 - 401 Núi Thành	401 Núi Thành, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng	0	0	0	20,000	310,000	0.0%	0	0	1
+Quán ăn	Gỏi Cá Thanh Hương - Hồ Tương	50 Hồ Tương, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:00 - 22:00	40,000	100,000	0.0%	7.8	5	1
+Quán ăn	Bếp Nhà Tấm Cám - Bún Đậu Mắm Tôm	35A Xô Viết Nghệ Tĩnh, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	10+	0	12,000	75,000	0.0%	0	0	1
+Quán ăn	Bún Mắm Bà Sáu	402/28 Lê Duẩn, Quận Hải Châu, Đà Nẵng	4.5	100+	 06:00 - 17:00	15,000	20,000	ShopeeFood</span	7.6	8	1
+Nhà hàng	Nhà Hàng Lẩu Tứ Xuyên	50 Hồ Xuân Hương, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	0	0	0	70,000	250,000	ShopeeFood</span	0	0	1
+Quán ăn	Đàng Hoàng - Gà Tre Đèo Le	90 Huỳnh Ngọc Huệ, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:00 - 23:00	80,000	165,000	0.0%	6.7	9	1
+Quán nhậu	Nhậu Lết	50 Ông Ích Khiêm, P. Thanh Bình, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:30 - 23:00	20,000	239,000	0.0%	5.6	12	1
+Nhà hàng	Hoa Lư Restaurant - Dê Núi Ninh Bình	113 Nguyễn Hữu Thọ, P. Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng	4.5	50+	 10:00 - 22:00	30,000	300,000	ShopeeFood</span	9.0	16	1
+Quán ăn	Biển Vọng Quán - Hải Sản Tươi Sống - Hà Bổng	 117 - 119 Hà Bổng, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	10+	 10:00 - 22:00	40,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán 62 - Hải Sản	62 Văn Cao, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:00 - 23:00	35,000	275,000	ShopeeFood</span	6.7	29	1
+Nhà hàng	Dlai Restaurant - Đặc Sản Tây Nguyên (REMOVE)	101 Hồ Nghinh, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	3.5	10+	 07:00 - 22:30	20,000	50,000	ShopeeFood</span	7.4	28	1
+Nhà hàng	Sushi World - Ẩm Thực Nhật Bản	10 Phan Bội Châu, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	100+	 11:00 - 22:00	80,000	378,000	ShopeeFood</span	6.3	23	1
+Nhà hàng	New 62 Restaurant - Hải Sản Tươi Sống	07 Tản Đà, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	10+	0	40,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn, Quán nhậu	Hoàng Tử Quán - Các Món Nhậu	114 Bế Văn Đàn, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	5.0	4	 10:00 - 23:00	50,000	150,000	ShopeeFood</span	7.6	5	1
+Quán ăn	Tư Mập - Hải Sản Tươi Sống	147 - 149 Xô Viết Nghệ Tĩnh, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	50+	 09:00 - 22:30	80,000	220,000	ShopeeFood</span	7.4	32	1
+Quán ăn	Hoa Mập Quán - Cá Đuối Nướng	Đối Diện 310 Núi Thành, Quận Hải Châu, Đà Nẵng	4.5	50+	 11:00 - 23:30	40,000	110,000	ShopeeFood</span	7.0	83	1
+Nhà hàng	Xiên Nướng Banjiro	23 Nguyễn Chí Thanh, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	10+	 11:00 - 14:00 | 17:00 - 22:00	30,000	300,000	ShopeeFood</span	7.8	75	1
+Quán nhậu	Ba Đào - Hải Sản Bình Dân	82 Cao Bá Quát, P. An Hải Tây, Quận Sơn Trà, Đà Nẵng	3.5	5	 10:00 - 22:30	25,000	170,000	ShopeeFood</span	6.8	17	1
+Quán nhậu	68 Quán - Các Món Nhậu	45 Lê Văn Hưu, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	 11:30 - 23:00	18,000	170,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Quán nhậu	Bé Vân - Gỏi Cá Trích	Lô B3 Khu B1 Thăng Long, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 10:00 - 22:30	40,000	180,000	0.0%	5.0	1	1
+Quán nhậu	Anh Em Quán - Các Món Nhậu	2 Lê Trọng Tấn, P. An Khê, Quận Thanh Khê, Đà Nẵng	4.5	4	 09:00 - 23:00	25,000	100,000	ShopeeFood</span	7.1	3	1
+Nhà hàng	Nhà Hàng Phố Đêm - Nguyễn Tất Thành	247 Nguyễn Tất Thành, P. Thanh Bình, Quận Hải Châu, Đà Nẵng	0	0	0	30,000	2,000,000	ShopeeFood</span	0	0	1
+Quán ăn	Gà Nướng Tắm Ớt Ngũ Vị Mít Ròm - Gà Nướng - Tôn Đản	 566 Tôn Đản, P. Hòa Phát, Quận Cẩm Lệ, Đà Nẵng	4.0	4	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán nhậu	Làng Beer Garden	01 Phú Thạnh 7, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	10+	 09:00 - 22:30	35,000	180,000	ShopeeFood</span	6.0	4	1
+Quán ăn	Bến Bờ Quán - Các Món Nhậu	147 Chương Dương, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	0	25,000	300,000	ShopeeFood</span	0	0	1
+Quán nhậu	Sơn Nữ Quán - Nhậu Bình Dân	741 Ngô Quyền, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	9	0	45,000	75,000	0.0%	0	0	1
+Shop Online	Sushi Xiên	128 Châu Thị Vĩnh Tế, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	0	15,000	185,000	0.0%	0	0	1
+Shop Online	Kimbap Đà Nẵng - Shop Online	27/11 Nguyễn Trường Tộ, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	 09:00 - 22:00	18,000	25,000	0.0%	7.7	15	1
+Quán ăn, Ăn vặt/vỉa hè	Nghiện Sushi - Đỗ Quang	53 Đỗ Quang, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	500+	0	32,000	300,000	0.0%	0	0	1
+Quán ăn	Paris Sushi - Sashimi &amp; Cơm Cuộn - Lý Tự Trọng	32 Lý Tự Trọng, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	500+	 08:00 - 22:00	18,000	219,000	0.0%	6.7	16	1
+Nhà hàng	ICHIBAN SUSHI - Trần Phú	206 Trần Phú, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	0.0	1	 10:00 - 22:00	35,000	240,000	0.0%	8.8	1	1
+Nhà hàng	KYOTO SUSHI Japanese Restaurant - Hệ Thống 4U For You	Lô 9 - 10 Võ Nguyên Giáp, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	10+	 00:00 - 02:00 | 09:00 - 23:59	45,000	350,000	0.0%	7.7	8	1
+Nhà hàng	Mikazuki Nami Japanese Restaurant - Nhà Hàng Việt Nhật	Nguyễn Tất Thành, (Đối Diện Da Nang Mikazuki Japanese Resorts &amp; Spa), P. Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng	4.5	3	 10:30 - 21:00	55,000	600,000	0.0%	9.3	4	1
+Quán ăn	Ngọc Tako - Takoyaki	K84/05 Nguyễn Phong Sắc, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 09:00 - 22:00	4,000	30,000	0.0%	<span>_._</span>	0	1
+Nhà hàng, Quán ăn	Phiphi - Sushi Nhật &amp; Hàn Food - Shop Online	53B Đỗ Quang, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	500+	 09:30 - 13:30 | 16:20 - 21:00	39,000	175,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ahihi Sushi - Hoàng Hoa Thám	103/4 Hoàng Hoa Thám, P. Tân Chính, Quận Thanh Khê, Đà Nẵng	5.0	10+	 07:00 - 23:59	50,000	100,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Xoa Xoa Hạt Lựu Trần Bình Trọng CN2 - Chè - Nguyễn Chí Thanh	152 Nguyễn Chí Thanh, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	100+	 06:15 - 19:30	15,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Oggy Salmon - Sushi - 2 An Thượng 15	2 An Thượng 15, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	 10:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Okami Sushi Foods - Ngô Gia Tự	117/16 Ngô Gia Tự, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	100+	 09:00 - 15:00 | 16:00 - 21:30	25,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Udon Ten - Lê Hồng Phong	73 Lê Hồng Phong, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	50+	 10:00 - 23:59	15,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Fune Sushi	6 An Thượng 6, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	 11:00 - 21:00	25,000	70,000	0.0%	7.6	88	1
+Quán ăn	Umi Sushi - Ẩm Thực Nhật Bản - 88 Hoàng Văn Thụ	88 Hoàng Văn Thụ, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	10+	 10:00 - 14:00 | 16:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Jako Restaurant &amp; Coffee	18 - 20 Lê Quý Đôn, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	0	0	0	30,000	150,000	ShopeeFood</span	0	0	1
+Nhà hàng	Naruto Ramen	59 An Thượng 4, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	50+	 06:00 - 22:00	25,000	130,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hoàng - Hodabe Sashimi - Shop Online	K26/33 Duy Tân, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng	4.5	100+	 11:00 - 22:30	270,000	500,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Fune Sushi - An Thượng 10	29 An Thượng 10, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	3.5	10+	 10:00 - 23:59	30,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	The Vegan Ramen Da Nang	34 An Thượng 5, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	10+	 11:00 - 22:30	80,000	100,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn, Shop Online	Sushi BOX - Sushi - 64 An Thượng 21	64 An Thượng 21, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	0	0	0	0	0	0.0%	0	0	1
+Quán ăn, Giao cơm văn phòng	Takei Sushi - Sushi - An Thượng 21	64 An Thượng 21, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	0	0	0	0	0	0.0%	0	0	0
+Shop Online	Sushi &amp; Kimbap - Shop Online	K03/2 Vạn Tường, P. Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	50+	 09:00 - 23:00	10,000	45,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Chick &amp; Go - Gà Rán Và Xiên Que Nhật Bản	223 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng	4.5	999+	 09:30 - 21:00	12,000	35,000	0.0%	8.2	5	1
+Ăn vặt/vỉa hè	Quán Phượng - Cơm Ếch &amp; Bún Lòng Xào Nghệ	24/10 Trường Chinh, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	 10:00 - 22:00	35,000	180,000	0.0%	9.0	4	1
+Quán ăn	Bánh Canh Tô Hiệu	6 Tô Hiệu, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 11:00 - 20:00	20,000	40,000	0.0%	9.0	1	1
+Ăn vặt/vỉa hè	Mỹ - Bánh Canh Rêu Ghẹ Tôm Tít &amp; Bún Mắm Nêm - Hải Phòng	K383/21/53 Đường Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng	4.5	50+	 08:30 - 22:00	15,000	35,000	0.0%	10.0	1	1
+Quán ăn	Cô Huế Chợ Cồn - Bánh Tráng Thịt Heo &amp; Mắm Nêm Pha Sẵn	Lô 12 Đình 15A, Chợ Cồn, Ông Ích Khiêm, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	999+	0	6,000	60,000	0.0%	0	0	1
+Quán ăn	Cao Lầu Phố Hội	172 Tố Hữu, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:30 - 21:00	15,000	20,000	0.0%	8.6	21	1
+Quán ăn	Bún Đậu Gạo - 113 Phan Đăng Lưu	113 Phan Đăng Lưu, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	100+	0	0	0	0.0%	0	0	1
+Quán ăn	Quán Nhân - Cháo Vịt	83 Phan Tứ, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	 10:00 - 23:59	10,000	260,000	0.0%	8.4	1	1
+Quán ăn	Bún Đậu Bếp Nhà - Cù Chính Lan	43/32 Cù Chính Lan, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:30 - 22:00	25,000	50,000	0.0%	9.5	3	1
+Quán ăn	Bún Đậu Mắm Tôm Xứ Thanh	72 Phạm Như Xương, P. Hoà Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	500+	 10:00 - 21:30	25,000	30,000	0.0%	8.3	2	1
+Quán ăn	Tiệm Ăn Chợ Lớn - Phan Đăng Lưu	67 Phan Đăng Lưu, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	0	45,000	65,000	0.0%	0	0	1
+Café/Dessert, Quán ăn	Golden Star - Cafe &amp; Món Việt - Trần Bạch Đằng	176 - 178 Trần Bạch Đằng, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	3.5	10+	 07:00 - 23:00	0	0	0.0%	10.0	1	1
+Quán ăn	Bún Đậu Phố - Núi Thành	233A Núi Thành, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	50+	 09:30 - 22:00	25,000	139,000	0.0%	9.2	1	1
+Quán ăn	Đặc Sản Hội An Zít - Cao Lầu - Xuân Đán	05 Xuân Đán 1, P. Hoà Khê, Quận Thanh Khê, Đà Nẵng	4.5	500+	 08:00 - 22:00	25,000	30,000	0.0%	8.6	3	1
+Quán ăn	Bánh Canh Chị Dương	27 Nguyễn Đức Trung, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	500+	 07:00 - 22:00	15,000	20,000	0.0%	7.9	2	1
+Quán ăn	Bún Đậu Phố Cổ - Đặng Dung	53 Đặng Dung, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	999+	 10:00 - 22:00	0	0	0.0%	8.1	7	1
+Ăn vặt/vỉa hè	Cô Hòa - Bánh Canh &amp; Mì Quảng - Ông Ích Đường	52/8 Ông Ích Đường, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	 10:30 - 20:30	0	0	0.0%	8.0	1	1
+Quán ăn	Bé Mai - Bún Bò Huế	17 Đống Đa, Quận Hải Châu, Đà Nẵng	4.5	999+	 Cả ngày	15,000	33,000	0.0%	8.0	14	1
+Quán ăn	Bánh Tráng Thịt Heo Hương Đại Lộc	625 Tôn Đức Thắng, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	500+	 07:00 - 21:00	35,000	50,000	0.0%	7.8	29	1
+Quán ăn	Mỳ Quảng Thuý Hằng	226 Phan Đăng Lưu, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	100+	 06:00 - 21:00	0	0	0.0%	9.7	2	1
+Quán ăn	Bao Fam	564 Trưng Nữ Vương, P. Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng	4.5	999+	 09:00 - 21:00	15,000	45,000	0.0%	8.1	22	1
+Nhà hàng, Quán ăn	Bún Đậu Nón - 117 Ngô Tất Tố	117 Ngô Tất Tố (gần Phan Đăng Lưu), Quận Hải Châu, Đà Nẵng	4.5	999+	 09:20 - 21:30	15,000	95,000	0.0%	8.1	19	1
+Quán ăn	Mix Food - Ẩm Thực Thái	K38/37 Nguyễn Duy Hiệu (K49 Nguyễn Văn Thoại), Quận Sơn Trà, Đà Nẵng	4.5	999+	 09:00 - 22:00	30,000	150,000	0.0%	8.3	35	1
+Quán ăn	Cơm Tấm Mộc - Phan Thanh	8 Phan Thanh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	0	25,000	35,000	0.0%	0	0	1
+Quán ăn	Bún Mắm Liêm - Đoàn Thị Điểm	41 Đoàn Thị Điểm,P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	999+	 07:00 - 22:00	15,000	25,000	0.0%	8.1	38	1
+Quán ăn	Nhớ - Bún Đậu Mắm Tôm	28 Cầm Bá Thước, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:30 - 14:00 | 16:00 - 22:00	20,000	45,000	0.0%	7.2	70	1
+Quán ăn	Mì Quảng Bà Lữ - Nguyễn Văn Linh	90/8 Nguyễn Văn Linh, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	500+	 07:00 - 23:00	20,000	30,000	0.0%	8.8	2	1
+Quán ăn	Bà Ân - Bún Chả Cá &amp; Bún Riêu - Hùng Vương	293 - 295 Hùng Vương, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	999+	 07:00 - 23:59	20,000	30,000	0.0%	7.7	43	1
+Quán ăn	Hủ Tiếu Mực Thuận Thành - Lê Hồng Phong	15/4 Lê Hồng Phong, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	500+	 06:30 - 13:00 | 16:00 - 20:00	30,000	40,000	0.0%	7.3	7	1
+Quán ăn	Chị Minh - Cao Lầu &amp; Mì Xíu	16 Đoàn Thị Điểm, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:00 - 21:30	10,000	25,000	0.0%	7.7	3	1
+Quán ăn	Bánh Canh Cá Lóc Yến - Nguyễn Hoàng	253 Nguyễn Hoàng, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:00 - 13:00 | 15:00 - 22:00	15,000	20,000	0.0%	7.7	20	1
+Quán ăn	Hà Nội Xưa - Bún Chả Hà Nội	11 Núi Thành, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng	4.5	100+	 06:45 - 21:00	35,000	49,000	0.0%	8.2	4	1
+Quán ăn	Mì Quảng Bé Liên	50 Nguyễn Thị Định, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	500+	 06:00 - 14:00 | 16:00 - 19:30	15,000	20,000	0.0%	6.8	5	1
+Quán ăn	Quán Cô Hồng - Đặc Sản Đà Nẵng	118 Huỳnh Thúc Kháng, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	500+	 10:00 - 21:00	7,000	79,000	0.0%	7.8	23	1
+Quán ăn	Bánh Canh Huế Nhật Linh	133 Phạm Như Xương, P. Hoà Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	500+	 06:00 - 23:00	15,000	30,000	0.0%	7.5	3	1
+Quán ăn	Phở Bắc Hải - Lê Văn Hiến	105 Lê Văn Hiến, P. Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	50+	 06:00 - 21:00	25,000	35,000	0.0%	7.5	2	1
+Quán ăn	Bánh Tráng Thịt Heo Đại Lộc - 82 Trưng Nữ Vương	82 Trưng Nữ Vương, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:00 - 21:00	20,000	50,000	0.0%	8.0	20	1
+Ăn vặt/vỉa hè	Trà Sữa, Mỳ Cay &amp; Ăn Vặt Poc Poc	184 Phan Đăng Lưu, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	999+	 11:30 - 22:00	7,000	49,000	0.0%	6.8	56	1
+Quán ăn	Hồng Nguyệt - Bún Thịt Nướng - Hoàng Diệu	178/10 Hoàng Diệu, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	999+	 08:00 - 21:00	20,000	30,000	0.0%	7.7	25	1
+Quán ăn	Quán 56 - Bún Mắm &amp; Bún Thịt Nướng	56 Nguyễn Hoàng, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	999+	 07:30 - 22:00	15,000	20,000	0.0%	7.1	19	1
+Quán ăn	Cháo Vịt Bà Thôi	22 Hoàng Văn Thụ, Quận Hải Châu, Đà Nẵng	4.5	500+	 10:00 - 20:30	15,000	165,000	0.0%	6.9	19	1
+Quán ăn	Bánh Canh Bà Đợi - Bún Mắm, Súp Cua &amp; Gỏi Cuốn	263 Khúc Hạo, P. Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng	4.5	999+	 06:00 - 22:00	15,000	28,000	0.0%	7.5	44	1
+Quán ăn	Bé Hiền - Bánh Canh Cá Lóc	268 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng	4.5	500+	 08:00 - 23:00	12,000	45,000	0.0%	7.5	7	1
+Shop Online	Mr Bùi - Bún Đậu &amp; Ăn Vặt	111/2 Nguyễn Công Hoan, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng	4.5	500+	 10:00 - 22:00	5,000	55,000	0.0%	8.7	2	1
+Quán ăn	Tâm - Đặc Sản Bún Mắm	K23/09 Trần kế Xương, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:00 - 21:00	15,000	20,000	0.0%	7.1	58	1
+Ăn vặt/vỉa hè	Cà Kê Quán - Bún Đậu Mắm Tôm	194 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	500+	 11:00 - 22:30	8,000	30,000	0.0%	7.1	46	1
+Quán ăn	Phở Hằng - Ngô Văn Sở	20 Ngô Văn Sở, Quận Liên Chiểu, Đà Nẵng	4.5	999+	 06:00 - 12:00 | 16:00 - 22:30	5,000	25,000	0.0%	7.1	4	1
+Nhà hàng, Quán ăn	Thai Market - Thái Phiên	48 Thái Phiên, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	500+	 11:00 - 22:00	35,000	170,000	0.0%	7.4	112	1
+Quán ăn	Bún Đậu Mộc - Trần Cao Vân	192 Trần Cao Vân, P. Tam Thuận, Quận Thanh Khê, Đà Nẵng	4.5	500+	 10:00 - 21:00	25,000	50,000	0.0%	7.2	1	1
+Quán ăn	Đại Lộc 2 - Bánh Tráng Thịt Heo &amp; Mì Quảng - Huỳnh Thúc Kháng	124 Huỳnh Thúc Kháng, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	500+	 07:00 - 22:00	5,000	500,000	0.0%	7.4	35	1
+Quán ăn	Bún Chả Cá Ông Tạ - Nguyễn Chí Thanh	113A Nguyễn Chí Thanh, Quận Hải Châu, Đà Nẵng	4.5	500+	 06:00 - 13:00 | 16:00 - 20:00	30,000	75,000	0.0%	7.4	54	1
+Quán ăn	Tây Hồ Quán - 86 Quang Trung	86 Quang Trung, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:00 - 20:00	8,000	30,000	0.0%	7.3	57	1
+Quán ăn, Giao cơm văn phòng	Cơm Gà A Hải - Phan Châu Trinh	96 Phan Châu Trinh, Quận Hải Châu, Đà Nẵng	4.5	999+	 08:30 - 22:00	30,000	55,000	0.0%	7.3	217	1
+Quán ăn	Quán Xí - Bún Mắm &amp; Bèo Nậm Lọc	406 Nguyễn Hoàng, P. Bình Thuận, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 19:00	10,000	25,000	0.0%	7.7	17	1
+Quán ăn	Phở Cồ Long	48A Lê Đình Dương, P. Phước Ninh, Quận Hải Châu, Đà Nẵng	4.5	500+	 06:30 - 22:00	20,000	30,000	0.0%	7.3	18	1
+Quán ăn	Bún Mắm Bé Hà	130 Bùi Hữu Nghĩa, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	500+	 08:00 - 19:00	15,000	20,000	0.0%	7.0	6	1
+Quán ăn	Ông Tạ - Ẩm Thực Địa Phương	2 Nguyễn Cao Luyện, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	100+	 06:30 - 13:00	30,000	75,000	0.0%	9.2	2	1
+Quán ăn	Ẩm Thực Làng - Thạch Lam	265 Hà Huy Tập. P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	100+	 10:30 - 22:00	12,000	135,000	0.0%	8.2	2	1
+Quán ăn	KT - Cơm Việt - Hải Phòng	316 Hải Phòng, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	 10:00 - 20:00	25,000	35,000	0.0%	7.0	1	1
+Quán ăn	Tuyết Sang - Bánh Canh Xương Chả	150 Lê Độ, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	 10:30 - 20:00	20,000	44,000	0.0%	7.0	21	1
+Quán ăn	Bún Chả Cá Bà Phiến	63 Lê Hồng Phong, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:00 - 22:30	25,000	55,000	0.0%	7.6	86	1
+Quán ăn	Quán Xuân - Bún Thịt Nướng	469 Hải Phòng, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	 09:00 - 22:00	20,000	44,000	0.0%	6.2	145	1
+Quán ăn	Bún Đậu Tràng An	140 Khúc Hạo, P. Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng	4.5	500+	 16:00 - 21:00	15,000	55,000	0.0%	7.0	42	1
+Quán ăn	Bánh Canh Đường Ray - Lê Độ	K77A/09 Lê Độ, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	 10:30 - 18:20	15,000	33,000	0.0%	6.7	57	1
+Quán ăn	Bún Đậu 68	68 Đặng Dung, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	999+	 09:00 - 22:00	10,000	35,000	0.0%	6.1	9	1
+Quán ăn	Quán Nga - Bánh Canh &amp; Bún Mắm	K77/12 Lê Độ, P. Chính Gián, Quận Thanh Khê, Đà Nẵng	4.5	500+	 11:00 - 19:00	15,000	20,000	0.0%	8.3	7	1
+Quán ăn	Cơm Gà 3 Lu	105 Đặng Dung, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	500+	 06:30 - 22:00	15,000	25,000	0.0%	7.5	34	1
+Quán ăn	Bún Đậu Mắm Tôm Phất Lộc 1 - Trần Phước Thành	21 - 23 - 25 Trần Phước Thành, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng	4.5	999+	 11:00 - 22:00	10,000	50,000	0.0%	6.9	29	1
+Quán ăn	Bánh Canh Bà Bé Chợ Cồn - 263 Nguyễn Văn Linh	263 Nguyễn Văn Linh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	 10:30 - 22:00	15,000	40,000	0.0%	5.8	31	1
+Quán ăn	Bánh Canh Ruộng - 20 Hà Thị Thân	20 Hà Thị Thân, Quận Sơn Trà, Đà Nẵng	4.5	999+	0	15,000	33,000	0.0%	0	0	1
+Quán ăn	Phở Maison Đà Nẵng	Số 8 Coco Villa Đường Hoàng Bình Chính, P. Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	4	 10:00 - 22:00	30,000	70,000	0.0%	8.0	1	1
+Ăn vặt/vỉa hè	Quán Khánh - Bánh Ép Huế &amp; Ăn Vặt - Hải Phòng	310 Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng	4.5	999+	 13:00 - 21:00	8,000	20,000	0.0%	7.6	217	1
+Quán ăn	Pingpong - Ram Cuốn Cải &amp; Ăn Vặt - Hà Khê	K2/9 Hà Khê, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng	4.5	999+	 10:00 - 21:00	10,000	25,000	0.0%	7.5	22	1
+Quán ăn	Cơm Tấm Bà Cám &amp; Trà Tắc	241/12 Nguyễn Phước Nguyên, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng	4.5	999+	0	25,000	40,000	0.0%	0	0	1
+Quán ăn	Pokeman - Poke Bowls &amp; Healthy Drinks	K72/24 Nguyễn Văn Thoại, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	100+	 08:00 - 21:00	29,000	109,000	0.0%	8.9	2	1
+Quán ăn	Cơm Tui Làm - Quán Cơm - Âu Cơ	318 Âu Cơ, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	500+	 09:00 - 21:00	5,000	30,000	0.0%	10.0	1	1
+Quán ăn	Omori - Cơm Bò Nướng	90 Đống Đa, P. Thuận Phước , Quận Hải Châu, Đà Nẵng	4.5	999+	 10:30 - 20:30	39,000	99,000	0.0%	8.5	24	1
+Quán ăn, Giao cơm văn phòng	Tôn Nữ Quán - Cơm Gia Đình - Ẩm Thực Xứ Huế	383/9 Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng	4.5	500+	 06:00 - 22:00	20,000	100,000	0.0%	8.2	50	1
+Quán ăn	Cơm Gà Huy Mập Hà Nội - Đặng Dung	50 Đặng Dung, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 06:00 - 22:30	20,000	40,000	0.0%	8.8	24	1
+Quán ăn	Tiệm Cơm Bếp Nhà Quê	17 Đường 2 Tháng 9, Quận Hải Châu, Đà Nẵng	4.5	999+	 08:00 - 22:00	15,000	35,000	0.0%	8.8	16	1
+Ăn vặt/vỉa hè	Lệ Ly 2Ce - Xương Má Hàm &amp; Trứng Gà Nướng - Shop Online	132/3 Lý Tự Trọng, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 22:00	35,000	100,000	0.0%	8.3	3	1
+Nhà hàng	Nhà Hàng Chicken Plus	163 Nguyễn Văn Linh, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	100+	 10:00 - 22:00	15,000	169,000	0.0%	8.6	15	1
+Shop/Cửa hàng, Ăn vặt/vỉa hè	Gà Nướng Lu 3 Ngon - Lê Thanh Nghị	313 Lê Thanh Nghị, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	100+	 08:00 - 22:00	15,000	199,000	0.0%	8.4	4	1
+Quán ăn	Cơm Gà Phương - Nguyễn Phước Tần	154 Nguyễn Phước Tần, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	500+	 09:00 - 22:00	20,000	40,000	0.0%	8.6	1	1
+Quán ăn, Giao cơm văn phòng	Gin Quán - Cơm Gà	25 - 27 Lý Thái Tông, P. Thanh Khê Tây, Quận Liên Chiểu, Đà Nẵng	4.5	999+	 09:00 - 21:00	20,000	36,000	0.0%	8.1	8	1
+Quán ăn	Tiệm Ăn Chợ Lớn - Hoàng Diệu	232 Hoàng Diệu, Quận Hải Châu, Đà Nẵng	4.5	999+	 08:00 - 22:00	25,000	110,000	0.0%	7.0	132	1
+Quán ăn	Cơm Tấm Sạch A Thiện	19 Trần Đức Thảo, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	500+	 10:00 - 20:30	15,000	45,000	0.0%	7.8	2	1
+Quán ăn	Cơm Gà 9 Ly	31 - 33 - 35 Ngô Văn Sở, Quận Liên Chiểu, Đà Nẵng	4.5	999+	0	15,000	33,000	0.0%	0	0	1
+Quán ăn	Cơm Gà Huy Mập Hà Nội - Phạm Như Xương	54 Phạm Như Xương, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng	4.5	100+	 09:00 - 22:00	25,000	145,000	0.0%	9.0	22	1
+Quán ăn	Vịt Quay &amp; Cơm Gà - Tiểu La	249 Tiểu La, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng	4.5	100+	 09:00 - 20:00	150,000	190,000	0.0%	7.1	2	1
+Quán ăn	Cơm Nài	31 Đỗ Quang, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	999+	 10:00 - 14:00 | 17:00 - 20:00	20,000	25,000	0.0%	1.0	4	1
+Quán ăn	Tiệm Ăn Chợ Lớn - Dương Đình Nghệ	123 Dương Đình Nghệ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng	4.5	999+	0	15,000	60,000	0.0%	0	0	1
+Quán ăn	Bếp Phượng	K65/65 Tô Hiến Thành, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng	4.5	100+	 06:00 - 23:00	15,000	50,000	0.0%	9.9	2	1
+Quán ăn, Giao cơm văn phòng	Cơm Hến - Bún Hến Thanh	119 Huỳnh Thúc Kháng, P. Bình Hiên, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:00 - 18:00	10,000	50,000	0.0%	7.0	57	1
+Giao cơm văn phòng	Cơm Tấm Cô Liên	54 Tôn Thất Thiệp, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	500+	 07:00 - 17:30	20,000	30,000	0.0%	7.6	1	1
+Quán ăn	Mì Quảng Bà Vị - Lê Đình Dương	166 Lê Đình Dương, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:30 - 22:00	30,000	55,000	0.0%	7.2	91	1
+Quán ăn	Cơm Gà &amp; Gà Nướng - Miến Gà Hồ Tương	5 Hồ Tương, P. An Khê, Quận Thanh Khê, Đà Nẵng	4.5	999+	 06:00 - 22:00	25,000	100,000	0.0%	7.3	13	1
+Quán ăn	Mì Quảng Bích - Đặng Dung	01 - 03 - 05 - 07 Đặng Dung, Quận Liên Chiểu, Đà Nẵng	4.5	999+	 06:00 - 21:00	22,000	25,000	0.0%	7.1	67	1
+Quán ăn	Duyên - Cơm Gà Xối Mỡ - Núi Thành	544 Núi Thành, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:00 - 21:00	25,000	45,000	0.0%	6.1	8	1
+Quán ăn, Giao cơm văn phòng	Trinh Sài Gòn - Cơm Tấm Sườn Cây - Nguyễn Văn Thoại	179/1 Nguyễn Văn Thoại, Quận Ngũ Hành Sơn, Đà Nẵng	4.5	999+	 07:00 - 22:00	28,000	72,000	0.0%	6.3	51	1
+Quán ăn	Mẹ Since 1995 - Bánh Hỏi Bình Định &amp; Bún Chả Hà Nội	458/7A Ông Ích Khiêm, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	999+	 06:00 - 20:00	12,000	50,000	0.0%	6.7	54	1
+Quán ăn	Quán Nhỏ Chân Gà - Nguyễn Văn Linh	217 Nguyễn Văn Linh, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	999+	 11:00 - 22:00	50,000	50,000	0.0%	6.3	56	1
+Quán ăn	Cơm Sườn Nướng - Nguyễn Hoàng	57 Nguyễn Hoàng, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng	4.5	999+	 09:00 - 14:30 | 16:30 - 21:00	20,000	30,000	0.0%	7.2	11	1
+Quán ăn	Bún Đậu Chuẩn Hà Nội	05 Lạc Long Quân, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng	4.5	500+	 10:00 - 21:30	25,000	35,000	0.0%	7.8	5	0
+Nhà hàng	Don Chicken - Nhà Hàng Gà Rán Hàn Quốc - Nguyễn Văn Linh	209 Nguyễn Văn Linh, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng	4.5	500+	 10:40 - 21:30	50,000	300,000	0.0%	7.2	36	1
+Quán ăn	Cơm Tấm Sườn Que Mật Ong - Nguyễn Văn Linh	24/1 Nguyễn Văn Linh, P. Nam Dương, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:00 - 14:00 | 16:00 - 19:00	35,000	52,000	0.0%	6.1	11	1
+Quán ăn	Phở Bắc Hải - Trần Phú	185 Trần Phú, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng	4.5	999+	 06:00 - 21:00	20,000	30,000	0.0%	6.1	20	1
+Quán ăn	Tiệm Ăn Quốc Dân - Food &amp; Drink	57 Phạm Văn Nghị, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng	4.5	999+	 06:30 - 21:30	15,000	28,000	0.0%	6.3	24	0
+Quán ăn	Cơm Gà Bà Phượng - Nguyễn Phước Tần	50 - 52 Nguyễn Phước Tần, P. Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng	4.5	500+	 06:30 - 21:00	30,000	45,000	0.0%	6.6	8	1
+Shop Online	May Food &amp; Drink - Shop Online	K408/H76/39 Hoàng Diệu, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng	4.5	500+	 08:00 - 22:00	20,000	35,000	0.0%	6.4	6	1
+Quán ăn	Cơm Gà Tấn Tài	66 Hải Phòng, P. Thạch Thang, Quận Hải Châu, Đà Nẵng	4.5	50+	 10:30 - 22:00	25,000	60,000	0.0%	7.8	1	1
+Quán ăn	Cơm Gà Lan - Trưng Nữ Vương	520 Trưng Nữ Vương, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng	4.5	999+	 10:00 - 21:00	25,000	50,000	0.0%	5.8	6	1
+Quán ăn, Giao cơm văn phòng	Cơm Chiên 73 - Đệ Nhất Cơm Thố	47-49 Lý Thái Tông, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng	4.5	999+	 09:00 - 20:30	15,000	25,000	0.0%	6.0	23	1
+Café/Dessert	Dè Cube Tea - Nguyễn Ái Quốc	2041 Nguyễn Ái Quốc, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	20,000	50,000	0.0%	7.7	44	1
+Quán ăn	Bún Đậu Cô Ba - Giáo Xứ Bùi Vĩnh	431/3 Hồ Văn Leo, P. Tam hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	20,000	60,000	0.0%	0	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen Z88 - Khu Phố 2	100/10 Khu Phố 2, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 21:00	19,000	19,000	0.0%	6.4	2	1
+Café/Dessert	Trà Sữa A Tũn	Lê Thánh Tôn, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	15,000	25,000	0.0%	6.5	10	1
+Café/Dessert	Sugar Cake - Trà &amp; Bánh	30 Đường D4, Võ Thị Sáu, Tổ 23, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:30 - 21:30	10,000	50,000	0.0%	7.3	45	1
+Café/Dessert	Trà Sữa Gong Cha - 貢茶 - Đường D10	K90 Đường D10, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:30 - 21:30	40,000	60,000	0.0%	7.7	72	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Nguyễn Ái Quốc	1135 Nguyễn Ái Quốc, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	15,000	100,000	0.0%	6.1	19	1
+Café/Dessert	Phúc Long Võ Thị Sáu Biên Hoà	217 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 21:30	25,000	77,000	0.0%	7.2	13	1
+Café/Dessert	Sugar - Sweetbun Cake &amp; Fastfood	PG2-05/1080 Phạm Văn Thuận, Khu Phố 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:30 - 21:30	10,000	50,000	0.0%	7.3	14	1
+Quán ăn	Mr. Lei - Quán Ăn Hàn Quốc - Trung Dũng	134 Đường 30 Tháng 4, Phường Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	150,000	0.0%	9.8	68	1
+Quán ăn	Mr. Lei - Quán Ăn Hàn Quốc	23 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	50,000	200,000	0.0%	9.6	86	1
+Ăn vặt/vỉa hè	Mr. Lei - Quán Ăn Hàn Quốc - Phan Trung	140 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	20,000	37,000	0.0%	9.4	91	1
+Quán ăn	Bánh Gà 2 Anh 2 - Đồ Ăn Vặt - Nguyễn Thành Đồng	Hẻm 21, Số 24/53.3 Nguyễn Thành Đồng, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	0	0	0.0%	10.0	2	1
+Quán ăn	Bún Riêu Cua Cô Tuyết	45 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:30 - 23:00	14,000	35,000	0.0%	9.0	3	1
+Café/Dessert	Rawr - Tiệm Trà Sữa Trân Châu	154/6 Hưng Đạo Vương, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:30 - 22:00	10,000	30,000	0.0%	10.0	4	1
+Café/Dessert	Nhà Sáo - Sữa Gạo &amp; Ăn Vặt - Nguyễn Ái Quốc	1819 Nguyễn Ái Quốc, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 17:00	20,000	50,000	0.0%	10.0	2	1
+Tiệm bánh	Yeni Cakes - Bánh Bông Lan Trứng Muối - Đặng Văn Trơn	22H/1 Đặng Văn Trơn, P. Hiệp Hoà, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 21:00	60,000	370,000	0.0%	10.0	1	1
+Café/Dessert	NGO 2007 - Trương Định	57 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 06:00 - 22:00	20,000	30,000	0.0%	10.0	1	1
+Quán ăn	The Mix - Trà Sữa &amp; Trà Trái Cây - Nguyễn Ái Quốc	111 Nguyễn Ái Quốc, KP. 3, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	5.0	10+	 10:00 - 21:00	20,000	35,000	0.0%	10.0	1	1
+Quán ăn	TEN Noodles - Mì Ramen &amp; Udon	31 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	25,000	50,000	0.0%	8.4	1	1
+Quán ăn	Lóc Cóc Quán  - Trà Sữa &amp; Cá Viên Chiên - Lương Văn Nho	4/2B Đường Lương Văn Nho, Khu Phố 2, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	50+	 06:00 - 22:00	10,000	35,000	0.0%	9.5	2	1
+Quán ăn	Mì Bò Đài Loan 57	11/2 Phạm Văn Thuận, KP. 5, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 15:00 - 21:00	10,000	40,000	0.0%	9.2	2	1
+Shop Online	Ăn Vặt Tuyền Tuyền - Kimbap Món Ăn Hàn Quốc	98 Khu Phố 1, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 20:00	12,000	50,000	0.0%	8.2	1	1
+Quán ăn	Ăn Vặt Ninja Rùa - Khu Phố 4A	Tổ 27 Khu Phố 4A, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 21:00	20,000	30,000	0.0%	10.0	1	1
+Quán ăn	Gà Rán Chicken Plus - 255 Trần Quốc Toản	235 Trần Quốc Toản, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	500+	0	35,000	219,000	0.0%	0	0	1
+Café/Dessert	Trà Sữa LAHA - Võ Thị Sáu	121 Võ Thị Sáu, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	0	0	0.0%	0	0	1
+Café/Dessert	Z! Cafe - Huỳnh Văn Nghệ	15/4 Huỳnh Văn Nghệ, P. Bửu Long, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	15,000	35,000	0.0%	9.1	5	1
+Quán ăn	Bò Nằm Nhúng - Chuyên Các Món Bò	382/1 Cách Mạng Tháng 8, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	30,000	190,000	0.0%	8.9	11	1
+Café/Dessert	King Cha - Ăn Vặt &amp; Trà Sữa	7 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	19,000	40,000	0.0%	0	0	1
+Café/Dessert	Zen Tea - 241 Đường 30 Tháng 4	241 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 22:30	7,000	49,000	0.0%	8.8	2	1
+Quán ăn	Bún Đậu Mẹt 39	13 Phạm Văn Khoai, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	50,000	100,000	0.0%	10.0	1	1
+Café/Dessert	Milo Dầm LAHA - Nguyễn Ái Quốc	120 Nguyễn Ái Quốc, Khu Phố 4, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	15,000	40,000	0.0%	0	0	1
+Quán ăn	Tàu Hũ Papa - Đường 5 Cũ	287 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 11:00 - 22:00	10,000	23,000	0.0%	7.8	29	1
+Ăn vặt/vỉa hè	Zen Tea - 30 Tháng 4	326 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 22:30	15,000	30,000	0.0%	7.5	55	1
+Café/Dessert	The F - Drink &amp; Food - Phan Trung	212 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 22:00	15,000	35,000	0.0%	7.7	9	1
+Café/Dessert	Lụa Tea	355/5 Hồ Văn Leo, P. Tam Hiệp (gần giáo xứ bùi vĩnh), Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 22:00	8,000	25,000	0.0%	8.4	1	1
+Ăn vặt/vỉa hè	Burger Việt - 115 Cách Mạng Tháng 8	115 Cách Mạng Tháng 8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 21:30	12,000	34,000	0.0%	8.8	1	1
+Shop Online	Tiệm Bánh Bé Ba - Shop Online	18 Đoàn Văn Cự, KP. 9, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 21:00	10,000	260,000	0.0%	10.0	2	1
+Ăn vặt/vỉa hè	Bánh Bèo Chén Hoa Lư - Phan Chu Trinh	109/14 Phan Chu Trinh, Khu Phố 1, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	100+	 11:00 - 22:00	4,000	20,000	0.0%	8.4	1	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen Z88 - Võ Thị Sáu	136 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 21:00	19,000	19,000	0.0%	8.0	17	1
+Quán ăn	Bún Thái A Tỷ	52/3A Võ Thị Sáu, KP. 5, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 23:00	35,000	35,000	0.0%	8.5	2	1
+Quán ăn	Hot Cup - Chả Lụi &amp; Ăn Vặt	38/24 Đặng Đức Thuật, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	10,000	40,000	0.0%	0	0	1
+Ăn vặt/vỉa hè	Ăn Vặt ViVi	2039/3 Nguyễn Ái Quốc, Khu Phố 3, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 12:30 - 21:30	10,000	20,000	0.0%	8.4	1	1
+Quán ăn	Mì Bún Ốc Hến - Chợ 57	Chợ 57, 25/5 Phạm Văn Thuận, KP. 3, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 11:00 - 22:00	25,000	25,000	0.0%	8.3	2	1
+Quán ăn	Lẩu Nướng Chị Gái Tân Thời - Trần Công An	24D Trần Công An, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 14:00 | 17:00 - 21:30	35,000	250,000	0.0%	9.0	1	1
+Café/Dessert	Laha Coffee - Nguyễn Ái Quốc	120 Đường Nguyễn Ái Quốc, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	18,000	38,000	0.0%	0	0	1
+Café/Dessert	Kem Dairy Queen - Vincom Biên Hòa	Tầng 4, TTTM Vincom Biên Hòa, 1096 Phạm Văn Thuận, KP. 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 22:00	8,000	50,000	0.0%	7.8	22	1
+Café/Dessert	The Coffee House - 284 Võ Thị Sáu	284 Võ Thị Sáu, Khu Phố 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	30,000	60,000	0.0%	8.0	9	1
+Café/Dessert	UP - Tea &amp; Coffee - Phạm Văn Thuận	1372 Phạm Văn Thuận, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 23:00	20,000	25,000	0.0%	9.0	2	1
+Quán ăn	Cơm Niêu Huyền Sương	01-03 Đường N7, KDC Bửu Long, P. Bửu Long, Tp. Biên Hòa, Đồng Nai	4.5	100+	 11:00 - 22:00	40,000	200,000	0.0%	8.2	5	1
+Café/Dessert, Quán ăn	Yến 2 - Bún Riêu &amp; Canh Bún - Hồ Văn Thể	12-13 Hồ Văn Thể, nhà lồng chợ Tam hòa, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 19:00	25,000	35,000	0.0%	8.0	1	1
+Café/Dessert	Bus In New York Cafe	189 Đồng Khởi, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	20,000	50,000	0.0%	8.0	43	1
+Ăn vặt/vỉa hè	Sushi Thằng Bờm - Nguyễn Ái Quốc	28/39 Nguyễn Ái Quốc, Khu Phố 8, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 12:00 | 15:00 - 21:30	10,000	30,000	0.0%	7.0	7	1
+Ăn vặt/vỉa hè	Xôi A Hổ	201 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 20:00	20,000	45,000	0.0%	8.6	4	1
+Nhà hàng	Gecko Pizza - Dương Tử Giang	50 Dương Tử Giang, P. Tân Tiến , Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	40,000	230,000	0.0%	8.1	15	1
+Nhà hàng	The Pizza Company - Pegasus Plaza	Pegasus Plaza, 53 - 55 Võ Thị Sáu, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	40,000	300,000	0.0%	8.0	14	1
+Café/Dessert	Bea Tea Fruit - Trà Sữa, Trà Trái Cây &amp; Nước ép - Nguyễn Văn Hoài	Hẻm 15, Tổ 34, KP7 Nguyễn Văn Hoài, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:30 - 17:30	0	0	0.0%	9.2	1	1
+Quán ăn	Burger Việt - Phan Đình Phùng	111 Phan Đình Phùng, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 21:00	12,000	20,000	0.0%	7.6	1	1
+Café/Dessert	Highlands Coffee - Big C Tân Hiệp	Big C Tân Hiệp, Đồng Khởi, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 20:00	9,000	65,000	0.0%	7.6	20	1
+Café/Dessert	Bake Sense - Cakes &amp; Drink	5/9 Quốc Lộ 1A, KP. 5A, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	15,000	35,000	0.0%	8.3	13	1
+Café/Dessert	Boba2o - Trà Sữa Nhật &amp; Ăn Vặt - Quốc Lộ 1A	346/15 Quốc Lộ 1A, P. Tân Hòa, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	16,000	59,000	0.0%	0	0	1
+Café/Dessert	Taipei Coffee &amp; Tea - Võ Thị Sáu	290 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 21:30	20,000	50,000	0.0%	7.5	14	1
+Quán ăn	Lam Chicken - Gà Rán Đài Loan &amp; Fastfood	36 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	500+	 11:00 - 21:00	25,000	57,000	0.0%	8.3	3	1
+Café/Dessert	Pi Coffee &amp; Tea - Trà Sữa Kem Trứng Cháy - Lê Quý Đôn	43/9 Lê Quý Đôn, KP. 4, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	9,000	30,000	0.0%	7.4	11	1
+Café/Dessert, Quán ăn	Tiệm Trà M.U.D - Trà Sữa - Hố Nai	529 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 15:00 - 21:00	0	0	0.0%	9.2	2	1
+Ăn vặt/vỉa hè	Cô Tiên Lắc - Phan Đình Phùng	212 số mới (số cũ 33 ) Phan Đình Phùng, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	10,000	15,000	0.0%	8.6	2	1
+Café/Dessert	Trà Sữa Yu Trà - Hàn Thuyên	39 Hàn Thuyên, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	13,000	35,000	0.0%	10.0	1	1
+Ăn vặt/vỉa hè	Xôi Chiên Ngọc Quyên	4A/72 Lê Đại Hành, Khu Phố 11, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:00 - 19:00	30,000	35,000	0.0%	8.2	1	1
+Shop Online	Thắm Sushi - Shop Online	52 Lê Nguyên Đạt, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:30 - 19:00	30,000	35,000	0.0%	7.6	32	1
+Café/Dessert	Zen Tea - Phạm Văn Thuận	384 Phạm Văn Thuận, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	5,000	50,000	0.0%	7.4	36	1
+Café/Dessert	Trà Sữa Trân Châu Tịnh Viên	21/1 Phạm Văn Thuận, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:30 - 22:00	20,000	33,000	0.0%	7.3	17	1
+Café/Dessert	The F - Drink &amp; Food - Hố Nai	407 Nguyễn Ái Quốc, Khu Phố 7, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:30 - 21:00	15,000	30,000	0.0%	7.6	12	1
+Quán ăn	Chang Hi - Chè Thốt Nốt &amp; Chè Khúc Bạch - Phan Trung	26 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:45 - 22:00	10,000	80,000	0.0%	10.0	1	1
+Café/Dessert	Lếu Lều - Tiệm Trà Vui Vẻ	187 Phan Đình Phùng, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	50,000	500,000	0.0%	0	0	1
+Quán ăn	Ăn Vặt Shin 3	216 Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	100,000	0.0%	8.6	14	1
+Café/Dessert	Mr. Dừa 1 - 3 Dương Tử Giang	3 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	20,000	40,000	0.0%	7.9	6	1
+Quán ăn	Cơm Trưa Ngon - Delicozy	170 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 15:00	30,000	50,000	0.0%	7.5	6	1
+Quán ăn	Cháo Ếch Singapore LION KING - Đồng Khởi	257 Đồng Khởi, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 23:30	40,000	50,000	0.0%	7.2	12	1
+Ăn vặt/vỉa hè	Berry Fruit - Trái Cây Lạnh	69 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 22:00	20,000	30,000	0.0%	6.8	3	1
+Quán ăn	Gà Nướng B. Cường - Tam Hiệp	60/299 Phạm Văn Thuận, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 15:00 - 21:00	12,000	140,000	0.0%	9.4	2	1
+Quán ăn	Gà Rán Popeyes - Võ Thị Sáu	R97 Võ Thị Sáu, KP7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	30,000	200,000	0.0%	7.8	2	1
+Nhà hàng	The Pizza Company - Vincom Biên Hòa	Tầng 5, Vincom Biên Hòa, 1096 Phạm Văn Thuận, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 11:00 - 21:00	39,000	299,000	0.0%	7.5	37	1
+Café/Dessert	Houjicha - Trà Sữa Xịn - 248A Phan Trung	248A Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:30 - 21:00	16,000	39,000	0.0%	7.3	26	1
+Quán ăn	Bún Đậu Mắm Tôm 59 - Cơm Heo Quay	88 Hưng Đạo Vương, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 17:00 - 22:00	40,000	60,000	0.0%	7.3	27	1
+Café/Dessert	Zen Tea - Võ Thị Sáu	43 Võ Thị Sáu, Gần Pegasus, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 22:30	20,000	39,000	0.0%	7.0	9	1
+Quán ăn	Burger Việt - Đường 30 Tháng 4	181A Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 22:00	15,000	30,000	0.0%	7.4	5	1
+Tiệm bánh	Hoàng Yến - Bánh Kem &amp; Bánh Ngọt - Đồng Khởi	90/35 Đồng Khởi, KP. 8, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 21:00	10,000	450,000	0.0%	8.8	5	1
+Nhà hàng	Steak Bin &amp; Pizza - Dương Tử Giang	53 Dương Tử Giang, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 21:30	59,000	140,000	0.0%	6.7	10	1
+Tiệm bánh	Bánh Mì Kebab Táo Đỏ - Phan Đình Phùng	228 Phan Đình Phùng, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 05:30 - 23:00	10,000	20,000	0.0%	7.3	5	1
+Nhà hàng	Papas' Chicken - Gà Rán Hàn Quốc - Võ Thị Sáu	F232 Võ Thị Sáu, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 11:00 - 21:00	50,000	300,000	0.0%	6.8	22	1
+Quán ăn	Lẩu Bò Cây Xoài	233/5 Kp7, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 Cả ngày | 10:00 - 22:00	50,000	150,000	0.0%	6.8	10	1
+Café/Dessert	Tự Do Coffee - Phan Trung	115 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	18,000	38,000	0.0%	7.1	35	1
+Nhà hàng	Lotteria - Biên Hòa Phan Chu Trinh	3 Phan Chu Trinh, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:30 - 22:00	30,000	88,000	0.0%	6.9	10	1
+Café/Dessert	Trà Sữa Bobapop - Phan Trung	204 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	23,000	48,000	0.0%	7.1	61	1
+Café/Dessert, Ăn vặt/vỉa hè	Cá Chẽm Tròn Xoe - Trà Sữa &amp; Bánh - Phạm Văn Thuận	124 Phạm Văn Thuận, Phường Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	0	0	0.0%	6.6	1	1
+Ăn vặt/vỉa hè	Thiên Hương - Mì Trộn Tóp Mỡ	120/68C, Đường Nguyễn Du Nhan, KP. 6, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	25,000	50,000	0.0%	0	0	1
+Quán ăn	Lạc Tâm Ẩm Thực Nấm	47 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:00 - 22:00	25,000	35,000	0.0%	6.9	14	1
+Quán ăn	Ăn Vặt Shin 2	18 Dương Tử Giang, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 21:00	15,000	35,000	0.0%	7.7	40	1
+Nhà hàng	Gà Rán KFC - Phạm Văn Thuận	37/21 Phạm Văn Thuận, P.Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	88,000	0.0%	6.9	29	1
+Nhà hàng	Pizza Hut - Phạm Văn Thuận	1575 Phạm Văn Thuận, KP3, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 22:00	60,000	400,000	0.0%	6.6	35	1
+Café/Dessert	Durio Cafe - Nguyễn Ái Quốc	213 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	15,000	40,000	0.0%	6.9	12	1
+Nhà hàng	Gà Rán KFC - Ba Mươi Tháng Tư	165-167 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	88,000	0.0%	6.6	19	1
+Nhà hàng	Pizza Hut - Big C Đồng Nai	Shop 37, Big C Đồng Nai, Xa Lộ Hà Nội, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 21:00	60,000	165,000	0.0%	6.5	22	1
+Café/Dessert	TocoToco Bubble Tea - Biên Hòa	2 - A22 Trần Thị Hoa, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	60,000	0.0%	7.4	3	1
+Café/Dessert	Roma Coffee - Bùi Văn Hòa	47 Bùi Văn Hòa, Tổ 3, KP. 5, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.0	2	 06:00 - 22:00	15,000	35,000	0.0%	10.0	1	1
+Tiệm bánh	DUN - Milk Tea &amp; Crepe - 196 Phan Trung	196 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 10:00	45,000	45,000	0.0%	6.6	4	1
+Quán ăn	Ốc Tô Bình Đa - Xa Lộ Hà Nội	1036 Xa Lộ Hà Nội, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 23:00	10,000	50,000	0.0%	7.4	28	1
+Nhà hàng	Pizza Hut - Lotte Biên Hòa	Tầng 5, Lô B03, Trung Tâm Thương Mại AMATA, Đường 1A, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 22:00	40,000	165,000	0.0%	6.3	31	1
+Quán ăn	Bún Đậu Cô Tâm	Giáo Xứ Bùi Đức, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.5	999+		10,000	49,000	0.0%	8.5	5	1
+Ăn vặt/vỉa hè	Ăn Vặt Shin	505 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:30 - 21:00	15,000	50,000	0.0%	7.3	89	1
+Café/Dessert	Z! Cafe - Hà Huy Giáp	229 Hà Huy Giáp, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	20,000	40,000	0.0%	6.3	3	1
+Nhà hàng	Lotteria - Đồng Nai Big C	BigC Đồng Nai, Số 833 Xa lộ Hà Nội, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:30 - 22:00	30,000	88,000	0.0%	7.1	8	1
+Quán ăn	Bún Đậu Trần Thành	1/94 Tổ 4, Khu Phố 3, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 21:00	50,000	80,000	0.0%	6.6	5	1
+Café/Dessert	Zen Tea - Hố Nai	14/5 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	25,000	50,000	0.0%	6.2	12	1
+Ăn vặt/vỉa hè	Phá Lấu Sạch 57- Chợ 57	57/B2, Khu Phố 3, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	500+	 12:00 - 21:00	20,000	30,000	0.0%	6.1	3	1
+Quán ăn	Hai Nù Cháo Gỏi Gà Vịt - Nguyễn Văn Tiên	Tổ 32, Khu Phố 3, Nguyễn Văn Tiên, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	0	0	0.0%	9.9	2	1
+Nhà hàng	Lotteria - Đồng Nai Lottemart	Khu Amarta, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:30 - 22:00	30,000	88,000	0.0%	5.9	23	1
+Nhà hàng	Gà Rán KFC - CoopMart Biên Hòa	121 Quốc Lộ 15, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	30,000	88,000	0.0%	7.1	24	1
+Quán ăn	Bún Đậu Mắm Tôm Hương Bắc	666/9 Tổ 4, KP3, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.5	500+	 11:00 - 21:00	45,000	160,000	0.0%	5.9	2	1
+Café/Dessert	Highlands Coffee - Hưng Đạo Vương	112 Hưng Đạo Vương, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	9,000	65,000	0.0%	8.1	19	1
+Quán ăn	Tiệm Gà Bố Su - Đồng Khởi	369 Đồng Khởi, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	0	0	0	10,000	30,000	0.0%	0	0	1
+Quán ăn	Pizza 360 - Pizza &amp; Chicken	91/5 Khu Phố 9, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	500+	 15:00 - 19:00	20,000	100,000	0.0%	4.9	3	1
+Café/Dessert, Quán ăn	Cool 5 - Sinh Tố &amp; Nước Ép - Phan Trung	236 Phan Trung (đối diện Anh Ngữ VUS), P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 22:00	15,000	40,000	0.0%	10.0	1	1
+Quán ăn	Lẩu Kim Chi Má Sáu	181 Trương Định, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 14:00 | 17:00 - 20:00	160,000	250,000	0.0%	7.2	1	1
+Ăn vặt/vỉa hè	Burger Việt - Cách Mạng Tháng 8	177 Cách Mạng Tháng 8, P. Hòa Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	10,000	25,000	0.0%	5.6	6	1
+Quán ăn, Ăn vặt/vỉa hè	Nem Nướng &amp; Bún Thịt Nướng Ngọc Thu	57 Hồ Văn Đại, P. Quang Vinh    , Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 23:00	30,000	120,000	0.0%	5.4	12	1
+Nhà hàng	Gà Rán KFC - Big C Tân Hiệp	1135 Nguyễn Ái Quốc, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	100,000	0.0%	7.5	8	1
+Café/Dessert	ZenCha Tea - Trà Sữa - Phạm Văn Thuận	61/1 Phạm Văn Thuận Khu Phố 1, Phường Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	999+		0	0	0.0%	5.0	1	1
+Café/Dessert	Highlands Coffee - Khách Sạn Đồng Nai	57 Phạm Văn Thuận, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	9,000	65,000	0.0%	8.0	29	1
+Quán ăn	Bún Đậu Mắm Tôm A Chảnh - Phan Trung	128 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	25,000	57,000	0.0%	5.9	5	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Quốc Lộ 15	121 Quốc Lộ 15, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:30 - 21:30	15,000	44,000	0.0%	6.7	18	1
+Café/Dessert	Quán Trái Cây 1102	133 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 17:00 - 22:00	20,000	40,000	0.0%	7.7	14	1
+Café/Dessert	Highlands Coffee - K24 Võ Thị Sáu	K24 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	9,000	65,000	0.0%	8.1	10	1
+Quán ăn	Mì Cay Naga - Biên Hòa	H35-36 Đường D12, Khu Phố 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	25,000	30,000	0.0%	5.3	27	1
+Café/Dessert	Cool Cha - Tea &amp; Food - Bùi Văn Hoà	1247 Bùi Văn Hòa, Tổ 18, KP 7, Phường Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	20,000	40,000	0.0%	10.0	1	1
+Café/Dessert	Mori Coffee &amp; Tea	8 Nguyễn Bảo Đức, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	50+	 06:30 - 22:00	12,000	65,000	0.0%	10.0	1	1
+Café/Dessert	Molicha Express - Tân Mai	45/223 Phạm Văn Thuận, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	16,000	40,000	0.0%	6.6	41	1
+Café/Dessert	Đất Coffee &amp; Tea	89 Cách Mạng Tháng 8, P. Hòa Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	15,000	50,000	0.0%	0	0	1
+Café/Dessert	T838 Milk Tea - Sữa Tươi Trân Châu Đường Đen - Cách Mạng Tháng Tám	508 Cách Mạng Tháng Tám, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	18,000	30,000	0.0%	5.4	1	1
+Quán ăn	Ăn Vặt Chăm Chăm - Phan Trung	135 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 11:00 - 22:00	10,000	35,000	0.0%	6.6	1	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Quốc Lộ 1	75K Khu Phố 3, Quốc Lộ 1, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 22:00	40,000	100,000	0.0%	6.8	19	1
+Shop Online	Gà Ủ Muối Hoa Tiêu - Minh Tú	81/5/18 Hẻm 5 Nguyễn Văn Tiên, KP 11, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 21:00	10,000	20,000	0.0%	10.0	3	1
+Quán ăn	Tiệm Chè Mây - Nguyễn Ái Quốc	620 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 22:00	20,000	40,000	0.0%	5.0	1	1
+Quán ăn	Quán Ăn Lão Nương - Cơm Cari Bò - Đồng Khởi	1/62 Đồng Khởi, Phường Tam Hòa , Tp. Biên Hòa, Đồng Nai	4.5	100+	 17:00 - 22:00	0	0	0.0%	5.7	2	1
+Nhà hàng	Gà Rán KFC - Big C Đồng Nai	Big C Đồng Nai, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	88,000	0.0%	5.4	14	1
+Nhà hàng	Pizza Hut - Hố Nai Biên Hòa	646 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 21:00	100,000	400,000	0.0%	4.6	2	1
+Quán ăn	Bún Mắm - Cô 5 Đồng Tháp	237/6 Trương Định, KP. 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 21:30	10,000	300,000	0.0%	4.0	1	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - Quốc Lộ 51	Big C Đồng Nai, QL 51, KP. 1, P.Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	999+		40,000	100,000	0.0%	5.1	11	1
+Café/Dessert	Kem Xôi Thanh Hằng - Công Viên An Bình	101 - C6 KDC Công Viên An Bình, Lê Thị Vân, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	12,000	25,000	0.0%	9.8	1	1
+Quán ăn	BOLO Sushi Ramen - Phan Trung	265 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 22:00	30,000	150,000	0.0%	6.0	1	1
+Quán ăn	Icake Bakery &amp; Tea	285 Phan Trung, KP2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	3,500	370,000	0.0%	0	0	1
+Café/Dessert	Kem Xôi Thanh Hằng - Long Bình Tân	255/103 QL 51, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 21:00	10,000	35,000	0.0%	9.6	1	1
+Ăn vặt/vỉa hè	Bánh Tráng Trộn Sóng Thần	Chung Cư C2, Hẻm 33 Vũ Hồng Phô, KP. 5, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 21:00	10,000	20,000	0.0%	9.5	10	1
+Quán ăn	Bếp Mẹ Su - Cơm Văn Phòng - Đặng Đức Thuật	38 Đặng Đức Thuật, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 21:00	20,000	60,000	0.0%	2.8	1	1
+Ăn vặt/vỉa hè	Gỏi Bà Tám - 30 Tháng 4	Hẻm 67 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:30 - 15:00	5,000	15,000	0.0%	8.2	7	1
+Quán ăn	Vịt Quay Bôi Ký - Cách Mạng Tháng 8	181 Cách Mạng Tháng 8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 21:00	30,000	300,000	0.0%	8.6	1	1
+Quán ăn	Gỏi Cá Biên Hòa	160 Huỳnh Văn Hớn, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 11:00 - 22:00	50,000	150,000	0.0%	8.4	1	1
+Quán ăn, Giao cơm văn phòng	Gà Tiềm Ớt Hiểm Nhà Đôi - Phạm Văn Thuận	248 Phạm Văn Thuận, KP3, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 21:00	15,000	45,000	0.0%	7.6	10	1
+Quán nhậu	Dê 5 Sung	B28 Đường Số 518, Tổ 18, KP. 5, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 23:00	50,000	400,000	0.0%	9.0	1	1
+Quán ăn	Lẩu Gà Lá É 79 - Phan Trung	205B/5 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	0	0	0.0%	9.4	1	1
+Quán ăn	Gà Tiềm Anna	34/3 Võ Thị Sáu, KP. 4, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	20,000	100,000	0.0%	8.4	12	1
+Quán ăn	Bún Đậu Chí Phèo Hà Nội Chi Nhánh 2 - Phạm Văn Khoai	10 Phạm Văn Khoai, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	0.0	1	 10:00 - 22:00	10,000	65,000	0.0%	2.6	1	1
+Quán ăn	Cơm Chiên &amp; Mì Xào Thành Ký - Phạm Văn Thuận	3/11 Phạm Văn Thuận, Khu Phố 3, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	40,000	300,000	0.0%	0	0	1
+Café/Dessert	Chè Lâm Yên - Nguyễn Ái Quốc	3 Nguyễn Ái Quốc, KP. 4, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:30 - 22:00	18,000	30,000	0.0%	8.4	1	1
+Quán ăn	Bún Riêu 388 - Nguyễn Ái Quốc	388 Nguyễn Ái Quốc, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 12:00 - 21:00	20,000	40,000	0.0%	7.5	7	1
+Quán ăn	Hot Teen - Mì Cay 2	35 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 21:00	10,000	50,000	0.0%	5.6	9	1
+Quán ăn	Bò Nằm Nhúng Hố Nai - Chuyên Các Món Bò - Thân Nhân Trung	9 Thân Nhân Trung, Phường Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 22:00	0	0	0.0%	3.4	1	1
+Quán ăn	SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - 112 Phan Trung	112 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:25 - 20:45	35,000	100,000	0.0%	3.4	1	1
+Quán ăn	Mì Cay Seoul 248 - Phan Trung	248 Phan Trung, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	30,000	60,000	0.0%	7.2	5	1
+Tiệm bánh	Tiny Turtle - Cakes &amp; Desserts - Phan Đình Phùng	166 Phan Đình Phùng, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 21:00	10,000	55,000	ShopeeFood</span	7.8	10	1
+Ăn vặt/vỉa hè	Leo - Bánh Mì Hamburger &amp; Xúc Xích Đức	160 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	500+	 06:30 - 22:00	15,000	30,000	0.0%	7.2	7	1
+Café/Dessert, Ăn vặt/vỉa hè	Hot Teen - Mì Cay	Đặng Văn Trơn, P. Hiệp Hoà, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 21:00	15,000	35,000	0.0%	5.7	22	1
+Quán ăn	Cơm Tấm 57 - Võ Thị Sáu	34/3 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 21:00	20,000	30,000	0.0%	1.7	2	1
+Nhà hàng, Buffet	Sumo BBQ - Bufet Lẩu &amp; Nướng - Vincom Biên Hòa	Tầng 4, TTTM Vincom Biên Hòa, 1096 Phạm Văn Thuận, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	0.0	4	 09:00 - 22:00	219,000	269,000	0.0%	6.3	45	1
+Ăn vặt/vỉa hè	Ăn Vặt Cô Ánh	32/1D Khu Phố 5, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 15:00 - 22:00	5,000	50,000	0.0%	8.1	8	1
+Quán ăn	Tiệm Vịt Quay Tuấn Mập - Phạm Văn Thuận	62/13 Phạm Văn Thuận, KP1, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 23:00	12,000	30,000	0.0%	6.4	2	1
+Quán ăn	Bún Đậu Mắm Tôm Pé Lù 4	280 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 22:30	10,000	100,000	0.0%	5.6	3	1
+Quán ăn	Cơm Gà Lộc Minh	9/10B Huỳnh Văn Nghệ, Tổ 16, KP. 3, P. Bửu Long, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	15,000	30,000	0.0%	6.8	4	1
+Nhà hàng	Wakemi Japan Restaurant	Đường N1, KDC Võ Thị Sáu, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:30 - 22:00	30,000	200,000	0.0%	6.9	4	1
+Quán ăn	Cơm Gà Xối Mỡ 68 - Phạm Văn Thuận	733/5 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 21:00	20,000	30,000	0.0%	6.7	6	1
+Ăn vặt/vỉa hè	Gỏi Cuốn &amp; Bún Thịt Nướng - Chợ Biên Hoà	19 Nguyễn Thị Hiền, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 16:00	5,000	15,000	0.0%	7.1	8	1
+Café/Dessert, Ăn vặt/vỉa hè	Chè Ms Hương	26 Lê Nguyên Đạt, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 21:00	6,000	25,000	0.0%	6.1	3	1
+Quán ăn	Bún Cá Chi - Giáo Xứ Lộc Lâm	Giáo Xứ Lộc Lâm, Khu Phố 5, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 12:00 - 18:00	17,000	20,000	0.0%	6.5	3	1
+Tiệm bánh	Bánh Mì Thu Hà - Phan Đình Phùng	57 Phan Đình Phùng, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	5,000	15,000	0.0%	0	0	1
+Quán ăn	Quán Ăn Gia Đình Cô Út - KP.11 Tân Phong	03 A8, Khu Phố 11, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	0.0	1	 09:00 - 22:00	49,000	299,000	0.0%	<span>_._</span>	0	1
+Sang trọng	Gà Rán KFC - Lê Duẩn	233 Tổ 3, Khu Phước Hải, TT. Long Thành, Long Thành, Đồng Nai	0.0	3	 09:00 - 22:00	0	0	0.0%	5.0	1	1
+Café/Dessert	Highlands Coffee - 210 Số 5 Biên Hòa	210/5 Đường Số 5, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	19,000	59,000	0.0%	6.2	6	1
+Café/Dessert	Balconies Coffee	184 Nguyễn Văn Trị, P. Hòa Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:30	15,000	45,000	0.0%	9.3	5	1
+Café/Dessert	Highlands Coffee - Big C Đồng Nai	Siêu Thị Big C, Quốc Lộ 51, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	9,000	65,000	0.0%	6.9	18	1
+Café/Dessert	Passion House - Drinks &amp; Cake	706/7 Phạm Văn Thuận, KP. 7, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 22:00	22,000	60,000	0.0%	8.7	3	1
+Café/Dessert	Chíp Chíp - Nước Ép &amp; Sinh Tố - Nguyễn Ái Quốc	674 Nguyễn Ái Quốc, KP. 3, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	100+		10,000	30,000	0.0%	9.0	1	1
+Café/Dessert	Suntea - Trà Sữa Thạch Nhà Làm - Lộ Đức	 58/1 khu phố 6, P. Tân Hòa, Tp. Biên Hòa, Đồng Nai	4.5	100+		20,000	40,000	0.0%	9.3	2	1
+Café/Dessert	Xưởng Cà Phê - Xưởng Tư Búa	3 Trần Minh Trí, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 22:00	14,000	25,000	0.0%	7.7	5	1
+Café/Dessert	Highlands Coffee - 08 Nguyễn Ái Quốc	8 Nguyễn Ái Quốc, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	29,000	70,000	0.0%	5.5	10	1
+Café/Dessert	TocoToco Bubble Tea - Phan Trung	98 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	60,000	0.0%	3.0	1	1
+Quán ăn	Hapi Hapi Coffee &amp; Milk Tea	A1, Đường D1, KP 1, P. Bửu Long, Tp. Biên Hòa, Đồng Nai	4.5	5	 06:00 - 22:00	20,000	60,000	0.0%	10.0	7	1
+Café/Dessert	Trà Sữa Long Tea	79 Bùi Trọng Nghĩa, Tổ 4, KP. 3, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	13,000	39,000	0.0%	0	0	1
+Café/Dessert	Tea Pops - Trà Sữa Thái - Phan Trung	48 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:30 - 22:00	20,000	30,000	0.0%	5.0	1	1
+Café/Dessert	Tháng Năm Coffee &amp; Kitchen	 249 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	3.5	7	 06:30 - 22:30	20,000	40,000	0.0%	8.2	1	1
+Café/Dessert	TocoToco Bubble Tea - Phạm Văn Thuận	627 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	30,000	60,000	0.0%	3.2	1	1
+Café/Dessert	Houjicha - Trà Sữa Xịn - 366 Đồng Khởi	366 Đồng Khởi, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	19,000	39,000	0.0%	7.5	2	1
+Café/Dessert	1857 Hội An - Coffee &amp; Tea - Đường D9	45 Đường D9, Phường Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.0	10+	 07:00 - 22:00	10,000	50,000	0.0%	9.4	2	1
+Ăn vặt/vỉa hè	Rau Má Cô Út	279 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	0	0	0.0%	8.2	1	1
+Café/Dessert	Happy Coffee - Nguyễn Bảo Đức	45 Nguyễn Bảo Đức, Phường Tam Hiệp, Tp. Biên Hòa, Đồng Nai	0.0	2	 07:00 - 21:00	10,000	30,000	0.0%	10.0	1	1
+Café/Dessert	Quán Rêu Cà Phê	12 Trần Minh Trí, P Thanh Bình, Tp. Biên Hòa, Đồng Nai	5.0	2	 06:00 - 22:00	12,000	30,000	ShopeeFood</span	10.0	1	1
+Café/Dessert	Tự Do Coffee - Nguyễn Ái Quốc	186/1 Nguyễn Ái Quốc, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	20,000	50,000	0.0%	7.0	2	1
+Café/Dessert	Highlands Coffee - 779 Nguyễn Ái Quốc	779 Nguyễn Ái Quốc, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 21:00	25,000	69,000	0.0%	4.9	4	1
+Café/Dessert	Workshop Lets Cafe - Đường N1	LK05 Đường N1, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 07:00 - 22:00	29,000	50,000	0.0%	8.2	1	1
+Café/Dessert	Highlands Coffee - Vincom Biên Hòa	Tầng 1, Khu 3 Vincom Biên Hòa, 1096 Phạm Văn Thuận, KP. 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:30 - 20:30	9,000	65,000	0.0%	6.6	27	1
+Café/Dessert	Cửa Hàng Cà Phê Số 22	54 Hưng Đạo Vương, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 21:00	20,000	50,000	0.0%	7.3	24	1
+Café/Dessert	Vanilla Tea	59/73/14 Đường 30 Tháng 4, KP. 5, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 21:00	20,000	30,000	0.0%	5.5	4	1
+Café/Dessert, Ăn vặt/vỉa hè	Minta - Trà Sữa &amp; Ăn Vặt	K1B Vũ Hồng Phô, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 21:00	12,000	45,000	0.0%	7.3	2	1
+Café/Dessert	Vinking Tea	Trường Đại Học Công Nghệ Đồng Nai, Nguyễn Khuyến, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	25,000	40,000	0.0%	8.0	1	1
+Café/Dessert	Texas - Coffee &amp; Tea House	288B Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	50+	 08:00 - 22:00	20,000	50,000	0.0%	7.5	54	1
+Café/Dessert	Sencha Tea - Trà Sữa Nhật - Phan Trung	248 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	20,000	50,000	0.0%	7.1	30	1
+Café/Dessert	Lâm Tea	19 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	16,000	20,000	0.0%	6.7	9	1
+Café/Dessert	The Giggle - Coffee &amp; Tea - Nguyễn Ái Quốc	467 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 22:00	10,000	30,000	0.0%	7.1	4	1
+Café/Dessert	Yên Café	270/8 Phạm Văn Thuận, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 07:30 - 22:00	15,000	45,000	0.0%	7.5	4	1
+Café/Dessert	Tiệm Chè Nhiệt Đới - Đồng Khởi	285 Đồng Khởi, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 07:30 - 17:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Mộc Coffee &amp; Tea	654 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 18:00	25,000	55,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Dubai Coffee	17 Nguyễn Ái Quốc, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	10,000	50,000	0.0%	8.2	10	1
+Café/Dessert	Tự Do Coffee - Dương Tử Giang	27 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 22:00	20,000	38,000	0.0%	6.8	40	1
+Café/Dessert	Nutri House - 30 Tháng 4	329 Đường 30.4, P.Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:30	20,000	50,000	ShopeeFood</span	6.9	55	1
+Café/Dessert	Village Coffee &amp; Tea - Lê Quý Đôn	6 Lê Quý Đôn, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	500+	 06:30 - 22:30	18,000	29,000	0.0%	7.2	25	1
+Café/Dessert	OOYAA Tea - Vincom Biên Hòa	1080 Vincom Biên Hoà, Phạm Văn Thuận, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	18,000	25,000	0.0%	8.4	1	1
+Ăn vặt/vỉa hè	Trà Sữa Teawe	264 Đường 30 Tháng 4, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 12:00 - 17:30	19,000	32,000	0.0%	8.7	3	1
+Café/Dessert	Im From Ha Noi - Sữa Chua &amp; Ăn Vặt	166 Hà Huy giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	0	0	0.0%	8.0	29	1
+Café/Dessert	Felix Tea &amp; Fast Food	208 Nguyễn Văn Hoa, KP. 1, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:30 - 23:00	29,000	80,000	0.0%	9.5	4	1
+Café/Dessert	Những Người Bạn 1 - Trà Sữa &amp; Ăn Vặt - Long Bình	6/40 Tổ 14, KP.6, Phường Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Dứa - Võ Thị Sáu	42/3 Võ Thị Sáu, Khu Phố 4, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	6,000	26,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Dâu Mr. Đỏ - Phạm Văn Thuận	641 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mr. Dừa 3 - 841 Phạm Văn Thuận	841 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	20,000	40,000	0.0%	4.2	1	1
+Café/Dessert	Sencha Tea - Trà Sữa Nhật - Phạm Văn Thuận	216 Phạm Văn Thuận, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:30 - 22:00	20,000	50,000	0.0%	7.2	14	0
+Ăn vặt/vỉa hè	Trà Sữa Tin Tin - Đặng Văn Trơn	62B Đặng Văn Trơn, P. Hiệp Hòa, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 21:30	12,000	20,000	0.0%	8.0	1	1
+Café/Dessert	Pampa - The Stories Of Tea &amp; Coffee	BN3 Đường D10, LK1, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	50+	 07:00 - 22:00	20,000	50,000	0.0%	7.6	2	1
+Café/Dessert	Heo Chip 1 - Trà Sữa &amp; Ăn Vặt - Châu Văn Lồng	108 Châu Văn Lồng, Phường Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen Z88 - 250 Phạm Văn Thuận	250 Phạm Văn Thuận, P. Tam Hoà, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Milano Coffee - Huỳnh Văn Nghệ	Huỳnh Văn Nghệ, KP. 2, P. Bửu Long, Tp. Biên Hòa, Đồng Nai	4.5	10+	 06:30 - 23:00	10,000	25,000	ShopeeFood</span	8.0	1	1
+Café/Dessert	Milano Coffee PhiLai - 43A Nguyễn Ái Quốc	43A Nguyễn Ái Quốc, KP. 8, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	5.0	8	 06:00 - 22:00	15,000	20,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	The An Coffee - Đỗ Văn Thi	195 Đỗ Văn Thi, P. Hiệp Hoà, Tp. Biên Hòa, Đồng Nai	0.0	4	 06:00 - 22:00	25,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Say Coffee - QL1	Hẻm KP9 QL1, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	9	 08:00 - 20:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Trà Ami Bu - Bùi Văn Hoà	1700 Hẻm 1423/54 Bùi Văn Hoà, X. Phước Tân, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 22:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Cafe Ông Bầu - Cafe - Trương Định	192 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	0.0	3	 08:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Rau Má Bà Bảy - Bùi Văn Hoà	178 Bùi Văn Hoà, Khu Phố 3, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 22:00	5,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Trà Sữa Pozaa Tea - Nguyễn Ái Quốc	2/8 Nguyễn Ái Quốc, KP2, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 07:00 - 22:00	25,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Jets Coffee &amp; Tea - Đồng Khởi	468 Đồng Khởi, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	50+	 07:00 - 22:00	6,000	42,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen N82 - Nguyễn Tri Phương	K4/256D Nguyễn Tri Phương, P. Bửu Hoà, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:30 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen N82 - Đặng Văn Trơn	14 Đặng Văn Trơn, X. Hiệp Hoà, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 21:30	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Bumetu - Coffee &amp; Tea - Nguyễn Văn Nghĩa	F7 Nguyễn Văn Nghĩa, Phường Quang Vinh, Tp. Biên Hòa, Đồng Nai	5.0	100+	 08:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa &amp; Ăn Vặt BOO PÉ - Phạm Văn Thuận	49/244 Phạm Văn Thuận, KP. 1, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 21:00	6,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	An Coffee &amp; Tea - Đường B5	157 Đường B5, Khu Dân Cư Phú Thịnh, Khu Phố 3, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	0.0	3	 06:30 - 21:30	24,000	42,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Nhúng - Đường 30 Tháng 4	134B Đường 30 Tháng 4, Phường Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Z! Cafe Express - Cafe - Đường 30 Tháng 4	328 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+		0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Decha Tea - Nguyễn Ái Quốc	206 Nguyễn Ái Quốc, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Út Rio Lữ Quán Dừa Bến Tre - Phan Trung	197 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:30 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen Z88 - Phan Trung	150 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 21:00	19,000	19,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Laha coffee - 551 Nguyễn Aí Quốc	551 Nguyễn Aí Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:00 - 21:30	18,000	38,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen Z88 - Khu Phố 4	7/9 Khu Phố 4, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Trân Châu Đường Đen Z88 - Phạm Văn Thuận	Phạm Văn Thuận, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 21:30	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tiệm Trà Berry - Hà Huy Giáp	200 Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	999+	 18:00 - 22:00	15,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Tao Tea Hố Nai - Cafe &amp; Trà Sữa - Nguyễn Ái Quốc	396 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Biên Hoà Homemade - Hàn Thuyên	166 Hàn Thuyên, KP. 3, P. An Bình, Tp. Biên Hòa, Đồng Nai	0.0	4	 08:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Nước Ép &amp; Sinh Tố Tuyết Lan - Khu Phố 11	16B1 Khu Phố 11, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	0.0	3	 07:00 - 22:00	13,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	KIM Tea &amp; Coffee - Trà Sữa &amp; Ăn Vặt - Hoàng Tam Kỳ	14 Hoàng Tam Kỳ, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:30 - 21:30	5,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Cozy - Nguyễn Khuyến	33 Nguyễn Khuyến, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	TocoToco Bubble Tea - Khu Dân Cư Phú Thịnh	H21- 134, Tổ 35, Khu Dân Cư Phú Thịnh, Đường B5, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 23:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Seoul Tea - Trà Sữa &amp; Sữa Tươi Trân Châu Đường Đen - Bùi Văn Hoà	613 Bùi Văn Hoà, KP. 6, P. Long Bình, Tp. Biên Hòa, Đồng Nai	5.0	10+	 06:00 - 22:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Guu Tea - Trương Định	230 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Ăn vặt/vỉa hè	Sữa Tươi Trân Châu Đường Đen 2K - 62 Đồng Khởi	62 Đồng Khởi, KP2, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Guu - Food &amp; Tea - 553 Nguyễn Ái Quốc	553 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 21:00	10,000	60,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Tiệm Trà Nhà Mây - Trà Sữa - Hoàng Văn Bổn	178/2 Khu Phố 8A, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	0.0	2	 10:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert	Susu - Nước Ép &amp; Trà Trái Cây - Nguyễn Ái Quốc	2b Nguyễn Ái Quốc, KP. 6, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	10,000	40,000	0.0%	0	0	1
+Café/Dessert	Tiệm Trà Bụng Mỡ - Trà Dâu - Phạm Văn Thuận	774 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 22:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Sữa Tươi Cà Phê Sương Sáo BA - Phan Đình Phùng	113 Phan Đình Phùng, Khu Phố 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	5.0	50+	 15:00 - 19:00	20,000	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	TocoToco Bubble Tea - Nguyễn Ái Quốc	18B Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	40,000	57,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Burger Việt - Hố Nai	4B/20 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	10,000	350,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Burger Việt - Phạm Văn Thuận	103/511 Phạm Văn Thuận, KP. 4, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 21:00	12,000	20,000	0.0%	<span>_._</span>	0	1
+Shop Online	Burger Việt - Trần Quốc Toản	283 Trần Quốc Toản, Phường Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	500+	 06:00 - 21:00	10,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ 68 - Võ Thị Sáu	41/4 KP4, Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 22:00	25,000	6,000	0.0%	6.0	10	1
+Quán ăn	Hương Ký 6 - Cơm Chiên 18 Món	669 Đồng Khởi, KP. 8, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 21:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ 68 - Cách Mạng Tháng 8	22/9A Cách Mạng Tháng 8, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:00 - 21:00	18,000	25,000	0.0%	4.8	2	1
+Quán ăn	Quán Cơm Tấm Tư Búa	74 Trần Minh Trí, P. Thanh Bình , Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 17:00	18,000	25,000	ShopeeFood</span	8.0	1	1
+Shop Online	Gà Bó Xôi Biên Hoà - Khu Phố 5	Tổ 17 Khu Phố 5, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 19:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Ta Tam Kỳ 18 - Bùi Văn Hoà	130 Bùi Văn Hòa, Tổ 11, KP. 3A, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Mẹt Biên Hòa	34/3 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:30 - 14:00 | 16:00 - 21:00	50,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vịt Quay Vịt Cỏ Vân Đình - Hoàng Tam Kỳ	627 Hoàng Tam Kỳ, KP. 5A, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	130,000	260,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Tam Kỳ II - Phan Trung	247/5 Phan Trung, Khu Phố 7, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	100,000	150,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Ghiền Chân Gà Sốt Thái - Khu Phố 5	K4201 Khu Phố 5, P. Bửu Hòa, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 20:00	10,000	50,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Quán Hoa Trúc 2 - Cơm Gà Tam Kỳ - Bùi Trọng Nghĩa	16A Bùi Trọng Nghĩa, KP.2, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	10,000	240,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Song Nhí - Bao Tử Phá Lấu - Huỳnh Văn Luỹ	48 Huỳnh Văn Luỹ, P. Hoà Bình, Tp. Biên Hòa, Đồng Nai	0	0	0	20,000	200,000	0.0%	0	0	1
+Quán ăn	Gà Bà Tân - Gà Cúng &amp; Gà Hấp Mắm Nhĩ - Dương Bạch Mai	18/11 Dương Bạch Mai, KP. 1, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	0	0	0	439,000	499,000	0.0%	0	0	1
+Quán ăn	Bánh Mì Thanh Phong - Lò Bánh Mì, Vịt Quay, Gà Quay	16 Huỳnh Dân Sanh, P. Long Bình, Tp. Biên Hòa, Đồng Nai	0	0	0	150,000	400,000	ShopeeFood</span	0	0	1
+Quán ăn	Bánh Mì Tuấn Mập - Đồng Khởi	51 Đồng Khởi, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 21:30	12,000	20,000	ShopeeFood</span	7.6	1	0
+Quán ăn	Gà Chíp - Võ Thị Sáu	48/5 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	25,000	55,000	ShopeeFood</span	7.5	7	0
+Quán ăn	Cơm Gà 175 - Cách Mạng Tháng 8	107 Cách Mạng Tháng 8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 14:00 | 15:00 - 21:00	25,000	30,000	ShopeeFood</span	7.4	9	0
+Quán ăn	Lạp Vịt Gia Thành Ký	2 Nguyễn Ái Quốc, KP8, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	9	 08:15 - 22:00	50,000	200,000	ShopeeFood</span	<span>_._</span>	0	1
+Nhà hàng, Tiệc cưới/Hội nghị	Nhà Hàng Cây Dừa	23/1A  Cách Mạng Tháng 8, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 19:00	200,000	550,000	0.0%	7.4	26	1
+Nhà hàng	Nhã Viên Quán	Bửu Long, P. Bửu Long, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 22:00	50,000	150,000	ShopeeFood</span	8.3	19	1
+Nhà hàng	Lẩu 9 Tầng Mây	54 Phạm Văn Khoai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	159,000	199,000	0.0%	8.5	3	1
+Quán ăn	Lẩu Bò Nhà Gỗ	46 Võ Thị Sáu, P.hường Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Cá Thác Lác Khổ Qua Song Phương - Nguyễn Ái Quốc	514 Nguyễn Ái Quốc, Khu Phố 9, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	0.0	2	 15:30 - 20:30	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Cay Naga - Đồng Khởi	B1A Đồng Khởi, Phường Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 23:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Huy Mập Quán - Vịt Nướng Vân Đình &amp; Vịt Chín Món - Nguyễn Khuyến	104 Nguyễn Khuyến, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	0.0	3	 15:00 - 22:00	50,000	250,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Lẩu Xiên Nhún - Lẩu Xiên Nhúng Đồng Giá - Trương Định	05 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	O Yến - Bún Bò Huế &amp; Lẩu Bò	1/99 Nguyễn Ái Quốc, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:00 - 21:00	25,000	150,000	0.0%	5.0	4	1
+Quán ăn	Bún Mắm &amp; Lẩu Mắm 444 - Phạm Văn Khoai	2A/1 Phạm Văn Khoai, Khu Phố 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 23:00	45,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Lan Năm Cảnh	C15E Huỳnh Văn Nghệ, Tổ 9, Kp2, P. Bửu Long, Tp. Biên Hòa, Đồng Nai	4.5	10+	 Cả ngày | 10:00 - 22:00	40,000	150,000	ShopeeFood</span	7.5	6	1
+Quán ăn	Lẩu Bò Năm Cảnh 5 - Khu Dân Cư Phú Thịnh	M29 Đường B5, KDC Phú Thịnh, Khu Phố 3, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	0.0	3	 09:00 - 23:00	30,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gin - Lẩu Kim Chi - Bùi Văn Hoà	182 Bùi Văn Hòa, Phường Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Nhà Mít - Phan Trung	117 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:30 - 22:00	30,000	499,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ngói - Lẩu 1 Người	Kế 230/35 Dương Tử Giang, KP2, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 22:00	20,000	30,000	0.0%	6.8	21	1
+Quán ăn	Gà Nướng B. Cường Phạm Văn Thuận	796 Đường Phạm Văn Thuận, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 21:30	90,000	280,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bò Corner - Bò Cay Bít Tết &amp; Lẩu	18 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 22:00	20,000	100,000	0.0%	7.5	7	1
+Quán ăn	Lẩu Cá Chú Béo 69 - Phạm Văn Khoai	5/3A Phạm Văn Khoai, Khu Phố 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 22:00	50,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nhà Cá - Nguyễn Ái Quốc	405 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	25,000	170,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Nhà Hàng Lẩu Neo Shabu Suki - Võ Thị Sáu	F260 - F262 Võ Thị Sáu, Khu Phố 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	50,000	220,000	0.0%	6.9	108	1
+Quán ăn	Lẩu Bò Ông Già - Bùi Văn Hòa	647 Bùi Văn Hòa, Tổ 1, KP. 7, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:30 - 22:30	35,000	200,000	0.0%	7.6	1	1
+Nhà hàng	Lee BBQ - Ẩm Thực Hàn Quốc	BN2, LK 7 - LK8 (Liên Khu) Đường N1, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 22:00	45,000	319,000	0.0%	7.9	11	1
+Quán ăn	Mì Cay Naga - Trảng Dài	L2-15, KDC Phú Gia 2, KP. 5 Phường Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 23:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Năm Cảnh 1	144 Đồng Khởi, KP 4, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	50,000	150,000	ShopeeFood</span	6.5	3	1
+Quán ăn	Lẩu Dê Nam Ri - Trần Quốc Toản	C28, Tổ 40, KP4, Trần Quốc Toản, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	10+	 Cả ngày | 10:00 - 22:00	50,000	150,000	ShopeeFood</span	6.3	5	1
+Quán ăn	Ghiền - The Drink &amp; Fast Food - Phan Trung	239/5B Phan Trung, Khu Phố 7, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 22:30	15,000	239,000	0.0%	5.1	10	1
+Quán ăn	Lẩu Bò Chất - Lẩu &amp; Nướng - Địa Chất	82 hẻm 631 Địa Chất, P. Long Bình, Tp. Biên Hòa, Đồng Nai	0.0	2	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Vú Heo Nướng Sài Gòn 3	 243 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 17:00 - 23:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Nhà Tom - Phan Trung	103 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 22:00	30,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Sala Hotpot - Phan Trung	172 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lâm Voi - Phở Bò Hà Nội &amp; Lẩu Bò - Phạm Văn Khoai	9 Phạm Văn Khoai, Khu Phố 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	0.0	1	 05:30 - 22:00	40,000	80,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Ngọc Cảnh - Nhà Hàng Gia Đình	390 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:30	50,000	200,000	ShopeeFood</span	8.2	7	1
+Quán ăn	Lẩu Dê Sáu Rép	1/45 kp8, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:30	100,000	220,000	ShopeeFood</span	7.4	3	1
+Quán ăn	Gà Nướng Gia Truyền Sáu Ngọc - Phạm Văn Diêu	129 Phạm Văn Diêu, Khu Phố 4, P. Tân Hạnh, Tp. Biên Hòa, Đồng Nai	0.0	2	 06:00 - 20:00	160,000	170,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gỏi Cá Đồng Nai	192/14 Phạm Văn Thuận, KP. 6, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 20:00	40,000	200,000	0.0%	6.3	8	1
+Quán ăn	Ốc Tô Bình Đa - Võ Thị Sáu	32/5 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 13:00 - 23:00	20,000	100,000	0.0%	6.4	46	1
+Quán ăn	Gỏi Cá Kim Yến	Huỳnh Văn Hớn, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 21:00	50,000	110,000	ShopeeFood</span	6.4	6	1
+Nhà hàng	Bò-Lế-Rồ - Phan Trung	70C Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	3.5	5	0	50,000	275,000	0.0%	0	0	1
+Quán ăn	Lẩu Bò Ông Già - Ngã 3 An Bình	58/2 Hẻm 646 Trần Quốc Toản Khu Phố 2, P. An Bình, Tp. Biên Hòa, Đồng Nai	0.0	2	 07:00 - 22:00	20,000	220,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò Hẻm 524	524/15 Trần Quốc Toản, Khu Phố 2, P. An Bình, Tp. Biên Hòa, Đồng Nai	0.0	1	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Nhà hàng	Nhà Hàng Bửu Long - Huỳnh Văn Nghệ	16 Huỳnh Văn Nghệ, Tp. Biên Hòa, Đồng Nai	0	0	0	50,000	4,000,000	ShopeeFood</span	0	0	1
+Quán ăn	Hùng Nhung - Bún Thái &amp; Lẩu Thái - Nguyễn Ái Quốc	643 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Lạc Cảnh Biên Hoà - Bạch Tuộc Nhúng Mẻ &amp; Gà Nấu Siêu - Đường D2	KP6 Đường D2, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	0	0	0	100,000	600,000	0.0%	0	0	1
+Quán ăn	Sala Hotpot &amp; Noodles - Võ Văn Mén	14/19 Võ Văn Mén (Bên Hông Giáo Xứ Hà Nội), P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 21:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nhà Hàng HellBull - Đường N2	K65 Đường N2, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	3.5	8	 10:00 - 22:00	49,000	319,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Lẩu Dê Vân Ký	52/3 KP4 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 23:00	90,000	539,000	ShopeeFood</span	7.4	13	1
+Quán ăn	Hot Teen - Mì Cay - Quốc Lộ 1A	81/5A Quốc Lộ 1A, KP. 9, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:30 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nha Trang Phố - Đường D10	Đối Diện Phố Nướng 20, Đường D10, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	50+	 Cả ngày | 10:00 - 23:00	50,000	350,000	ShopeeFood</span	6.8	8	1
+Quán ăn	Tiệm Lẩu Than Hoa - Trương Định	188 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	0.0	3	 15:00 - 23:00	30,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bò Tơ Tây Ninh Năm Sánh - Trương Định	42 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 Cả ngày | 10:00 - 23:00	40,000	200,000	ShopeeFood</span	6.5	6	1
+Quán ăn	Lẩu Bò Đường Ray Tân Hiệp - Khu Phố 3	40/A2, Tổ 7, KP. 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 20:00	150,000	500,000	0.0%	<span>_._</span>	0	1
+Ăn chay	Mộc Nhiên - Ẩm Thực Chay	28 Cách Mạng Tháng 8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	50+	 06:00 - 21:00	10,000	100,000	ShopeeFood</span	8.0	2	1
+Quán ăn	Lẩu Bò Số 10 - Đường Bảo Vệ Ống Nước	10 Đường Bảo Vệ Ống Nước, Tổ 21, X. Hoá An, Tp. Biên Hòa, Đồng Nai	0.0	1	 10:00 - 21:00	15,000	270,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Bò Gia Truyền Nam Định - Đoàn Văn Cự	92 Đoàn Văn Cự, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.0	10+	 07:00 - 21:00	25,000	1,000,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Trạm 66 - Gà Ta Nướng Cơm Lam - Võ Thị Sáu	51 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	50+	 11:00 - 21:00	130,000	230,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Kaiserin Restaurant	K36 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 22:00	50,000	200,000	ShopeeFood</span	7.8	27	1
+Quán ăn	Lẩu Bò Mang Về 36 - Bùi Văn Hoà	222 Bùi Văn Hoà, Tổ 1, Khu Phố 3, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	0.0	3	 09:00 - 22:00	200,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hoàng Quý - Chuyên Các Món Hải Sản	 49/11  Võ Thị Sáu, Khu Phố 1, P. Thống Nhất,, Tp. Biên Hòa, Đồng Nai	3.5	10+	 08:00 - 23:00	45,000	88,000	ShopeeFood</span	7.5	13	1
+Nhà hàng	Nhà Hàng Lẩu Neo Shabu Suki - Phan Trung	23 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	50,000	220,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Vườn Thạch Thảo	Quốc Lộ 20, X. Phú Ngọc, Định Quán, Đồng Nai	0	0	0	50,000	200,000	ShopeeFood</span	0	0	1
+Ăn vặt/vỉa hè	Thiên Phước - Gà Quay - Hồ Hoà	Hẻm 108 Hồ Hòa, KP.6, Phường Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 19:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Hệ Thống Ẩm Thực Dê Vàng	92 Nguyễn Bảo Đức, Khu Phố 6A, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 22:00	50,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Thỏ Hải Thùy - Khu Phố 11	Khu Phố 11, Phi Trường, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	5.0	6	 10:00 - 22:00	30,000	150,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Lava Food - Các Món Hàn Quốc - Trương Định	4A Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	20,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chill Sốp Mì Cay - Bún Thái &amp; Lẩu Độ - Dương Tử Giang	7 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	0.0	3	 10:00 - 23:00	10,000	350,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thảo Nguyên - Lẩu Bò Dê - Bùi Trọng Nghĩa	24F Bùi Trọng Nghĩa, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	9	 09:00 - 22:00	200,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tám Gà Ta - N1 Võ Thị Sáu	Lk1 Đường N1 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	8	 08:00 - 22:00	30,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Vịt Nấu Chao - Quán Ăn - Đường N1	LK02 Đường N1, Phường Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 16:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Sườn Nướng Đại Lộc - Hồ Văn Leo	69/14 Hồ Văn Leo, Khu Phố 2, P. Tam Hoà, Tp. Biên Hòa, Đồng Nai	3.5	7	 09:00 - 21:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Quay - Lộc Phát 68	7/45 Nguyễn Ái Quốc, Khu Phố 8, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 21:00	100,000	200,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Paris Cafe - Big C Đồng Nai	Big C Đồng Nai, Quốc Lộ 51, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 21:00	40,000	105,000	ShopeeFood</span	3.2	1	1
+Quán ăn	Quán Miền Tây - Quán Ăn Gia Đình	7/9 KP8, P. Long Bình, Tp. Biên Hòa, Đồng Nai	0	0	0	15,000	200,000	ShopeeFood</span	0	0	1
+Quán ăn	Lộc Dê Bờ Sông	96 Khu Phố 6, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	100,000	200,000	ShopeeFood</span	6.0	3	1
+Quán ăn	Lẩu Gà Lá É - 205 Phan Trung	205 Phan Trung KP 7, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 21:00	200,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Thiện Ngọc - Các Món Nhậu Bình Dân - Võ Cương	Tổ 37, Khu Phố 2, Võ Cương, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 22:00	35,000	200,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Nhà Hàng Vạn Xuân	K80 Đường A3, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 22:00	50,000	950,000	0.0%	9.4	1	1
+Nhà hàng	Nhà Hàng Gió - Chuyên Các Món Hải Sản	Đường D12 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	3.5	10+	 09:00 - 21:00	100,000	500,000	ShopeeFood</span	4.4	1	1
+Quán ăn	Quán Lẩu Bò Ngon - Vú Heo Ướp Sẳn - Nguyễn Ái Quốc	61A/59 Nguyễn Ái Quốc, Khu Phố 8, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	0.0	4	 09:00 - 21:00	130,000	300,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Thành Lộc - Gà Nướng Cơm Lam - Trảng Dài	9/26 Tổ 27 Khu Phố 4 Trảng Dài, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 20:00	20,000	160,000	0.0%	<span>_._</span>	0	1
+Nhà hàng, Quán ăn	Nhà Hàng Seashell - The Mira Central Park	128/16 Nguyễn Ái Quốc, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	5.0	4	 11:00 - 22:00	100,000	200,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Streetfood 24H	6 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	3.0	2	 09:00 - 23:00	15,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Quán nhậu	Quán Hải Yến - Quán Nhậu Bình Dân	Xa Lộ Hà Nội, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	50+	0	15,000	150,000	0.0%	0	0	1
+Nhà hàng	Thái Ngon Ngon - Lotte Mart Biên Hòa	Tầng 1, Tầng 5, Lotte Mart Biên Hòa, Quốc Lộ 1A, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.0	50+	 09:00 - 21:00	30,000	199,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Bích Phượng	73 Hà Huy Giáp, Tp. Biên Hòa, Đồng Nai	5.0	5	 06:00 - 21:00	30,000	40,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn, Quán nhậu	Quán Dê Chung Cư	Khu Chung Cư Phú Thịnh, Đường B5, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 23:00	30,000	400,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Gỏi Cá Bảo Châu - Khu Phố 10	74A/4 Khu Phố 10, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	0.0	3	 10:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Vịt Quay, Gà Quay - Bùi Trọng Nghĩa	415 Bùi Trọng Nghĩa, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	0	0	0	200,000	300,000	0.0%	0	0	1
+Quán ăn	Quỳnh Như Quán	Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	8	 16:00 - 23:00	20,000	50,000	ShopeeFood</span	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Cơm Trưa Ngon &amp; Thèm Hotpot	142 Trương Đinh, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	3.0	2	 10:00 - 22:00	10,000	300,000	0.0%	<span>_._</span>	0	1
+Quán nhậu	Rebel - Nướng &amp; Beer	243/5 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	3.0	2	 10:00 - 23:00	15,000	459,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn, Quán nhậu	Quán Nhậu Biva	173/200 Khu Phố 8, P. Long Bình, Tp. Biên Hòa, Đồng Nai	3.0	1	 10:00 - 22:00	50,000	120,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Lẩu Bò 3 Miền	Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	0	0	0	90,000	300,000	ShopeeFood</span	0	0	1
+Quán ăn	Quán Lẩu Nướng Sân Banh - Phạm Văn Khoai	6A/2B Phạm Văn Khoai, Tổ 7, Khu Phố 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	0.0	1	 10:00 - 23:00	50,000	275,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hướng Dương - Bún &amp; Lẩu Mắm	Hẻm 102 Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	50+	 11:00 - 22:00	35,000	300,000	ShopeeFood</span	8.9	10	0
+Quán ăn	Hải Sản Hào Phát	78/2 Khu Phố 2, Trương Định,  P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 22:00	40,000	150,000	ShopeeFood</span	8.8	6	0
+Quán ăn	Đồng Tâm Drink &amp; Food - Nguyễn Khuyến	Hẻm 1 Nguyễn Khuyến, Tổ 2, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	5.0	3	 09:00 - 22:00	100,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thái 77S - Lẩu Thái Tomyum - Nguyễn Ái Quốc	35/94 Nguyễn Ái Quốc, KP13, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	1.0	1	 09:00 - 21:00	50,000	300,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Ship - Đường Số 9	117 Đường Số 9, Phường An Bình, Tp. Biên Hòa, Đồng Nai	4.5	4	 09:00 - 22:00	20,000	100,000	0.0%	9.4	1	1
+Quán ăn, Quán nhậu	Dê Tươi 38	Đường B5, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	5.0	2	 09:00 - 23:00	80,000	200,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Vịt Quay Hạnh Phước - Phan Đình Phùng	10 Phan Đình Phùng, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 17:00	30,000	300,000	ShopeeFood</span	8.0	4	0
+Quán ăn	Quán Kim Chi - Lẩu Độ &amp; Mì Cay	71 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	30,000	100,000	ShopeeFood</span	7.1	4	0
+Quán ăn, Quán nhậu	Lẩu Dê 668	K3/71 Bùi Hữu Nghĩa, P. Bửu Hòa, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 23:00	15,000	350,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Tư Thìn - Gà Nướng Bánh Bao &amp; Vịt Quay	941 Ngô Quyền, P. An Hòa, Tp. Biên Hòa, Đồng Nai	0.0	4	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Lẩu Nướng Cư Xá Phúc Hải	4/3C - 4/5C Cư Xá Phúc Hải, Kp 2, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	10+	 16:00 - 23:00	5,000	120,000	0.0%	6.3	6	0
+Quán ăn	Quán Ăn Gia Đình - Nông Sì Phố	65 Nguyễn Bảo Đức, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	20,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tây Đô Quán	625 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	0	0	0	30,000	300,000	ShopeeFood</span	0	0	1
+Quán ăn	Trâu Trọng Phúc 3	Tổ 34, KP5 P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	5.0	1	 09:00 - 22:00	40,000	100,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Ẩm Thực Cường Gà Làng Tôi - Bùi Trọng Nghĩa	19E Bùi Trọng Nghĩa, KP. 3, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	0	0	0	29,000	200,000	ShopeeFood</span	0	0	1
+Ăn vặt/vỉa hè	Nem Nướng Út Lợi - Nem Nướng, Sườn Nướng - 223 ĐT768	223 ĐT 768, X. Tân Bình, Vĩnh Cửu, Đồng Nai	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	18 Độ Quán - Cơm Phở &amp; Lẩu - Phạm Văn Khoai	Kios A3- A4 Phạm Văn Khoai, KP.3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	0	0	0	25,000	400,000	0.0%	0	0	1
+Quán ăn	Vịt Nướng Vân Đình	220 Khu Phố 4A, P. Tân Hòa, Tp. Biên Hòa, Đồng Nai	3.0	4	 05:00 - 22:00	15,000	200,000	ShopeeFood</span	<span>_._</span>	0	1
+Quán ăn	Oppa Trung Tuyến - Mì Cay &amp; Gà Rán - Lê Duẩn	189 Lê Duẩn, TT. Long Thành, Long Thành, Đồng Nai	0	0	0	0	0	0.0%	0	0	1
+Quán ăn	Cát Mai - Mì Chay	114 Cách Mạng Tháng 8 , P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	10+	 06:00 - 22:00	15,000	25,000	ShopeeFood</span	6.4	5	1
+Quán ăn	Bún Thái &amp; Mì Độ Hàn Quốc 76 - Trần Quốc Toản	11A1 Khu Dân Cư An Bình, Trần Quốc Toản, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 08:00 - 22:00	35,000	45,000	0.0%	6.2	11	1
+Quán ăn	Bún Đậu Mẹt - Phan Chu Trinh	62 Phan Chu Trinh, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	100+	 15:00 - 21:00	30,000	60,000	0.0%	6.6	16	1
+Quán ăn	Bún Đậu Mai Thị - Nguyễn Ái Quốc	1335 Nguyễn Ái Quốc, Phường Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Làng Tre	9 Đặng Đức Thuật, KP3, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai	5.0	1	 09:00 - 22:00	20,000	220,000	ShopeeFood</span	8.5	2	1
+Quán ăn	Mì Trộn Cô Tiên	49A/4 Quốc Lộ 1A, KP. 10, P. Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	100+	 14:00 - 21:00	5,000	40,000	0.0%	8.2	1	1
+Quán ăn	Hương Ký 4 - Cơm Chiên 18 Món	42A Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 21:00	15,000	25,000	0.0%	4.2	1	1
+Quán ăn	Quyền - Bún Bò Huế	158/4 Trương Định, Tp. Biên Hòa, Đồng Nai	4.5	500+	 06:00 - 23:00	25,000	40,000	0.0%	6.1	7	1
+Quán ăn	Gà Ủ Muối &amp; Đồ Đông Lạnh - Ngã Tư Lò Lu	Hẻm 987 Ngã Tư Lò Lu, X. Hóa An, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 21:00	20,000	65,000	0.0%	<span>_._</span>	0	1
+Quán ăn	GoGo Food - Món Ngon Hà Nội	257 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	0.0	2	 06:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ăn Vặt Minh An - Bánh Tráng Trộn &amp; Nước Ép - Hoàng Tam Kỳ	85 Hoàng Tam Kỳ, Khu Phố 6, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	8	 09:00 - 21:00	5,000	25,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán 242 - Gỏi Đu Đủ Khô Bò - Giáo Xứ Ngọc Đồng	4/10 Giáo Xứ Ngọc Đồng, KP. 9, P. Tân Hòa, Tp. Biên Hòa, Đồng Nai	0.0	4	 11:00 - 21:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Tiến Phát - Bún Bò Măng &amp; Mì Quảng - Phạm Văn Thuận	247/1 Phạm Văn Thuận, Tổ 7, Khu Phố 1, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 11:30 | 15:00 - 18:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán 168 - Bánh Canh Cua &amp; Súp Cua - Phan Trung	263A Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 06:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	A Food - Mì Trộn Indomie &amp; Ăn Vặt HQ	120/74/11 Tổ 9, KP.6, P.Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	15,000	25,000	0.0%	0	0	1
+Quán ăn	Bún Đậu Mắm Tôm &amp; Lẩu Một Người - Quán Số 1	4/15 KP3 Nguyễn Ái Quốc, Phường Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Đô Đô - Hủ Tiếu Nam Vang &amp; Bún Mọc - Đặng Văn Trơn	490h/A2 Hẻm 44 Đặng Văn Trơn, Ấp Nhị Hoà, P. Hiệp Hoà, Tp. Biên Hòa, Đồng Nai	4.5	50+	 06:00 - 22:00	38,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thùy An - Cơm Chiên Mì Xào	66/41 Đồng Khởi, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	20,000	50,000	0.0%	0	0	1
+Quán ăn	Bún Đậu Sân Banh - Bún Đậu - Hồ Văn Leo	37/7  Hồ Văn Leo, Phường Tam Hòa, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cô Hương - Gỏi Cuốn &amp; Gỏi Đu Đủ - Nguyễn Ái Quốc	233 Nguyễn Ái Quốc, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 11:00 - 19:00	6,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ăn Vặt Phượng Hồng - Nguyễn Ái Quốc	1077/42 Nguyễn Ái Quốc, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 21:00	15,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hủ Tiếu Hưng	51 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 21:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Hà Thành - Phạm Văn Thuận	141/11A Phạm Văn Thuận, Khu Phố 5, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 22:00	10,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cô Hai - Hủ Tiếu, Bún &amp; Bánh Canh - Huỳnh Văn Luỹ	Hẻm 62 Huỳnh Văn Lũy, KP. 1, Phường Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	999+	 06:00 - 21:00	20,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Kòi	80 Trương Quyền, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 11:00 - 20:00	40,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Phương Đặng 2 - 42 Đặng Đức Thuật	42 Đặng Đức Thuật, KP. 6, P. Tam Hoà, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 21:00	50,000	75,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Gỏi Cuốn Ông Bà Già - Phan Trung	74 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 21:00	8,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tiệm Ăn Ông Bà Già - Bún Thịt Nướng &amp; Mì Xào - Phan Trung	74A Phan Trung, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 20:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Ngọc Nhung - Đường N1	CN3 Liên Kế 4, Đường N1, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 20:00	35,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Bún Chả Hà Nội &amp; Bún Cá - Bùi Văn Hoà	89 Bùi Văn Hoà, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	50+	 06:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bảo Huy - Cơm Gà Xối Mỡ - Phan Trung	218 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Tam Kỳ Hoa Trúc - Phan Trung	51 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 21:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	A Tỷ - Mì Xào Giòn &amp; Bột Chiên - Đường 30 Tháng 4	255 Đường 30 Tháng 4, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	500+	 11:00 - 23:00	15,000	40,000	0.0%	<span>_._</span>	0	0
+Quán ăn	Bò Kho Hai Cô - Trương Định	161/12 Trương Định, Khu Phố 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 00:01 - 02:00 | 09:00 - 23:59	4,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gỏi Đu Đủ Đâm Ba Khía SOMTAM - Trường Mầm Non Hoa Sen	510 Trường Mầm Non Hoa Sen, Khu Phố 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 11:00 - 22:00	35,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Cô Chang 2 - Hồ Văn Leo	69/14 Hồ Văn Leo, KP. 2, P. Tam Hoà, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	20,000	80,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Quảng Bà Hai - Nguyễn Phúc Chu	168 Nguyễn Phúc Chu, KP. 5, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	500+	 06:00 - 21:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Mì Quảng Phố Hội An - Phan Trung	247C Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 21:30	30,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hương Ký 3 - Cơm Chiên 18 Món	804 Nguyễn Ái Quốc (Gần Cầu Săn Máu), P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 21:00	20,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Nem Nướng Tuyết Trang Hồng Hoa	Bùi Hữu Nghĩa, P. Bửu Hòa, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	50,000	200,000	ShopeeFood</span	7.6	7	1
+Quán ăn	Quán Mai Hương - Bún Bò Huế &amp; Cơm Văn Phòng - Nguyễn Ái Quốc	1708 Nguyễn Ái Quốc, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	10+	 06:00 - 14:00 | 16:00 - 20:00	30,000	60,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Nakharat Thai Restaurant	 K52, Đường N2 , P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	65,000	390,000	0.0%	0	0	1
+Quán ăn	Quán Ăn 42A - Cháo Cá Lóc Rau Đắng &amp; Bánh Canh Cá - Huỳnh Văn Lũy	42A Huỳnh Văn Lũy, Khu Phố 1, P. Hòa Bình, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 20:00	6,000	60,000	0.0%	5.2	1	1
+Quán ăn	Bún Chả Hà Nội Phú Hoàng - Đường 518	86/1A Đường 518, KP 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 06:00 - 22:00	30,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Bò Huế Cố Đô	36 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 21:00	25,000	35,000	0.0%	6.0	2	1
+Nhà hàng, Ăn chay	Nhà Hàng Mộc - Ẩm Thực Chay	P17 Võ Thị Sáu, KP. 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 14:00 | 16:00 - 21:00	25,000	120,000	0.0%	7.1	14	1
+Quán ăn	Bún Chả Cá Đà Nẵng	Đường D4, Khu Phố 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 13:00 | 16:00 - 20:00	20,000	30,000	ShopeeFood</span	7.8	1	1
+Quán ăn	Cơm Gà Tam Kỳ - Trần Quốc Toản	154 Trần Quốc Toản, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	15,000	40,000	0.0%	5.0	1	1
+Quán ăn	Bún Đậu Trần Thành 2 - Lưu Văn Viết	60 Lưu Văn Viết, Phường Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	500+	 11:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Quảng Cô Hai - Lưu Văn Viết	42 Lưu Văn Viết, Khu Phố 1, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 21:30	30,000	40,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Trâm - Gỏi Cuốn - Trương Định	123 Trương Định, Khu Phố 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	100+	 11:00 - 18:00	7,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mỳ Trộn Cay Khô By Nhân Nguyễn - Phan Chu Trinh	34/7 Phan Chu Trinh, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:30 - 18:00	57,000	150,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Wellington Restaurant &amp; Cafe	7/19 Lê Quý Đôn, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:30 - 23:00	59,000	789,000	0.0%	7.0	31	1
+Quán ăn	Bún Đậu 47 - Bún Đậu Mắm Tôm - Phạm Văn Khoai	5/1A Phạm Văn Khoai, KP. 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 10:00 - 23:00	0	0	0.0%	<span>_._</span>	0	0
+Ăn vặt/vỉa hè	Ăn Vặt Vân Béo - Tổ 6	20D/1 Tổ 6, KP3 , P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	50+	 17:00 - 22:00	25,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Ta - Cơm Gà Tam Kỳ - Bùi Văn Hòa	263 Bùi Văn Hoà, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	15,000	310,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Cốm - Sân Banh Đồng Nai	5/2/1B Sân Banh Đồng Nai, Khu Phố 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 11:00 - 21:00	10,000	110,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà rán và Mì Ý - Jollibee - 529 Phạm Văn Thuận	529 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	40,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Hà Thành - Dương Bạch Mai	3/50 Dương Bạch Mai, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 07:00 - 17:00	10,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hủ Tiếu Nam Vang 97 - Nguyễn Ái Quốc	97 Nguyễn Ái Quốc, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	10+	 05:30 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Quảng Duy Nam - Võ Thị Sáu	34/3 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 07:00 - 22:00	12,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Phú Gia 2 - Nguyễn Khuyến	95B Nguyễn Khuyến, Tổ 24, Khu Phố 5A, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	3,000	69,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hiền Trang - Bún Đậu &amp; Bún Chả	Đường B5, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	10+	 06:00 - 21:00	20,000	50,000	ShopeeFood</span	8.2	3	1
+Quán ăn	Mì Cay Berry - Phan Trung	69 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	0.0	1	 09:00 - 22:00	30,000	150,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bánh Canh Xuân Hoa - Nguyễn Ái Quốc	1776 Nguyễn Ái Quốc, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	10+	 07:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Đậu Long Xuyên	86 Hưng Đạo Vương, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	25,000	55,000	0.0%	4.2	30	1
+Quán ăn	Ăn Vặt Xịn - Yết Kiêu	25 Yết Kiêu, KP2, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	6	 09:00 - 22:00	20,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Riêu Cua A! Hai Lúa - Trương Định	54 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 07:00 - 14:00 | 16:00 - 21:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Phở Hương Bắc - Trương Định	91/4 Trương Định, KP. 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 07:00 - 22:00	20,000	30,000	ShopeeFood</span	7.8	2	1
+Quán ăn	Cơm Gà Xối Mỡ Hương Quê Quán 3 - Mạc Đĩnh Chi	32 Mạc Đĩnh Chi, Khu Phố 10, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 21:00	35,000	45,000	0.0%	<span>_._</span>	0	1
+Quán ăn, Giao cơm văn phòng	Quán Mai Trinh - Cơm Gà Tam Kỳ - Phạm Văn Khoai	103E Tổ 6, KP.3 Đường Phạm Văn Khoai, Phường Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Đan Nhi - Bún Chả Cá Quy Nhơn	57 Nguyễn Thành Phương, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:30 - 12:00 | 15:30 - 21:00	20,000	30,000	0.0%	4.3	2	1
+Quán ăn	Bún Riêu Thuý Kiều - Đường 768	Hẻm 3 Đường 768, KP3A, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	6	 06:00 - 11:00 | 13:00 - 18:00	20,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Ăn Cô Á - Mì Quảng &amp; Bún Bò - Trần Quốc Toản	287A Hẻm 77 Trần Quốc Toản, KP2, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	7	 06:00 - 18:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cô Hạnh - Bún Riêu &amp; Nước Giải Khát - Đường D4	7 Đường D4, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 06:00 - 21:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Mì Hoành Thánh Thuý Vic Chi nhánh Đồng Nai	Phòng 016, Lô B Chung Cư Hóa An, Xã Hóa An, Tp. Biên Hòa, Đồng Nai	0.0	4	 09:00 - 21:00	35,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Bún Mọc Ngon CN9 - Bún &amp; Hủ Tiếu - Nguyễn Thái Học	Tổ 51 Ngã 3 Nguyễn Thái Học, KP 4C, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	3.5	9	 06:00 - 12:00 | 14:00 - 17:45	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ &amp; Mì Xào Hùng Ký - Nguyễn Ái Quốc	M2/1 Hẻm 1400 Nguyễn Ái Quốc, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	3.5	10+	 06:00 - 23:59	30,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Tuyền Trung Cao - Bún Nước Lèo &amp; Lẩu Mắm	7D Cách Mạng Tháng 8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	35,000	220,000	ShopeeFood</span	7.9	12	1
+Quán ăn	Bún Mắm &amp; Lẩu Mắm Cô Bảy - Nguyễn Ái Quốc	514 Nguyễn Ái Quốc, Khu Phố 9, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	9	 06:00 - 22:00	10,000	350,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ăn Vặt Dì Hai - Food &amp; Drink - Phạm Văn Thuận	1200 Phạm Văn Thuận, Khu Phố 1, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 20:30	15,000	61,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gỏi Sứa - Bánh Canh Gia Truyền - Dương Tử Giang	11 Dương Tử Giang, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	10+	0	25,000	50,000	0.0%	0	0	1
+Café/Dessert	ELAN Healthy Food - An Bình	28 - 29S, KDC An Hoà 2, KP.1 Đường Số 1, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 07:00 - 22:00	15,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Chả giò Phượng	53 Lê Thánh Tôn, P. Thanh Bình, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 21:00	2,000	45,000	0.0%	6.6	1	1
+Quán ăn	Hương Thủy 2 - Cơm Gà Tam Kỳ - Bùi Trọng Nghĩa	100 Bùi Trọng Nghĩa, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 19:00	0	0	0.0%	10.0	2	1
+Quán ăn	Cơm Gà Xối Mỡ Hoàng Long Nam Định - Nguyễn Văn Tiên	127 Nguyễn Văn Tiên, KP 9, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:30 - 22:00	30,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Thố Anh Nguyễn	136/1 Bùi Văn Hòa, KP. 3, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Cô Tư Khoa - Cơm Cuộn Kim Bắp &amp; Trà Trái Cây - Hà Huy Giáp	102/1C Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	50+	 15:00 - 22:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Miền Tây - Đồng Khởi	135 Đồng Khởi, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	500+	 09:00 - 14:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Shop Online	Chicken Box - Korean Food - Phan Trung	91 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	999+	0	0	0	0.0%	0	0	1
+Quán ăn	Quán Cơm Ngọc Huyền - Hoàng Tam Kỳ	E624 Hoàng Tam Kỳ, Khu Phố 5, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 14:00 | 16:00 - 19:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Xôi Bé Mập - Phạm Văn Thuận	223 Phạm Văn Thuận, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 21:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Xôi A Phệ - Bánh Giò &amp; Ăn Vặt - Nguyễn Bảo Đức	9 Nguyễn Bảo Đức, KP6, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 20:30	20,000	120,000	0.0%	<span>_._</span>	0	1
+Nhà hàng	Pizza Hut - Võ Thị Sáu	R127-R128 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 22:00	50,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	PaMi - Bánh Mì &amp; Xôi - Nguyễn Ái Quốc	7A/45 Nguyễn Ái Quốc, KP. 9, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ Tư Kiều 5	59/1 Phạm Văn Thuận, P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	999+	 10:00 - 14:00 | 16:00 - 22:00	25,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Văn Phòng Hoàng Hà - Cách Mạng Tháng 8	115 - 117 Cách Mạng Tháng 8, P. Hòa Bình, Tp. Biên Hòa, Đồng Nai	4.5	999+	 09:00 - 22:00	10,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Chiên Đảo Cầu Vồng - Xôi &amp; Bánh Mì - Hàn Thuyên	244 Hàn Thuyên, KP. 12, P. An Bình, Tp. Biên Hòa, Đồng Nai	4.5	50+	 08:00 - 22:00	10,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Hải Hằng - Cơm Gà Xối Mỡ - Quốc Lộ 1A	57 Quốc lộ 1A, Phường Tân Biên, Tp. Biên Hòa, Đồng Nai	4.5	500+	 08:00 - 14:00 | 16:00 - 22:30	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Hoa Mai 2 - Cơm Trưa &amp; Bún Bò Huế - Nguyễn Khuyến	Đường Nguyễn Khuyến, Tổ 2, KP.5, P.  Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 20:30	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Thố Anh Nguyễn - Phan Trung	106 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 10:00 - 22:00	50,000	500,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Rán CP Five Star - Hà Huy Giáp	75G1 Hà Huy Giáp, Khu Phố 3, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Nguyễn Khuyến - Trần Văn Xã	Tổ 3 Trần Văn Xã, Khu Phố 5, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	50+	 15:00 - 22:00	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	PaMi - Bánh Mì &amp; Xôi - Đồng Khởi	90/47 Đồng Khởi, KP. 8, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	4.5	500+	 07:00 - 22:00	15,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Xôi Chiên Ngọc Quyên - Nguyễn Phúc Chu	Nguyễn Phúc Chu, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	4.5	50+	 06:30 - 21:00	10,000	30,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Rán CP Five Star - BigC Tân Hiệp	Tầng Trệt BigC Tân Hiệp, 1135 Nguyễn Ái Quốc, Khu Phố 2, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	10,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm B&amp;T - Xa Lộ Hà Nội	643 Xa Lộ Hà Nội, Khu Phố 2, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 22:00	5,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ Hương Quê Quán - Huỳnh Dân Sanh	413 Huỳnh Dân Sanh, Tổ 11, Khu Phố 5, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 14:00 | 16:00 - 20:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Beer club	Phố Bụi - Beer - Đường D2	Khu Phố 6, Đường D2, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 22:00	0	0	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Cao Hiền - Vũ Hồng Phô	28 Vũ Hồng Phô (Căn Tin Trường Chính Trị), P. Bình Đa, Tp. Biên Hòa, Đồng Nai	4.5	9	 10:00 - 19:00	25,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm B&amp;T - Chuyên Cơm Tấm - Đồng Khởi	Y10 Hẻm 136 Đồng Khởi, KP. 5, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 16:00 - 22:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Shop/Cửa hàng	Ăn Vặt Bông Bí	28C Phan Đình Phùng, P. Quang Vinh, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	10,000	100,000	0.0%	6.8	3	1
+Quán ăn	Cơm Sườn D2D - Đường D12	H43-44 Đường D12, Kp7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	10+	 05:30 - 13:30	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Bé Na - Cơm Tấm Sườn Bì Chả Trứng - Nguyễn Ái Quốc	272 Nguyễn Ái Quốc, Khu Phố 4, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai	4.5	50+	 06:00 - 22:00	20,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thảo Nguyên Beefsteak - Đường 30 Tháng 4	152 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 07:00 - 22:00	50,000	100,000	ShopeeFood</span	8.0	1	1
+Quán ăn	Cơm Tấm Cây Bàng - Cơm Trưa Văn Phòng - Phạm Văn Thuận	803 Phạm Văn Thuận, Khu Phố 5, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	5	 11:00 - 21:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Như Quỳnh - Nguyễn Khuyến	11 Nguyễn Khuyến, KP 5, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	0.0	2	 10:00 - 21:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Gà Xối Mỡ Minh Hưng - Hẻm 104 Đường 518	104/1A14, Hẻm 104 Đường 518, Tổ 7, Khu Phố 3, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	0.0	4	 10:30 - 13:30 | 16:30 - 19:30	30,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ẩm Thực Chay Thiện Tâm - Đặng Văn Trơn	Đặng Văn Trơn, Tổ 7, Khu Phố Tam Hòa, P. Hiệp Hòa, Tp. Biên Hòa, Đồng Nai	4.5	10+	 07:00 - 20:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	PaMi - Bánh Mì &amp; Xôi - Phạm Văn Thuận	1291 Phạm Văn Thuận, KP 2, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	9	 00:01 - 23:59	10,000	50,000	0.0%	<span>_._</span>	0	1
+Ăn vặt/vỉa hè	Xôi Gà Ngọc Sang - Đường 30 Tháng 4	225 Đường 30 Tháng 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	8	 09:00 - 21:00	20,000	23,000	ShopeeFood</span	5.5	4	0
+Quán ăn	Cơm Chiên Gà Xối Mỡ Huy Khánh 02 - BigC Đồng Nai	BigC Đồng Nai, P. Long Bình Tân, TP. Biên Hoà, Đồng Nai, Tp. Biên Hòa, Đồng Nai	4.5	50+	 09:00 - 19:30	7,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Ta Nướng Cơm Lam 79 - Cơm Gà Xối Mỡ &amp; Mì Xào - Đồng Khởi	136/137 Đồng Khởi, Tổ 15, Khu Phố 5, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 08:00 - 22:00	30,000	200,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Đệ Nhất Quán - Cơm Chiên &amp; Mì Xào - Trương Định	12 Trương Định, P. Tân Mai, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 22:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Nướng Mỹ Hạnh - Nguyễn Văn Hoài	B22E Nguyễn Văn Hoài, P. Tân Phong, Tp. Biên Hòa, Đồng Nai	0	0	0	15,000	220,000	0.0%	0	0	1
+Quán ăn	Cơm Gà Tam Kỳ Bà Anh - Hưng Đạo Vương	19 Hưng Đạo Vương, Khu Phố 4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 21:00	30,000	60,000	0.0%	6.7	5	1
+Quán ăn	Quán Cơm Dũng 2 - Bùi Văn Hoà	1005 Bùi Văn Hoà, Khu Phố 7, P. Long Bình, Tp. Biên Hòa, Đồng Nai	5.0	9	 10:30 - 20:00	35,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Ăn Vặt Quỳnh Nguyễn - Nguyễn Khuyến	5 Nguyễn Khuyến, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai	0.0	3	 06:00 - 22:00	15,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Chiên Số 1 - Nguyễn Ái Quốc	672 Nguyễn Ái Quốc, KP. 3, P. Hố Nai, Tp. Biên Hòa, Đồng Nai	0.0	2	 10:30 - 22:30	25,000	65,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Gà Xối Mỡ 38 - Chợ Điều	Chợ Điều, Tổ 13, Khu Phố 2, P. Long Bình, Tp. Biên Hòa, Đồng Nai	4.5	6	 10:00 - 21:30	25,000	60,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Tấm Ngon	30 Nguyễn Bảo Đức, KP6, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	0	15,000	50,000	0.0%	0	0	1
+Quán ăn	Cơm Gà Xối Mỡ 68 - Nguyễn Ái Quốc	1806 Nguyễn Ái Quốc, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai	4.5	500+	 10:00 - 20:00	25,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Quán Cơm Gia Phúc - Phạm Văn Thuận	485 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 08:00 - 21:00	30,000	40,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Chiên Gà Xối Mỡ 678 - Phạm Thị Nghĩa	110 Phạm Thị Nghĩa, Khu Phố 5, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	10+	 09:00 - 21:00	35,000	55,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cô Tư Khoa - Cơm Cuộn Kim Bắp &amp; Trà Trái Cây - Cách Mạng Tháng Tám	160/87 Cách Mạng Tháng Tám, Khu Phố 3, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	100+	 06:00 - 11:00 | 14:00 - 21:00	25,000	35,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Gà Ta Tam Kỳ Ánh Tuyết - Võ Thị Sáu	12 Võ Thị Sáu, Phường Thống Nhất, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 22:00	30,000	100,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Cơm Tấm Mũi Tàu - Cách Mạng Tháng 8	55 Cách Mạng Tháng 8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai	4.5	50+	 07:00 - 13:00	12,000	35,000	0.0%	<span>_._</span>	0	1
+Café/Dessert, Quán ăn	Cơm Chiên Gà Xối Mỡ Thịnh Phát	96B Bùi Hữu Nghĩa, P. Hoá An, Tp. Biên Hòa, Đồng Nai	4.5	100+	 10:00 - 21:00	25,000	50,000	0.0%	<span>_._</span>	0	1
+Quán ăn	Thịnh Phát 2 - Cơm Gà Xối Mỡ - Phạm Văn Thuận	511 Phạm Văn Thuận, KP. 2, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai	4.5	100+	 09:00 - 20:00	0	25,000	0.0%	<span>_._</span>	0	1
+Café/Dessert	Trà Sữa Sweet Cup - Lê Hồng Phong	12 Đường 14, Khu Đô Thị Lê Hồng Phong 2, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	999+	 14:00 - 22:00	15,000	70,000	0.0%	8.1	12	1
+Café/Dessert	Trà Sữa Kacha - Tô Hiến Thành	30 Tô Hiến Thành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 22:00	20,000	40,000	0.0%	10.0	2	1
+Ăn vặt/vỉa hè	Trà Sữa Nhỏ - Phùng Thế Tài	97 Phùng Thế Tài, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 22:00	15,000	30,000	0.0%	7.0	39	1
+Café/Dessert	Koi House Coffee	17 Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	500+	 07:00 - 22:00	22,000	49,000	0.0%	10.0	1	1
+Quán ăn	Cơm Tấm Sài Gòn NG - Thống Nhất	296 Thống Nhất, Phường Phương Sơn, Tp. Nha Trang, Khánh Hoà	4.5	500+	 10:00 - 22:00	0	0	0.0%	10.0	4	1
+Café/Dessert	Trà Sữa Mixue - Dã Tượng	30 Dã Tượng, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	100+	 09:00 - 23:00	15,000	35,000	0.0%	10.0	1	1
+Café/Dessert	Trà Sữa Madi - Nha Trang	22 Ngô Đức Kế, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	 08:00 - 22:00	20,000	35,000	0.0%	10.0	5	1
+Café/Dessert	Kacha Tea &amp; Fast Food - Nguyễn Đình Chiểu	Toà Nhà Napoleon, Nguyễn Đình Chiểu, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	10+	 07:30 - 22:30	30,000	50,000	0.0%	10.0	2	1
+Quán ăn	Chè My - Hồng Bàng	51A Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	 10:00 - 22:00	9,000	35,000	0.0%	10.0	1	1
+Café/Dessert	Sữa Chua Trân Châu Hạ Long - Chung Cư CT2	7B Chung Cư CT2, KĐT Vĩnh Điềm Trung, Đường 19 Tháng 5, Tp. Nha Trang, Khánh Hoà	4.5	100+	 08:00 - 23:00	15,000	35,000	0.0%	9.8	1	1
+Quán ăn	Xịn Gà Nướng - Cổ Loa	5 Cổ Loa, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	500+	 14:00 - 22:00	5,000	40,000	0.0%	10.0	1	1
+Quán ăn	Tiệm Cơm Sườn Ngon - 78 Nguyễn Đình Chiểu	78 Nguyễn Đình Chiểu, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	50+	 09:00 - 22:00	3,000	40,000	0.0%	10.0	1	1
+Café/Dessert	Trà Sữa Tornado - Nha Trang	121A Hồng Bàng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	500+	 10:00 - 12:00 | 16:00 - 22:00	10,000	30,000	0.0%	8.2	8	1
+Quán ăn	Bánh Canh Bà Thừa - Phan Chu Trinh	10A Phan Chu Trinh, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	100+	 06:00 - 21:00	10,000	50,000	0.0%	9.1	16	1
+Café/Dessert	Chachacha - Trà Sữa - Bạch Đằng	12 Bạch Đằng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	100+	 10:00 - 22:00	0	0	0.0%	9.1	2	1
+Quán ăn, Giao cơm văn phòng	Cơm Gà Xối Mỡ Thụy Kha - Trần Nhật Duật	34B Trần Nhật Duật, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	999+	 09:00 - 20:30	25,000	45,000	ShopeeFood</span	8.7	5	1
+Café/Dessert	Cà Phê Ông Bầu - Trần Hưng Đạo	1 Trần Hưng Đạo, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	 06:30 - 21:00	16,000	35,000	0.0%	10.0	1	1
+Quán ăn	Méo Nè - Bếp Ăn Hàn Meochan	874 Đường 2 Tháng 4, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	999+	 10:00 - 22:00	15,000	50,000	0.0%	8.8	6	1
+Café/Dessert	Vigor Tea - Trà Sữa Đài Loan - Vĩnh Điềm Trung	2A Đường B4, Vĩnh Điềm Trung, X. Vĩnh Ngọc, Tp. Nha Trang, Khánh Hoà	4.5	100+	0	25,000	42,000	0.0%	0	0	1
+Quán ăn	Súp Cua Vân Nguyễn	15a Võ Trứ, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 20:00	15,000	45,000	0.0%	8.5	9	1
+Ăn vặt/vỉa hè	Cháo Ếch Singapore NG - Thống Nhất	296 Thống Nhất, P. Phương Sơn, Tp. Nha Trang, Khánh Hoà	4.5	999+	0	10,000	20,000	0.0%	0	0	1
+Quán ăn	Bún Chả Hà Nội Hạnh Trang - Trần Phú	45 Trần Phú, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	100+	 06:00 - 17:00	12,000	55,000	0.0%	10.0	1	1
+Quán ăn	Cơm Tấm Sườn Que Thiên Ân - Ngô Gia Tự	65 Ngô Gia Tự, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	500+	 09:00 - 20:00	15,000	40,000	0.0%	8.5	185	1
+Café/Dessert	Cơm Tấm Xiên Que My My - Cao Bá Quát	6 Cao Bá Quát, P. Phước Tân, Tp. Nha Trang, Khánh Hoà	4.5	500+	 08:00 - 22:00	15,000	30,000	0.0%	8.6	68	1
+Quán ăn	Johnny Steak House	58A Lê Quý Đôn, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	 10:00 - 22:00	30,000	250,000	0.0%	9.9	7	1
+Quán ăn	Bánh Canh Tôm Tít Thịt Cua	65 Ngô Gia Tự, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	 06:00 - 20:00	20,000	50,000	0.0%	8.5	189	1
+Café/Dessert	Trà Sữa Puntea - Hồng Lĩnh	33A Hồng Lĩnh, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	50+	 08:00 - 22:00	10,000	35,000	0.0%	8.3	12	1
+Café/Dessert	Tous Les Temps - Võ Trứ	100 Võ Trứ, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 22:00	19,000	55,000	0.0%	8.1	10	1
+Café/Dessert	Trà Sữa Nướng Dong Ju - Huỳnh Thúc Kháng	42 Huỳnh Thúc Kháng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	50+	 08:00 - 22:00	15,000	35,000	0.0%	9.3	2	1
+Café/Dessert	Mộc Coffee House	79 Lê Đại Hành, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	 07:00 - 22:30	30,000	100,000	0.0%	7.0	2	1
+Shop Online	Tiệm Mì Nhà Chu	B9 Chung Cư Chợ Đầm, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	999+	 10:00 - 22:00	15,000	20,000	0.0%	8.0	1	1
+Nhà hàng	LIVIN Barbecue - BBQ Xông Khói Kiểu Mỹ - Bạch Đằng	77 Bạch Đằng, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	10+	 16:00 - 22:00	125,000	300,000	0.0%	8.0	24	1
+Café/Dessert	Quán 3K - Sinh Tố &amp; Ăn Vặt	39A Nguyễn Đình Chiểu, P. Vĩnh Thọ, Tp. Nha Trang, Khánh Hoà	4.5	100+	 07:00 - 22:00	10,000	45,000	0.0%	8.1	10	1
+Café/Dessert	Trà Sữa Cóc	16A Trần Nhật Duật, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	999+	 10:00 - 22:30	15,000	30,000	0.0%	7.9	8	1
+Quán ăn	Phúc Miêu Dimsum &amp; Tea House	6 Thủy Xưởng, P. Phương Sơn, Tp. Nha Trang, Khánh Hoà	4.5	999+	 08:30 - 22:00	12,000	70,000	0.0%	8.8	71	1
+Quán ăn	Tiệm Gà Nướng Phương - Cửu Long	1 Cửu Long, P. Phước Hoà, Tp. Nha Trang, Khánh Hoà	0.0	2	 15:00 - 21:00	150,000	290,000	0.0%	10.0	1	1
+Café/Dessert	Trà Sữa Gấu	56B Đồng Nai, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	999+	 08:00 - 20:00	20,000	60,000	0.0%	7.0	4	1
+Café/Dessert	Kem Dairy Queen - Go! Nha Trang	Tầng Trệt, TTTM GO! Nha Trang, Đường 19/5, Tp. Nha Trang, Khánh Hoà	4.5	50+	 10:00 - 22:00	50,000	100,000	0.0%	7.4	23	1
+Quán ăn	Bánh Xèo Giòn 79 - Lê Đại Hành	20 Lê Đại Hành, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	10+	 14:00 - 22:00	14,000	67,000	0.0%	10.0	1	1
+Café/Dessert	Tous Les Temps - Nguyễn Đình Chiểu	3 Nguyễn Đình Chiểu, P. Vĩnh Phước, Tp. Nha Trang, Khánh Hoà	4.5	500+	 07:00 - 22:00	19,000	55,000	0.0%	7.4	21	1
+Café/Dessert	Khu C - Food &amp; Drink	55 Đặng Tất, P. Vĩnh Hải, Tp. Nha Trang, Khánh Hoà	4.5	999+	 08:00 - 22:00	12,000	55,000	0.0%	8.3	21	1
+Café/Dessert	Tous Les Temps - Yersin	46 Yersin, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 22:00	19,000	55,000	0.0%	7.5	53	1
+Quán ăn	Cơm Gà Núi Một	58 Núi Một, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	500+	 10:00 - 20:00	33,000	180,000	0.0%	7.6	8	1
+Quán ăn	CƠM TẤM TUYỀN - BẠCH ĐẰNG	12 Bạch Đằng, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	100+	 06:00 - 13:00	0	0	0.0%	10.0	2	1
+Quán ăn	Bánh Canh Hai Cá	156 Nguyễn Thị Minh Khai, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	100+	 06:00 - 22:00	15,000	80,000	0.0%	7.1	12	1
+Quán ăn	Cơm Tấm Sườn Que Mật Ong 63	65 Ngô Gia Tự, P. Tân Lập, Tp. Nha Trang, Khánh Hoà	4.5	500+	 06:00 - 14:00	30,000	50,000	0.0%	8.2	5	1
+Quán ăn	Machiko Sushi	 485 đường 2/4 , Tp. Nha Trang, Khánh Hoà	4.5	500+	 09:00 - 21:30	18,000	198,000	0.0%	8.8	12	1
+Nhà hàng	The Pizza Company - 23 Tháng 10	99A Đường 23 Tháng 10, P. Phương Sơn, Tp. Nha Trang, Khánh Hoà	4.5	999+	 10:00 - 22:00	36,000	449,000	0.0%	7.0	4	1
+Nhà hàng	Gà Rán KFC - Nha Trang Center	20 Trần Phú, P. Lộc Thọ, Tp. Nha Trang, Khánh Hoà	4.5	500+	 09:00 - 22:00	29,000	179,000	0.0%	7.0	36	1
+Café/Dessert	Taka House - Milktea &amp; Accessories	57 Hoàng Sa, P. Vĩnh Nguyên, Tp. Nha Trang, Khánh Hoà	4.5	500+	 07:30 - 21:00	12,000	38,000	0.0%	8.7	3	1
+Café/Dessert	Sinh Tố Chất	16A Trần Nhật Duật, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	999+	 09:30 - 21:00	6,000	50,000	0.0%	7.0	13	1
+Quán ăn	MinChu - Mì Cay Hàn Quốc - Hàn Thuyên	2A Hàn Thuyên, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	500+	 15:00 - 21:30	10,000	100,000	0.0%	6.4	30	1
+Café/Dessert	Xinshiqi - Lê Thánh Tôn	9C Lê Thánh Tôn, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	999+	 08:00 - 22:00	27,000	42,000	0.0%	7.1	74	1
+Nhà hàng	Gà rán và Mì Ý - Jollibee - CoopMart Nha Trang	2 Lê Hồng Phong, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	999+	 09:00 - 21:00	15,000	44,000	0.0%	7.0	5	1
+Café/Dessert	Highlands Coffee - Hàn Thuyên	12 Hàn Thuyên, P. Xương Huân, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 19:00	9,000	65,000	0.0%	9.4	1	1
+Quán ăn, Giao cơm văn phòng	Bò Né 3 Ngon - Mì Cay Cơm Trộn - Vân Đồn	67 Vân Đồn, P. Phước Hòa, Tp. Nha Trang, Khánh Hoà	4.5	999+	 06:00 - 23:00	15,000	55,000	0.0%	6.0	50	0
+Nhà hàng	Pizza Hut - Lê Thành Phương - NT	67 Lê Thành Phương, P. Phương Sài, Tp. Nha Trang, Khánh Hoà	4.5	100+	 10:00 - 21:00	100,000	200,000	0.0%	7.1	60	1
+Quán ăn	Cuốn Papa's	16 Lê Quý Đôn, P. Phước Tiến, Tp. Nha Trang, Khánh Hoà	4.5	999+	 08:00 - 22:30	10,000	25,000	0.0%	6.0	35	1
+Café/Dessert	SuHi - Trà Sữa &amp; Rau Má Pha - Lê Hồng Phong	124 Lê Hồng Phong, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	100+	0	5,000	35,000	0.0%	0	0	1
+Café/Dessert	Highlands Coffee - Lê Hồng Phong Nha Trang	108 Lê Hồng Phong, P. Phước Hải, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 23:00	19,000	55,000	0.0%	9.8	4	1
+Café/Dessert	Mr Good Tea - Vĩnh Điềm Trung	01 Đường C1 Vĩnh Điềm Trung, X. Vĩnh Hiệp, Tp. Nha Trang, Khánh Hoà	4.5	999+	 07:00 - 22:00	15,000	35,000	0.0%	6.4	4	0

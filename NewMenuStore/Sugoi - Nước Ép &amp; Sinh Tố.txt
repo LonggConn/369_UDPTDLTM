@@ -1,0 +1,2 @@
+,Food,Price
+0,Detox ,"39,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Chân gà sốt thái (hộp lớn),"80,300"
+1,Chân gà ngâm sả tắc- Hộp Lớn,"80,300"
+2,Chân gà sốt thái (hộp nhỏ),"47,450"
+3,Chân gà rút xương sốt thái (hộp lớn),"131,400"
+4,Chân gà ngâm sả tắc (hộp nhỏ),"47,450"
+5,Chân gà rút xương ngâm sả tắc (hộp lớn),"131,400"
+6,Chân gà rút xương sốt thái (hộp nhỏ),"73,000"
+7,Chân gà rút xương ngâm sả tắc (hộp nhỏ),"73,000"
+8,Cóc Xoài Lắc ,"14,600"

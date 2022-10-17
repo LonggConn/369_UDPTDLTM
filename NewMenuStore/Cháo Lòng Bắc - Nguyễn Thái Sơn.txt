@@ -1,0 +1,10 @@
+,Food,Price
+0,Tô cháo huyết,"18,000"
+1,Tô cháo lòng thường,"46,000"
+2,Tô cháo lòng đặc biệt,"58,000"
+3,Tô cháo huyết và đĩa lòng 1 người,"75,000"
+4,Dồi huyết nóng,"30,000"
+5,Đĩa lòng đầy đủ,"138,000"
+6,Lòng kí đầy đủ,"58,000"
+7,Huyết nóng tô,"35,000"
+8,Huyết nóng chén,"12,000"

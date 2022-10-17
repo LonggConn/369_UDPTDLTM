@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà xối mỡ má đùi ,"35,000"
+1,Cơm gà xối mỡ đùi ,"35,000"
+2,Cơm thêm ,"5,000"
+3,Cơm gà góc tư ,"48,000"
+4,Cơm Chiên Trứng,"32,000"
+5,Cơm Chiên Xúc Xích,"32,000"

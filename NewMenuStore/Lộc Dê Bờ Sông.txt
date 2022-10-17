@@ -1,0 +1,3 @@
+,Food,Price
+0,Dê xào sả ớt,"150,000"
+1,Bao tử dê xào măng,"100,000"

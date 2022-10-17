@@ -1,0 +1,12 @@
+,Food,Price
+0,Vỏ Bưởi Thái Lan,"240,000"
+1,Khô Gà Lá Chanh,"175,000"
+2,Khô Heo Tỏi,"220,000"
+3,Khô Heo Cay,"190,000"
+4,Lạp Xưởng Tươi,"140,000"
+5,Chân Giò Rút Xương,"408,000"
+6,Chả Hoa Trứng Muối,"170,000"
+7,Jambon Trứng Muối,"210,000"
+8,Giò Chả Tứ Xuyên,"210,000"
+9,Thốt Nốt Sấy Dẻo Thái Lan,"240,000"
+10,Xí Muội Đào Thái Lan,"210,000"

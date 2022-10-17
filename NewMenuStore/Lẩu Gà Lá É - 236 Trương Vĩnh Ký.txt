@@ -1,0 +1,7 @@
+,Food,Price
+0,Lẩu gà lá é nhỏ,"199,000"
+1,Lẩu Gà Lá É Trung,"249,000"
+2,Lẩu Gà Lá É Lớn,"329,000"
+3,Lẩu Gà Lá Giang Vừa,"249,000"
+4,Lẩu Gà Lá Giang Nhỏ,"199,000"
+5,Lẩu gà lá giang lớn (5-6 người ăn ),"329,000"

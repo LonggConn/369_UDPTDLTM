@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm phần,"70,000"
+1,Cơm mực dồn thịt,"55,000"
+2,Cơm cá thu sốt cà chua,"50,000"
+3,Cơm sườn,"50,000"
+4,Cơm gà kho sả,"50,000"
+5,Cơm cá lóc kho,"35,000"
+6,Cơm đùi gà roti,"50,000"
+7,Cơm cá thu chiên,"55,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà đào Lani,"20,000"
+1,Hồng trà trân châu ,"20,000"
+2,Trà vải Lani,"20,000"
+3,Đá Me Sữa,"20,000"
+4,Trà sữa Lani,"23,000"
+5,Trà tắc ,"12,000"
+6,Trà Tắc Thái Xanh,"20,000"
+7,Cá viên chiên Thập cẩm cặp đôi,"35,000"
+8, Cá viên chiên Thập cẩm FA,"25,000"
+9,Cá viên chiên Thập cẩm xum vầy,"45,000"
+10,Kẹo Kim Yến,"5,000"

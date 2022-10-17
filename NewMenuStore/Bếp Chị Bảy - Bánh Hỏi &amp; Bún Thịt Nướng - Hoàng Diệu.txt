@@ -1,0 +1,11 @@
+,Food,Price
+0,Cafe đen ,"15,000"
+1,Cafe sữa ,"17,000"
+2,Bạc xỉu ,"17,000"
+3,Nước cam ,"30,000"
+4,Thịt  nướng đặc biệt,"110,000"
+5,Thịt ba chỉ nướng đặc biệt,"115,000"
+6,Bún thêm,"15,000"
+7,Rau thêm,"25,000"
+8,Thịt nạc dăm ướp sẵn,"90,000"
+9,Thịt ba chỉ ướp sẵn ,"95,000"

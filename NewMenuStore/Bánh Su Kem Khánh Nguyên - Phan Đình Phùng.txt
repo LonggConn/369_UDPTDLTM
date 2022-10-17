@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh su vani (5 cái),"20,000"
+1,Bánh su phô mai (5 cái),"25,000"
+2,Bánh su socola (5 cái),"25,000"
+3,Bánh su trà xanh (5 cái),"25,000"
+4,Bánh su vani (10 cái),"40,000"
+5,Bánh su phô mai (10 cái),"50,000"
+6,Bánh su kem socola (10 cái),"50,000"
+7,Bánh su trà xanh (10 cái),"50,000"
+8,Bánh flan sữa tươi,"7,000"
+9,Rau câu nhãn nhục,"5,000"
+10,Crepes Sầu Riêng tươi,"120,000"

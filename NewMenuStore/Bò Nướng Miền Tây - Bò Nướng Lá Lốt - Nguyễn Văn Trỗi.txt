@@ -1,0 +1,11 @@
+,Food,Price
+0,Bò nướng lá lốt,"57,000"
+1,Bò nướng mỡ chài,"57,000"
+2,Bún thịt nướng,"27,000"
+3,Bún thập cẩm,"37,000"
+4,Thịt nướng,"60,000"
+5,Chả giò tôm thịt,"57,000"
+6,Thập Cẩm,"114,000"
+7,Trà tắc,"12,000"
+8,Sữa đậu nành,"10,000"
+9,Chanh dây,"20,000"

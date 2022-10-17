@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh Đa Cua Chả Lá Lốt,"15,000"
+1,Bánh Đa Cua Thập Cẩm,"15,000"
+2,Bánh Đa Cua Mọc,"15,000"
+3,Bánh Đa Cua Viên Thịt,"15,000"
+4,Bánh Đa Cua Chả Viên Bò,"15,000"
+5,Bánh Đa Cua Chả Cá,"15,000"
+6,Bánh Đa Cua,"15,000"

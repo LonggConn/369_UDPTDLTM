@@ -1,0 +1,4 @@
+,Food,Price
+0,Chân gà sả tắc (túi zip-kèm muối chấm),"50,000"
+1,Muối chấm (1 hủ),"20,000"
+2,Chân gà sốt thái,"55,000"

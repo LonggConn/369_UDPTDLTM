@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm lam,"20,000"
+1,Gà nướng,"190,000"
+2,Thịt nướng ống tre,"99,000"
+3,Rau trộn,"50,000"
+4,Rau xào,"50,000"
+5,Anh dế,"50,000"
+6,Chim rừng,"120,000"
+7,Đàn cá liêng Rơwoa,"120,000"
+8,Lẩu K'Lang - H'Linh,"190,000"
+9,Em tằm lười,"50,000"
+10,Trâu gác bếp,"120,000"
+11,Gỏi lá rừng,"120,000"

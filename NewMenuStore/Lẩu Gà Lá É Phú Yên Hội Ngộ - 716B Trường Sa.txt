@@ -1,0 +1,13 @@
+,Food,Price
+0,Lẩu gà lá é nhỏ,"200,000"
+1,Lẩu gà lá é lớn,"300,000"
+2,Lẩu gà lá é vừa,"250,000"
+3,Lá  É Thêm ,"20,000"
+4,Nấm Thêm ,"10,000"
+5,Măng Thêm,"10,000"
+6,Bún thêm 1 đĩa,"10,000"
+7,Lòng gà xào mướp không gang ,"70,000"
+8,Cánh gà chiên mắm,"70,000"
+9,Ngọc kê sống   Thả lẩu ,"60,000"
+10,Gà xào xả ớt hương vị phú yên,"70,000"
+11,Lòng Gà Xào Tỏi không gang ,"70,000"

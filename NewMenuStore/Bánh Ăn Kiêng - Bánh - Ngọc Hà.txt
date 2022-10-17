@@ -1,0 +1,12 @@
+,Food,Price
+0,Biscotti healthy mix 5 vị - 500gr,"245,000"
+1,Biscotti mix - 300gr ,"160,000"
+2,Hoa quả sấy mix Hạt dinh dưỡng - 300Gr,"99,000"
+3,Biscotti matcha - 500gr,"245,000"
+4,Biscotti chocolate - 500gr,"245,000"
+5,Hạt dinh dưỡng sấy giòn - 300Gr,"99,000"
+6,Biscotti vị Cam Quế - 500Gr,"245,000"
+7,Biscotti vị Dâu Tây - 500Gr,"245,000"
+8,Hoa quả sấy dẻo-300Gr,"119,000"
+9,Granola chocolate Gạo lứt - 500gr,"235,000"
+10,Biscotti Vani Truyền thống - 500gr,"245,000"

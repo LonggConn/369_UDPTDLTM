@@ -1,0 +1,3 @@
+,Food,Price
+0,Trà sữa thái xanh  ,"35,000"
+1,Trà tắc Thái đỏ,"30,000"

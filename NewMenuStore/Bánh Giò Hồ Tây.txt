@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh Giò Đầy Đủ + Sữa Đậu,"50,000"
+1,Bánh Giò Không + Sữa Đậu,"28,000"
+2,Bánh Giò Đầy Đủ + Coca Cola/Pepsi/Twister,"50,000"
+3,Bún Chả + Coca Cola/Pepsi/Twister ,"50,000"
+4,Bánh Giò Không,"18,000"
+5,Bánh Giò Đầy Đủ,"40,000"
+6,Bánh Giò Chả Cốm,"35,000"
+7,Bún chả,"45,000"
+8,Sữa Đậu,"15,000"
+9,Sữa Ngô,"15,000"
+10,Trà Thái,"15,000"

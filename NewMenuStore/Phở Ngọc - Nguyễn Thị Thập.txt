@@ -1,0 +1,13 @@
+,Food,Price
+0,Phở tái bò,"55,000"
+1,Phở nạm bò,"55,000"
+2,Phở tái nạm viên,"59,000"
+3,Phở bò viên,"55,000"
+4,Phở tái gân viên,"59,000"
+5,Phở tái gầu viên,"59,000"
+6,Phở tái bắp,"65,000"
+7,Phở tái gầu gân,"59,000"
+8,Phở gân bò,"55,000"
+9,Tô Thường,"59,000"
+10,Pepsi,"15,000"
+11,Cocacola,"15,000"

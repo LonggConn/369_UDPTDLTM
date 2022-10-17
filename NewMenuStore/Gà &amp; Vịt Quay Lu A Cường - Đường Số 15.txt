@@ -1,0 +1,12 @@
+,Food,Price
+0,Vịt quay mắc mật,"319,000"
+1,Vịt quay tiêu,"339,000"
+2,Gà Quay Muối Ớt,"180,000"
+3,Gà Quay + Thịt Xiên,"239,000"
+4,Gà Quay Muối Ớt 2 con,"350,000"
+5,Gà Nướng Mắm Nhỉ,"200,000"
+6,Bún Thịt Xiên Nướng,"32,000"
+7,3 Bún Thịt Nướng,"90,000"
+8,Ba Rọi Xiên Nướng,"105,000"
+9,1 Gà Quay Muối Ớt + 1/2 Vịt Mắc Mật,"359,000"
+10,Bánh bao chiên,"28,000"

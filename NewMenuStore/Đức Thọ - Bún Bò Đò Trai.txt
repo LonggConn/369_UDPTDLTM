@@ -1,0 +1,7 @@
+,Food,Price
+0,Bún Bò Đò Trai Bắp,"50,000"
+1,Bùn Bò Đò Trai Thường,"40,000"
+2,Bún Bò Đò Trai Bình Dân,"30,000"
+3,Bún Bò Hầm Gầu (to),"50,000"
+4,Bún Bò Hầm Gầu (nhỏ),"40,000"
+5,Bún Bò Đò Trai Đặc Biệt,"50,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,xúc xích Đức,"15,000"
+1,Papparoti Topping caramel,"30,000"
+2,Papparoti Topping dâu,"30,000"
+3,xúc xích phô mai,"15,000"
+4,Bánh Papa Roti,"25,000"
+5,Rollie khoai lang,"30,000"
+6,Papparoti Rollie Red Bean,"30,000"

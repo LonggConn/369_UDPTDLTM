@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh cannele vị vanilla ,"44,000"
+1,Bánh cannele vị caramel ,"44,000"
+2,Bánh cannele vị cà phê ,"44,000"
+3,Bánh cannele vị kem chanh ,"44,000"
+4,Bánh cannele vị Thơm,"44,000"
+5,Bánh cannele vị chocolate ,"44,000"
+6,Bánh cannele vị tắc ,"44,000"
+7,Bánh cannele vị lá dứa ,"44,000"
+8,Hộp 16 bánh cannele nhỏ,"264,000"
+9,Hộp 4 bánh cannele ,"165,000"
+10,Hộp 6 bánh cannele,"242,000"
+11,Hộp 8 bánh cannele,"308,000"

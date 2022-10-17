@@ -1,0 +1,6 @@
+,Food,Price
+0,Thập cẩm (Chuối nướng +chuối hấp),"20,000"
+1,Chuối nướng nếp,"20,000"
+2,Chuối hấp,"20,000"
+3,Nếp nướng,"20,000"
+4,Chuối nướng không,"20,000"

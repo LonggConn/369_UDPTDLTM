@@ -1,0 +1,5 @@
+,Food,Price
+0,Súp Hải Sản,"20,000"
+1,Khoai Lang Chiên,"40,000"
+2,Ngô Chiên,"40,000"
+3,Khoai Môn Chiên,"50,000"

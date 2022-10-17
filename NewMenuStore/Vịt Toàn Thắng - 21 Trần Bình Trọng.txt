@@ -1,0 +1,5 @@
+,Food,Price
+0,Vịt quay quảng đông da giòn ,"325,000"
+1,Vịt quay quảng đông ,"169,000"
+2,Vịt cháy tỏi ,"169,000"
+3,Xôi vịt - vỏ chiên giòn ,"99,000"

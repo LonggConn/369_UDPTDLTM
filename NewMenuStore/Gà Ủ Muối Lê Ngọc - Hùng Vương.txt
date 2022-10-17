@@ -1,0 +1,10 @@
+,Food,Price
+0,Gà Ủ Muối 1/2 Con (Kèm xôi nhẹ),"159,000"
+1,Xôi Gà Ủ Muối,"50,000"
+2,Xôi Vò Đậu Xanh ,"18,000"
+3,Gà Ủ Muối Khay Vừa (Kèm xôi nhẹ),"125,000"
+4,Gà Ủ Muối 1 Con (Kèm xôi nhẹ),"295,000"
+5,Chân Gà Ủ Muối Rút Xương,"75,000"
+6,Xôi Gà Ủ Muối (Xôi Trái Tim),"55,000"
+7,Gà Ủ Muối Nguyên Con (Chưa Chặt) ,"285,000"
+8,Nước Chấm Muối Ớt Xanh (Chai 330ml),"35,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Trà Ổi Hồng kombucha,"29,000"
+1,Trà Hibiscus Phúc Bồn tử Kombucha,"29,000"
+2,Trà Thơm Tươi kombucha,"29,000"
+3,Trà Vãi Kombucha,"29,000"
+4,Trà Lê Hoa Cúc kombucha,"29,000"
+5,Trà Xoài Chanh Dây Kombucha,"29,000"
+6,Trà Đào Kombucha ,"29,000"
+7,Trà Kombucha Yuzu Original,"29,000"

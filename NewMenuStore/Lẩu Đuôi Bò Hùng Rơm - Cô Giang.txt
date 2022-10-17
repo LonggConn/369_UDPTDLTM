@@ -1,0 +1,11 @@
+,Food,Price
+0,LẨU ĐUÔI BÒ,"300,000"
+1,LẨU ĐUÔI BÒ THẬP CẨM ,"300,000"
+2,LẨU ĐUÔI BÒ THẬP CẨM,"180,000"
+3,LẨU THỊT BÒ,"200,000"
+4,TÀU HỦ KI THÊM,"10,000"
+5,TRỨNG LỘN SỐNG THÊM,"6,000"
+6,RAU  LẨU THÊM,"15,000"
+7,MỲ TRỨNG THÊM,"10,000"
+8,KHOAI MÔN THÊM,"20,000"
+9,ĐẬU HŨ TRẮNG THÊM,"10,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Xoài sấy dẻo healthyoo - 100g,"49,000"
+1,Xoài sấy dẻo Healthyroo 500g,"135,000"
+2,Hạt Macca nứt vỏ Úc- hủ 200 gram,"95,000"
+3,Hạt Dẻ cười rang muối Mỹ- hủ 200 gram,"105,000"
+4,Xoài sấy dẻo healthyoo - 200g,"79,000"

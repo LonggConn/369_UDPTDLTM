@@ -1,0 +1,3 @@
+,Food,Price
+0,Trà Bí Đao Hạt Chia- Sương Sáo,"12,000"
+1,Trà Bí Đao Uớp Lạnh (Chai 500ml) Hạt Chia+ Sương Sáo,"14,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Bò lúc lắc,"49,000"
+1,Cá ngừ kho thơm,"49,000"
+2,Canh súp sườn non,"49,000"
+3,Ba chỉ kho măng,"49,000"
+4,Đậu hủ kho rau củ chay,"49,000"
+5,Cơm thêm,"4,000"
+6,Đậu hủ kho rau củ chay thêm,"32,000"
+7,Bò lúc lắc thêm,"32,000"
+8,Cá ngừ kho thơm thêm,"32,000"
+9,Ba chỉ kho măng thêm,"32,000"
+10,Canh súp sườn non thêm,"32,000"

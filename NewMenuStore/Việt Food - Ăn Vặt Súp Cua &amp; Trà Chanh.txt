@@ -1,0 +1,9 @@
+,Food,Price
+0,Mì Xào ( 2 trứng ),"25,000"
+1,Nui Xào Bò,"30,000"
+2,Nui Xào Bò - Trứng,"35,000"
+3,Mì Xào Bò Trứng,"35,000"
+4,Mì Xào Bò ( 50g bò ),"30,000"
+5,Mì Xào (1 trứng),"20,000"
+6,Rau muống xào tỏi  ,"20,000"
+7,Rau Muống Xào Bò,"30,000"

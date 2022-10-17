@@ -1,0 +1,7 @@
+,Food,Price
+0,Cà Phê Sương Sáo Sữa - Size L,"26,100"
+1,Cà Phê Sương Sáo Sữa - Size M,"21,600"
+2,Cà phê sữa đá,"25,200"
+3,Cà phê đen đá,"22,500"
+4,Sữa Tươi Cà Phê - Size L,"21,600"
+5,Sữa Tươi Cà Phê - Size M,"17,100"

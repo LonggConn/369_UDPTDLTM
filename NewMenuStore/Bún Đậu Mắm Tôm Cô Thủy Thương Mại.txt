@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún Đậu Suất Đầy Đủ,"49,000"
+1,Bún Đậu Suất Đặc Biệt,"55,000"
+2,Bún Đậu,"25,000"
+3,Bún Đậu - Chả Cốm,"31,000"
+4,Bún Đậu - Nem Rán,"31,000"
+5,Bún Đậu - Dồi Rán,"31,000"
+6,Bún Đậu - Thịt Chân Giò,"31,000"
+7,Bún Đậu - Xúc Xích,"31,000"

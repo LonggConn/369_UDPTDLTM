@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh nậm,"20,000"
+1,Bánh lọc,"20,000"
+2,Bánh bèo dĩa,"20,000"
+3,Bánh ram ít,"20,000"
+4,Bánh bèo khay,"35,000"
+5,Chả,"6,000"
+6,Nem,"6,000"
+7,Sữa chua uống,"17,000"
+8,Nước coca,"12,000"
+9,Nước sprite,"12,000"

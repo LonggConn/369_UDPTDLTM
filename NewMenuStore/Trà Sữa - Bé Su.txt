@@ -1,0 +1,9 @@
+,Food,Price
+0,Trà sữa thập cẩm ,"20,000"
+1,Nước cam,"20,000"
+2,Bánh plan ,"9,000"
+3,Trà đào,"20,000"
+4,Trà sữa thạch ,"20,000"
+5,Trà Thái xanh,"20,000"
+6,Nước ép cà rốt,"20,000"
+7,Nước ép thơm,"20,000"

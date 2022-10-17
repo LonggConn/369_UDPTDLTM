@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh Mì Kim Chi Thịt Nướng Truyền Thống,"26,000"
+1,Bánh Mì Kim Chi Gà Nướng Sốt Tariyaki,"25,000"
+2,Bánh Mì Kim Chi Bò Băm Phô  Mai,"35,000"
+3,Bánh Mì Kim Chi Ba Chỉ Heo Sốt Hàn Quốc,"27,000"

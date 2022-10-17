@@ -1,0 +1,13 @@
+,Food,Price
+0,Sinh tố bơ,"45,000"
+1,Sinh tố dâu,"45,000"
+2,Sinh tố sapoche,"45,000"
+3,Sinh tố thơm,"45,000"
+4,Trà đào,"39,000"
+5,Trà dâu,"40,000"
+6,Trà vải,"39,000"
+7,Trà chanh,"19,800"
+8,Trà tắc,"19,800"
+9,Sâm đường phèn,"19,800"
+10,Cam ép,"45,000"
+11,Bún bò  kèm tô đũa muỗng,"50,000"

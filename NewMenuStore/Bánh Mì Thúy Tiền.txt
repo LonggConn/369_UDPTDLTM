@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh mì thịt,"20,000"
+1,Bánh mì chả,"18,000"
+2,Bánh bao trứng muối,"20,000"
+3,Bánh bao trứng cút,"16,000"
+4,Bánh mì pate bơ,"15,000"
+5,Bánh mì cá,"16,000"
+6,Bánh mì bơ,"8,000"
+7,Chả lụa,"220,000"
+8,Pate Fole hộp,"45,000"
+9,Chả chiên,"220,000"
+10,Chà bông,"400,000"

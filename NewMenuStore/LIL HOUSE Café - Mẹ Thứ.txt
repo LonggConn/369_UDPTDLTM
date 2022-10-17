@@ -1,0 +1,6 @@
+,Food,Price
+0,Cà phê sữa Sài Gòn phong cách Lilhouse99,"20,000"
+1,Cà phê sữa rang xay phong cách Lilhouse99 ,"15,000"
+2,Cafe đen rang xay Phong Cách Lilhouse99,"12,000"
+3,Cà phê đen Sài Gòn phong cách Lilhouse99,"16,000"
+4,Yaourt tươi Yahu nổi tiếng một thời,"19,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Gà nướng lu,"160,000"
+1,Ga Nuong Muoi Ot,"160,000"
+2,Vịt nướng lá mắc mật,"260,000"
+3,Ga Quay,"160,000"
+4,Vịt  Nướng La Moc Mat( Vit Nho),"180,000"
+5,Gio heo rút xương ,"340,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh đa đặc biệt,"40,000"
+1,Bánh đa thập cẩm,"35,000"
+2,Bún ốc,"30,000"
+3,Bún cá chả,"25,000"
+4,Bánh đa cua cá chả,"25,000"
+5,Bánh đa cá rô,"20,000"
+6,Bún cá,"20,000"
+7,Bún riêu,"20,000"
+8,Bánh đa cua chả,"20,000"
+9,Bánh đa cua cá,"20,000"
+10,Bún cá rô hấp,"25,000"
+11,Bánh đa cá rô hấp,"25,000"

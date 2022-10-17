@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Cuốn Chả Quế,"20,000"
+1,"Bánh Cuốn Chả Quế, Trứng","30,000"
+2,Gà Tần,"50,000"

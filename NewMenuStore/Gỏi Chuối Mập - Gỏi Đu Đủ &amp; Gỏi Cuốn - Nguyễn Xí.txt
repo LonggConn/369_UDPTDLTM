@@ -1,0 +1,8 @@
+,Food,Price
+0,Gỏi cuốn tôm thịt,"8,000"
+1,Gỏi cuốn tôm,"9,000"
+2,Combo 11 cuốn lộn xộn,"75,000"
+3,Combo 5 Cuốn Tôm Thịt,"40,000"
+4,Combo 11 cuốn tôm thịt,"75,000"
+5,Gỏi cuốn tai heo,"8,000"
+6,Combo 15 cuốn lộn xộn,"115,000"

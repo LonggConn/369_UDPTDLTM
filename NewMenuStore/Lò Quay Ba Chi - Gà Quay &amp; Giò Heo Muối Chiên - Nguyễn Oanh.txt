@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh bao,"2,300"
+1,Giò heo muối chiên giòn (1/2 giò),"145,000"
+2,Giò heo muối chiên giòn (1 giò),"290,000"
+3,Gà nướng muối ớt,"165,000"
+4,Cá saba nướng tiêu xanh,"75,000"

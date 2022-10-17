@@ -1,0 +1,7 @@
+,Food,Price
+0,Cà phê Robusta,"60,000"
+1,Cà phê Robusta special,"75,000"
+2,Cà phê Moka Cầu Đất,"80,000"
+3,Cà phê Moka special,"95,000"
+4,Cà phê Culi Cầu Đất,"100,000"
+5,Cà phê Culi special,"115,000"

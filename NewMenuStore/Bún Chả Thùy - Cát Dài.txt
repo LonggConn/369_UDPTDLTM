@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún Chả Thịt Nướng,"38,000"
+1,Chả Viên Thêm,"11,000"
+2,Chả Nem Cua Thêm,"25,000"
+3,Thịt Nướng Thêm,"26,000"
+4,Bún Chả Viên Nướng,"38,000"
+5,Bún Thêm,"5,000"
+6,Bún Trộn Thịt Nướng  ,"44,000"
+7,Bún Chả Nem Cua,"45,000"
+8,Thịt Nướng 1kg,"412,000"

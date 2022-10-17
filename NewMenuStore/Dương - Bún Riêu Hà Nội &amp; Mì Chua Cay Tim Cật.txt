@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún riêu,"35,000"
+1,Bún riêu thường,"45,000"
+2,Bún riêu đặc biệt,"55,000"
+3,Mỳ tim cật chua cay,"45,000"
+4,Nui xào bò,"55,000"
+5,Mỳ xào bò,"55,000"
+6,Trà tắc,"20,000"
+7,Sâm dứa,"5,000"
+8,Nước ngọt,"20,000"
+9,Bò húc,"20,000"

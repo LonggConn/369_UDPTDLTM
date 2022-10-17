@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh Cuốn Thịt,"35,000"
+1,Bánh Cuốn Trứng Thịt Giò Chả,"35,000"
+2,Bánh Cuốn Ruốc - Thịt Giò Chả,"45,000"
+3,Bánh Cuốn Trứng Opla,"40,000"
+4,Bánh Cuốn Thịt Lạp Sườn,"50,000"
+5,Bánh Cuốn Chay Giò Chả,"40,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh ít trần,"38,000"
+1,Bánh ít trần kèm chả,"38,000"
+2,Chả chiên,"8,000"

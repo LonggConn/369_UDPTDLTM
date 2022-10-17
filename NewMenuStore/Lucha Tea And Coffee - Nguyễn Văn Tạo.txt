@@ -1,0 +1,11 @@
+,Food,Price
+0,Matcha Latte - thạch mát,"30,000"
+1,Sữa chua đào,"25,000"
+2,Sữa chua kiwi,"30,000"
+3,Sữa chua socola,"25,000"
+4,Sữa chua hoa quả,"30,000"
+5,Sữa chua trân châu cốt dừa,"25,000"
+6,Sữa chua đậu đỏ,"25,000"
+7,Sữa chua matcha,"25,000"
+8,Sữa chua mít,"25,000"
+9,Sữa chua dâu ,"30,000"

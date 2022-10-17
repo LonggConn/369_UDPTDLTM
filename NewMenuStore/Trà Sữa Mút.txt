@@ -1,0 +1,10 @@
+,Food,Price
+0,Macchiato milk black tea,"45,000"
+1,Peach tea,"20,000"
+2,Hibiscus tea,"25,000"
+3,Matcha latte mango,"30,000"
+4,Macchiato black tea,"18,000"
+5,Soda lemon,"23,000"
+6,Lemon black tea,"15,000"
+7,Soda blueberry,"23,000"
+8,Soda curacao,"23,000"

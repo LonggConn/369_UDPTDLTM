@@ -1,0 +1,6 @@
+,Food,Price
+0,"Pizza hải sản( thanh cua, mực, phô mai) 25cm","120,000"
+1,"Pizza thập cẩm 25cm( phô mai, xúc xích, thịt nướng, bắp)","115,000"
+2,Trà ổi hồng,"10,000"
+3,Trà đào,"10,000"
+4,Trà chanh,"10,000"

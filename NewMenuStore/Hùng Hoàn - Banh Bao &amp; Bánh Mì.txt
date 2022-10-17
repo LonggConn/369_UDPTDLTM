@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh Bao Thịt,"10,000"
+1,Bánh Bao Thập Cẩm,"10,000"
+2,Bánh Bao Chay,"4,000"
+3,Bánh Bao Đậu,"5,000"
+4,Bánh Bao Rán,"10,000"
+5,Bánh Mì Chả Nướng,"15,000"
+6,Bánh Mỳ Trứng Ốp,"10,000"
+7,Bánh Mỳ Ba Tê,"10,000"
+8,Bánh Mỳ Xúc Xích,"10,000"
+9,Bánh Mỳ Bò Kho,"10,000"
+10,Bánh Mỳ Ruốc Bông,"10,000"

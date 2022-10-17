@@ -1,0 +1,5 @@
+,Food,Price
+0,Cà phê châu Phi ( Arctic Fox Cold-Brew),"120,000"
+1,Arctic Fox Special blends cold-brew,"95,000"
+2,Arctic Fox Asia cold-brew,"95,000"
+3,Arctic Fox Americas cold-brew,"120,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,1 Ly Trà Dâu Tự Pha,"12,000"
+1,Combo 10 Ly Trà Dâu Tự Pha Tiết Kiệm Hơn,"105,000"
+2,Chân gà ngâm sả tắc,"70,000"
+3,Chân gà sốt cay xoài ,"70,000"
+4,Chân Gà Rút Xương Sốt Thái + Xoài,"95,000"
+5,Cơm Chiên Gà Xối Mỡ,"35,000"
+6,Cơm sườn non rim,"35,000"
+7,Cơm Bò Xào ,"35,000"
+8,Cơm sườn non rim trứng ốp ,"40,000"
+9,Cơm Chiên Gà Xối Mỡ Đùi To,"65,000"

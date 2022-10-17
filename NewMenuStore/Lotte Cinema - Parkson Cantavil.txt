@@ -1,0 +1,7 @@
+,Food,Price
+0,Combo Bắp Rang Bơ 1 người,"85,000"
+1,Combo Bắp Phô Mai và Caramel 1 Người,"110,000"
+2,Combo Plus Bắp Phô Mai và Caramel 2 người,"135,000"
+3,Combo Bắp Rang Bơ 4 người,"200,000"
+4,Combo Bắp Rang Bơ 2 người,"110,000"
+5,Combo Bắp Phô Mai và Caramel 2 người,"135,000"

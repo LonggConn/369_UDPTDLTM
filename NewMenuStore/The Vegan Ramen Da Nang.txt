@@ -1,0 +1,6 @@
+,Food,Price
+0,Spicy Tanyan Men,"120,000"
+1,Vegan Shoyu Ramen,"120,000"
+2,Creamy mushroom ramen,"100,000"
+3,Spicy coconut curry ramen,"120,000"
+4,Classic Tokyo Ramen,"100,000"

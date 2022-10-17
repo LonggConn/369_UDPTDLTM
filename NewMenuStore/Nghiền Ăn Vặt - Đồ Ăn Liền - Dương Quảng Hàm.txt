@@ -1,0 +1,10 @@
+,Food,Price
+0,Da heo muối ớt,"78,000"
+1,Da heo mắm hành,"78,000"
+2,Cơm cháy khô gà,"72,000"
+3,Rong biển cháy tỏi,"72,000"
+4,Khô bò que,"126,000"
+5,Khô bò lá chanh,"121,000"
+6,Mít sấy,"86,000"
+7,Cơm cháy chà bông,"72,000"
+8,Cơm cháy khô bò,"75,000"

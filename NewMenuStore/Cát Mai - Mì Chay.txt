@@ -1,0 +1,4 @@
+,Food,Price
+0,Mì chay,"25,000"
+1,Mì khô,"25,000"
+2,Hủ tiếu chay,"25,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Hủ tiếu,"32,000"
+1,Mì,"32,000"
+2,Hủ tiếu gà chiên,"35,000"
+3,Mì gà chiên,"35,000"
+4,Xôi bắp gà chiên,"30,000"
+5,Cơm canh chua,"30,000"
+6,Cơm sườn,"30,000"
+7,Cơm thịt kho,"30,000"
+8,Cơm cá kho,"30,000"
+9,Cơm gà chiên,"30,000"

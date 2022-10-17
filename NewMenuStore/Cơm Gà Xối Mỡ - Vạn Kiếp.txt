@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm Chiên Dương Châu ,"40,000"
+1,Nui Xào Bò,"34,000"
+2,Mi Xao Bo,"34,000"
+3,Nui Xào Trưng,"28,000"

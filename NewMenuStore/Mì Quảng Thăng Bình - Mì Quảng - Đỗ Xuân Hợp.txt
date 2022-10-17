@@ -1,0 +1,13 @@
+,Food,Price
+0,Mì Quảng thập cẩm (thường),"40,000"
+1,Mì Quảng đặc biệt,"59,000"
+2,Mì Quảng gà ta,"45,000"
+3,Mì Quảng Tôm Thịt Trứng,"45,000"
+4,Mì Quảng sườn non,"45,000"
+5,Mì Quảng em bé,"29,000"
+6,Mì Quảng cá lóc,"45,000"
+7,Mì Quảng Sườn Trứng,"45,000"
+8,Mì Quảng tôm,"40,000"
+9,Mì Quảng Tôm Thịt,"45,000"
+10,Mì Quảng thịt,"45,000"
+11,COMBO MÌ + SỮA NGỦ CỐC,"58,000"

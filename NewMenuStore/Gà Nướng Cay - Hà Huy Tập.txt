@@ -1,0 +1,10 @@
+,Food,Price
+0,1/2 Con Gà Nướng Cay ,"75,000"
+1,Gà Nướng Cay Chặt Sẵn ,"160,000"
+2,Xôi Chiên ,"25,000"
+3,Gà Nướng Cay Nhiều  ,"160,000"
+4,Lòng Gà Xào Miến ,"50,000"
+5,Gà Nướng Cay Để Nguyên Con ,"160,000"
+6,Lòng Gà Bóp ,"50,000"
+7,Gà Rang Lá Chanh ,"160,000"
+8,Gà Bóp Răm Hành Chua Cay,"160,000"

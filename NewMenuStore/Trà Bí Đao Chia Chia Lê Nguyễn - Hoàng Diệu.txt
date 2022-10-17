@@ -1,0 +1,5 @@
+,Food,Price
+0,Trà bí đao,"12,000"
+1,Hồng Trà Tắc Mật Ong Xí Muội,"15,000"
+2,Trà Đào,"18,000"
+3,Trà Vãi,"18,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Chả Nem,"15,000"
+1,Bún Chả Nướng,"35,000"
+2,Bún Ốc Thập Cẩm,"35,000"
+3,Nem Chua Thanh Hóa,"30,000"

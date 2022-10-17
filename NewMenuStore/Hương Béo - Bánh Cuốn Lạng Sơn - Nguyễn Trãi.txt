@@ -1,0 +1,9 @@
+,Food,Price
+0,Coca,"15,000"
+1,Bánh Cuốn Lạng Sơn,"45,000"
+2,Bánh Cuốn Nhân Thịt,"30,000"
+3,Bánh Cuốn Nhân Thịt Mộc Nhĩ,"30,000"
+4,Bánh Trứng Chín,"25,000"
+5,Bánh Trứng Đánh Bột.,"25,000"
+6,Bánh Trứng Tái,"25,000"
+7,Giò Con,"13,000"

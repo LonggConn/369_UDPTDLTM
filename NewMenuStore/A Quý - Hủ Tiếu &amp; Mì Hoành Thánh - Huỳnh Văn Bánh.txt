@@ -1,0 +1,7 @@
+,Food,Price
+0,Mì xá xíu,"40,000"
+1,Mì thập cẩm,"60,000"
+2,Hủ tiếu xá xíu,"40,000"
+3,Hủ tiếu thập cẩm,"60,000"
+4,Hoành thánh xá xíu,"40,000"
+5,Hoành Thánh Thập Cẩm,"60,000"

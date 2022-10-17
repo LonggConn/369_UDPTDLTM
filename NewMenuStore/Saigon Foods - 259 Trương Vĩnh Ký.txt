@@ -1,0 +1,6 @@
+,Food,Price
+0,Rau má đậu xanh sữa dừa,"18,000"
+1,Bánh mì bắp bò mắm nhĩ,"25,000"
+2,Cà phê đá,"15,000"
+3,Bún bắp bì mắm nhĩ,"35,000"
+4,Cà phê sữa đá,"18,000"

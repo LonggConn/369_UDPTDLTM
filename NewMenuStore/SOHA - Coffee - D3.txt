@@ -1,0 +1,12 @@
+,Food,Price
+0,Coffee sữa,"25,000"
+1,Bạc xỉu,"30,000"
+2,Coffee đen,"22,000"
+3,Sữa Tươi Trân Châu Đường Đen,"35,000"
+4,Trà Đào Hạt Chia,"35,000"
+5,Trà Vải Hạt Chia,"35,000"
+6,YOGURT DÂU,"35,000"
+7,Trà Sữa Trân Châu Truyền Thống,"30,000"
+8,Lipton Cam Thảo Mộc,"42,000"
+9,YOGURT XOÀI,"35,000"
+10,YOGURT VIỆT QUỐC,"35,000"

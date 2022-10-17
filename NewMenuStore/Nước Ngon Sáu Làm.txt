@@ -1,0 +1,10 @@
+,Food,Price
+0,Khẩu trang y tế (xanh),"33,000"
+1,Khẩu trang VN95,"20,000"
+2,Tẩy đá,"3,200"
+3,Nước yến nha đam,"15,000"
+4,Bia Tiger,"18,900"
+5,Bánh pía kim sa Tân Huê Viên,"99,000"
+6,Bánh pía đậu xanh Tân Huê Viên (5 sao),"95,000"
+7,Bánh pía kim sa chay Tân Huê Viên,"92,500"
+8,Khăn giấy tre Ycool,"7,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Gà nướng 1/2 con,"150,000"
+1,Gà nướng nguyên con,"290,000"

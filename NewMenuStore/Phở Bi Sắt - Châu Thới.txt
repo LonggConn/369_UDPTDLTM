@@ -1,0 +1,9 @@
+,Food,Price
+0,Phở tái bắp hoa,"45,000"
+1,Phở tái,"35,000"
+2,Phở bình thường,"35,000"
+3,Phở thập cẩm,"45,000"
+4,Phở tái bắp,"45,000"
+5,Chén thêm,"20,000"
+6,Tiết hột gà,"15,000"
+7,Hột gà,"5,000"

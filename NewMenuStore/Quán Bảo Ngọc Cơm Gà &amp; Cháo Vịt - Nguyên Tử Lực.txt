@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm Đùi Ta Gà Luộc,"45,000"
+1,Cơm Gà Luộc,"40,000"
+2,Cơm Đùi Gà Ta Chiên Nước Mắm,"45,000"
+3,Cơm Gà Chiên Nước Mắm,"40,000"
+4,Cháo vịt,"35,000"
+5,Cháo lòng,"35,000"
+6,Gỏi dĩa nhỏ,"100,000"
+7,Vịt Luộc Nữa Con,"180,000"
+8,Gỏi Gà dĩa lớn,"150,000"
+9,Vịt Luộc Nguyên Con,"350,000"

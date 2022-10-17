@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm tấm sườn + ốp la + Chả Trứng,"40,000"
+1,Cơm ba chỉ nướng + Trứng ,"40,000"
+2,Cơm Thêm ,"5,000"
+3,Cơm gà chiên mắm,"45,000"
+4,Chả Trứng,"7,000"
+5,Cơm Tấm Sườn + Bì + Chả + Ốp La ,"48,000"
+6,Ốp la ,"5,000"
+7,Ba Chỉ Nướng ,"25,000"
+8,Sườn Nướng,"19,000"
+9,Cơm gà xả ớt,"40,000"
+10,Đùi Gà Cháy Tỏi,"35,000"

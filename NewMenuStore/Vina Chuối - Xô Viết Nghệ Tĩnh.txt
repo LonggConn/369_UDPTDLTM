@@ -1,0 +1,11 @@
+,Food,Price
+0,Chuối bí ngô mật ong chiên,"10,000"
+1,Combo 1,"50,000"
+2,Combo 2,"100,000"
+3,Combo 3,"200,000"
+4,3 Trái Chuối bí ngô mật ong chiên,"30,000"
+5,Sữa Gạo Lứt - Đậu Phộng - Hạt Bí (Size Vừa 330ml),"35,000"
+6,Sữa Hạt Điều - Bí Đỏ - Quinoa (Size Lớn 500ml),"45,000"
+7,Sữa Gạo Lứt - Đậu Phộng - Hạt Bí (Size Lớn 500ml),"45,000"
+8,Sữa Hạt Điều - Bí Đỏ - Quinoa (Size Vừa 330ml),"35,000"
+9,Kem Chuối,"39,000"

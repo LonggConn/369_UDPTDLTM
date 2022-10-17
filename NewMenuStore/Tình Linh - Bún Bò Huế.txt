@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún Bò Huế,"45,000"
+1,Quẩy,"2,000"
+2,Bún Bò Huế Đặc Biệt,"65,000"
+3,Bún Bò Huế Không Móng,"40,000"
+4,Bò húc Redbull,"17,000"
+5,Bia Hà Nội,"15,000"
+6,Coca Cola,"15,000"
+7,Sting,"15,000"
+8,Nước Cam,"15,000"
+9,Coca cola chai nhựa,"12,000"

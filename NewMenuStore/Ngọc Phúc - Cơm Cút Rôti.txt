@@ -1,0 +1,5 @@
+,Food,Price
+0,Cơm cút rô ti,"37,000"
+1,Chân gà rút xương sả ớt,"37,000"
+2,Chân gà thêm,"20,000"
+3,Cút thêm,"20,000"

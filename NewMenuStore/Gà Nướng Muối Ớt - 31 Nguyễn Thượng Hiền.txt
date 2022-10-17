@@ -1,0 +1,9 @@
+,Food,Price
+0,GÀ NƯỚNG MUỐI ỚT DA GIÒN KHÔNG CAY( Gà Thả Vườn),"200,000"
+1,"COMBO GÀ NƯỚNG MỌI (Gà Thả Vườn) kèm BÁNH MÌ , RAU RĂM DƯA CHUA  DƯA LEO  NƯỚC CHẤM","200,000"
+2,BÁNH MÌ ĐẶT RUỘT Ổ LỚN ,"5,000"
+3,"COM BO GÀ NƯỚNG MUỐI ỚT DA GIÒN kèm BÁNH MÌ DƯA CHUA , DƯA LEO RAU RĂM , NƯỚC CHẤM ","200,000"
+4,3 CÁI BÁNH BAO CHIÊN ,"10,000"
+5,"GÀ NƯỚNG MUỐI ỚT BÁNH BAO CHIÊN , DƯA CHUA , DƯA LEO RAU RĂM NƯỚC CHẤM","210,000"
+6,3 Ổ BÁNH MÌ ĐẶT RUỘT (Ổ NHỎ ),"10,000"
+7,"GÀ NƯỚNG NGŨ VỊ  BÁNH BAO CHIÊN kèm DƯA CHUA,DƯA LEO RAU RĂM , NƯỚC CHẤM ","210,000"

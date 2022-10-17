@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh mì thịt,"8,000"
+1,Bánh pía,"5,000"
+2,Bánh bông lan,"5,000"
+3,Bánh nhân dừa,"5,000"
+4,Bánh su kem,"5,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Cá Chay Kho Giềng (Món Cấp Đông),"35,000"
+1,Nước Mắm Chay,"25,000"
+2,Nem Dừa (Món Cấp Đông),"45,000"
+3,Dồi đậu xanh (Món cấp đông),"35,000"
+4,Hạt Nêm Chay,"35,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún mắm nêm tô đặc biệt,"40,000"
+1,Bún mắm nêm tô thường,"35,000"
+2,Trà dâu,"25,000"
+3,Trà vải,"25,000"
+4,Coca,"12,000"
+5,Sting,"12,000"
+6,Trà đào,"25,000"
+7,Trà việt quốc,"25,000"

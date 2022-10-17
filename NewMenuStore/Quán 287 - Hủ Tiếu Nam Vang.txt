@@ -1,0 +1,5 @@
+,Food,Price
+0,Hủ tiếu Nam Vang nước,"35,000"
+1,Hủ tiếu Nam Vang khô,"35,000"
+2,Mì hoành thánh,"35,000"
+3,Hủ tiếu xí quách,"35,000"

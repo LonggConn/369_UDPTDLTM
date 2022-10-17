@@ -1,0 +1,3 @@
+,Food,Price
+0,Mủ trôm hạt chia,"13,000"
+1,Nước cam ép nguyên chất kèm hạt chia,"13,000"

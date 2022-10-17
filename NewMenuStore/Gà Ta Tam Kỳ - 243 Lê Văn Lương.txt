@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà,"30,000"
+1,Cháo gà,"30,000"
+2,Gà ta nửa con,"135,000"
+3,Gà góc tư,"70,000"
+4,Cháo không,"20,000"
+5,Gà ta nguyên con,"290,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh cuốn nóng,"30,000"
+1,Bánh cuốn trứng,"35,000"
+2,Bánh ướt,"25,000"
+3,Bánh ướt trứng,"35,000"
+4,Chả Lụa,"170,000"
+5,Chả Chiên,"170,000"
+6,Bánh cuốn thêm,"17,000"
+7,Bánh ướt thêm,"12,000"
+8,Chả lụa thêm,"5,000"
+9,Chả quế thêm,"4,000"
+10,Bánh cóng thêm,"12,000"
+11,Chả chiên thêm,"4,000"

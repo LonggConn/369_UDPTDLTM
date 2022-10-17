@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Rang Dưa Bò,"30,000"
+1,Cơm Rang Thập Cẩm,"25,000"
+2,Phở Bò Tái Chín,"30,000"
+3,Mì Xào,"35,000"
+4,Phở Bò Tái,"25,000"
+5,Phở Xào,"35,000"
+6,Phở Bò Tái Gầu,"30,000"
+7,Miến Xào,"35,000"
+8,Phở Bò Tái Lăn,"30,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Combo Lẩu Chay Thượng Hạng,"388,000"
+1,Chả giò chay bách hoa,"78,000"
+2,Mì Tứ Xuyên,"65,000"
+3,Mì Thảo Quả,"65,000"
+4,Bún Gạo Xào Chay),"65,000"

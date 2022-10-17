@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Canh nước cốt dừa,"37,000"
+1,Mì Trộn Chim Cút Quay,"37,000"
+2,Yaourt Việt Quất,"37,000"

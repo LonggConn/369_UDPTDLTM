@@ -1,0 +1,6 @@
+,Food,Price
+0,Cánh gà nướng ,"15,000"
+1,Ba chỉ nướng ,"65,000"
+2,Cá lóc nướng muối ,"95,000"
+3,Giò heo quay ,"165,000"
+4,Chân gà nướng ,"6,000"

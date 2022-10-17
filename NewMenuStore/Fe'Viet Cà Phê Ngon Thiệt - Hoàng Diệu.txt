@@ -1,0 +1,8 @@
+,Food,Price
+0,Set 3 chai cafe sữa + 1 chai cafe đen,"146,000"
+1,Set 2 chai cà phê sữa,"78,000"
+2,Set 1 cà phê + 1 cà phê sữa,"68,000"
+3,Set 2 chai cafe sữa + 2 cafe đen,"136,000"
+4,Set 2 chai cà phê đen,"58,000"
+5,Set 4 chai cafe sữa,"156,000"
+6,Set 4 chai cafe đen,"116,000"

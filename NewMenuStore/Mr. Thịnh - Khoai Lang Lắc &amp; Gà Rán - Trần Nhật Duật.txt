@@ -1,0 +1,6 @@
+,Food,Price
+0,Combo đùi gà rán + khoai tây chiên,"27,000"
+1,Combo cánh gà rán + khoai tây chiên,"27,000"
+2,Combo gà viên rán + khoai tây chiên,"27,000"
+3,Khoai lang lắc,"20,000"
+4,Khoai tây lắc,"20,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Đa Cua Giò Trộn,"39,000"
+1,Soup cua/ghẹ,"30,000"
+2,Bánh Đa Cua Giò Nước,"39,000"
+3,Súp Gà,"25,000"
+4,Giò Thêm,"7,000"
+5,Miến Cua Giò Trộn,"39,000"
+6,Miến Cua Giò Nước,"39,000"
+7,Trà Sâm Dứa,"7,000"

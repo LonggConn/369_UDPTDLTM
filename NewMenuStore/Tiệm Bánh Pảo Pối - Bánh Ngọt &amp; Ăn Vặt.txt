@@ -1,0 +1,8 @@
+,Food,Price
+0,TIRAMISU,"65,000"
+1,Bông lan trứng muối hộp vuông,"65,000"
+2,Bông lan gà cay rong biển,"65,000"
+3,Ngũ cốc Milo gấu,"10,000"
+4,Sốt bơ trứng,"10,000"
+5,Sốt phô mai bông lan trứng muối,"10,000"
+6,Phô mai bò cười,"8,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh cuốn (lớn),"20,000"
+1,Nem lụi (1 cây),"7,000"
+2,Bún thịt nướng (lớn),"20,000"
+3,Bún thịt nướng (nhỏ),"20,000"
+4,Bánh cuốn (nhỏ),"20,000"

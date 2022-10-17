@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Thịt Kho Trứng ,"40,000"
+1,Cơm cá chép om dưa,"40,000"
+2,Cơm sườn,"45,000"
+3,Cơm đùi gà sốt nước mắm,"45,000"
+4,Cơm Heo Quay ,"50,000"
+5,Cơm Cá Ngừ Kho Thơm ,"40,000"
+6,Cơm Cá Basa,"40,000"
+7,Bún bò Huế loại 1,"40,000"
+8,Bún bò Huế loại 2,"50,000"
+9,Bún bò Huế đặc biệt,"60,000"
+10,Bò kho bánh mì ,"45,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Cơm Chiên Cá Mặn,"39,000"
+1,Trứng Ốp La,"10,000"
+2,Cơm chiên Dương Châu ,"39,000"
+3,Cơm chiên thêm ,"25,000"
+4,Cơm chiên hải sản ,"45,000"
+5,Cơm chiên dưa bò ,"39,000"
+6,Nước Suối,"10,000"
+7,Sinh Tố Dừa,"35,000"
+8,Sinh Tố Việt Quất,"35,000"
+9,Trà Đào,"25,000"
+10,Coca,"15,000"

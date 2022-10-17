@@ -1,0 +1,10 @@
+,Food,Price
+0,BÚN BÒ HUẾ ĐẶC BIỆT NHIỀU TOPPING,"63,000"
+1,CƠM NGON CHUẨN VỊ CƠM NHÀ ,"49,500"
+2,BÚN  BÒ HUẾ KHÔNG KHOANH GIÒ ,"49,500"
+3,QUẨY GIÒN  5 Chiếc ,"10,000"
+4,LẨU RIÊU CUA BẮP BÒ GIA TRUYỀN,"286,000"
+5,"BẮP BÒ TRẦN HÀNH, GIÁ ĐẶC BIỆT","156,000"
+6,Trà đào,"39,000"
+7,Nước Chanh Sả ,"39,000"
+8,Nước cam  Tươi,"39,000"

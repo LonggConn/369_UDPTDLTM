@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh xèo,"45,000"
+1,Bánh khọt Nam Bộ,"60,000"
+2,Bánh xèo đặc biệt,"60,000"
+3,Nước Sâm,"12,000"

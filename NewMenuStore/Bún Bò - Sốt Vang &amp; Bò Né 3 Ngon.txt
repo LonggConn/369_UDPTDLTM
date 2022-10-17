@@ -1,0 +1,12 @@
+,Food,Price
+0,Chân gà sả tắc,"50,000"
+1,Sốt vang bánh mì,"42,000"
+2,Cháo canh chả trứng,"30,000"
+3,Bún bò tái ,"40,000"
+4,Cháo canh chả trứng tôm,"40,000"
+5,Bánh mì không,"3,000"
+6,Bò số 2: 5 món đặc biệt Âu,"45,000"
+7,Bò số 1 : Bò né truyền thống,"38,000"
+8,Bò số 3: 5 món đặc biệt Á,"42,000"
+9,Ốp la 5 món thịt chả : không bò,"25,000"
+10,Bò số 4 : Bò không trứng (Nhiều bò),"42,000"

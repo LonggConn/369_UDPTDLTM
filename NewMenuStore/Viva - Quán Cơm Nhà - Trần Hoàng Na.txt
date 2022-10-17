@@ -1,0 +1,9 @@
+,Food,Price
+0,Mì trộn,"25,000"
+1,Gà Philê Sốt Nước Mắm,"30,000"
+2,Trứng Chiên,"9,000"
+3,Cơm thêm,"3,000"
+4,Cơm Thịt Heo Xào Thập Cẩm,"30,000"
+5,Cơm Thịt Heo Xào Cải Thìa,"30,000"
+6,Cơm Bò Xào Thập Cẩm,"38,000"
+7,Cơm Thịt Bò Xào Cải Thìa,"38,000"

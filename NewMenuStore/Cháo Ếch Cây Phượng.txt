@@ -1,0 +1,13 @@
+,Food,Price
+0,Cháo Ếch Chuẩn Vị Singapore Ko bột Ngọt 3 Con Tặng Kèm Rau Luộc,"110,000"
+1,Cháo+Ếch 2 Con Chuẩn Vị Singepore ,"78,000"
+2,"Rau Luộc Thêm Khổ Hoa Đèo,Bầu,Bấp Cải, Đậu Bắp,Đậu Rồng, Cà Rốt","13,000"
+3,Cháo Ếch Chuẩn Vị Singapore Ko Bột Ngọt 1 con Tặng Rau luộc,"60,000"
+4,Cháo Ếch Chuẩn Vị Singapore ko Bột Ngọt 2 Con tặng Rau Luộc,"85,000"
+5,Cháo Hương Dứa Thêm ,"13,000"
+6,Cơm Ếch Chuẩn Vị Singapore 2  Tặng Rau Luộc,"85,000"
+7,Bánh Mì Ếch Chuẩn Vị Singepore Ko Bột Ngọt 2  Con Tặng Rau Luộc,"85,000"
+8,Cháo+Ếch 3 Con Chuẩn Vị Singapore ,"105,000"
+9,Cơm+Ếch 2 Con,"80,000"
+10,Bánh Mì+Ếch 2 Con,"80,000"
+11,Sâm Dứa Sữa,"28,000"

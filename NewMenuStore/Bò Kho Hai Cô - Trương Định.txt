@@ -1,0 +1,12 @@
+,Food,Price
+0,Bò kho bánh mì,"40,000"
+1,Bánh mì thêm,"4,000"
+2,Hủ tíu bò kho,"40,000"
+3,Nui xào bò lúc lắc,"50,000"
+4,Dụng cụ ăn uống,"2,000"
+5,Bún bò kho,"40,000"
+6,Nui xào bò,"45,000"
+7,Mì xào bò,"45,000"
+8,Mì xào hải sản,"50,000"
+9,Bò lúc lắc,"50,000"
+10,Nui xào hải sản,"50,000"

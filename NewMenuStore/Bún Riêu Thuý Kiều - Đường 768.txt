@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún riêu,"30,000"
+1,Canh bún,"30,000"
+2,Bánh đa,"35,000"
+3,Trà Sữa Thái ,"30,000"
+4,Trà Sữa Truyền Thống ,"30,000"
+5,Bánh Trán Trộn ,"25,000"
+6,Cơm tấm,"30,000"
+7,Bún thịt nướng,"30,000"

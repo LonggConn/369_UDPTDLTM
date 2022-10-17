@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm chay thập cẩm ,"30,000"
+1,Bún bò Huế chay,"30,000"
+2,Miến xào chay,"30,000"
+3,Mẹt chay,"50,000"
+4,Hủ tiếu chay,"30,000"
+5,Bún riêu chay,"30,000"
+6,Phở chay,"30,000"
+7,Mì chay,"30,000"
+8,Nui chay,"30,000"
+9,bò lá lốp bánh hỏi,"50,000"

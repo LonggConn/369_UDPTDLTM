@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Chay Theo Ngày,"60,000"
+1,Nem chay 7k/ cái,"7,000"
+2,"Phở cuốn, nem cuốn, cơm cuộn theo ngày 7k/ cái","7,000"
+3,"Bún vị bún riêu chay, bún ốc chay, phở chay, bún vị bò kho  chay theo ngày","45,000"
+4,Bún nem   Chay,"45,000"
+5,Chè theo ngày,"30,000"
+6,Salad theo ngày,"40,000"
+7,Bánh chuối,"85,000"

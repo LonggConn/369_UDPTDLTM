@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún chay nước,"25,000"
+1,Cơm chay,"25,000"
+2,mì  xào  chay (bún trộn Chay),"25,000"
+3,Bánh  Lọc  chay,"25,000"
+4,Bánh canh chay ,"25,000"
+5,Bún  xào  nghệ  chay,"25,000"
+6,Nui chay ,"25,000"
+7,Bánh  Gói ,"25,000"
+8,Bánh cuốn chay,"25,000"

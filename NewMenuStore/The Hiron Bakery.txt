@@ -1,0 +1,10 @@
+,Food,Price
+0,Yogurt,"7,000"
+1,Yogurt phô mai,"9,000"
+2,Bánh flan,"7,000"
+3,Cupcake xoắn kem,"25,000"
+4,Tiramisu chocolate,"39,000"
+5,Tiramisu chanh dây,"39,000"
+6,Cuộn bông lan trứng muối,"139,000"
+7,Bánh mì phô mai chảy,"20,000"
+8,Cupcake trứng muối phô mai chà bông,"20,000"

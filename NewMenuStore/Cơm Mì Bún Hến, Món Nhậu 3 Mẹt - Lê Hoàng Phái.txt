@@ -1,0 +1,13 @@
+,Food,Price
+0,2 bánh huế size vừa + 2 chai nước sâm + 3 chả tép heo,"110,000"
+1,Cơm hến Huế,"45,000"
+2,Bún hến Huế,"45,000"
+3,Hến xúc bánh đa,"79,000"
+4,Bánh bột Lọc Huế - 10 cái,"47,000"
+5,Bánh nậm Huế - 6 cái,"42,000"
+6,Bánh Bèo Chén Huế - nhân thịt,"41,000"
+7,Bánh Bèo Chén Huế - tôm cháy,"47,000"
+8,Bánh Huế Thập Cẩm - Chả Thêm,"68,000"
+9,Chả tép bò size lớn - 1 cây,"12,000"
+10,Chả tép heo size lớn - 1 cây,"10,000"
+11,Nước sâm nhà làm - 1 Chai,"19,000"

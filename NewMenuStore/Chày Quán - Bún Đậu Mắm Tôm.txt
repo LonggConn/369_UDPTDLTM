@@ -1,0 +1,12 @@
+,Food,Price
+0,Combo Bún Đậu Dồi Sụn + Coca-Cola,"50,000"
+1,Combo Bún Đậu Chả Cốm + Coca-Cola,"50,000"
+2,Combo Bún đậu chả cốm + Sprite,"50,000"
+3,Combo Bún đậu dồi sụn + Sprite,"50,000"
+4,Bún Đậu Đầy Đủ,"40,000"
+5,Bún Đậu Dồi Sụn,"35,000"
+6,Bún đậu chả cốm,"35,000"
+7,Mắm tôm,"5,000"
+8,Dồi Sụn,"80,000"
+9,Coca-Cola lạnh,"15,000"
+10,Sprite lạnh,"15,000"

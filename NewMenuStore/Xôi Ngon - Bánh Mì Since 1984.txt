@@ -1,0 +1,9 @@
+,Food,Price
+0,Nước Chanh Leo,"25,000"
+1,Nước Cam,"30,000"
+2,Cacao,"25,000"
+3,Trà Việt Quất,"25,000"
+4,Cafe Nâu,"25,000"
+5,Trà Cam Quế,"25,000"
+6,Bạc Xỉu,"30,000"
+7,Cafe Đen,"25,000"

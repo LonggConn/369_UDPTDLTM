@@ -1,0 +1,11 @@
+,Food,Price
+0,Trà Lipton Tắc,"9,000"
+1,Bún Thái Hải Sản,"65,000"
+2,Bún Thái Chả Cá,"55,000"
+3,Bún Thái Tôm Tươi,"65,000"
+4,Hủ Tiếu Hoành Thánh Xá Xíu,"55,000"
+5,Hủ Tiếu Tôm Tươi,"60,000"
+6,Hoành Thánh Nhân Tôm Thịt,"55,000"
+7,Mì Hoành Thánh Xá Xíu,"60,000"
+8,Mì Tươi Tôm ,"65,000"
+9,Rau Má Đậu Xanh Minh Nhi,"25,000"

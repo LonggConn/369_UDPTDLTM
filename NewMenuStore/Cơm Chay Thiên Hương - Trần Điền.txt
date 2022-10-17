@@ -1,0 +1,6 @@
+,Food,Price
+0,Giò lụa chay,"40,000"
+1,Thịt nướng chay,"50,000"
+2,Chả nấm sò tươi chay,"60,000"
+3,Sườn dừa chua ngọt chay,"50,000"
+4,Chả cốm chay ,"60,000"

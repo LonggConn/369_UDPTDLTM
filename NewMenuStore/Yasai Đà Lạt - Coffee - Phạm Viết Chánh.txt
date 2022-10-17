@@ -1,0 +1,5 @@
+,Food,Price
+0,KHOAI LANG MẬT   ĐÀ LẠT NƯỚNG SỎI,"45,000"
+1,Salad Đà Lạt Sốt Mè Rang,"50,000"
+2,Rau Củ Đà Lạt Sấy Giòn (200gr),"55,000"
+3,マカデミアナッツ - Macadamia - Hạt Mắc Ca Rang (500gr),"280,000"

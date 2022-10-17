@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm gà Nướng Hongkong + Canh rong biển (Grilled Chicken and rice),"59,000"
+1,Cơm gà nướng sốt Hongkong (Grilled chicken and rice),"55,000"
+2,Cơm Hai trứng opla,"30,000"
+3,Cơm hai trứng opla + Canh rong biển,"37,000"
+4,Canh rong biển thịt bằm,"13,000"
+5,Góc tư con gà,"43,000"
+6,Cơm thêm (Rice),"10,000"
+7,Trứng ốp la,"10,000"
+8,Nước sâm,"13,000"
+9,Cocacola,"13,000"

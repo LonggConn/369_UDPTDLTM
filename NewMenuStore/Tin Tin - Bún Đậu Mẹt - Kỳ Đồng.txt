@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún đậu thường,"55,000"
+1,Bún đậu đặc biệt,"65,000"
+2,Song kiếm hợp bích,"130,000"
+3,Tam cuốc diễn nghĩa,"195,000"
+4,Tứ Đại Thiên Vương,"270,000"
+5,Lục tiểu linh đồng,"390,000"
+6,Ngũ long công chúa,"320,000"
+7,Trà tắc,"12,000"
+8,Nước ngọt chai,"12,000"
+9,Trà chanh,"12,000"

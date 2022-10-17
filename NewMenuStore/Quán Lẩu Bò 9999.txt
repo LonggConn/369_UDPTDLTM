@@ -1,0 +1,6 @@
+,Food,Price
+0,Lẩu bò thập cẩm,"200,000"
+1,Lẩu thập cẩm + đuôi bò,"200,000"
+2,Lẩu đuôi bò ,"200,000"
+3,Lòng xào sa tế,"150,000"
+4,Gân bò xào sa tế ,"150,000"

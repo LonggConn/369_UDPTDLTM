@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún Riêu ( bún trắng),"38,000"
+1,Bún Chuối Đậu Om,"50,000"
+2,COMBO 5 BÚN RIÊU TRẮNG TẶNG  18k giò ăn kèm bún,"175,000"
+3,3 Bún Chuối Đậu Om,"143,000"
+4,Giò Nấm ăn liền ,"40,000"
+5,Giò nấm  1kg,"140,000"
+6,Giò Lụa 1kg,"110,000"

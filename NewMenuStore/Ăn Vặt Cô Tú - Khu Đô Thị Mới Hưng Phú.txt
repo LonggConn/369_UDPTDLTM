@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh bột chiên,"28,000"
+1,Trứng thêm,"8,000"
+2,Bánh bột thêm,"8,000"
+3,Đu đủ thêm,"6,000"
+4,Mì xào thập cẩm,"33,000"
+5,Mì tốp mỡ trứng chiên,"28,000"
+6,Mì gói thêm,"6,000"
+7,Xúc xích thêm,"8,000"
+8,Ngô mỹ- bắp mỹ  thêm,"6,000"
+9,Phô mai kéo sợi thêm,"16,000"
+10,Tôm thêm,"10,000"
+11,Xúc xích chiên,"15,000"

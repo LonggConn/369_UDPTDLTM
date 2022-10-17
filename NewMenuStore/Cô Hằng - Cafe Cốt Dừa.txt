@@ -1,0 +1,7 @@
+,Food,Price
+0,Cafe Cốt Dừa,"26,000"
+1,Dừa Dầm,"26,000"
+2,Sữa chua dầm thập cẩm,"26,000"
+3,Trà sữa,"26,000"
+4,Trà tắc,"26,000"
+5,Sữa tươi trân châu đường đen,"26,000"

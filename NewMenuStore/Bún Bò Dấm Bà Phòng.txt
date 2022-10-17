@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún Bò Dấm,"35,000"
+1,Bún Bò Dấm Bát To,"50,000"
+2,Sprite Pet,"10,000"
+3,Bún Bò Dấm + 1 Coca Pet,"45,000"
+4,Bún Bò Dấm Bát To + 1 Sprite Pet,"60,000"
+5,Coca Pet,"10,000"
+6,Bún Bò Dấm Bát To + 1 Coca Pet,"60,000"
+7,Fanta Pet,"10,000"

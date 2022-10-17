@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh canh chả cua + giò heo ,"42,000"
+1,Bánh canh chả cua,"36,000"

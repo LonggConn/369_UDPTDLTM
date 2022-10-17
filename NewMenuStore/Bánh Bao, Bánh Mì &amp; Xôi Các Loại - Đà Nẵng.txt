@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Mỳ Trứng Bò,"15,000"
+1,Xôi Thịt,"20,000"
+2,Bánh Bao,"10,000"

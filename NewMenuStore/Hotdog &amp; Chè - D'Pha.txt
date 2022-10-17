@@ -1,0 +1,5 @@
+,Food,Price
+0,Hotdog hoàn kim,"15,000"
+1,Hotdog chà bông pate,"15,000"
+2,Hotdog xúc xích,"15,000"
+3,Chè sương sáo cốt dừa non,"22,000"

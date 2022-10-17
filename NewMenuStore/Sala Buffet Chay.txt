@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm Thập Cẩm Hoan Hỷ,"39,000"
+1,Bún Thái Best Seller,"39,000"
+2,Cơm Thập Cẩm Xanh,"39,000"
+3,Hủ Tiếu,"39,000"
+4,Cơm Thập Cẩm Dinh Dưỡng,"39,000"
+5,Mì Nước,"39,000"

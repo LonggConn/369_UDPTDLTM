@@ -1,0 +1,9 @@
+,Food,Price
+0,Salted dark choco brownie,"80,000"
+1,Dark choco walnut brownie,"80,000"
+2,Red velvet cream cheese brownie,"80,000"
+3,Salted caramel brownie,"80,000"
+4,Pecan pie,"80,000"
+5,Sweet pumpkin pie,"70,000"
+6,Cookies - 12pcs,"130,000"
+7,Cookies - 6pcs,"70,000"

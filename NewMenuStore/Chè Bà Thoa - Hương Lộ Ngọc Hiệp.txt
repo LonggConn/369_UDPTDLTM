@@ -1,0 +1,10 @@
+,Food,Price
+0,Chè chuối nướng size nhỏ,"12,000"
+1,Chè chuối nướng và hấp size nhỏ,"12,000"
+2,Chè chuối nướng size vừa,"22,000"
+3,Chè chuối nướng và hấp size vừa,"22,000"
+4,Chè chuối hấp size nhỏ,"12,000"
+5,Chè chuối nướng và hấp size lớn,"32,000"
+6,Chè chuối hấp size vừa,"22,000"
+7,Chè chuối nướng size lớn,"32,000"
+8,Chè chuối hấp size lớn,"32,000"

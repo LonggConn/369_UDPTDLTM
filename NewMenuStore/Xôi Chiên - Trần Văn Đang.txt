@@ -1,0 +1,7 @@
+,Food,Price
+0,Xôi chiên,"7,000"
+1,Combo 5 cái,"35,000"
+2,Combo 10 cái,"70,000"
+3,Hũ Ớt Thần Thánh,"5,000"
+4,3 Cái Không Nhân,"12,000"
+5,Combo Xôi 5 cái,"35,000"

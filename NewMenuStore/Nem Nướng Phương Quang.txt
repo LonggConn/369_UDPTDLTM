@@ -1,0 +1,4 @@
+,Food,Price
+0,Nem nướng,"60,000"
+1,Chả ram bắp,"40,000"
+2,Chanh dây,"15,000"

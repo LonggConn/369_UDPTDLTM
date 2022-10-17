@@ -1,0 +1,6 @@
+,Food,Price
+0,Gà Nướng Muối Ớt - Nguyên con,"200,000"
+1,Gà Nướng Ngũ Vị - Nguyên con,"200,000"
+2,Gà nướng lá chanh,"200,000"
+3,Chân gà nướng cập,"12,000"
+4,Ba chỉ nướng phần,"150,000"

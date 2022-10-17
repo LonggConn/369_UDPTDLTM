@@ -1,0 +1,11 @@
+,Food,Price
+0,Cà phê sữa pha máy,"16,000"
+1,Cacao,"16,000"
+2,Cà phê đá pha máy,"14,000"
+3,Cacao cà phê pha máy,"20,000"
+4,Cappuccino pha máy,"18,000"
+5,Cafe Bạc Xỉu,"16,000"
+6,Cafe Sữa Tươi Pha Máy,"16,000"
+7,TRÀ ĐÀO,"10,000"
+8,Trà Tắc,"10,000"
+9,Sữa Tươi,"12,000"

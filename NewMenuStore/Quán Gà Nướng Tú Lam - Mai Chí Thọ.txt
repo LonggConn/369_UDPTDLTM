@@ -1,0 +1,12 @@
+,Food,Price
+0,Lươn um môn,"450,000"
+1,Gỏi gà rau muống size M,"350,000"
+2,Gỏi gà rau muống size L ,"440,000"
+3,Ếch chiên nước mắm ,"150,000"
+4,Mực chiên giòn,"110,000"
+5,Bò nhúng dấm,"200,000"
+6,Mì xào hải sản,"135,000"
+7,Mì xào bò,"110,000"
+8,Cánh gà chiên nước mắm,"110,000"
+9,Nhím biển,"370,000"
+10,Chả cá  Quảng Ngãi cuốn bánh tráng,"150,000"

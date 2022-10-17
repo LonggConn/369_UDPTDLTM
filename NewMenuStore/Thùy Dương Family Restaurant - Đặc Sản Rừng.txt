@@ -1,0 +1,3 @@
+,Food,Price
+0,Lẩu cá tầm,"400,000"
+1,Heo rừng nướng,"350,000"

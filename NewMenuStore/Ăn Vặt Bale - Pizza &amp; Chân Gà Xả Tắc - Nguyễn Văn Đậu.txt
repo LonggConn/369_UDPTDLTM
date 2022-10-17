@@ -1,0 +1,8 @@
+,Food,Price
+0,Pizza bò ,"89,000"
+1,Pizza xúc xích thái,"89,000"
+2,Pizza phô mai,"89,000"
+3,Pizza hải sản ,"89,000"
+4,Pizza xúc xích mỹ,"89,000"
+5,Pizza tôm,"89,000"
+6,Pizza gà,"89,000"

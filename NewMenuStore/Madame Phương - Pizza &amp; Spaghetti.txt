@@ -1,0 +1,11 @@
+,Food,Price
+0,Bolognese pizza (Size L) - Pizza sốt bò bằm,"115,000"
+1,Pizza seafood (Size L) - Pizza hải sản,"115,000"
+2,Sausage pizza (Size L) - Pizza xúc xích,"115,000"
+3,Vegetarian pizza (Size L) - Pizza chay,"115,000"
+4,Chicken pizza (Size L) - Pizza gà,"115,000"
+5,Mì Ý sốt bò bằm,"55,000"
+6,Mỳ Ý Sốt Kem,"55,000"
+7,Mỳ Ý Hải Sản,"60,000"
+8,Mì Ý chay,"55,000"
+9,Nước trái cây hạt chia,"25,000"

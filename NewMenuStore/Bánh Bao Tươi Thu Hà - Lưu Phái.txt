@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh Bao Truyền Thống ( nhân thịt lợn trứng cút),"15,000"
+1,Bánh Bao Chay Sữa Dừa,"5,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh kem trắng hình tròn,"550,000"
+1,Bánh kem socola hình tròn,"550,000"
+2,Bánh kem môn hình tròn,"550,000"
+3,Bánh cưới đặc biệt hình tròn,"650,000"

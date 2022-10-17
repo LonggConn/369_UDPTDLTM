@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún mắm chay,"20,000"
+1,Phở chay,"25,000"
+2,Hủ tiếu chay,"25,000"
+3,Bánh lọc chay,"12,000"
+4,Mắm cà chay,"50,000"
+5,Chả nấm chay,"120,000"
+6,Bánh ít nhân đậu xanh,"15,000"

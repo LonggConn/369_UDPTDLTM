@@ -1,0 +1,3 @@
+,Food,Price
+0,Heo Quay,"550,000"
+1,Chim Cu Vằn Quay,"250,000"

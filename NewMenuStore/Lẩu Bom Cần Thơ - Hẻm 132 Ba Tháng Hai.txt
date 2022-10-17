@@ -1,0 +1,8 @@
+,Food,Price
+0,Sting ,"15,000"
+1,Trà đào,"25,000"
+2,Cocacola ,"15,000"
+3,7up ,"15,000"
+4,PEPSI,"15,000"
+5,Bắp xào trứng muối,"50,000"
+6,Bắp xào trứng gà,"50,000"

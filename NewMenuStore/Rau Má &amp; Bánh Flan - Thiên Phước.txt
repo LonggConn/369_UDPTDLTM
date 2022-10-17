@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh flan,"6,000"
+1,Rau câu,"6,000"
+2,Đậu xanh đánh,"12,000"

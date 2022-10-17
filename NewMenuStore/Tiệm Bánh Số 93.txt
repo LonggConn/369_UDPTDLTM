@@ -1,0 +1,12 @@
+,Food,Price
+0,Tiramisu,"390,000"
+1,Janpan coton cheese cake,"320,000"
+2,Red velvet,"390,000"
+3,Bánh sừng bò ham cheese 70g,"80,000"
+4,Bánh sừng bò sốt trứng muối,"25,000"
+5,Bánh táo,"45,000"
+6,Bánh nho,"45,000"
+7,Bánh sừng bò 70g,"55,000"
+8,Waffle ham cheese,"32,000"
+9,Waffle tuna salad,"35,000"
+10,Waffle BLT,"32,000"

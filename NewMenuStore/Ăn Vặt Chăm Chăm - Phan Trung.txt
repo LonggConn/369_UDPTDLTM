@@ -1,0 +1,17 @@
+,Food,Price
+0,Bánh tráng cuộn chấm sốt me bơ,"25,000"
+1,Bánh tráng tôm rim,"14,000"
+2,Bánh tráng phơi sương trộn tóp mỡ,"25,000"
+3,Bánh Tráng Chấm & Trứng Vữa,"25,000"
+4,Bánh tráng phơi sương thập cẩm,"33,000"
+5,Bánh Tráng Chấm (Không Trứng),"15,000"
+6,Bánh Tráng chấm + trứng cút,"25,000"
+7,Cơm Cháy Mỡ Hành,"22,000"
+8,Phơi Sương Muối Nhuyễn Tự Trộn,"20,000"
+9,Phơi sương trộn trứng cút,"22,000"
+10,Bánh Tráng Phơi Sương Trộn Khô Bò,"25,000"
+11,Bánh Tráng Phơi Sương Trộn Khô Gà,"25,000"
+12,Tóp mỡ có da cháy tỏi,"55,000"
+13,Tóp mỡ có da cháy tỏi hũ lớn,"135,000"
+14,Bánh tráng trộn sẵn ko topping,"19,000"
+15,Giải quyết đơn sai xót 0372483949,1

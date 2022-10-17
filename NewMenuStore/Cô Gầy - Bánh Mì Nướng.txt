@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Mì Nướng Set To,"35,000"
+1,Bánh Mì Nướng Set Nhỏ,"25,000"
+2,Trà Tắc,"13,000"
+3,Thêm thịt,"13,000"
+4,Bánh Mì Thịt Xiên,"25,000"

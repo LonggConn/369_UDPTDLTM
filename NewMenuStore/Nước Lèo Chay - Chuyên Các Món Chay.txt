@@ -1,0 +1,13 @@
+,Food,Price
+0,BÌ CUỐN,"7,000"
+1,BÁNH CANH CHẢ CÁ,"35,000"
+2,MÌ SỦI CẢO CHAY,"35,000"
+3,BÚN CHẢ GIÒ,"35,000"
+4,Bún Mọc,"35,000"
+5,BÚN CHẢ CÁ,"35,000"
+6,HỦ TIẾU NAM VANG,"35,000"
+7,BÚN MĂNG CHAY,"35,000"
+8,"Nước Sâm Bảy Vị (Rong Biển, Thục Địa, Hoh Oa Cúc, Atiso, Táo Tàu, Nhãn Nhục, Hạt Chia)","15,000"
+9,Hu Tieu Mi ,"35,000"
+10,Bánh Cua Phô Mai,"90,000"
+11,Bánh Bông Lan Bơ Sữa,"110,000"

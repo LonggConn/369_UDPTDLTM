@@ -1,0 +1,7 @@
+,Food,Price
+0,Bạch tuộc không CAY,"160,000"
+1,Tôm hấp công nghệ cao IQF - 1kg,"300,000"
+2,TÔM lăn bột XÙ xuất khẩu NHẬT,"210,000"
+3,TÔM  xẻ bướm lăn bột Xuất Khẩu Nhật,"350,000"
+4,TÔM gia  vị Xuất Khẩu ĐỨC,"180,000"
+5,Bạch tuộc CAY,"160,000"

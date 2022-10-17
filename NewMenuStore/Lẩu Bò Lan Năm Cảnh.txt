@@ -1,0 +1,5 @@
+,Food,Price
+0,Lẩu bò,"150,000"
+1,Lẩu nấm tươi,"100,000"
+2,Lẩu chân đuôi,"80,000"
+3,Lẩu bím tiềm thuốc bắc,"120,000"

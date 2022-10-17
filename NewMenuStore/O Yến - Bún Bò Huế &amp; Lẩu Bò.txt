@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún bắp bò + chả Huế + chả cua,"45,000"
+1,Bún đặc biệt đầy đủ,"80,000"
+2,Bún sườn bò +chả Huế +chả cua,"55,000"
+3,Bún bò giò + chả cua + chả Huế,"55,000"
+4,Bún đuôi bò + chả Huế + chả cua,"55,000"
+5,Bún giò +chả Huế + chả cua,"45,000"
+6,Bún chả Huế + chả cua,"45,000"
+7,Lẩu bò,"155,000"
+8,Lẩu Bò,"205,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún mọc,"42,000"
+1,Cơm rang dưa bò,"42,000"
+2,Bún sườn,"42,000"
+3,Hoa quả dầm,"45,000"
+4,Bún măng mùng,"42,000"
+5,Sinh tố  bơ,"47,000"
+6,Cơm rang thập cẩm,"42,000"
+7,Sinh tố bơ xay kem,"47,000"
+8,Bún móng,"42,000"
+9,Trà sữa  socola kem chesse,"47,000"
+10,"Matcha   Đá xay ,cookeies","47,000"
+11,Cafe nâu,"37,000"

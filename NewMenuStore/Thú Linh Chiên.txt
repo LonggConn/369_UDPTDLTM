@@ -1,0 +1,4 @@
+,Food,Price
+0,Thú linh chiên,"20,000"
+1,Cút chiên,"20,000"
+2,Mề,"10,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Nui xào bò,"39,200"
+1,Mì Xào Bò,"39,200"
+2,Nui xào trứng,"32,800"
+3,Cam Ép Ly,"17,600"
+4,Chân Gà Sốt Thái Đặc Biệt Bao Ngon,"76,000"
+5,Nước ngọt các loại,"12,000"
+6,Mì xào trứng,"32,800"
+7,Trà tắc,"9,600"
+8,Cơm Cháy Bao Ngon,"10,400"

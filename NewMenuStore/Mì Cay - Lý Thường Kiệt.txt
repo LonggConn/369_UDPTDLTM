@@ -1,0 +1,11 @@
+,Food,Price
+0,Mì Niêu,"35,000"
+1,Mì Cay Bò,"35,000"
+2,Mì Cay Xá Xíu,"30,000"
+3,Mì Cay Thịt Bò,"30,000"
+4,Mì Cay,"40,000"
+5,Udon Xá Xíu,"35,000"
+6,Combo 2,"95,000"
+7,Combo 1,"90,000"
+8,Cocktails ATMl,"35,000"
+9,Mì Xá Xíu,"35,000"

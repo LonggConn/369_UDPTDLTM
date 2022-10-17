@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh tráng trộn khô bò,"23,000"
+1,Bánh trang cuốn,"20,000"
+2,Bánh tráng trộn ăn liền khô mực,"18,000"
+3,Bánh tráng trộn khô mực,"23,000"
+4,Bánh tráng trộn sẵn ăn liền khô bò,"18,000"

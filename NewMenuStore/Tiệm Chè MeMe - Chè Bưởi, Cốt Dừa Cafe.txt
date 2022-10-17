@@ -1,0 +1,8 @@
+,Food,Price
+0,Chè Dừa dầm,"25,000"
+1,Chè Dừa non lá nếp,"25,000"
+2,Chè bưởi (cốc),"25,000"
+3,Set chè bưởi 1 kg + 350ml cốt dừa,"95,000"
+4,"Set Chè Bưởi 0,5kg + 200ml cốt dừa","55,000"
+5,Cốt dừa cafe (cốc),"25,000"
+6,Cốt dừa  400ml,"25,000"

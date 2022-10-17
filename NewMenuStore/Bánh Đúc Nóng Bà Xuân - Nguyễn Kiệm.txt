@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Đúc Nóng Đặc Biệt,"33,000"
+1,Bánh Đúc Nóng Nhân Thịt & Nấm,"27,000"
+2,Bánh Đúc Nóng Nhân Gà Xé & Nấm,"27,000"
+3,Bánh Đúc Nóng Nhân Gà Đặc Biệt,"33,000"
+4,Combo Bánh Đúc Đặc Biệt + Trà Tắc,"45,000"
+5,Bánh Đúc Nhân Hành Phi,"20,000"
+6,Combo Bánh Đúc Nhân Thịt Nấm + Trà Tắc,"39,000"
+7,Combo Bánh Đúc Nóng Gà Đặc Biệt + Trà Tắc,"45,000"
+8,Combo Bánh Đúc Nóng Nhân Gà Nấm & Trà Tắc,"39,000"
+9,Combo: 3 Bánh Đúc Đặc Biệt + 3 Trà Tắc,"140,000"
+10,Trà Tắc,"12,000"
+11,Coca-Cola,"15,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm tấm sườn trứngx,"35,000"
+1,Cơm tấm sườn bì trứng ,"40,000"
+2,Cơm tấm sườn ,"30,000"
+3,Lẩu bò nhỏ ,"200,000"
+4,Lẩu bò lớn ,"400,000"
+5,Cơm lam gà nướng ,"80,000"
+6,Ốc nhồi thịt ,"160,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh tráng sate tắc,"20,000"
+1,Bánh tráng muối nhuyễn,"20,000"
+2,Bánh tráng muối tỏi,"20,000"
+3,Trà tắc tươi sạch sợi,"15,000"
+4,Bánh tráng sốt me,"20,000"
+5,Hồng trà chanh lao trân châu,"20,000"

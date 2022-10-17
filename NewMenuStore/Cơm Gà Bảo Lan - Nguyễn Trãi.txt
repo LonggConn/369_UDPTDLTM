@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Đùi Gà Sốt BBQ,"56,000"
+1,Cơm Đùi Gà Sốt Teriyaki,"56,000"
+2,Cơm Đùi Gà Sốt Chua Ngọt Sa Tế,"56,000"
+3,Cơm Đùi Gà Chiên Sốt Mắm Bắc Bộ,"56,000"
+4,Combo 4 Đùi Gà Chiên Ngũ Vị,"154,000"
+5,Spaghetti Thịt Hun Khói Sốt Kem Tươi & Phômai,"59,500"
+6,Spaghetti Gà Nướng BBQ Sốt Kem Tươi & Phômai,"59,500"
+7,Spaghetti Ngao Sốt Kem Tươi & Phômai,"59,500"
+8,Spaghetti xúc xích sốt kem tươi và phô mai,"59,500"

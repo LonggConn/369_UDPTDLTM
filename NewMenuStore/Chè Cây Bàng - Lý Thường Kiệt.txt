@@ -1,0 +1,12 @@
+,Food,Price
+0,Chè thập cẩm,"12,000"
+1,Bánh lọt đậu xanh hạt lựu,"12,000"
+2,Chè đậu đen,"12,000"
+3,Sương sáo hạt é,"12,000"
+4,Chè cocktail,"12,000"
+5,Chè tự chọn,"11,000"
+6,Chè đậu xanh,"12,000"
+7,Sương sa,"9,000"
+8,Gỏi cuốn,"5,000"
+9,Bún xào,"20,000"
+10,Mì xào,"20,000"

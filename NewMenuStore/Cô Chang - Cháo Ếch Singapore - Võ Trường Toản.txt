@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh mì ếch,"48,000"
+1,Bánh mì thêm,"5,000"
+2,Da ếch chiên giòn,"55,000"
+3,Cháo ếch singapore,"45,000"
+4,Cháo thêm,"5,000"
+5,Cháo ếch đặc biệt (2 con),"75,000"
+6,Bánh mì ếch đặc biệt (2 con),"80,000"

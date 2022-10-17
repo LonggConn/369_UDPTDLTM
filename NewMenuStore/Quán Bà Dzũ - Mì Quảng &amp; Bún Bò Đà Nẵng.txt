@@ -1,0 +1,10 @@
+,Food,Price
+0,Mì Quảng bà Dzũ,"45,000"
+1,Bún bò Đà Nẵng,"45,000"
+2,Bún mắm nêm,"45,000"
+3,Bún cá cam,"45,000"
+4,Chả cây lẻ,"20,000"
+5,Bún lòng xào nghệ,"52,000"
+6,Chè kê tình phê,"20,000"
+7,Cà Na Đập ,"75,000"
+8,Bánh Tráng Mè Nướng,"10,000"

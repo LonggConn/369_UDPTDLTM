@@ -1,0 +1,4 @@
+,Food,Price
+0,Bún chả thịt nướng,"35,000"
+1,BÁNH CUỐN CHẢ LỤA,"30,000"
+2,BÁNH CUỐN THỊT NƯỚNG,"35,000"

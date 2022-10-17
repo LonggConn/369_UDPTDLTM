@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm gà xối mỡ,"30,000"
+1,Cơm đùi góc tư,"40,000"
+2,Cơm bò lúc lắc,"30,000"
+3,Ốp la,"5,000"
+4,Cơm thêm,"5,000"
+5,Cánh gà chiên nước mắm,"30,000"
+6,Lạp xưởng,"10,000"

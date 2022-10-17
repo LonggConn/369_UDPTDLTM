@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm chay 7 món,"40,000"
+1,Thêm nhiều rau ,"3,000"
+2,Cơm chay 5 món,"28,000"
+3,Thêm nhiều cơm,"3,000"
+4,Cơm chay 6 món,"35,000"
+5,Sườn dừa ,"20,000"
+6,Cơm Chay Đặc Biệt ,"55,000"
+7,Gà bao xả ,"20,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Nui xào bò trứng,"44,000"
+1,Nui xào bò,"38,000"
+2,Nui chiên 2 trứng,"33,000"
+3,Nui chiên 1 trứng,"28,000"
+4,Mì xào bò trứng,"44,000"
+5,Mì xào bò,"38,000"
+6,Mì xào 1 trứng,"28,000"
+7,Mì xào 2 trứng,"33,000"
+8,Bột chiên 2 trứng,"33,000"
+9,Bột chiên 1 trứng,"28,000"

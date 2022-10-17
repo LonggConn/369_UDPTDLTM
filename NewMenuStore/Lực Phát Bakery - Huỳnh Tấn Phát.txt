@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh mì thịt,"22,000"
+1,Bánh mì chà bông,"14,000"
+2,Bánh flan,"6,000"
+3,Tart trứng,"13,000"
+4,Bánh su kem,"24,000"
+5,Bánh cua phomai,"15,000"
+6,Bông lan tuyết,"17,000"
+7,Bánh Donut,"14,000"
+8,Sanwich lạt,"24,000"
+9,Bông lan mặn trứng muối xúc xích,"17,000"
+10,Bánh bông lan kem dừa nướng,"75,000"

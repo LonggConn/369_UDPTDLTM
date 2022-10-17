@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm Sườn Mặn Ngọt,"25,000"
+1,Cơm Thịt Kho Tàu,"25,000"
+2,Cơm Cá Kho,"25,000"
+3,Cơm Thịt Luộc,"30,000"
+4,Cơm Chả Cuốn,"20,000"
+5,Cơm Đậu Phụ Sốt Cà Chua,"25,000"
+6,Đầu Cá Om,"100,000"
+7,Lươn,"80,000"
+8,Ếch,"80,000"

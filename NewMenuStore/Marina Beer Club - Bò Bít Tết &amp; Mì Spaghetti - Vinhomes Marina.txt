@@ -1,0 +1,5 @@
+,Food,Price
+0,Bò Bít tết ,"70,000"
+1,Mì Spaghetti Bò,"50,000"
+2,Bò xốt tiêu đen,"70,000"
+3,Pizza,"100,000"

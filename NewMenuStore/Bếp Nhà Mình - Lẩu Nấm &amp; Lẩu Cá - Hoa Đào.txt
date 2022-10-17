@@ -1,0 +1,4 @@
+,Food,Price
+0,Chả cá Lã Vọng ,"329,000"
+1,Lẩu  cá Tầm,"349,000"
+2,Lẩu nấm (ăn chay được),"268,000"

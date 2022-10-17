@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún tô đặc biệt,"35,000"
+1,Bún chả cá,"35,000"
+2,Bánh canh tô đặc biệt,"35,000"
+3,Bánh canh chả cá,"35,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Hủ Tíu Nước Thập Cẩm,"55,000"
+1,Hủ Tíu Nước Xương,"60,000"
+2,Hủ Tíu Khô Thập Cẩm,"55,000"
+3,Hủ Tíu Khô Xương,"60,000"

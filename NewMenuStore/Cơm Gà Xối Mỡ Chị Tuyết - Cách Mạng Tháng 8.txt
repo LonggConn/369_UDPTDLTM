@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm ốp la,"28,000"
+1,Cơm Gà Xối Mỡ,"38,000"
+2,Cơm Thêm,"6,000"
+3,Cơm Gà  Xối Mắm,"38,000"
+4,Cơm Gà Sa Tế  Cay,"38,000"
+5,Cơm Ốp La,"29,000"

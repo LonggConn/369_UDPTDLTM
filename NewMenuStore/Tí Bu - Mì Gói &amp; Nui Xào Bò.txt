@@ -1,0 +1,13 @@
+,Food,Price
+0,Mì Gói Xào Bò + Trứng,"40,000"
+1,Mì Gói Xào Bò,"35,000"
+2,Oolong   Chai,"15,000"
+3,Pepsi chai ,"15,000"
+4,Nước suối aquafina,"13,000"
+5,7up  chai,"15,000"
+6,Sting lon,"20,000"
+7,Mirinda soda kem việt quất.lon,"20,000"
+8,Mirinda xá xị.lon,"20,000"
+9,Mirinda soda kem.lon,"20,000"
+10,Nui Xào Bò + Trứng,"40,000"
+11,Nui Xào Bò,"35,000"

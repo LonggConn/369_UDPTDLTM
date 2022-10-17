@@ -1,0 +1,7 @@
+,Food,Price
+0,Mua2 Con Gà   nướng muối Ớt Tặng 1 Chai Pesi,"320,000"
+1,  Gà Nướng Muối Ớt Thơm Ngon,"170,000"
+2,Gà Nướng Muối Ớt Nữa Con ,"95,000"
+3,1 Chai Pesi,"15,000"
+4,1 Con Gà Nướng + 1 Chai Pesi,"190,000"
+5,2 Chai Pesi + Đá,"26,000"

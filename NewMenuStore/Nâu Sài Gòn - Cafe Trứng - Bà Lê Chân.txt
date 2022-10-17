@@ -1,0 +1,11 @@
+,Food,Price
+0,Cafe trứng,"45,000"
+1,Cafe cốt dừa,"35,000"
+2,Cafe sữa hạt rang xay,"25,000"
+3,Bạc xỉu,"29,000"
+4,Cafe đen hạt rang xay,"22,000"
+5,Sữa chua dâu,"35,000"
+6,Sữa chua xoài,"35,000"
+7,Sữa chua việt quất,"35,000"
+8,Sữa chua đá,"25,000"
+9,Trà tắc xí muội,"25,000"

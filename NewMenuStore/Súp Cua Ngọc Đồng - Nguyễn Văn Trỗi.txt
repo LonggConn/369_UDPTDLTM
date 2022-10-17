@@ -1,0 +1,5 @@
+,Food,Price
+0,Súp cua full topping,"60,000"
+1,Súp cua trứng cút,"30,000"
+2,Cháo cá lóc,"30,000"
+3,Bánh xèo miền tây,"30,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh mì thịt nướng,"20,000"
+1,Bánh mì  chả & thịt nướng,"25,000"
+2,Bánh mì thập cẩm,"20,000"
+3,Bánh mì ốp la,"17,000"
+4,Bánh mì cá ngừ kho,"20,000"
+5,Bánh mì  Pate,"17,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,ORIGINAL - Truyền Thống,"90,000"
+1,CHEESE - Phô Mai,"101,250"
+2,CHEESE SALTED EGG - Phô Mai Trứng Muối,"112,500"
+3,CHOCOLATE - Sô Cô La,"108,750"
+4,Bánh Bông Lan Hoàng Kim 6 Lớp,"86,250"
+5,GOLDEN CHEESECAKE - Bánh Phô Mai Nhật Bản,"160,000"
+6,Bánh Mì Hoa Cúc mini,"45,000"
+7,Bánh Bông Lan Cuộn Chocolate Hạt Điều,"108,750"
+8,DUYÊN VỊ 3 - Phô Mai + Sô Cô La,"108,750"
+9,GRATED CHEESE - Bánh Phô Mai Hoàng Kim,"93,750"
+10,Bánh Mì Hoa Cúc - Men Tự Nhiên - 400g,"89,250"
+11,Bánh Su Kem Phô Mai,"55,000"

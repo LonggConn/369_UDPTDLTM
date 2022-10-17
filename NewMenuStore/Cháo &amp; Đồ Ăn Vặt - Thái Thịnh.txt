@@ -1,0 +1,7 @@
+,Food,Price
+0,Trứng Vịt Lộn,"9,000"
+1,Cháo Sườn Quẩy,"20,000"
+2,Trứng Vịt Lộn Ngải Cứu Thuốc Bắc(1 quả),"18,000"
+3,Cháo Trai Quẩy,"26,000"
+4,Chè Đỗ Đen Thạch Dừa Trân Châu ( Cốc 50 ),"15,000"
+5,Mì Trứng Ngải Cứu Thuốc Bắc,"27,000"

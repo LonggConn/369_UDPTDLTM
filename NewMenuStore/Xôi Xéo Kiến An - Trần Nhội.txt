@@ -1,0 +1,12 @@
+,Food,Price
+0,Suất xôi xéo truyền thống số 3 (Mã Tt20),"28,000"
+1,Suất xôi xéo truyền thống số 4 (Mã Tt25),"34,000"
+2,Suất xôi xéo truyền thống số 5 (Mã Tt30),"40,000"
+3,Suất xôi xéo truyền thống số 6 (Mã Tt40),"54,000"
+4,Suất xôi xéo truyền thống số 7 (Mã Tt50),"67,000"
+5,Xôi xéo đĩa 2 (Dx30),"40,000"
+6,Xôi xéo đĩa 4 (Mã Dx50),"67,000"
+7,Xôi xéo đĩa 1 (Mã Dx25),"34,000"
+8,Xôi xéo đĩa 3 (Mã Dx40),"54,000"
+9,1 Miếng Chả,"10,000"
+10,"1 Phần Ruốc, Hành...","10,000"

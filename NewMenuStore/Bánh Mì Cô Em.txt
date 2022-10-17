@@ -1,0 +1,3 @@
+,Food,Price
+0,Xôi mặn,"15,000"
+1,Bánh mì thịt,"15,000"

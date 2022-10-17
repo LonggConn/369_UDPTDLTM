@@ -1,0 +1,7 @@
+,Food,Price
+0,Sữa đậu nành nhà nấu,"10,000"
+1,Miến trộn,"30,000"
+2,Bún Vịt Nấu Tiêu Đặc Biệt,"45,000"
+3,Bún Vịt Nấu Tiêu,"35,000"
+4,Cháo lòng,"25,000"
+5,Bún xào thịt,"25,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm chiên Giòn  gà chiên mắm,"37,000"
+1,Cơm gà xối mỡ,"37,000"
+2,Cơm chiên Giòn dưa bò,"37,000"
+3,Cơm chiên Giòn thập cẩm,"30,000"
+4,Cơm rang trứng,"25,000"
+5,combo  1 suất cơm gà chiên mắn +1 chai coca,"43,000"

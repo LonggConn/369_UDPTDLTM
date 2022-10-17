@@ -1,0 +1,12 @@
+,Food,Price
+0,Phá lấu bò - bánh mì,"40,000"
+1,Phá lấu bò - mì gói,"40,000"
+2,Phá lấu bò - bánh mì ( Lớn ),"65,000"
+3,Phá lấu bò - chén,"37,000"
+4,Phá lấu bò - phần ( Lớn ),"60,000"
+5,Phá lấu bò - Mì gói ( Lớn ),"65,000"
+6,Phá lấu bò phần - 300gr,"130,000"
+7,Phá lấu bò phần - 500gr,"200,000"
+8,Phá lấu bò - Mì gói ( Xào khô ),"40,000"
+9,Bánh mì thêm,"5,000"
+10,Mì gói thêm,"5,000"

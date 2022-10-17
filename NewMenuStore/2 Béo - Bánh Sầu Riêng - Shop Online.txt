@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Crepe sầu riêng,"59,000"
+1,Bánh sầu riêng Ngàn lớp,"135,000"
+2,Sữa chua phô mai,"12,000"
+3,Nửa ổ Bánh sầu riêng ngàn lớp size lớn,"90,000"
+4,Bánh sầu riêng ngàn lớp size lớn,"175,000"
+5,COMBO ,"189,000"
+6,Panna Cotta,"15,000"
+7,Sữa chua uống trái cây - dâu/chanh dây/kiwi/việt quất/nho đen/phúc bồn tử,"23,000"

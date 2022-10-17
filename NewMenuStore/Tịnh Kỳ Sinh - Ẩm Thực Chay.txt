@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm Chay,"40,000"
+1,Combo cơm chay +  sữa hạt/nước ép,"50,000"
+2,Cơm chay,"30,000"
+3,Chuối Chiên Ngũ Sắc,"45,000"
+4,Sữa đậu nành,"15,000"

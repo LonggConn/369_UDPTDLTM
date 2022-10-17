@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh tráng ngũ vị ,"22,000"
+1,Bánh Tráng Xìke Muối Tỏi ,"13,000"
+2,Bánh tráng muối tắc ,"18,000"
+3,Bánh tráng bơ,"22,000"
+4,Bánh tráng hành phi ,"20,000"
+5,Bánh tráng mỡ hành ,"20,000"
+6,Bánh tráng tỏi phi ,"20,000"
+7,Cơm Cháy Mắm Hành ,"12,000"
+8,Tóp mỡ thêm,"5,000"
+9,Tóp Mỡ Mắm Tỏi,"55,000"
+10,Lipton tắc rim,"20,000"
+11,Trà đào sữa ,"20,000"

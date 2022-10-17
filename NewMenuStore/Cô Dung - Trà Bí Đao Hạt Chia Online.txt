@@ -1,0 +1,5 @@
+,Food,Price
+0,Trà Bí Đao Sương Sáo Hạt Chia,"20,000"
+1,Trà Bí Đao Hạt Chia,"14,000"
+2,Trà Bí Đao Sương Sáo,"18,000"
+3,Trà tắc Hạt Chia,"14,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Lẩu bò thập cẩm,"149,000"
+1,Lẩu bò đặc biệt,"199,000"
+2,Lẩu đuôi bò,"190,000"
+3,Lẩu xí quách,"165,000"
+4,Gỏi bao tử,"65,000"
+5,Gỏi gân bò,"75,000"
+6,Gỏi tai bò,"65,000"
+7,Gỏi bò thập cẩm,"80,000"
+8,Gân hấp hành,"80,000"
+9,Đuôi bò hấp hành,"80,000"
+10,Bò hấp thập cẩm,"90,000"
+11,Ngầu bính hấp,"100,000"

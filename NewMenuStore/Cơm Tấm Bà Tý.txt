@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm tấm sườn trứng,"27,000"
+1,Cơm tấm đặc biệt,"27,000"
+2,Cơm tấm ba chỉ trứng,"27,000"
+3,Cơm tấm sườn nướng,"27,000"
+4,Canh khổ qua nhồi thịt,"7,000"
+5,Cơm tấm sườn ba chỉ,"27,000"
+6,Cơm tấm ba chỉ nướng,"27,000"
+7,Cơm món ,"30,000"
+8,Cơm tấm trứng,"27,000"

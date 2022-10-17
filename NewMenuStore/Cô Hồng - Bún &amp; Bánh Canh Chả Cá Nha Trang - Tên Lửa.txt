@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún Chả Cá + Cá Dầm,"40,000"
+1,Bún Chả Cá + Cá Dầm + Sứa Tươi,"55,000"
+2,Bánh Canh Chả + Cá Dầm,"45,000"
+3,Bánh Canh Chả + Cá Dầm + Sứa,"55,000"
+4,Bún Chả Chiên + Chả Hấp ,"37,000"
+5,Bún Sứa Biển,"40,000"
+6,Chả Cá Thêm,"30,000"
+7,Cá Dầm Thêm,"30,000"
+8,CHÉN SỨA THÊM,"26,000"
+9,"Tô,  Đũa ,Muỗng ","2,500"
+10,Sâm Lạnh ,"12,000"

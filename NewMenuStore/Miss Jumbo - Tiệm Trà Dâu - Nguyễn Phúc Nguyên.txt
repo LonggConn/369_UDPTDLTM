@@ -1,0 +1,9 @@
+,Food,Price
+0,Chân Gà Cay Tứ Xuyên,"15,000"
+1,Trà Dâu Tắc Xí Muội,"19,000"
+2,Trà dâu tây size khổng lồ,"32,000"
+3,Trà dâu tằm size khổng lồ,"32,000"
+4,Trà dâu chôm chôm size khổng lồ,"32,000"
+5,Trà dâu đào size khổng lồ,"32,000"
+6,Trà dâu vải size khổng lồ,"32,000"
+7,Trà ổi hồng size khổng lồ,"32,000"

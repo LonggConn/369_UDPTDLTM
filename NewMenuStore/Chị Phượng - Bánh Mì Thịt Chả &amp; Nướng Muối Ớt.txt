@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh mì nướng muối ớt,"15,000"
+1,Bánh mì  thịt chả,"15,000"
+2,Bánh mì trứng ốp la,"15,000"
+3,Trứng thêm,"5,000"

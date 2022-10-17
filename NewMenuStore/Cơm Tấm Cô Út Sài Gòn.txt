@@ -1,0 +1,9 @@
+,Food,Price
+0,"Cơm Tấm Sườn Miếng, Chả, Trứng","40,000"
+1,Cơm tấm sườn miếng,"32,000"
+2,Cơm tấm sườn trứng,"37,000"
+3,Cơm tấm sườn que chả trứng,"50,000"
+4,Cơm tấm ba chỉ nướng,"37,000"
+5,Cơm tấm sườn que,"42,000"
+6,Cơm đùi gà nướng,"35,000"
+7,Cơm cánh gà nướng,"35,000"

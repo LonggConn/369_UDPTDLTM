@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Cuốn Nhân Thịt,"34,000"
+1,Bánh Cuốn Nhân Tôm,"44,000"
+2,Bánh Cuốn Tôm Thịt,"39,000"
+3,Bánh Cuốn Tôm Thịt Lớn,"44,000"
+4,Bánh Cuốn Nhân Tôm Lớn,"49,000"
+5,Bánh Cuốn Trứng,"45,000"
+6,Bánh Cuốn Thập Cẩm ĐẶC BIỆT,"49,000"
+7,Bánh Cuốn Thập Cẩm,"40,000"
+8,Chả chiên,"6,000"
+9,Thêm bánh cuốn ,"15,000"
+10,Chả Lụa Thêm,"7,000"
+11,Bánh Cuốn trứng thêm,"20,000"

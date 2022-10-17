@@ -1,0 +1,12 @@
+,Food,Price
+0,Khô Gà Lá Chanh,"70,000"
+1,Heo Khô Cháy Tỏi,"80,000"
+2,Cơm Cháy Lắc Khô Gà - Hộp Nhỏ,"50,000"
+3,Cơm Cháy Lắc Khô Gà - To,"90,000"
+4,Khô Gà Lá Chanh - 500g,"170,000"
+5,Khô Gà Bơ Tỏi,"70,000"
+6,Cơm Cháy Chiên Mắm,"60,000"
+7,Heo Khô Cháy Tỏi - 500g,"190,000"
+8,Khô Gà Bơ Tỏi -500g,"170,000"
+9,Cơm Cháy Lắc Khô Heo - 500g,"190,000"
+10,Cơm Cháy Lắc Khô Heo,"80,000"

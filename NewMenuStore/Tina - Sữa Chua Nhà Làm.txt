@@ -1,0 +1,4 @@
+,Food,Price
+0,Sữa chua (combo 10 bịch),"70,000"
+1,Sữa chua (combo 5 bịch),"35,000"
+2,Sữa chua,"7,000"

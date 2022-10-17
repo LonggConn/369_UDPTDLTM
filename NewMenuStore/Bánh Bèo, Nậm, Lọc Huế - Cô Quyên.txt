@@ -1,0 +1,12 @@
+,Food,Price
+0,4 Bánh lọc Huế 2 tôm,"10,000"
+1,2 Bánh bột lọc Huế 2 tôm,"12,000"
+2,Mix 3 Loại Bánh Huế - 1 Hộp(10 Cái),"63,000"
+3,Đặc Biệt Mix 3 Loại Bánh + Chả Huế - 1 Hộp(8 Cái),"71,000"
+4,Bánh Bột Lọc Huế - 1 Hộp(10 Cái),"49,000"
+5,Bánh Ram Ít Huế - 1 Hộp(8 Cái),"63,000"
+6,Bánh Nậm Huế - 1 Hộp(8 Cái),"54,000"
+7,Bánh bột lọc nhân 2 con tôm (25 cái/ 1 gói),"122,000"
+8,Bánh Nậm Huế nhân tôm thịt (20 bánh / 1 gói),"132,000"
+9,Chả Lụa Huế - 500g,"136,000"
+10,Chả tai heo Huế - 500g,"136,000"

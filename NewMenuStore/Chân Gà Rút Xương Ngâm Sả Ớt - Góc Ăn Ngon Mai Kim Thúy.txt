@@ -1,0 +1,11 @@
+,Food,Price
+0,Chân gà rút xương sốt thái xoài (cóc) (Size nhỏ),"140,000"
+1,Chân gà rút xương ngâm sả ớt (Size nhỏ),"140,000"
+2,Chân gà rút xương ngâm sả ớt (Size to),"275,000"
+3,"Chân gà rút xương sốt thái xoài, cóc (Size to)","275,000"
+4,Trà  Dưa Lưới Full Topping ,"23,000"
+5,Trà Bí Đao Hạt Chia Full topping,"23,000"
+6,Trà Bí Đao Hạt Chia Trân Châu trắng,"20,000"
+7,Trà Bí Đao Hạt Chia Thạch Sương Sáo,"20,000"
+8,Trà Dưa Lưới Thạch Sương Sáo,"20,000"
+9,Trà Dưa Lưới Trân Châu Trắng,"20,000"

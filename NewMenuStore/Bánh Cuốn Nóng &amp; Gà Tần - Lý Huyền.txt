@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Cuốn Chả Quế,"43,000"
+1,Bánh Cuốn Trứng,"17,000"
+2,Gà Ác Tần,"113,000"
+3,Bánh Cuốn Không Chả,"36,000"
+4,Bánh Cuốn Chả Nướng,"64,000"
+5,Bánh Cuốn Chả Lẫn (Nướng + Quế),"71,000"
+6,Bánh Cuốn Không Nhân,"36,000"
+7,Combo (Bánh Cuốn Chả Lẫn + Bánh Cuốn Trứng),"96,000"

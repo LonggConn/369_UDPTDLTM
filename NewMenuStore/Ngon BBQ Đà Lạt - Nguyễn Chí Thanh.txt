@@ -1,0 +1,13 @@
+,Food,Price
+0,Sườn cừu nướng kiểu pháp ,"295,000"
+1,Gà 1/2 con nướng ngũ vị,"280,000"
+2,Sườn non nướng mật ong ,"280,000"
+3,Tôm Rang Muối HONGKONG,"280,000"
+4,Lẩu gà lá é ,"420,000"
+5,Ba con cuộn nấm kim châm ,"280,000"
+6,Ức vịt xông khói ,"225,000"
+7,Mực nướng muối ớt,"280,000"
+8,Chả Giò Đặc Biệt,"280,000"
+9,Bò VN nướng tiêu xanh ,"280,000"
+10,Gà 1/2 con nướng mật ong  ,"280,000"
+11,Sườn chữ T nướng sốt tiêu xanh ,"680,000"

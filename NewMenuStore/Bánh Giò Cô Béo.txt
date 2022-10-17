@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh Giò Đầy Đủ,"45,000"
+1,Bánh Giò Không,"23,000"
+2,Bánh Giò + Chả Cốm,"41,000"
+3,Sữa Đậu Nành,"10,000"

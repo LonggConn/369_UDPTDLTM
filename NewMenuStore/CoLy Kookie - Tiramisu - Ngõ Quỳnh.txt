@@ -1,0 +1,10 @@
+,Food,Price
+0,Tiramisu Cacao Nhỏ,"48,000"
+1,Tiramisu Matcha Nhỏ,"48,000"
+2,Tiramisu Mix Vị Nhỏ,"48,000"
+3,Sữa Chua Đánh Đá,"26,000"
+4,Nước sấu ,"20,000"
+5,Nước chanh dây,"20,000"
+6,Chanh dây lắc sữa,"25,000"
+7,Nước xoài dầm,"20,000"
+8,Sữa Chua Đánh Đá Cacao,"30,000"

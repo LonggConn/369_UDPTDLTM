@@ -1,0 +1,5 @@
+,Food,Price
+0,Xôi Thập Cẩm,"45,000"
+1,Xôi Xá Xíu,"40,000"
+2,Xôi Cốm Sen Dừa (0.5kg),"70,000"
+3,Xôi Chim Tràng Trứng ( Suất 1ng),"45,000"

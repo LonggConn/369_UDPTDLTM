@@ -1,0 +1,4 @@
+,Food,Price
+0,Nước ép thơm,"25,000"
+1,Nước ép cà rốt,"25,000"
+2,Nước ép rau má,"25,000"

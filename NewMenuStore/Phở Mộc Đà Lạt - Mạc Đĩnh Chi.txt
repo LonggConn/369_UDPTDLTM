@@ -1,0 +1,11 @@
+,Food,Price
+0,Phở tái bắp lớn,"55,000"
+1,Phở tái nạm lớn,"55,000"
+2,Phở đặc biệt,"65,000"
+3,Phở tái nạm nhỏ,"45,000"
+4,Phở tái bắp nhỏ,"45,000"
+5,Phở tái bò viên lớn,"55,000"
+6,Phở tái bò viên nhỏ,"45,000"
+7,Phở tái gầu lớn,"55,000"
+8,Phở tái gầu nhỏ,"45,000"
+9,Nem thính Nam Định ,"65,000"

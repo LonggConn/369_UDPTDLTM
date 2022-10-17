@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh canh rêu ghẹ tôm tít chả - lớn,"35,000"
+1,Bánh canh rêu ghẹ tôm tít chả - nhỏ,"25,000"
+2,Bánh canh rêu ghẹ tôm tít Xương Chả,"45,000"
+3,Bánh canh rêu ghẹ tôm tít Xương,"35,000"
+4,Bún mắm đặc biệt ,"32,000"
+5,Tô nhựa muỗng hoặc đũa ,"1,000"
+6,Bún mắm nem chả ,"27,000"
+7,Bún mắm thit heo luộc ,"25,000"
+8,Bún mắm thịt chả ,"27,000"
+9,Bún mắm thịt nem ,"27,000"
+10,Nước suối,"10,000"

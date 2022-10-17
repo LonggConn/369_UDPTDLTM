@@ -1,0 +1,9 @@
+,Food,Price
+0,Parfait Hạt Điều Crumble( 6 Hũ/Hộp),"159,000"
+1,Tiramisu  ( 6 Hũ/ Hộp),"159,000"
+2,[Mua 1 tặng 1] Panna Cotta Cacao( 6 Hủ/ Hộp),"229,000"
+3,[Mua 1 tặng 1] Panna Cotta Dâu( 6hũ/Hộp),"229,000"
+4,[Mua 1 tặng 1] Parfait Bơ Crumble( 6 Hũ/ Hộp),"269,000"
+5,Mousse Xoài Chanh Dây( 6hủ/ Hộp),"119,000"
+6,"Mousse 3 Vị Chocolate (Đen, Trắng, Sữa) (6hủ/ Hộp)","159,000"
+7,[Mua 1 tặng 1] Parfait Bơ Sốt Cacao( 6 Hũ/Hộp),"269,000"

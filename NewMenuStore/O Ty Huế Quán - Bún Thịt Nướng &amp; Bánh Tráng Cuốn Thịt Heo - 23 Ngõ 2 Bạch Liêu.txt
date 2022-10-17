@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún thịt nướng ,"40,000"
+1,Bánh Tráng Cuốn Thịt Heo,"45,000"
+2,Đậu Nành ,"13,000"
+3,Bún mắm nêm thịt heo quay ,"45,000"
+4,Bún thêm,"5,000"
+5,Trà Tắc,"13,000"
+6,Nước Mía,"13,000"
+7,Nước Dừa,"20,000"
+8,Bún mắm nêm thịt luộc,"33,000"
+9,Chanh Dây,"13,000"

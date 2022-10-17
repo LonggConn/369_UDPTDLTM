@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm Rang Dưa Bò,"35,000"
+1,Cơm Rang Thập Cẩm,"30,000"
+2,Cơm Rang Bò Xào Hành Tây Giá,"35,000"
+3,Trứng Ốp,"5,000"
+4,Bò Xào Dưa Chua,"25,000"
+5,Bò Xào Hành Tây Giá,"25,000"
+6,Cơm Bình Dân Tự Chọn,"30,000"

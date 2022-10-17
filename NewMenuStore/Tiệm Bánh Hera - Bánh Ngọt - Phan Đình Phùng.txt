@@ -1,0 +1,10 @@
+,Food,Price
+0,Sữa dừa sợi,"110,000"
+1,Cafe rum nho,"110,000"
+2,Đậu xanh,"110,000"
+3,Hạt sen,"110,000"
+4,Bánh trung thu,"450,000"
+5,Mè đen,"110,000"
+6,Gà quay mật ong,"130,000"
+7,Jambon xá xíu,"130,000"
+8,Trà xanh atiso đỏ,"110,000"

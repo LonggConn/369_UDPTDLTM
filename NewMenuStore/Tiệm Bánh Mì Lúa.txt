@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh mì chà bông,"28,000"
+1,Hamburger bò trứng,"30,000"
+2,Bánh bao trứng muối,"25,000"

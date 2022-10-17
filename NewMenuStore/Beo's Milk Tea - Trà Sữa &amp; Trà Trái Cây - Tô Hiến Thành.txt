@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà đào,"25,000"
+1,Trà vải,"25,000"
+2,Trà xoài chanh dây,"25,000"
+3,Trà sữa truyền thống,"20,000"
+4,Trà sữa Thái xanh,"25,000"
+5,Trà sữa olong,"25,000"
+6,Trà Sữa Kiều Mạch,"25,000"
+7,Sữa tươi trân châu đường đen,"25,000"
+8,Beo's Signature,"25,000"
+9,Trà Sữa Hoa Lài,"25,000"
+10,Trà Sữa Thái Đỏ,"25,000"

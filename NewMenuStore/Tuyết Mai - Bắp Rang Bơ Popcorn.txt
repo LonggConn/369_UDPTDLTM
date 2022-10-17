@@ -1,0 +1,7 @@
+,Food,Price
+0,Bắp rang bơ vị phô mai,"15,000"
+1,Bắp rang bơ vị ngọt,"12,000"
+2,Bắp rang bơ vị caramel,"15,000"
+3,Bắp rang bơ vị mặn,"12,000"
+4,Bắp rang bơ vị cafe,"15,000"
+5,Bắp rang bơ vị cay,"12,000"

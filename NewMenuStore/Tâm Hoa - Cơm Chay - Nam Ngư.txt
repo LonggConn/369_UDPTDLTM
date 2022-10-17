@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà vối,"5,000"
+1,Cơm gạo lứt,"40,000"
+2,Miến  xào,"30,000"
+3,Bún chả,"40,000"
+4,Ngộ kho tiêu,"40,000"
+5,Sườn dừa xốt chua ngọt,"40,000"
+6,Bún trộn ,"30,000"
+7,Nem Hà nội,"40,000"
+8,Cơm suất gạo trắng,"35,000"
+9,Phở cuốn,"30,000"
+10,Bún nem,"40,000"
+11,Cháo nấm,"35,000"

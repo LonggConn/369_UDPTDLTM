@@ -1,0 +1,18 @@
+,Food,Price
+0,Bánh bông lan trứng muối,"45,000"
+1,Bánh kem size 16cm,"270,000"
+2,Bánh su kem,"35,000"
+3,Bánh kem size 14cm,"220,000"
+4,Nhận đặt bánh kem theo yêu cầu 0366735353,100
+5,Bánh kem size 20cm,"320,000"
+6,Bánh kem bắp size 14cm,"270,000"
+7,Bánh kem bắp size 16cm,"320,000"
+8,Bánh bông lan trứng muối size 14cm,"250,000"
+9,Bánh bông lan trứng muối size 16cm,"300,000"
+10,Bánh kem nhỏ,"100,000"
+11,Bánh mì hoa cúc,"40,000"
+12,Bánh hoa cúc nho dừa,"45,000"
+13,Bánh sữa chua phomai,"35,000"
+14,Bông lan cuộn kem,"40,000"
+15,Sanwich lạt,"35,000"
+16,Cơm cháy Minh Châu,"50,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Nem nướng Đà Lạt (Vạn Kiếp Cũ),"50,000"
+1,Nem thêm,"10,000"
+2,Nước chấm gia truyền mùi thơm ngọt quéo lưởi,"5,000"
+3,Trà Atiso,"5,000"
+4,Rau ,"10,000"

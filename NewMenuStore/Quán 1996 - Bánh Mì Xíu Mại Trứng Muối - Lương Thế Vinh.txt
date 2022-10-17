@@ -1,0 +1,10 @@
+,Food,Price
+0,Lẩu gà lá é chuẩn Phú Yên nhỏ (2 người ăn),"250,000"
+1,Bánh mì hấp,"37,000"
+2,Lẩu gà lá é chuẩn Phú Yên lớn (4 người ăn),"300,000"
+3,Bánh mì xíu mại trứng muối,"37,000"
+4,Cari bò,"49,000"
+5,Pepsi,"15,000"
+6,Nước suối,"10,000"
+7,Coca lon,"15,000"
+8,Pepsi lon,"15,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Combo Bao No 2,"72,000"
+1,Combo Bao No 1,"67,000"
+2,Bánh mì chay,"17,000"
+3,Bánh mì chay (ổ đặc biệt),"20,000"
+4,Combo ăn no,"40,000"
+5,Combo Vui Vui,"34,000"

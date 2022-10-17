@@ -1,0 +1,8 @@
+,Food,Price
+0,Ba chỉ  nướng lu,"155,000"
+1,Vũ nữ chân đất ( nhái khô),"145,000"
+2,Sườn nướng lu,"155,000"
+3,Ếch xào  xả ớt,"145,000"
+4,Chả  ốc lá lốt,"98,000"
+5,Ốc nhồi thịt,"135,000"
+6,Dê xào xả ớt,"155,000"

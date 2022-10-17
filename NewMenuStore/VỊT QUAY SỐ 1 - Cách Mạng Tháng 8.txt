@@ -1,0 +1,6 @@
+,Food,Price
+0,Heo Quay Da Giòn 100g,"40,000"
+1,Vịt Quay Số 1- Nửa Con,"200,000"
+2,Vịt Quay Số 1,"380,000"
+3,Heo quay da giòn 500g,"180,000"
+4, Heo Quay Da Giòn-1kg,"350,000"

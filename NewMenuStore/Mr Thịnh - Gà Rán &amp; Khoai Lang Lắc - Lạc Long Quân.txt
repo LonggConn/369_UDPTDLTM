@@ -1,0 +1,8 @@
+,Food,Price
+0,Gà Rán,"25,000"
+1,Đùi Gà Chiên,"30,000"
+2,Khoai Tây Lắc,"20,000"
+3,Khoai Lang Lắc,"20,000"
+4,Chuối Chiên,"20,000"
+5,Xúc Xích,"15,000"
+6,Bắp Lắc,"10,000"

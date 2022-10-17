@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm Đùi gà xối mỡ,"35,000"
+1,Cơm Thêm,"5,000"
+2,Cơm Chiên Nước Mắm Đùi Gà Lớn,"55,000"
+3,Cơm Chiên Gà Nước Mắm Ức Gà,"35,000"
+4,Trứng Thêm,"5,000"
+5,Cơm chiên gà xối mỡ - cánh gà,"50,000"
+6,Cơm Chiên Ốp La 2trứng,"30,000"
+7,Thêm 1Đùi Gà Chiên Mắm ,"25,000"
+8,Thêm 1cánh gà chiên mắm ,"20,000"
+9,Thêm 1ức Gà Chiên Mắm,"25,000"

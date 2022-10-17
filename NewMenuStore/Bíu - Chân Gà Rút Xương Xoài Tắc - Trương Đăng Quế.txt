@@ -1,0 +1,6 @@
+,Food,Price
+0,Cóc lắc,"19,000"
+1,Xoài lắc,"29,000"
+2,Chân gà rút xương sốt Thái,"120,000"
+3,Chân gà rút xương ngâm xoài tắc,"120,000"
+4,Chân gà rút xương ngâm cóc tắc,"120,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Khấu đuôi ,"130,000"
+1,Mẹt thập cẩm,"200,000"
+2,Lòng xào cải chua,"130,000"
+3,Cút quay,"20,000"
+4,Da heo chiên mắm,"50,000"
+5,Nhồi heo,"70,000"
+6,Đông  sương  nhà làm,"90,000"
+7,Móng heo chiêm mắm nhỉ,"95,000"
+8,Combo lòng,"70,000"
+9,Lòng xào nghệ,"130,000"
+10,Gà tre quay ,"210,000"
+11,Móng heo chiêm mắm ngọt,"95,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Nước Táo Lên Men,"10,000"
+1, Nước Nha Đam Hạt Chia,"12,000"
+2,Nước Nha Đam Thảo Mộc,"12,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,BÁNH BÈO TÔM THỊT,"40,000"
+1,BÁNH BÈO THỊT,"40,000"
+2,BÁNH BÈO ĐỦ THỨ,"40,000"
+3,BÁNH BÈO TÔM,"40,000"
+4,BÁNH BÈO THỊT BÌ,"40,000"
+5,BÁNH BÈO BÌ,"40,000"

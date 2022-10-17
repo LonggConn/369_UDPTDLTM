@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm chay thập cẩm,"30,000"
+1,Cơm Đậu Hủ Kho Xả Ớt,"30,000"
+2,Cơm chả cá kho thơm,"30,000"
+3,Cơm bì căn kho sả ớt,"30,000"
+4,Nấm đùi gà kho đậu hũ,"30,000"

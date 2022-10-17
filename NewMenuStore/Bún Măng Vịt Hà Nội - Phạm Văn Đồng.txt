@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún Măng Vịt ,"50,000"
+1,Miến Măng Vịt,"50,000"
+2,Bún Măng Vịt + lòng ,"68,000"
+3,Bún Măng Không Thịt ,"20,000"
+4,Gỏi Đùi Vịt Góc Tư,"125,000"
+5,Miến Gà,"45,000"
+6,Miến Măng Không Thịt,"20,000"
+7,Gỏi Cánh Vịt Góc Tư,"110,000"
+8,Măng thêm ,"15,000"
+9,Đùi vịt ,"35,000"
+10,Bộ Lòng Vịt,"22,000"
+11,Huyết thêm ,"10,000"

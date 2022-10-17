@@ -1,0 +1,14 @@
+,Food,Price
+0,Trà Dâu Tằm (Size M),1
+1,Trà dâu tây (Size L),"35,000"
+2,Trà Dâu Tây (Size M),"25,000"
+3,Trà dâu tằm (Size L),"35,000"
+4,Sữa chua dâu tây,"30,000"
+5,Sữa chua dâu tằm,"30,000"
+6,Sữa chua ổi,"25,000"
+7,Trà Ổi (Size M),"25,000"
+8,Trà Ổi (Size L),"35,000"
+9,Trà Vải (Size M),"25,000"
+10,Trà Vải (Size L),"35,000"
+11,Trà Đác Thơm (Size M),"25,000"
+12,Trà Đác Thơm (Size L),"35,000"

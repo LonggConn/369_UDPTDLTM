@@ -1,0 +1,8 @@
+,Food,Price
+0,Combo Cơm Trộn Hàn Quốc + 01 Coca-Cola,"50,000"
+1,Combo Cơm Chảo Ba Chỉ + 01 Coca-Cola,"50,000"
+2,01 Coca-Cola,"13,500"
+3,Combo Cơm Trộn Hàn Quốc + Kimpap Truyền Thống + 02 Coca-Cola,"84,000"
+4,Combo Kimpap Chiên + Canh Rong Biển + 02 Coca-Cola,"84,000"
+5,02 Coca-Cola,"27,000"
+6,Coca-Cola chỉ 1Đ,"15,000"

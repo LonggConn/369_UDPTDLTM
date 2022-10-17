@@ -1,0 +1,10 @@
+,Food,Price
+0,Grilled chicken foot,"25,000"
+1,Grilled chicken wing,"25,000"
+2,Chicken gizzard,"25,000"
+3,Grilled quail,"35,000"
+4,Grilled pork tripes,"60,000"
+5,Grilled chicken drumstick,"30,000"
+6,Grilled pork belly (Large),"120,000"
+7,Grilled pork belly (small),"80,000"
+8,Whole Vietnamese roasted chicken,"250,000"

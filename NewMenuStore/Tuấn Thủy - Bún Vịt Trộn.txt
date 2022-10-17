@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún Vịt Trộn,"30,000"
+1,Miến Vịt Trộn,"30,000"
+2,Vịt Bóp Nửa Con,"100,000"
+3,Cháo Vịt,"30,000"
+4,Vịt Luộc Nửa Con,"100,000"
+5,Vịt Bóp Nguyên Con,"180,000"
+6,Vịt Luộc Nguyên Con,"200,000"
+7,Bò Húc,"12,000"
+8,Coca,"12,000"
+9,Bia,"12,000"

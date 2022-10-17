@@ -1,0 +1,12 @@
+,Food,Price
+0,Thập cẩm - 1 trứng ( 2 món tùy thích),"27,000"
+1,"Mì Phúc Kiến chiên - 1 trứng (thêm trứng, bò, hào tùy thích)","27,000"
+2,"Nui chiên - 1 trứng ( thêm trứng, bò, hàu tùy thích)","27,000"
+3,Há cảo hấp,"22,000"
+4,Bánh hẹ chiên - 0 trứng (thêm trứng tùy thích),"17,000"
+5,"Há cảo chiên - 1 trứng (thêm trứng, bò, hào tùy thích)","27,000"
+6,2 Bánh flan ,"16,000"
+7,"Combo 1 ( 2 flan sữa, 1 trà xanh)","23,000"
+8,2 Bánh flan trà xanh,"16,000"
+9,Sữa đậu nành bạc hà,"12,000"
+10,Aquafina,"10,000"

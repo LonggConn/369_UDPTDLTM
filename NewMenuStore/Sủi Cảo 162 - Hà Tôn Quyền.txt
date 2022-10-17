@@ -1,0 +1,10 @@
+,Food,Price
+0,SỦI CẢO NƯỚC,"63,000"
+1,SỦI CẢO KHÔ SỐT DẦU HÀO,"63,000"
+2,SỦI CẢO THẬP CẨM,"63,000"
+3,SỦI CẢO CHIÊN,"63,000"
+4,MÌ SỦI CẢO,"63,000"
+5,MÌ SỦI CẢO KHÔ HẾT,"63,000"
+6,MÌ SỦI CẢO THẬP CẨM,"68,000"
+7,MÌ XÁ XÍU KHÔ,"63,000"
+8,XÍ QUÁCH (XƯƠNG),"63,000"

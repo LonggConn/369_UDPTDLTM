@@ -1,0 +1,9 @@
+,Food,Price
+0,507-Lẩu ly chả cá,"55,000"
+1,508 - Lẩu Ly Tobbokki,"55,000"
+2,500-Cơm cuộn Mayak,"55,000"
+3,502-Gà phô mai + Rau củ chiên (Ly),"55,000"
+4,506-Miến xào bò Hàn Quốc,"59,000"
+5,504-Gà sốt nước tương + Rau củ chiên (Ly),"55,000"
+6,503-Gà sốt gia vị + Rau củ chiên (Ly),"55,000"
+7,501-Gà rán truyền thống + Rau củ chiên (Ly),"55,000"

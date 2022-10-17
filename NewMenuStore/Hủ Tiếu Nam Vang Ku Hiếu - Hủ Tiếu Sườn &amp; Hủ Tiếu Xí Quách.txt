@@ -1,0 +1,9 @@
+,Food,Price
+0,Hủ tiếu nam vang khô,"60,000"
+1,Hủ tiếu nam vang thập cẩm khô,"73,000"
+2,Hủ tiếu sườn khô,"73,000"
+3,Hủ tiếu xí quách khô,"73,000"
+4,Hủ tiếu xí quách nước,"73,000"
+5,Hủ tiếu nam vang nước,"60,000"
+6,Hủ tiếu nam vang thập cẩm nước,"73,000"
+7,Hủ tiếu sườn nước,"73,000"

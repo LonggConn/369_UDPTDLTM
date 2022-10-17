@@ -1,0 +1,12 @@
+,Food,Price
+0,Hàu Sữa Hấp Sả 4 Con,"28,000"
+1,Hàu Sữa Hấp Xả 1 Con,"8,000"
+2,Tôm Nướng Mọi 1 Con,"15,000"
+3,Tôm Nướng Mọi 5 Con,"110,000"
+4,Hàu Sữa Hấp Xả 5 Con,"60,000"
+5,Hàu Sữa Tái Chanh 5 Con,"70,000"
+6,Hàu Sữa Nướng Mọi 5 Con,"70,000"
+7,Hàu Sữa Nướng Phô Mai 5 Con,"90,000"
+8,Hàu Sữa Nướng Mỡ Hành 5 Con,"90,000"
+9,Nước Suối Number One 1 Chai,"15,000"
+10,Nước Ngọt Pepsi Cola 1 Chai,"25,000"

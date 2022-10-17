@@ -1,0 +1,12 @@
+,Food,Price
+0,Gỏi Cuốn Tôm Thịt,"12,000"
+1,Gỏi cuốn tai heo,"12,000"
+2,Gỏi cuốn tôm,"12,000"
+3,Bánh Bột Lọc ,"25,000"
+4,Bánh Bèo ,"25,000"
+5,Thập Cẩm Đặc Biệt,"35,000"
+6,Combo gỏi cuốn tôm thịt,"120,000"
+7,Bánh Đúc Mặn,"25,000"
+8,Bánh Ít Trần,"25,000"
+9,Combo Gỏi Cuốn Tôm,"120,000"
+10,Combo Gỏi Cuốn Tai Heo,"120,000"

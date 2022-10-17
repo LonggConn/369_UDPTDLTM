@@ -1,0 +1,6 @@
+,Food,Price
+0,Nước Mía Cốt Dừa,"12,000"
+1,Nước mía cốt Dừa Nha Đam,"16,000"
+2,Nước mía cốt dừa trân châu trắng,"18,000"
+3,Nước mía cốt dừa chân trâu đen,"18,000"
+4,Nước mía vị  bạc hà,"12,000"

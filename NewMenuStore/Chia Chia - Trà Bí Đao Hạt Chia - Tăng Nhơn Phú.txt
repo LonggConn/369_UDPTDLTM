@@ -1,0 +1,8 @@
+,Food,Price
+0,Trà Bí Đao Hạt Chia,"12,000"
+1,Nước Cam,"15,000"
+2,Trà Sữa Dâu Tây ,"25,000"
+3,Trà Sữa Thái Xanh,"25,000"
+4,Bánh Tráng Phơi Sương ,"12,000"
+5,Trà Sữa Truyền Thống ,"25,000"
+6,Trà Sữa Dua Lưới ,"25,000"

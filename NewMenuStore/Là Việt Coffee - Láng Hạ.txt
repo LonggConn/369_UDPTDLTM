@@ -1,0 +1,5 @@
+,Food,Price
+0,Cold brew margarita,"55,000"
+1,Cà phê sữa,"50,000"
+2,Cold brew,"45,000"
+3,Cà phê đen,"40,000"

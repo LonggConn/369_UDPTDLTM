@@ -1,0 +1,13 @@
+,Food,Price
+0,Bún riêu tô thường,"30,000"
+1,Bún riêu đặc biệt,"45,000"
+2,Bún riêu cua ốc,"38,000"
+3,Dụng Cụ Ăn Uống,"2,000"
+4,Tôm thêm - 3 viên,"12,000"
+5,Chả cây,"5,000"
+6,Bún riêu giò heo,"38,000"
+7,Đậu Huyết Thêm,"10,000"
+8,Cua thêm,"12,000"
+9,Ốc.  Thêm,"12,000"
+10,Bún thêm,"5,000"
+11,Da heo chiên giòn,"7,000"

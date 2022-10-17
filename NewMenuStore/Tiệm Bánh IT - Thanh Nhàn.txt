@@ -1,0 +1,13 @@
+,Food,Price
+0,Mousse Tiramisu,"22,000"
+1,Mousse Chanh Leo,"22,000"
+2,Mousse Trà Xanh,"22,000"
+3,Mousse Xoài,"22,000"
+4,Mousse Dâu,"25,000"
+5,Mousse Chocolate,"22,000"
+6,Mousse Việt Quất,"25,000"
+7,Mousse Táo,"22,000"
+8,Redvelvet,"30,000"
+9,Bông Lan Trứng Muối,"15,000"
+10,Chiffon Trà Xanh,"10,000"
+11,Black Forest,"30,000"

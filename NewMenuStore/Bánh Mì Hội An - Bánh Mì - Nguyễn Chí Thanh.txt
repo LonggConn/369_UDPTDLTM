@@ -1,0 +1,11 @@
+,Food,Price
+0,COMBO Bánh Hội An + Nước,"40,000"
+1,COMBO Bánh Gà Quay + Nước,"40,000"
+2,COMBO Bánh Xíu Mại + Nước,"40,000"
+3,Bánh mì Hội An truyền thống,"28,000"
+4,Bánh mì pate trứng,"19,900"
+5,Bánh Mì Gà Quay,"28,000"
+6,Bánh Mì Xíu Mại (Mới),"28,000"
+7,Bánh Mì Pate Chả,"21,900"
+8,Sữa Đậu Nành,"15,000"
+9,Trà Thái Xanh,"15,000"

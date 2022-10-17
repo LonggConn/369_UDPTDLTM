@@ -1,0 +1,5 @@
+,Food,Price
+0,Rau má sữa đậu xanh cốt dừa,"20,000"
+1,Rau má sữa đậu xanh,"18,000"
+2,Rau má sữa,"15,000"
+3,Rau má sầu riêng đặc biệt,"25,000"

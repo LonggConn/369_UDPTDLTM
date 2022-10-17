@@ -1,0 +1,10 @@
+,Food,Price
+0,Hủ tiếu mực,"71,000"
+1,Hủ tiếu mực + tôm,"79,000"
+2,Hủ tiếu hải sản (đặc biệt) (Hộp),"81,000"
+3,Hủ tiếu thịt viên,"69,000"
+4,Hủ tiếu hải sản,"79,000"
+5,Mực thêm,"64,000"
+6,Pepsi,"18,000"
+7,7 Up,"18,000"
+8,Nước suối,"12,000"

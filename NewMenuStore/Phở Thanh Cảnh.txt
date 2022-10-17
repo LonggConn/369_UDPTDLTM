@@ -1,0 +1,13 @@
+,Food,Price
+0,Phở tái,"35,000"
+1,Phở thập cẩm,"50,000"
+2,Hủ tiếu bò kho,"35,000"
+3,Bún bò,"35,000"
+4,Phở nạm,"35,000"
+5,Phở tái nạm bò viên,"50,000"
+6,Phở nạm gân bò viên,"50,000"
+7,Phở bò viên,"35,000"
+8,Phở tái gân bò viên,"50,000"
+9,Phở tái nạm gân,"50,000"
+10,Miến bò,"35,000"
+11,Phở gân,"35,000"

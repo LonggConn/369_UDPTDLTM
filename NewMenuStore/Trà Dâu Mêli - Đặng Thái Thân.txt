@@ -1,0 +1,10 @@
+,Food,Price
+0,Trà  Dâu Tây,"20,000"
+1,Trà Dâu Tằm,"20,000"
+2,Trà Sữa Dâu Tây ,"20,000"
+3,Soda Dâu Tây,"15,000"
+4,Trà Sữa Dâu Tằm,"20,000"
+5,Trà đào,"20,000"
+6,Trà Tắc,"15,000"
+7,Trà Chanh,"15,000"
+8,Soda Dâu Tằm,"15,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Khoai lang lắc phô mai,"20,000"
+1,Khoai tây lắc phô mai,"20,000"
+2,Chuối lắc phô mai,"20,000"
+3,Đùi gà,"50,000"
+4,Má đùi,"50,000"
+5,Xúc xích,"20,000"
+6,Cá viên chiên,"10,000"
+7,Sake lắc phô mai,"20,000"
+8,Cánh gà,"50,000"

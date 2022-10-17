@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún Ngan,"30,000"
+1,Ngan Chặt - Đĩa To,"100,000"
+2,Ngan Chặt - Đĩa Nhỏ,"50,000"
+3,Ngan Chặt - Đĩa Nhỡ,"70,000"

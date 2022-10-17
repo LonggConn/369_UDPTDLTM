@@ -1,0 +1,13 @@
+,Food,Price
+0,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay) +  3 Miếng gà giòn không xương (lựa chọn vị cay/ không cay) + 2 Chai Coca-Cola 390ml + 4 Tương ớt + 2 tương cà,"169,000"
+1,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không cay) + 5 Miếng gà giòn không xương (lựa chọn vị cay/ không cay) + 3 Chai Coca-Cola 390ml + 6 Tương ớt + 3 tương cà,"279,000"
+2,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay) + 2 Miếng gà giòn không xương (lựa chọn vị cay/ không cay + 1 Chai Coca-Cola 390ml + 2 Tương ớt + 1 tương cà,"109,000"
+3,Coca-Cola chỉ 1Đ,1
+4,02 Coca-Cola chai,"50,000"
+5,STAR BOX COMBO A,"99,000"
+6,STAR BOX COMBO D,"119,000"
+7,STAR BOX COMBO B,"99,000"
+8,STAR BOX COMBO C,"119,000"
+9,01 Miếng gà sốt 8 vị cay,"49,000"
+10,Combo A – Gà sốt 8 vị cay,"119,000"
+11,Set 5 miếng gà sốt 8 vị cay,"239,000"

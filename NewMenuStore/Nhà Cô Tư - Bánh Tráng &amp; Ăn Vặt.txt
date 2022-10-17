@@ -1,0 +1,11 @@
+,Food,Price
+0,Mực Sợi Hấp Nước Dừa,"90,000"
+1,Bánh Quế Socola,"15,000"
+2,Bánh Plan 10 Hủ,"85,000"
+3,Bánh Quế Dâu,"15,000"
+4,Sữa Chua 10 hủ,"90,000"
+5,Phomai Que Mini,"70,000"
+6,Kit Test Flowflex của Mỹ,"90,000"
+7,Kit Test Standard Q Hàn Quốc,"100,000"
+8,Khẩu Trang N95,"40,000"
+9,Khẩu Trang KF94,"25,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Mua 1 Tặng 1 Burger Bò Hoàng Gia Phô Mai (1647),"72,000"
+1,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,"89,000"
+2,Couple Combo A (7575),"136,000"
+3,Couple Combo B (7576),"136,000"
+4,Coca-Cola Light,"27,000"
+5,Combo Nghỉ Giải Lao (7588),"109,000"
+6,Phần Ăn Cỡ Lớn Burger Vị Phở,"114,000"
+7,Pho Burger,"79,000"
+8,Phần Ăn Cỡ Vừa Burger Vị Phở,"99,000"
+9,Cơm gà tắm mắm tỏi (1662),"49,000"
+10,Xà Lách Lắc,"35,000"

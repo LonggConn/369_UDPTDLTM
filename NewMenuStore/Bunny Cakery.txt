@@ -1,0 +1,6 @@
+,Food,Price
+0,Macaron,"90,000"
+1,Bánh kem sinh nhật có sẵn,"180,000"
+2,Bông lan trứng muối,"40,000"
+3,Tiramisu chese,"40,000"
+4,Bông lan phomai Nhật,"15,000"

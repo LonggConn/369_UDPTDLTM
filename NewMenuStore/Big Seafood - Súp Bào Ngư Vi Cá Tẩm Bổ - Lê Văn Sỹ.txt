@@ -1,0 +1,13 @@
+,Food,Price
+0,Súp bào ngư tăng lực 1 người Ruby One,"270,000"
+1,Súp bào ngư + vi cá tăng lực 1 người Diamond One plus,"570,000"
+2,Súp hải sâm + bào ngư 1 người Gold One,"380,000"
+3,Súp bào ngư tăng lực 1 người Ruby One Plus (Lớn),"370,000"
+4,Súp bào ngư + vi cá tăng lực Diamond One 1 người,"428,000"
+5,Thố đất,"39,000"
+6,Súp hải sâm + bào ngư + vi cá 1 người Gold Diamond One,"670,000"
+7,Súp bào ngư tăng lực 2 người Ruby Two,"528,000"
+8,Nước chấm ớt chanh thần thánh,"13,000"
+9,Súp bào ngư + vi cá tăng lực Diamond Two (2-3 người),"1,090,000"
+10,Sò điệp thêm,"50,000"
+11,Bào ngư thêm size súp,"65,000"

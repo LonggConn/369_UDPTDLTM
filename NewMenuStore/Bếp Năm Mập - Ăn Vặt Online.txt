@@ -1,0 +1,8 @@
+,Food,Price
+0,Chân gà ngâm sả tắc,"90,000"
+1,Chân gà lắc sốt Thái,"100,000"
+2,Tai Heo Sốt Thái Nhỏ,"85,000"
+3,Lỗ tai heo trộn cóc non sốt Thái,"170,000"
+4,Chân gà mix tai heo sốt thái,"145,000"
+5,Xoài sốt thái,"40,000"
+6,Lỗ tai heo ngâm chua ngọt,"160,000"

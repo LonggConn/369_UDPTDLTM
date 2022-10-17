@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh tráng mắm ruốc 250g,"40,000"
+1,Bánh tráng khô bò 150g,"36,000"
+2,Bánh tráng mắm tỏi gói 120g,"35,000"
+3,Bánh tráng mắm ruốc 125g,"29,000"
+4,Bánh tráng khô gà cay 140g,"39,000"
+5,Bánh tráng sốt mắm ruốc,"15,000"
+6,Bánh tráng mắm tỏi gói 70g,"19,000"
+7,Bánh tráng sốt tôm cay,"17,000"
+8,Bánh tráng ruốc cá hồi gói 120g,"45,000"
+9,Bánh tráng khô gà cay 70g,"23,000"
+10,Bánh tráng  nướng mè dừa,"12,000"

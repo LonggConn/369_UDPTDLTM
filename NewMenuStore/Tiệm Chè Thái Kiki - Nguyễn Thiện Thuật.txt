@@ -1,0 +1,13 @@
+,Food,Price
+0,Chè Thái Sầu Riêng,"28,800"
+1,Trà Nhãn Sủi Ma Kha 1000ml,"28,800"
+2,Chè Thái Đậu Đỏ,"28,800"
+3,Chè thái đặc biệt,"37,800"
+4,Sầu riêng Dằm,"36,000"
+5,Trà sữa Thái Sobaidee 500ml,"25,200"
+6,Trà Nhãn Xỉu Ma Kha 500ml,"10,000"
+7,Combo 2 Ly Chè Thái Sầu Riêng,"54,000"
+8,Combo 3 Ly Chè Thái Sầu Riêng,"80,100"
+9,Cá Viên Chiên Sốt Thái Tóp Mỡ (Phần Nhỏ),"58,500"
+10,Gỏi Đu Đủ Tôm Khô,"22,500"
+11,Cá Viên Chiên Sốt Thái Tóp Mỡ (Phần Lớn),"107,100"

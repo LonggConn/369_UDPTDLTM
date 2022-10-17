@@ -1,0 +1,13 @@
+,Food,Price
+0,Yaourt,"7,000"
+1,Bánh flan,"7,000"
+2,Chả cây,"8,000"
+3,Bánh ướt thêm,"7,000"
+4,Cháo thêm,"7,000"
+5,Bánh ướt thập cẩm,"35,000"
+6,Bánh ướt gà ta,"35,000"
+7,Bánh ướt lòng,"30,000"
+8,Gỏi 2 người,"40,000"
+9,Bánh Ướt Thập Cẩm Trứng Non,"40,000"
+10,Cháo gà,"25,000"
+11,Gỏi 3 người,"70,000"

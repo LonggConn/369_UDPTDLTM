@@ -1,0 +1,11 @@
+,Food,Price
+0,Gà Ri Ủ Muối khay 1/2con chặt sẵn,"105,000"
+1,Gà Ri Ủ Muối Ôm Trứng ,"176,000"
+2,Gà Ri Ủ Muối Khay 1/2con,"96,800"
+3,Chân Gà Rút Xương Ủ Muối 500g,"102,000"
+4,Gà Ri Ủ Muối Ôm Trứng Chặt Sẵn,"185,000"
+5,Chân Gà Rút Xương Ủ Muối 500g+Rau +Nước chấm,"110,000"
+6,Gà Ri Ủ Muối,"168,000"
+7,Gà Ri Ủ Muối Chặt Sẵn,"176,000"
+8,Gà Ri Ủ Muối Nguyên Con Đặc Biệt,"228,000"
+9,Gà Ri Ủ Muối Nguyên Con Đặc Biệt Chặt sẵn,"237,000"

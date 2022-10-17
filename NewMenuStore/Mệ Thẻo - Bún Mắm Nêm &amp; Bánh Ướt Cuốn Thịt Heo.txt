@@ -1,0 +1,13 @@
+,Food,Price
+0,Nem lụi,"9,000"
+1,Bánh tráng ướt cuốn thịt heo luộc,"65,000"
+2,Bánh tráng ướt cuốn thịt heo quay,"75,000"
+3,Bún thập cẩm,"22,000"
+4,Bún thịt nướng,"27,000"
+5,Bún bò tái thui,"27,000"
+6,Bún thịt đầu,"22,000"
+7,Bún đặc biệt đủ loại,"35,000"
+8,Bún nem chả,"22,000"
+9,Bún thịt heo quay,"27,000"
+10,Bún chả da,"22,000"
+11,Bún cá ngừ,"27,000"

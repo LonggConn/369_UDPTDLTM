@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh canh thịt ghẹ,"69,000"
+1,Bánh canh ghẹ nhỏ nguyên con,"69,000"
+2,Bánh canh cua nguyên con,"285,000"
+3,Bánh canh ghẹ nguyên con LỚN,"285,000"

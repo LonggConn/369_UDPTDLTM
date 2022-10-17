@@ -1,0 +1,8 @@
+,Food,Price
+0,Súp cua đặc biệt (hộp lớn),"65,000"
+1,Súp cua hộp,"35,000"
+2,Súp cua lòng gà( hộp lớn),"40,000"
+3,Trứng bắc thảo( nửa trứng),"10,000"
+4,Súp cua hải sản (hộp lớn),"50,000"
+5,Mì Gà quay,"55,000"
+6,Lòng gà trứng non hấp,"30,000"

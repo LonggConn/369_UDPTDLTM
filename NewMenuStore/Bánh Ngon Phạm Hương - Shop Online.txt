@@ -1,0 +1,12 @@
+,Food,Price
+0,Bông Lan Trứng Muối Vừa,"55,000"
+1,Bông Lan Trứng Muối To,"65,000"
+2,Bánh Mì Hoa Cúc,"65,000"
+3,Bông Lan Hoa Quả,"70,000"
+4,Bông Lan Trân Châu,"60,000"
+5,Bông Lan Trứng Muối Nhỏ,"40,000"
+6,Set 4 Bánh,"110,000"
+7,Tiramisu,"85,000"
+8,Su Kem,"35,000"
+9,Set Phomai Tan Chảy,"99,000"
+10,Bông Lan Trứng Muối Gà Cay Đài Loan Sốt Phô Mai,"70,000"

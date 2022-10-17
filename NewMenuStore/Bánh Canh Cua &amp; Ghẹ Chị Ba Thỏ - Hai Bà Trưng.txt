@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh canh tô thường ,"90,000"
+1,Bánh canh tô em bé ,"50,000"
+2,Bánh canh tô siêu đặc biệt ,"280,000"

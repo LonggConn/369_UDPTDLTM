@@ -1,0 +1,8 @@
+,Food,Price
+0,Gà lên mâm nam bộ - lớn (4 người),"350,000"
+1,Gà lên mâm nam bộ - nhỏ (2 người),"200,000"
+2,Gà không lối thoát - ngũ vị nam bộ - lớn (4 người),"380,000"
+3,Gà không lối thoát - ngũ vị nam bộ - nhỏ (2 người),"210,000"
+4,Gà ta ngũ vị cháy tỏi - nhỏ,"170,000"
+5,Gà ta ngũ vị cháy tỏi - lớn,"270,000"
+6,Xôi Nước Cốt Gà,"10,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Canh Cá Lóc Thường,"37,000"
+1,Bánh Canh Cá Lóc Suất To,"42,000"
+2,Bánh Mì Rán,"6,000"
+3,Súp Lươn,"47,000"
+4,Cháo Lươn,"42,000"

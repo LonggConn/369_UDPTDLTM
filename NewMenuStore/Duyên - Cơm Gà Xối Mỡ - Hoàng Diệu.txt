@@ -1,0 +1,4 @@
+,Food,Price
+0,Cơm Gà Xối Mỡ,"29,700"
+1,Cơm Thêm,"6,300"
+2,Cơm Gà Xối Mỡ - Lớn,"49,500"

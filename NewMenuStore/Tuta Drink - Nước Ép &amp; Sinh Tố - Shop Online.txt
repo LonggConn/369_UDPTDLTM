@@ -1,0 +1,12 @@
+,Food,Price
+0,Pizza Bò Băm,"95,000"
+1,Pizza Hải Sản,"105,000"
+2,Pizza Jam Bông Dứa,"95,000"
+3,Pizza Cá Ngừ Thanh Cua,"105,000"
+4,Pizza Gà Nấm,"95,000"
+5,Pizza Xúc Xích,"95,000"
+6,Pizza Xúc Xích Thịt Nguội,"95,000"
+7,Mỳ Ý Sốt Bò Băm,"40,000"
+8,Mỳ Ý Sốt Kem Nấm,"45,000"
+9,Khoai Tây Chiên Bơ Tỏi,"30,000"
+10,Coca,"15,000"

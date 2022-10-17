@@ -1,0 +1,6 @@
+,Food,Price
+0,Bò xào bông bí,"40,000"
+1,Cá bống kho tiêu,"35,000"
+2,Đùi gà khìa nước dừa,"35,000"
+3,Gà chua ngọt,"35,000"
+4,Đậu hủ dồn thịt,"35,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh tráng cuốn,"20,000"
+1,Bánh tráng cuộn,"20,000"
+2,Khô gà,"35,000"
+3,Rong biển,"25,000"

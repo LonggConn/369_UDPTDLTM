@@ -1,0 +1,11 @@
+,Food,Price
+0,Sườn bì ốp la,"40,000"
+1,Sườn bì chả trứng,"48,000"
+2,Cơm đùi gà,"40,000"
+3,Sườn bì lạp xưởng,"48,000"
+4,Trà tắc,"12,000"
+5,Stinh vàng,"20,000"
+6,Cam ép twister,"20,000"
+7,7 up,"20,000"
+8,Cocacola,"20,000"
+9,Pepsi,"20,000"

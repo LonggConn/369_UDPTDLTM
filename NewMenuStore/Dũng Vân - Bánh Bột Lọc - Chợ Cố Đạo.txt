@@ -1,0 +1,10 @@
+,Food,Price
+0,Trà Dứa thạch nha đam mát lạnh,"24,000"
+1,Trà Mận Nha Đam mát lạnh,"24,000"
+2,Bánh Bột Lọc đặc biệt gia truyền ,"7,000"
+3,Phở Cuốn  nhân thịt,"7,000"
+4,Bánh Gối nhiều nhân,"15,000"
+5,Bánh Tôm tươi ngon,"15,000"
+6,Bánh Xèo Nam Bộ chính gốc,"35,000"
+7,Bánh đúc tàu lâu đời,"25,000"
+8,Nộm Chân Gà ,"50,000"

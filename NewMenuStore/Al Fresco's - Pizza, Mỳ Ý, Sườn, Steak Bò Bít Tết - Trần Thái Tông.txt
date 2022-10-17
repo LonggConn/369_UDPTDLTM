@@ -1,0 +1,12 @@
+,Food,Price
+0,Kid's Pizza Kit,"270,000"
+1,Deal Chất Al Fresco's,"345,600"
+2,Spaghetti Bolognaise,"210,600"
+3,Steak Mushroom,"237,600"
+4,SPAGHETTI CARBONARA,"237,600"
+5,Lasagna Beef,"248,400"
+6,Spaghetti Seafood,"237,600"
+7,Fettuccine Salmon,"237,600"
+8,TOM YUM SEAFOOD SPAGHETTI,"237,600"
+9,Home Party Deal,"1,350,000"
+10,Office Deal,"1,350,000"

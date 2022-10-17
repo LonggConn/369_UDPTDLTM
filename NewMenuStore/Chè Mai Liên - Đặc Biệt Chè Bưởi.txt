@@ -1,0 +1,4 @@
+,Food,Price
+0,Chè Bưởi,"22,750"
+1,Chè đậu thập cẩm,"22,750"
+2,Chè Thái Đặc Biệt,"26,000"

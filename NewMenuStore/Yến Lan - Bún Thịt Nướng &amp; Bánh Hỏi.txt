@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún thịt nướng,"45,000"
+1,Bánh hỏi thịt nướng,"45,000"
+2,Bún Thịt Bò Xào,"45,000"
+3,Bánh Ướt Thịt Nướng Nem Nướng Chả Giò  ,"45,000"
+4,Bánh hỏi thêm,"10,000"
+5,Bún Thêm,"10,000"
+6,Bánh Ướt Thêm,"10,000"

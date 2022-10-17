@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Mỳ Thịt,"10,000"
+1,Bánh Mỳ Trứng,"8,000"
+2,Bánh Mỳ Bò Khô,"12,000"
+3,Bánh Mỳ Giò,"10,000"
+4,Bánh Mỳ Ruốc Bông,"10,000"

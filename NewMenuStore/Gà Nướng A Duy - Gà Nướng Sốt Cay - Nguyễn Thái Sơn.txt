@@ -1,0 +1,5 @@
+,Food,Price
+0,Gà Nướng Muối Ớt,"180,000"
+1,Gà nướng sốt cay,"180,000"
+2,gà nướng than cay,"180,000"
+3,gà nướng nguyên con,"180,000"

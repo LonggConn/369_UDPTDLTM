@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm Cháy Chà Bông Vị Vừa 250g/gói,"60,000"
+1,Cơm Cháy Chà Bông Vị Vừa 100g/gói,"25,000"
+2,Cơm Cháy Chà Bông Vị Vừa 500g/gói,"120,000"
+3,4 Gói Cơm Cháy Chà Bông Vị Vừa 250g/gói,"235,000"
+4,Combo 10 gói Cơm Cháy Chà Bông Vị Vừa loại 100g/gói,"240,000"
+5,Combo 2 Gói Cơm Cháy Chà Bông Vị Vừa 500g/gói,"235,000"
+6,Combo 8 gói Cơm Cháy Chà Bông Vị Vừa 100g/gói,"196,000"

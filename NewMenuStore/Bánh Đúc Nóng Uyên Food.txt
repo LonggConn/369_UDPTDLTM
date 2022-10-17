@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh đúc nóng (hộp trung),"28,000"
+1,Bánh đúc nóng (hộp lớn),"38,000"
+2,Chè Đậu Đỏ Bánh Lọt Nước Dừa,"16,000"
+3,Bánh Bèo Tôm Chấy Huế,"49,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Chân Hà rút xương ngâm xả tắc,"160,000"
+1,Da heo cháy tỏi,"100,000"
+2,"Súp cua thường (cua, tôm , trứng cút)","45,000"
+3,"Súp cua đặc biệt ( óc heo, tôm , cua , trứng bắc  thảo , trứng cút) ","65,000"
+4,Cơm cháy khô gà,"60,000"
+5,Tai  heo ngâm giấm kiệu,"150,000"
+6,Muối ớt xanh,"100,000"
+7,Bánh tổ ong,"60,000"

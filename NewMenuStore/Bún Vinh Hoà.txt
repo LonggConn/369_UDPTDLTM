@@ -1,0 +1,5 @@
+,Food,Price
+0,Bún Bò Trộn,"36,000"
+1,Cháo Canh,"24,000"
+2,Bún Bò Hầm,"36,000"
+3,Bún Bò Tái,"36,000"

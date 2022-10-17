@@ -1,0 +1,6 @@
+,Food,Price
+0,Nem Lụi (1 cây),"9,500"
+1,Bún Thịt  Nướng,"34,000"
+2,Bún Thịt Nướng Mắm Nêm,"34,000"
+3,Bún Thịt Luộc Nem Chả Mắm Nêm ,"34,000"
+4,Nem Lụi Phần (10 cây),"95,000"

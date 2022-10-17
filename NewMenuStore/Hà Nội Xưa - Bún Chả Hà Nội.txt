@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún chả Tô Lớn,"35,000"
+1,Nem rán (1 cây),"10,000"
+2,1Bún Chả tô lớn+1Nem,"45,000"
+3,Bún Nem Tô Lớn,"35,000"
+4,Bún Nem Tô Nhỏ,"30,000"
+5,1 Bún Chả tô lớn+1nem+1Mojito chanh mật ong,"70,000"
+6,Mojito chanh mật ong,"25,000"
+7,Nem Sống (10 Cây),"100,000"
+8,Bún Thêm,"5,000"
+9,Ba Chỉ Nướng Thêm,"15,000"
+10,Chả Viên Thêm,"20,000"

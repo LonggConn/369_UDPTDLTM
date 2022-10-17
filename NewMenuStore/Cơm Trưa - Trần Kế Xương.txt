@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm sườn kho trứng cút,"25,000"
+1,Cơm tôm ram,"25,000"
+2,Cơm thịt kho trứng,"25,000"
+3,Cơm mắm chưng,"22,000"
+4,Cơm cá chiên,"25,000"
+5,Cơm cá kho,"22,000"
+6,Cơm tép,"25,000"

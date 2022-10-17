@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún bò đò trai,"50,000"
+1,Bánh Mỳ Ốp La ,"45,000"
+2,Súp Lươn,"55,000"
+3,Bún Cá,"50,000"
+4,Miến Lươn Nước ,"45,000"
+5,Sinh Tố Bơ Nguyên Chất,"45,000"
+6,Sinh Tố Xoài Nguyên Chất,"35,000"
+7,Cà phê Sữa Đá Nóng,"24,000"
+8,Café Milk Espresso,"29,000"
+9,Café Espresso,"29,000"

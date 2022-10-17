@@ -1,0 +1,18 @@
+,Food,Price
+0,Combo 2 Mì Bò Úc Đại Lợi Á + 2 Coca-Cola,"100,000"
+1,Combo 2 Mì Bò A Mỹ Lợi Gia + 2 Coca-Cola,"100,000"
+2,2 Coca-Cola chai,"30,000"
+3,Coca-Cola chỉ 1Đ ,1
+4,Combo Mì Bò Úc Đại Lợi Á + 1 Coca-Cola       ,"50,000"
+5,Combo Mì Bò A Mỹ Lợi Gia + 1 Coca-Cola,"50,000"
+6,1 Coca-Cola chai,"15,000"
+7,Mì bò A Mỹ Lợi Gia kèm Trà Phổ Nhĩ Thượng Hạng ủ lạnh,"69,000"
+8,Bào Ngư (1 Con),"30,000"
+9,Món Xịn,"10,000"
+10,Combo Topping ( Tàu Hủ Ky + Nấm Đông Cô ),"25,000"
+11,Mì Bò A Mỹ Lợi Gia,"58,000"
+12,Mì bò Nhị Phẩm,"78,000"
+13,Mì bắp hoa bò Gia Nã Đại,"68,000"
+14,Mì bò Nhất Phẩm,"102,000"
+15,Mì Bò Úc Đại Lợi Á,"63,000"
+16,Mì Bào Ngư Thượng Phẩm,"152,000"

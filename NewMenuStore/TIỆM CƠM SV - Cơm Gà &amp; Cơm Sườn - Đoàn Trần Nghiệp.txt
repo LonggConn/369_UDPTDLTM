@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm thêm,"5,000"
+1,Kim chi,"7,000"
+2,Cơm gà thập cẩm,"28,000"
+3,Cơm gà chiên giòn,"25,000"
+4,Cơm gà xé,"25,000"
+5,Cơm gà chiên mắm,"30,000"
+6,Cơm đùi gà,"35,000"
+7,CƠM CÁNH GÀ SATE,"35,000"
+8,Cơm sườn ram,"28,000"
+9,Cơm sườn ram + trứng,"35,000"

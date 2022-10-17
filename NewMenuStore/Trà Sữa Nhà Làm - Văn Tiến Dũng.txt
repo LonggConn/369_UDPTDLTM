@@ -1,0 +1,7 @@
+,Food,Price
+0,Trà sữa truyền thống,"20,000"
+1,Trà đào,"15,000"
+2,Milo dầm,"20,000"
+3,Sâm bí đao hạt chia ,"15,000"
+4,Trà tắc,"15,000"
+5,Sữa tươi,"20,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Súp cua trứng bách thảo (nửa trứng) (Hộp),"25,000"
+1,Súp cua (Hộp),"20,000"
+2,Súp cua trứng bách thảo (nguyên trứng) (Hộp),"30,000"
+3,Súp cua trứng bách thảo (nguyên trứng-2 trứng) (Hộp),"40,000"
+4,2 Súp cua (Hộp),"40,000"

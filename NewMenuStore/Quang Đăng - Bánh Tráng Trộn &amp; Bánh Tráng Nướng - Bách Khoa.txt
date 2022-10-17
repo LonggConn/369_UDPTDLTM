@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh Tráng Trộn,"23,000"
+1,Bánh tráng cuộn bơ,"23,000"
+2,Bánh tráng nướng,"23,000"
+3,Bánh tráng trộn da heo chiên giòn chua cay,"33,000"
+4,Da heo chiên giòn chua cay,"28,000"
+5,Com bo 2,"69,000"
+6,Combo  95k,"95,000"
+7,Combo 75k,"75,000"
+8,Trà tắc khổng lồ,"18,000"
+9,Coca,"12,000"

@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà xối mỡ,"45,000"
+1,Cơm gà xốt nước mắm,"50,000"
+2,Cơm chiên Dương Châu,"45,000"
+3,Trà Tắc,"20,000"
+4,Dừa Tắc,"25,000"
+5,Cam Vắt,"25,000"

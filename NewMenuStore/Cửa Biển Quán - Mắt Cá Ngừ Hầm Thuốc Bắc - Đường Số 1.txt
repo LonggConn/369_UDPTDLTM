@@ -1,0 +1,3 @@
+,Food,Price
+0,Ốc Móng Tay Xào Rau Muống,"55,000"
+1,Ốc hương Rang Muối,"55,000"

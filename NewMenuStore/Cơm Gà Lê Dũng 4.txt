@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm gà góc tư,"50,000"
+1,Canh rong biển,"5,000"
+2,Đầu gà,"5,000"
+3,Chân gà 6 cái,"10,000"
+4,Gà nguyên con,"130,000"

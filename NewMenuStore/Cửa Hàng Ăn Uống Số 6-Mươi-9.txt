@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm lam thịt nướng,"120,000"
+1,Trứng non mề gà cháy tỏi,"120,000"
+2,Tré trộn xoài,"99,000"
+3,Mực lá đại dương sốt me cay,"130,000"
+4,Chân gà hầm ớt xiêm,"99,000"
+5,Bao tử cá xào chua ngọt,"80,000"
+6,Lườn ngỗng hun khói,"99,000"
+7,Cơm chiên ruốc Thái,"80,000"
+8,Sườn non sốt mắm,"90,000"
+9,Bánh khoai tây nhân thịt viên,"69,000"

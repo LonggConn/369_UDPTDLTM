@@ -1,0 +1,8 @@
+,Food,Price
+0,Xôi hoa đậu,"30,000"
+1,Bánh bông lan sốt phô mai (cup),"12,000"
+2,Bánh bông lan sốt phô mai (size 16),"150,000"
+3,Flan (hũ),"6,000"
+4,Rau câu mix flan (hũ),"10,000"
+5,Tiramisu,"40,000"
+6,Mousse chanh dây,"40,000"

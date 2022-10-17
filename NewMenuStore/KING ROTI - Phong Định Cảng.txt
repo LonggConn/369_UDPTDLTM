@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh King Roti Socola,"23,000"
+1,Bánh King Roti Phomai,"23,000"
+2,Bánh King Roti Bơ sữa,"23,000"
+3,Bánh King Roti Trà Xanh,"23,000"
+4,Coca,"18,000"
+5,Café nâu,"24,000"
+6,Café đen,"20,000"
+7,Bánh mỳ muối ớt,"15,000"
+8,Nem nướng,"80,000"
+9,Bò húc,"20,000"
+10,Chanh muối,"20,000"
+11,Trà đào,"24,000"

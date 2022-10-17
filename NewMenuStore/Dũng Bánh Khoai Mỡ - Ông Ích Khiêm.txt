@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh khoai mỡ (Bịch Đặc Biệt),"34,000"
+1,Bánh khoai mỡ (Bịch Nhỏ),"12,000"
+2,Bánh khoai mỡ (Bịch Lớn),"23,000"
+3,Bánh khoai mỡ (Bịch Vừa),"18,000"

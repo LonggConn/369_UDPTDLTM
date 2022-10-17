@@ -1,0 +1,7 @@
+,Food,Price
+0,Thịt bò nướng,"14,000"
+1,Bánh mì bơ,"8,000"
+2,Thịt Heo Nướng,"14,000"
+3,Bánh Mì Bơ Patê,"13,000"
+4,1 Phần Đu Đủ,"10,000"
+5,1  Phần Bơ A Tùng,"15,000"

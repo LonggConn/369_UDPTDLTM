@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh cuốn ,"45,000"
+1,Bò bía ,"30,000"
+2,Bánh tráng trộn ,"35,000"
+3,Trà tắc ,"15,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Tam giác kebab,"18,000"
+1,Cuộn kebab,"22,000"

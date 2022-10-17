@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún thái hải sản( chưa bao gồm hộp),"40,000"
+1,Hủ Tiếu Mực( chưa bao gồm hộp),"40,000"
+2,Hủ Tiếu Xương(  chưa bao gồm hộp),"40,000"
+3,Hủ Tiếu Hải Sản( chưa bao gồm hộp),"40,000"
+4,Trà tắc Táo Đỏ đường phèn,"20,000"
+5,Sting,"15,000"
+6,Coca,"15,000"
+7,7up,"15,000"
+8,Pepsi,"15,000"
+9,Hủ Tiếu Mực Xương( chưa bao gồm hộp),"58,000"
+10,Hộp Muỗng Đũa,"3,000"

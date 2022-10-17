@@ -1,0 +1,8 @@
+,Food,Price
+0,Nem phần,"47,000"
+1,Nem chua,"5,000"
+2,Chả lụa,"5,000"
+3,Bún nem nướng,"40,000"
+4,Bún bò nướng,"40,000"
+5,Bò nướng mè,"55,000"
+6,Bò nướng lụi,"85,000"

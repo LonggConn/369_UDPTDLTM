@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm Sườn Nam Bộ,"55,000"
+1,Cơm Thịt Trứng Kho Tộ,"55,000"
+2,Cơm Cá Basa Kho Tộ,"55,000"
+3,Cơm Gà Kho Sả Ớt,"55,000"
+4,Bún Bò Huế,"55,000"

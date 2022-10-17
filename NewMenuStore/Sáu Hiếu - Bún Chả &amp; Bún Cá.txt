@@ -1,0 +1,8 @@
+,Food,Price
+0,Bún chả Hà Nội,"40,000"
+1,Bún cá rô chiên,"40,000"
+2,Bún cá rô hấp,"40,000"
+3,Bún ngan,"40,000"
+4,Miến ngan,"40,000"
+5,Nước sâm,"10,000"
+6,Nước suối,"10,000"

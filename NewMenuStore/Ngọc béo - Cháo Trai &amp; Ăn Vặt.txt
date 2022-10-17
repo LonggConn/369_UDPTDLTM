@@ -1,0 +1,8 @@
+,Food,Price
+0,Cháo Trai,"15,000"
+1,Bánh Gối,"10,000"
+2,Trứng Ngải Cứu,"7,000"
+3,Nem Rán,"7,000"
+4,Cháo Sườn Quấy,"20,000"
+5,Xôi Sắn,"15,000"
+6,Há Cảo Chiên,"5,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Quả Dừa Xiêm Bến Tre Hỗ Trợ Gọt Vỏ (Nhỡ/Lớn),"20,000"
+1,(1Lít) Nước Dừa Đóng Chai,"50,000"
+2,"(0,5L) Nước Dừa Đóng Chai","25,000"

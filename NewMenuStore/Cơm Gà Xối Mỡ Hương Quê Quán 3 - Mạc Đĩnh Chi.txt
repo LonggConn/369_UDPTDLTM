@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm đùi góc tư,"48,000"
+1,Cơm đùi gà,"35,000"
+2,Cơm má đùi,"35,000"
+3,Cơm thêm,"5,000"
+4,Cơm heo chiên,"38,000"
+5,Cơm chiên dương châu,"45,000"
+6,Mì bò xào,"45,000"
+7,Cơm chiên hải sản,"45,000"
+8,Cơm xào bò,"45,000"
+9,Cơm mực xào,"45,000"
+10,Cơm chiên canh gà,"38,000"
+11,Cơm chiên trứng,"30,000"

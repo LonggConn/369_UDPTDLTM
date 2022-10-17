@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún Thịt Nướng,"27,000"
+1,Cơm Sườn + Ốp La ,"32,000"
+2, Cơm Tấm Sườn,"27,000"
+3,Cơm Sườn + Chả bì,"32,000"
+4,Cơm Thêm,"5,000"
+5,Cơm Tấm Sườn + Ốp La + Chả Bì,"40,000"
+6,Thịt Nướng Thêm,"15,000"
+7,Trứng Thêm ,"5,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Udon xào Bò,"95,000"
+1,Set cơm cá Saba nướng Sốt Teriyaki và trứng,"95,000"
+2,"Set cơm Tempura Cá Hồi, Gà, Tôm","97,000"
+3,Set cơm thịt Heo nướng sốt Teriyaki và Trứng hồng đào,"90,000"
+4,Udon Gà,"90,000"
+5,Set cơm thịt Bò nướng và trứng hồng đào,"95,000"
+6,Set cơm thịt Gà nướng sốt Teriyaki và Trứng hồng đào,"90,000"
+7,Udon Bò,"95,000"
+8,Cơm chiên Hải Sản,"95,000"
+9,Set Cơm chiên Trứng,"45,000"

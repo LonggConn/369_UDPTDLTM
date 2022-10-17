@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún bò đầy đủ không giò,"60,000"
+1,Bún bò tái nạm,"55,000"
+2,Bún bò    Chả nạm,"45,000"
+3,Bún bò  nạm gân,"50,000"
+4,Bún bò chả gân,"45,000"
+5,Bún bò chả tái,"50,000"
+6,Pepsi lon,"15,000"
+7,Cà phê sữa,"20,000"
+8,Cà phê  đen đá,"18,000"

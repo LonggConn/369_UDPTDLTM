@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà A Vũ ,"53,000"
+1,Cá lóc kho tiêu,"48,000"
+2,Mực sữa rim mắm,"48,000"
+3,Cốt lết sả ớt,"48,000"
+4,Bún Thái,"48,000"
+5,Nui sườn ,"48,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Pizza phô mai thập cẩm,"40,000"
+1,Chè Thái nhà làm,"25,000"
+2,Pizza chay,"40,000"

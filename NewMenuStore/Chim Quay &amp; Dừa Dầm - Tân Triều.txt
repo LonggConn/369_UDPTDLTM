@@ -1,0 +1,6 @@
+,Food,Price
+0,Xoài Non Bao Tử Vip - 5 Lạng,"51,000"
+1,Nước Sốt Chấm Thần Thánh,"8,000"
+2,Cóc Non Bao Tử - 5 Lạng,"29,000"
+3,Xoài bao tử gọt sẵn - 1 khay,"36,000"
+4,Nước Sốt Chấm Thần Thánh - 1 Chai,"70,000"

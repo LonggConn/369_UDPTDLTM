@@ -1,0 +1,4 @@
+,Food,Price
+0,Red velvet,"480,000"
+1,Japan cheese,"110,000"
+2,Cúc Yulie,"88,000"

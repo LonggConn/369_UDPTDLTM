@@ -1,0 +1,10 @@
+,Food,Price
+0,Nem nướng Nha Trang+ coca lon,"52,000"
+1,Nem nướng Nha Trang+ sprite,"52,000"
+2,Nem nướng Nha Trang+ fanta,"52,000"
+3,Nem nướng Nha Trang+ nước cam,"52,000"
+4,Nem Nướng Nha Trang,"40,000"
+5,Coca-cola,"15,000"
+6,Sprite,"15,000"
+7,Fanta,"15,000"
+8,Nước cam tự nhiên,"15,000"

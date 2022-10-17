@@ -1,0 +1,3 @@
+,Food,Price
+0,Hủ tíu mì xá xíu,"40,000"
+1,Hủ tíu mì giò heo,"65,000"

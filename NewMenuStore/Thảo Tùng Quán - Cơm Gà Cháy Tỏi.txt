@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm gà lớn,"35,000"
+1,Cơm gà nhỏ,"25,000"
+2,Bún riêu,"35,000"
+3,Bánh mì bò kho,"30,000"
+4,Hủ tiếu bò kho,"35,000"

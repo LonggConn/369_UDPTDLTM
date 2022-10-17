@@ -1,0 +1,3 @@
+,Food,Price
+0,Nem Phùng Thái Cam 300g ,"70,000"
+1,Nem Chua Lá Ổi,"60,000"

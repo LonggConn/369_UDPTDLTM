@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Mì Que  - Cay,"12,000"
+1,Bánh mì que - Không cay,"12,000"
+2,2 BMQ + Trà Xanh C2 lạnh,"38,000"
+3,2 BMQ + Trà Olong lạnh,"38,000"
+4,2 BMQ + Suối lạnh,"36,000"
+5,Suối lạnh,"12,000"
+6,Trà Chanh C2,"13,000"
+7,Trà Olong,"13,000"

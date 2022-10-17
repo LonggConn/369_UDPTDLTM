@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm gà A Vũ,"53,000"
+1,Bún Thái,"39,000"
+2,Nui sườn ,"39,000"
+3,Cốt lết ram mặn,"48,000"
+4,Cá lóc kho tiêu,"48,000"
+5,Mực rim me,"48,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Khoai chiên,"40,000"
+1,Ngô chiên,"40,000"
+2,Vịt quay nửa con,"170,000"
+3,Vịt quay Lạng Sơn,"300,000"
+4,Gà rang muối- 1con,"400,000"
+5,Gà Quay - 2.2kg,"330,000"
+6,Ếch rang muối,"200,000"
+7,Ếch Xào   măng,"200,000"

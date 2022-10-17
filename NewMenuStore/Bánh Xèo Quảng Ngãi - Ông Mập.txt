@@ -1,0 +1,7 @@
+,Food,Price
+0,Bánh Xèo Tôm Thịt - 5 cái,"40,000"
+1,Bánh Xèo Tôm Thịt ( 10 Cài ),"80,000"
+2,Bánh Xèo Thịt Vịt - 5 cái,"40,000"
+3,Don,"30,000"
+4,Ram Tôm Thịt,"70,000"
+5,Bánh Xèo Thịt Vịt ( 10 Cái ),"80,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,TRÀ BÍ ĐAO Full Topping- Sz M,"18,000"
+1,TRÀ BÍ ĐAO Full Topping- Size L,"28,000"

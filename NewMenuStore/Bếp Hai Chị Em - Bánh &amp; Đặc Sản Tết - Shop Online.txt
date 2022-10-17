@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh Mì Phô Mai Tan Chảy Lớn,"115,000"
+1,Bông Lan Phô Mai Tươi Nhỏ,"75,000"
+2,Bánh Mì Phô Mai Chà Bông Gà Cay Lớn,"115,000"
+3,Bông Lan Trứng Muối Phô Mai Nhỏ,"65,000"
+4,Bánh Mì Phô Mai Tan Chảy Nhỏ,"65,000"
+5,Bánh Mì Phô Mai Bơ Tỏi Nhỏ,"69,000"
+6,Bánh Mì Phô Mai Chà Bông Gà Cay Nhỏ,"65,000"
+7,Tiramisu Truyền Thống - Cafe Cacao,"105,000"
+8,Bánh Kem Trứng Dừa Nướng,"75,000"
+9,Tiramisu Trà Xanh,"105,000"
+10,Dark Chocolate Mousse,"100,000"

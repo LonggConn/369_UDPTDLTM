@@ -1,0 +1,8 @@
+,Food,Price
+0,Chân gà rút xương xào cay,"69,000"
+1,Mỳ cay trộn,"69,000"
+2,Thập Cẩm Chiên,"50,000"
+3,Gà Rán Sốt Chua Ngọt,"69,000"
+4,Tokbokki truyền thống,"59,000"
+5,Mỳ tương đen,"69,000"
+6,Tokbokki Phủ Phô Mai Lát,"79,000"

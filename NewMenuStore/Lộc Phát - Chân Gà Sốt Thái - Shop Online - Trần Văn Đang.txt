@@ -1,0 +1,8 @@
+,Food,Price
+0,Chân Gà Sốt Thái 500 Gram,"140,000"
+1,Chân Gà Sốt Thái 300  Gram,"80,000"
+2,Chân Gà Sốt Thái 1 Kg,"280,000"
+3,Combo 2,"160,000"
+4,Combo 1,"220,000"
+5,Combo 3,"560,000"
+6,Nước Sốt Chấm Thần Thánh / Hủ,"10,000"

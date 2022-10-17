@@ -1,0 +1,10 @@
+,Food,Price
+0,Gà Ủ Muối Nguyên Con ( Chặt Sẵn ),"221,000"
+1,Gà Ủ Muối 1/2 Con Chặt Sẵn,"127,500"
+2,"Chân Gà Ủ Muối Rút Xương (0,5kg) ","148,750"
+3,Gà Ủ Muối Hoa Tiêu Nữa Con + ( 1 Pessi ),"131,750"
+4,"ComBo Nữa Con Gà  Ủ Muối +   ( 0,5kg ) Chân Gà Ủ Muối Rút Xương (  Tặng 1 Pessi )","272,000"
+5,Gà Ủ Muối Nguyên Con Ôm Trứng Non ( Chặt Sẵn ),"225,250"
+6,Nước Pessi,"16,150"
+7,Gà Ủ Muối Nguyên Con Đầy Đủ ( Tặng 1 Pesi ),"272,000"
+8,Combo Gà Ủ Muối 2 Phần Nữa Con ( Chặt Sẵn ),"180,200"

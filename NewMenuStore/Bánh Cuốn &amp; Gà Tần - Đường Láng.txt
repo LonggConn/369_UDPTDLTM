@@ -1,0 +1,3 @@
+,Food,Price
+0,Bánh Cuốn Nóng,"25,000"
+1,Gà Tần,"60,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Gato Hongkong chữ nhật,"29,000"
+1,Gato Hongkong vuông,"18,000"
+2,Bông lan chà bông trứng muối 2 lớp sốt size vuông,"33,000"
+3,Gato ổ tròn 16cm,"42,000"
+4,Bông lan chà bông trứng muối 1 lớp sốt,"24,000"
+5,Bông lan chà bông trứng muối tô giấy,"47,000"
+6,Cafe Kem BMT,"20,000"
+7,Cafe Kem Sệt + Gato vuông,"33,000"
+8,1 ly Cafe Kem + 1 bông lan chà bông trứng muối 2 lớp sốt,"47,000"
+9,1 ly Cafe Kem + 1 bông lan trứng muối 1 lớp sốt,"38,000"

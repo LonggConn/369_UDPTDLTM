@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún chả Hà Nội,"62,000"
+1,Bún chả giò,"57,000"
+2,Bún trộn thịt nướng,"57,000"
+3,Thêm chả giò,"25,000"
+4,Thêm thịt nướng,"27,000"
+5,Thêm chả viên,"27,000"
+6,Thêm bún,"15,000"
+7,Thêm rau,"10,000"

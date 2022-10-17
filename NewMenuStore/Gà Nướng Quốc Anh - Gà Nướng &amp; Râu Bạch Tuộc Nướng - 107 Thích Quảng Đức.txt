@@ -1,0 +1,3 @@
+,Food,Price
+0,Râu Bạch Tuộc Nướng,"20,000"
+1,Gà nướng,"140,000"

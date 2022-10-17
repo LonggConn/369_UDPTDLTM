@@ -1,0 +1,7 @@
+,Food,Price
+0,Combo Sườn Cao Bồi Xốt BBQ size S+,"199,000"
+1,Combo Sườn Cao Bồi Xốt BBQ size S,"189,000"
+2,Mỳ Spaghetti - Mỳ Ý Sốt Bò,"45,000"
+3,Combo Sườn Cao Bồi Xốt BBQ size M,"339,000"
+4,Combo Bò Áp Chảo Xốt BBQ size S,"129,000"
+5,ComBo Bò  Áp Chảo Xốt BBQ size M,"219,000"

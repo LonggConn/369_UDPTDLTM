@@ -1,0 +1,10 @@
+,Food,Price
+0,Súp cua full topping 1 ,"50,000"
+1,Súp cua thanh cua,"40,000"
+2,Súp cua trứng bắc thảo,"40,000"
+3,Súp cua full topping 2,"70,000"
+4,Súp cua trứng cút,"35,000"
+5,Súp cua mai cua,"55,000"
+6,Trà Sâm Bí Đao Hạt Chia,"15,000"
+7,Nem Nướng Nha Trang - Xuất 8 Cuốn,"42,000"
+8,Combo Nem Nướng Nha Trang + Trà Sâm Bí Đao Hạt Chia,"52,000"

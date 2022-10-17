@@ -1,0 +1,12 @@
+,Food,Price
+0,Nem nướng,"55,000"
+1,Bún nem nướng,"35,000"
+2,Nem Nướng Đặc Biệt,"90,000"
+3,Trà tắc ,"12,000"
+4,Trà Đào,"22,000"
+5,1 Que Nem,"12,000"
+6,Ram Giòn Thêm,"7,000"
+7,Bún Thêm,"5,000"
+8,Nước Chấm Thêm,"7,000"
+9,Bánh Tráng Cuốn Thêm,"3,000"
+10,Rau Thêm,"10,000"

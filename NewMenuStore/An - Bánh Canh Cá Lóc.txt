@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh canh cá lóc (tô thường),"38,000"
+1,Bánh canh cá lóc (tô đặc biệt),"50,000"
+2,Bánh canh cá lóc (tô lớn),"45,000"
+3,Bánh canh cá lóc (đầu + ruột),"50,000"
+4,Cá lóc thêm,"20,000"
+5,Bánh canh cá lóc (tô nhỏ),"30,000"
+6,Đầu cá thêm,"42,000"
+7,Nước nha đam hạt chia,"14,000"
+8,CoCa,"15,000"
+9,7up,"15,000"
+10,Nước suối,"10,000"

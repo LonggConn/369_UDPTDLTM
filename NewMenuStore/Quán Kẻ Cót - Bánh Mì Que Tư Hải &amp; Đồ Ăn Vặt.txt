@@ -1,0 +1,11 @@
+,Food,Price
+0,Nước ép dưa hấu nguyên chất,"40,000"
+1,Ca cao sữa trân châu,"35,000"
+2,Nước ép dứa nguyên chất,"45,000"
+3,Nước ép chanh leo,"35,000"
+4,Cafe Nâu,"30,000"
+5,Co ca lon,"15,000"
+6,Cafe Đen,"30,000"
+7,Hồng trà sữa trân châu,"35,000"
+8,Nước ép ổi nguyên chất,"40,000"
+9,Nước cam tươi nguyên chất,"50,000"

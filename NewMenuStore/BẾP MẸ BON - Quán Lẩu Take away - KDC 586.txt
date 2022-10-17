@@ -1,0 +1,6 @@
+,Food,Price
+0,Lẩu chay ,"270,000"
+1,Lẩu gà vườn nấu thuốc bắc ,"270,000"
+2,Lẩu vịt xiêm nấu chao ,"270,000"
+3,Lẩu thịt bò nhúng giấm ,"270,000"
+4,Lẩu gà vườn nấu chanh ớt,"270,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Ba chỉ quay giòn bì,"48,000"
+1,Vịt quay lu,"340,000"

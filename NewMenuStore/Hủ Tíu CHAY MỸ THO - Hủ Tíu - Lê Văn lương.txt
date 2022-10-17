@@ -1,0 +1,10 @@
+,Food,Price
+0,Hủ tíu chay,"40,000"
+1,Bún Huế chay,"40,000"
+2,Bánh canh chay,"40,000"
+3,Mì tươi chay,"40,000"
+4,Nuôi chay,"40,000"
+5,Hủ Tíu Khô,"40,000"
+6,Chả chay,"40,000"
+7,Bún gạo chay,"40,000"
+8,Mì gói chay,"40,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Đùi gà - phần,"32,000"
+1,Gà viên - phần,"32,000"
+2,Cánh gà - phần,"32,000"
+3,Má đùi - phần,"37,000"
+4,Khoai lang lắc - phần,"27,000"
+5,Khoai tây lắc - phần,"27,000"
+6,Phô mai que(2 Cây),"25,000"
+7,Bánh gạo - phần,"25,000"
+8,Hotdog xúc xích và phô mai,"25,000"
+9,Chuối Lắc( Phần 4 Cây),"25,000"

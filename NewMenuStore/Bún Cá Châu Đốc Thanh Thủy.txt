@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún cá Châu Đốc ( Đầu cá lóc),"55,000"
+1,Nước sâm nhà nấu,"9,000"
+2,Nước bông cúc nhà nấu,"9,000"
+3,Nước suối ướp lạnh,"8,000"
+4,Bún cá (Thịt cá  lóc),"40,000"

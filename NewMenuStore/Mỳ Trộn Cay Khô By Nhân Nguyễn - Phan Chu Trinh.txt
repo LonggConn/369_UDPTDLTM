@@ -1,0 +1,11 @@
+,Food,Price
+0,SIÊU RẺ 39 CÀNH (ĐÃ GỒM PHÍ HH),"52,000"
+1,SIÊU PHẨM 59 CÀNH,"79,000"
+2,Combo 69 Cành (Tại quán 52),"69,000"
+3,Thập cẩm Nhỏ không tái (Đã Gồm Phí HH),"80,000"
+4,Thập cẩm Nhỏ Tái và Nấm (Đã Gồm Phí HH),"95,000"
+5,MÌ TRỘN 28 CÀNH (KHÔNG NƯỚC LÈO),"37,000"
+6,MÌ TRỘN 35 CÀNH (KHÔNG NƯỚC LÈO),"47,000"
+7,TRÀ ĐÀO TẮC,"13,000"
+8,5 TẶNG 1 LY TRÀ ĐÀO TẮC,"65,000"
+9,BÁNH ÍT HUẾ THƯƠNG,"35,000"

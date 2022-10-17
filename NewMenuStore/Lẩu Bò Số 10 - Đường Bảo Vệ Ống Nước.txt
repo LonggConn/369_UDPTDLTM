@@ -1,0 +1,5 @@
+,Food,Price
+0,Lẩu Bò Thập Cẩm Lớn,"295,000"
+1,Lẩu Bò Thập Cẩm Nhỏ,"220,000"
+2,2 Mì Gói,"15,000"
+3,Rau thêm,"15,000"

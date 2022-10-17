@@ -1,0 +1,6 @@
+,Food,Price
+0,Chả cuốn ,"15,000"
+1,Bánh canh chả cá + cá dầm,"35,000"
+2,Bánh Canh Chả (Ko) ,"35,000"
+3,Chả cá thêm ,"25,000"
+4,Đầu Cá Ngừ Đại Dương /1đầu ,"65,000"

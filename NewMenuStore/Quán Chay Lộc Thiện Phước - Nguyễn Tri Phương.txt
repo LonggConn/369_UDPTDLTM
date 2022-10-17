@@ -1,0 +1,11 @@
+,Food,Price
+0,Cơm chay thập cẩm ,"25,000"
+1,Bánh gói chay,"4,000"
+2,Bánh nậm chay,"4,000"
+3,Bún riêu chay,"25,000"
+4,Mì quảng chay,"25,000"
+5,Mì xào mềm,"30,000"
+6,Bánh canh chay,"25,000"
+7,Cơm chiên dương châu,"30,000"
+8,Cao lầu chay,"30,000"
+9,Bún nước chay,"25,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Gà quay bánh bao,"170,000"
+1,Gà ta nướng mọi,"170,000"
+2,Gà nướng muối ớt ,"170,000"
+3,Gà nướng mật ong,"170,000"
+4,Gà ta nướng lu,"180,000"
+5,Bánh bao chiên,"4,000"
+6,Dưa muối chua cay ,"5,000"
+7,Bánh mì không ,"4,000"
+8,Muối chấm đỏ ,"4,000"

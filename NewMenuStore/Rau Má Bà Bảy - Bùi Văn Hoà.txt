@@ -1,0 +1,6 @@
+,Food,Price
+0,Trà sữa trân châu M ,"20,000"
+1,Trà Sữa Trân Châu L,"25,000"
+2,Trà vải ,"25,000"
+3,Trà đào ,"25,000"
+4,Trà Đào L,"30,000"

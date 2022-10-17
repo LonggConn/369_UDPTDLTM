@@ -1,0 +1,11 @@
+,Food,Price
+0,Vịt quay Quảng Đông (1/2 con - giá Shoppee food) - Có phục vụ: 0933062807,"169,000"
+1,"Xôi vịt - vỏ Xôi chiên giòn, thịt Nạc băm xào cùng Xôi.","99,000"
+2,Vịt quay Quảng Đông da dòn rụm ( 1 con) - Có phục vụ: 0933062807,"325,000"
+3,Lẩu vịt nấu chao,"219,000"
+4,"Heo quay (0.3kg) - da dòn rụm, thịt nạc chắc và tươi ngon (giá Now)","120,000"
+5,Dưa Chẻ,"15,000"
+6,Lẩu vịt om măng,"219,000"
+7,Vịt Rang Riềng,"169,000"
+8,Vịt Cháy Tỏi,"169,000"
+9,Lẩu vịt om sấu,"199,000"

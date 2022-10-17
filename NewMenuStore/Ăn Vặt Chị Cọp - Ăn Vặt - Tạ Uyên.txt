@@ -1,0 +1,4 @@
+,Food,Price
+0,Chống Giọt Bắn Face Shield,"10,000"
+1,Kính Trơn Chống giọt bắn,"10,000"
+2,Kính Face Shield,"30,000"

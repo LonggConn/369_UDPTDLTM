@@ -1,0 +1,8 @@
+,Food,Price
+0,YAOURT SỮA CHUA  DẺO & NGON _ 10 BỊCH,"35,000"
+1,SỮA CHUA NẾP CẨM SÁNH MỊN DẺO & NGON            5 HỦ,"55,000"
+2,KEM CHUỐI SỮA DỪA ĐẶC BIỆT THƠM NGON          5 MIẾNG,"35,000"
+3,YAOURT SỮA CHUA  DẺO & NGON _ 20 BỊCH,"65,000"
+4,SỮA CHUA NẾP CẨM SÁNH MỊN DẺO & NGON              10 HỦ,"105,000"
+5,YAOURT SỮA CHUA DẺO & NGON _  30 BỊCH,"95,000"
+6,KEM CHUỐI SỮA DỪA ĐẶC BIỆT THƠM NGON              10 MIẾNG,"65,000"

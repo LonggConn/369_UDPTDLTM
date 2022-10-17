@@ -1,0 +1,8 @@
+,Food,Price
+0, Bông lan trứng muối (ổ),"55,000"
+1, Paparoti,"15,000"
+2,Bánh mì dừa hạnh nhân,"20,000"
+3,Bánh su kem chiên,"15,000"
+4,Bông lan cuộn (ổ),"50,000"
+5,Bánh mì hoa cúc,"35,000"
+6, Bánh mì xúc xích chà bông ,"20,000"

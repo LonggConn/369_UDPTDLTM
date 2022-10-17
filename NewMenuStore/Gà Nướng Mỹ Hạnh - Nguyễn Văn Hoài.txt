@@ -1,0 +1,6 @@
+,Food,Price
+0,Gà nướng ngũ vị nguyên con,"250,000"
+1,Gà nướng muối ớt nguyên con,"250,000"
+2,Combo Gà + Xôi + rau + nước sốt,"330,000"
+3,Xôi hộp nhỏ,"45,000"
+4,Xôi hộp lớn,"90,000"

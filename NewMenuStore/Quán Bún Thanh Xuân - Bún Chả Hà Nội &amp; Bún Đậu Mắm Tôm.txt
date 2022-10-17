@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún chả Hà Nội,"53,000"
+1,Bún chả Hà Nội - Phần nhỏ,"47,000"
+2,Bún chả giò,"48,000"
+3,Chả giò,"12,000"
+4,Bún thêm,"5,000"
+5,Thịt Viên Thêm,"8,000"
+6,Thịt Miếng Thêm,"15,000"
+7,Trà tắc xí muội,"18,000"
+8,Trà đào chanh,"18,000"

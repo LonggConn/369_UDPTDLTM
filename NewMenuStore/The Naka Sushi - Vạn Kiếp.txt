@@ -1,0 +1,12 @@
+,Food,Price
+0,Salmon sashimi lớn,"136,000"
+1,Salmon sashimi nhỏ,"68,000"
+2,Ikura sushi,"30,000"
+3,Nishin sashimi,"60,000"
+4,Unagi sushi,"22,000"
+5,Salmon cheese sushi,"30,000"
+6,Tako sashimi,"60,000"
+7,Ika sushi,"10,000"
+8,Hokk gai sashimi,"85,000"
+9,Hokkigai sushi,"45,000"
+10,Salmon salad,"69,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Gỏi đu đủ đặc biệt,"40,000"
+1,Bánh Phồng Tôm,"14,000"
+2,Gỏi đu đủ đâm ba khía,"35,000"

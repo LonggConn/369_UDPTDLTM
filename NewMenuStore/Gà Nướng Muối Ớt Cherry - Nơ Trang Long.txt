@@ -1,0 +1,12 @@
+,Food,Price
+0,gà nướng muối ớt,"169,000"
+1,gà nướng mật ong ,"169,000"
+2,gà nướng sốt tiêu,"169,000"
+3,gà nướng sa tế ,"169,000"
+4,gà nướng sốt bơ tỏi,"169,000"
+5,gà nướng bbq ,"169,000"
+6,gà nướng ,"169,000"
+7,Lẩu gà ớt hiểm nhỏ,"149,000"
+8,Lẩu gà lá é nhỏ ( 2-3 người ăn ),"149,000"
+9,Lẩu gà lá é lớn ( 4-5 người ăn ),"189,000"
+10,Lẩu gà ớt hiểm lớn,"189,000"

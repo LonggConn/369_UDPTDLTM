@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún Cua Đồng (Thập Cẩm),"36,000"
+1,Bún Cua Bò,"41,000"
+2,"Bún Mọc, Chả","36,000"
+3,Bánh Đa Cua Thập Cẩm,"41,000"
+4,Bún Đặc Biệt,"57,000"
+5,Bún Bò Tái,"36,000"
+6,Bún Cua Chả Mực,"41,000"
+7,Bún Bò Hầm,"41,000"
+8,Thập Cẩm Kg Cua,"36,000"

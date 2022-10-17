@@ -1,0 +1,5 @@
+,Food,Price
+0,Bánh tiramisu sô cô la,"290,000"
+1,Bánh tiramisu chanh dây,"290,000"
+2,Bánh tiramisu socola phần,"32,000"
+3,Bánh tiramisu trà xanh,"300,000"

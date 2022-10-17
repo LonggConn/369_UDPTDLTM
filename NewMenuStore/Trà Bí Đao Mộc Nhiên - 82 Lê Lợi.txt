@@ -1,0 +1,6 @@
+,Food,Price
+0,Trà bí đao sương sáo hạt chia,"20,000"
+1,Trà bí đao sương sáo hạt chia trân châu trắng,"25,000"
+2,Trà  bí đao sương sao hạt chia nha đam,"25,000"
+3,Trà bí đao trân châu trắng,"20,000"
+4,Hạt Hướng Dương,"15,000"

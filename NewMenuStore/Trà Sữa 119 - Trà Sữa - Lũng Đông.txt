@@ -1,0 +1,10 @@
+,Food,Price
+0,Trà sữa trân châu đường đen ,"30,000"
+1,Sữa tươi trân châu đường đen ,"35,000"
+2,Trà sữa matcha,"35,000"
+3,Trà sữa socola,"35,000"
+4,Trà sữa khoai môn,"35,000"
+5,Trà Sữa Trân Châu Trắng,"30,000"
+6,Lục trà chanh dây,"30,000"
+7,Lục trà dâu,"30,000"
+8,Lục trà vải,"30,000"

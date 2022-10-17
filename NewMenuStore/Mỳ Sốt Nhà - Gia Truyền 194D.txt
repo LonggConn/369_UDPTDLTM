@@ -1,0 +1,13 @@
+,Food,Price
+0,Combo A: Mỳ Sốt Bò và Trà Sữa,"63,000"
+1,Combo C: Mì Sốt Đặc Biệt và Nước Tuỳ Chọn,"75,000"
+2,Combo B: Mỳ Sốt Thập Cẩm và Xí Muội Tắc,"59,000"
+3,Mì Sốt Bò,"53,000"
+4,Mì Sốt Thập Cẩm,"49,000"
+5,Mì Sốt Đặc Biệt,"65,000"
+6,Mì Sốt Nhà (3-4 người),"149,000"
+7,Trà Chanh Mật Ong,"19,000"
+8,Trà Sữa Nhà,"19,000"
+9,Xí Muội Tắc,"23,000"
+10,Cafe Sữa,"19,000"
+11,Cafe Đen,"17,000"

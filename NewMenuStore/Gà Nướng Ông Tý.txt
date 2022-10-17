@@ -1,0 +1,8 @@
+,Food,Price
+0,Gà nướng lá chanh-tặng kèm xôi,"170,000"
+1,Gà nướng muối ớt-tặng kèm xôi,"170,000"
+2,Chân gà nướng  ngũ vị,"60,000"
+3,Chân gà ngâm sả tắc,"60,000"
+4,Sườn heo nướng BBQ(7-8que),"140,000"
+5,Chân gà sốt satế,"60,000"
+6,Mề-gan gà nướng mắc khén,"70,000"

@@ -1,0 +1,3 @@
+,Food,Price
+0,Mắm tép chưng thịt 500gram,"200,000"
+1,Mắm tép chưng thịt 1kg,"370,000"

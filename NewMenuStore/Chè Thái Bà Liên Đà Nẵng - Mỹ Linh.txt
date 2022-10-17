@@ -1,0 +1,4 @@
+,Food,Price
+0,Chè Thái bà Liên,"25,000"
+1,Dừa dầm,"25,000"
+2,Chè Thốt Nốt,"30,000"

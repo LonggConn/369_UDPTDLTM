@@ -1,0 +1,12 @@
+,Food,Price
+0,Nem Lụi,"6,000"
+1,Bún thịt nướng,"20,000"
+2,Bánh cuốn thịt nướng lớn,"22,000"
+3,Bún mắm nêm,"20,000"
+4,Thịt nướng,"12,000"
+5,Bánh cuốn phần nhỏ ,"12,000"
+6,Bún thịt nướng nem lụii,"20,000"
+7,Nem ,"12,000"
+8,Gỏi Tai Heo Bóp,"35,000"
+9,Chả,"12,000"
+10,Nem chả thịt đầu bóp,"45,000"

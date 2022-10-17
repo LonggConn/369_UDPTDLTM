@@ -1,0 +1,10 @@
+,Food,Price
+0,Cháo Ếch Singapore - Truyền Thống - 2 Con,"81,000"
+1,Cháo Ếch Singapore - Vị Sa Tế - 2 Con,"81,000"
+2,Cháo Ếch Singapore - Vị Sả Ớt - 2 Con,"81,000"
+3,Cháo Ếch Singapore - Truyền Thống - 3 Con,"113,000"
+4,Cháo Thêm Dẻo Sánh,"10,000"
+5,Cháo Ếch Singapore - Vị Sả Ớt - 3 Con,"113,000"
+6,Cháo Ếch Singapore - Vị Sa Tế - 3 Con,"113,000"
+7,Cháo Tỏi Phi,"20,000"
+8,Sting Sảng Khoái,"16,000"

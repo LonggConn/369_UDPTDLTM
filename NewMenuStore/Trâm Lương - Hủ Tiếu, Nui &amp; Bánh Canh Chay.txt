@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh canh chay,"25,000"
+1,Nui chay,"25,000"
+2,Hủ tiếu chay,"25,000"
+3,Hủ tiếu xào chay,"20,000"
+4,Bánh canh giò chay,"30,000"
+5,Nui giò chay,"25,000"
+6,Hủ tiếu mì chay,"22,000"
+7,Hủ tiếu mì giò chay,"25,000"
+8,Hủ tiếu giò chay,"25,000"

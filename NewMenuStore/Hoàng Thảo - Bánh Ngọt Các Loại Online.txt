@@ -1,0 +1,7 @@
+,Food,Price
+0,Bông Lan Trứng Muối,"60,000"
+1,Su Kem,"40,000"
+2,Bánh Cuộn Gà Cay,"60,000"
+3,Cuộn Vani,"30,000"
+4,Cuộn Trà Xanh,"30,000"
+5,Bánh Mì Hoa Cúc,"70,000"

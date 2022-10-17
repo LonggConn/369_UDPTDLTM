@@ -1,0 +1,6 @@
+,Food,Price
+0,Cơm đùi gà Tam Hoàng,"55,000"
+1,Cơm má đùi gà Tam Hoàng,"50,000"
+2,Cơm chiên gà xé,"45,000"
+3,Cơm cánh gà ta,"60,000"
+4,Cơm ức gà ta,"60,000"

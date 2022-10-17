@@ -1,0 +1,13 @@
+,Food,Price
+0,Trà dâu tươi Dalas,"20,000"
+1,Trà dâu tằm,"20,000"
+2,Trà ổi hồng,"20,000"
+3,Trà vải,"20,000"
+4,Trà mix tây tằm,"25,000"
+5,Trà đào,"20,000"
+6,Trà sữa,"20,000"
+7,Dâu tươi,"7,000"
+8,Trân châu 3Q trắng/đen,"7,000"
+9,Thạch trái cây,"7,000"
+10,Ổi hồng (cắt lát),"7,000"
+11,Dâu tằm,"7,000"

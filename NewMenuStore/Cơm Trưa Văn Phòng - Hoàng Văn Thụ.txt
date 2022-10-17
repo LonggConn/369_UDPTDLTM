@@ -1,0 +1,7 @@
+,Food,Price
+0,Cơm sườn non ram,"22,000"
+1,Cơm gà roti,"22,000"
+2,Cơm gà kho gừng,"22,000"
+3,Cơm thịt kho cải chua,"22,000"
+4,Cơm thịt kho trứng,"22,000"
+5,Cơm tôm rang,"22,000"

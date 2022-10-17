@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh mì thịt (cỡ vừa),"36,000"
+1,Bánh mì không,"3,800"
+2,Bánh bao thịt trứng muối + trứng cút,"25,000"
+3,Bánh mì gà xé (cỡ vừa),"36,000"
+4,Bánh bao trứng cút,"20,000"
+5,Phần chả/thịt nguội (cỡ nhỏ),"59,000"
+6,Bánh chưng nhỏ ,"29,000"
+7,Phần thịt nguội (cỡ lớn),"118,000"

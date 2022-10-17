@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh Canh Cá Lóc - Bát Nhỏ,"35,000"
+1,Bánh Canh Cá Lóc - Bát To,"40,000"
+2,Thêm Cá,"15,000"

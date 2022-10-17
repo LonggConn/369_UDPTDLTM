@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún bò thập cẩm,"40,000"
+1,Quẩy,"5,000"
+2,Bún bò Sài Gòn,"30,000"
+3,Giò tai,"10,000"
+4,Dụng  cụ ăn uống ,"5,000"

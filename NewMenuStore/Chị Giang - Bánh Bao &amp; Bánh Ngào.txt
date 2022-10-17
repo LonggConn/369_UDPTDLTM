@@ -1,0 +1,10 @@
+,Food,Price
+0,Bánh Bao Rán,"7,000"
+1,Bánh Bao Hấp,"7,000"
+2,Bánh Ngào,"13,000"
+3,Bánh Chưng Rán Nhỏ,"7,000"
+4,Bánh Bơ,"7,000"
+5,Chả Cuốn,"7,000"
+6,Bánh Chưng Luộc Nhỏ,"7,000"
+7,Xôi Gấc Giò,"17,000"
+8,Bánh Chưng To,"32,000"

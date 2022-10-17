@@ -1,0 +1,7 @@
+,Food,Price
+0,Yến Chưng tươi 70ml trẻ em,"69,000"
+1,Yến Chưng Tươi 100ml người lớn,"115,000"
+2,Combo   10 hủ yến  70ml trẻ em,"650,000"
+3,Combo  10 hủ 100ml người   lớn,"1,100,000"
+4,Yến tươi làm sạch 0.5 lạng,"350,000"
+5,Yến tươi làm sạch 1 lạng,"600,000"

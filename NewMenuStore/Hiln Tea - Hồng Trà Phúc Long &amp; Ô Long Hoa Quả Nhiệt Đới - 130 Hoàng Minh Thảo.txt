@@ -1,0 +1,11 @@
+,Food,Price
+0,Hồng trà Phúc Long ,"12,000"
+1,Ô long hoa quả nhiệt đới,"17,000"
+2,Trà Bí Đao,"15,000"
+3,Matcha tea ,"12,000"
+4,Khoai môn sữa ,"15,000"
+5,Trà Đào Cam Sả size L ,"15,000"
+6,Dâu tây sữa ,"12,000"
+7,Chocolate tea ,"12,000"
+8,Caramel sữa ,"12,000"
+9,Trà Đào Cam Sả size M,"12,000"

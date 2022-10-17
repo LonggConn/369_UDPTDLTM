@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh kem bắp size lớn - 20cm,"340,000"
+1,Bánh kem sữa tươi happybirtday size lớn - 20cm,"320,000"
+2,Bánh kem sữa tươi happybirtday size nhỏ - 16cm,"250,000"
+3,Bánh kem sữa tươi happybirtday size trung - 18cm,"280,000"
+4,Bánh kem sữa tươi phủ socola size nhỏ - 16cm,"250,000"
+5,Bánh kem sữa tươi size lớn - 20cm,"280,000"
+6,Bánh kem sữa tươi gấu tho size trung - 18cm,"280,000"
+7,Bánh kem sữa tươi phủ socola - 24cm,"450,000"
+8,Bánh kem sữa tươi phủ socola size lớn - 20cm,"320,000"
+9,Bánh kem sữa tươi phủ socola - 22cm,"400,000"

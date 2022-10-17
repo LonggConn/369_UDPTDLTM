@@ -1,0 +1,13 @@
+,Food,Price
+0,Lẩu gà ớt hiểm to đùng,"220,000"
+1,Lẩu gà lá é nhỏ,"169,000"
+2,Lẩu gà ớt hiểm nhỏ,"169,000"
+3,Lẩu gà nấm lớn,"220,000"
+4,Lẩu gà nấm nhỏ,"169,000"
+5,Lẩu gà lá é,"220,000"
+6,gà nướng muối ớt,"169,000"
+7,gà nướng bbq,"169,000"
+8,gà nướng mật ong,"169,000"
+9,gà nướng sốt bơ tỏi,"169,000"
+10,gà nướng sốt tiêu ,"169,000"
+11,gà nướng sốt sa tế ,"169,000"

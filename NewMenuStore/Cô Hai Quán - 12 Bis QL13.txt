@@ -1,0 +1,5 @@
+,Food,Price
+0,Chả giò Cô Hai,"16,000"
+1,Cá lóc nướng ngũ vị,"165,000"
+2,Dồi sụn nướng ,"32,000"
+3,Lẩu cua đồng,"300,000"

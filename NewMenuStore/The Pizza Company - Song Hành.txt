@@ -1,0 +1,13 @@
+,Food,Price
+0,GÀ GIÒN XỐT HÀN 1K,"1,000"
+1,Combo 1 Pizza size S + 1 Soft Drink,"110,000"
+2,COMBO NUI BỎ LÒ 69K ,"69,000"
+3,Gà Giòn Xốt Hàn - Truyền Thống ,"99,000"
+4,Gà Giòn Xốt Tương Tỏi Hàn Quốc ,"99,000"
+5,Gà Giòn Xốt Hàn - Cay ,"99,000"
+6,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,"169,000"
+7,Pizza Hải Sản Đào - Seafood & Peach,"169,000"
+8,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,"139,000"
+9,Pizza Hải Sản Cocktail / Seafood Cocktail,"139,000"
+10,Pizza Hải Sản Cao Cấp / Seafood Deluxe,"139,000"
+11,Pizza Tôm Cocktail / Shrimp Cocktail,"139,000"

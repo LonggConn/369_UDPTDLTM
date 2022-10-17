@@ -1,0 +1,13 @@
+,Food,Price
+0,Cơm Trắng gà xối mỡ,"30,000"
+1,Cơm cá nục chiên,"25,000"
+2,Cơm gà kho trứng,"25,000"
+3,Cơm mực hấp,"25,000"
+4,Cơm sườn non Rim Chua Ngot,"30,000"
+5,Cơm cá ngừ sốt cà chua,"25,000"
+6,Cơm tôm rim mặn ngọt,"25,000"
+7,Cơm sườn cốt lết,"25,000"
+8,Cơm gà chiên mắm,"30,000"
+9,Cơm thịt heo kho tàu,"25,000"
+10,Cơm Cá Ba Sa Kho Nghệ,"25,000"
+11,Cơm cá mối kho nghệ,"25,000"

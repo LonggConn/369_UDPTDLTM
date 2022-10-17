@@ -1,0 +1,13 @@
+,Food,Price
+0,Chè  dừa dầm,"12,000"
+1,Chè sữa đậu đỏ,"12,000"
+2,Chè khoai dẻo,"12,000"
+3,Sữa chua trân châu,"12,000"
+4,Sữa chua trân châu phomai,"12,000"
+5,Chè thạch lá dứa,"18,000"
+6,sữa chua mứt trái cây,"12,000"
+7,Bánh su kem nhân kem trứng,"12,000"
+8,Bánh bông lan trứng muối,"17,000"
+9,Bánh bông lan cuộn phomai,"17,000"
+10,Cheesecake chanh dây,"17,000"
+11,Bánh tiramisu cacao,"28,000"

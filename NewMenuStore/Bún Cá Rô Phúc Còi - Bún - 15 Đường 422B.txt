@@ -1,0 +1,11 @@
+,Food,Price
+0,Bún cá,"35,000"
+1,Bún thập cẩm,"40,000"
+2,Bún cá đặc biệt,"55,000"
+3,Bún bò,"35,000"
+4,Bún cua bò giò,"40,000"
+5,Bún mọc,"35,000"
+6,Hộp mua ngoài,"5,000"
+7,Bún bò giò,"38,000"
+8,Bún chả cá,"35,000"
+9,Bún giò tai heo,"35,000"

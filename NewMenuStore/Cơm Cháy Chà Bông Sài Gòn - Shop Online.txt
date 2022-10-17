@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm Cháy Chà Bông 500gr,"160,000"
+1,Cơm Cháy Chà Bông 250gr,"90,000"
+2,Combo 2 Gói Lớn,"320,000"
+3,"Combo 1 Gói Lớn, 1 Gói Nhỏ","250,000"
+4,Cơm cháy tóp mỡ 250gr,"100,000"
+5,Cơm cháy Phô Mai Trứng muối 250gr,"100,000"
+6,Cơm cháy rong biển 250gr ,"100,000"

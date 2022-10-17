@@ -1,0 +1,7 @@
+,Food,Price
+0,Bún riêu chả,"35,000"
+1,Bún riêu xương chả đặc biệt,"50,000"
+2,Bún riêu xương,"45,000"
+3,Bún mọc Sài Gòn,"50,000"
+4,Súp Nui Xương Đặt biệt ,"50,000"
+5,Súp Nui Chả Mọc ,"35,000"

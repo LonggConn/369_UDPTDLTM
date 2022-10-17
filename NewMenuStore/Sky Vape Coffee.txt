@@ -1,0 +1,12 @@
+,Food,Price
+0,Đá Me,"25,000"
+1,Trà Đào Sky,"30,000"
+2,Nước Ép Cóc,"35,000"
+3,Trà Chanh Sả,"25,000"
+4,Sữa Chua Sky (Đặc Biệt),"45,000"
+5,Trà Chanh Xả,"25,000"
+6,Trà Táo Sky,"32,000"
+7,Nước Chanh Xoài,"30,000"
+8,Bò Né,"35,000"
+9,Sốt Vang,"35,000"
+10,Mì Bò Hàn,"35,000"

@@ -1,0 +1,16 @@
+,Food,Price
+0,Lòng dồi,"15,000"
+1,Dạ dày,"15,000"
+2,Chả ốc,"15,000"
+3,Chả cá,"15,000"
+4,Chả bò,"15,000"
+5,Da cá chiên giòn,"15,000"
+6,Móng giò,"15,000"
+7,Bún cá chiên giòn,"35,000"
+8,Bún cá thập cẩm,"40,000"
+9,Bún cá đặc biệt,"50,000"
+10,Bún cá chả,"35,000"
+11,Bún cá da chiên giòn,"35,000"
+12,Bún cá lòng,"35,000"
+13,Bún cá dạ,"35,000"
+14,Cá thu chiên giòn,30

@@ -1,0 +1,9 @@
+,Food,Price
+0,Nui xào bò,"30,000"
+1,Nui xào trứng,"17,000"
+2,Mì ý sốt bò,"25,000"
+3,Mì ý sốt bò trứng,"30,000"
+4,Cơm chiên bò,"25,000"
+5,Cơm chiên thập cẩm,"27,000"
+6,Bánh mì đầy đủ,"20,000"
+7,Bánh mì thịt,"18,000"

@@ -1,0 +1,10 @@
+,Food,Price
+0,Hột vịt lộn,"16,000"
+1,Rau câu,"6,000"
+2,Cháo thịt kho,"15,000"
+3,Cháo cá lóc,"20,000"
+4,Cháo cá cơm,"17,000"
+5,Cháo trứng bắc thảo,"20,000"
+6,Cháo tôm,"25,000"
+7,Cháo dưa mắm,"15,000"
+8,Bánh gan,"8,000"

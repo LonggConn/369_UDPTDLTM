@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm tấm sườn gà ốp la chả trứng,"25,000"
+1,Cơm tấm sườn gà ốp la,"20,000"
+2,Cơm tấm sườn ốp la,"15,000"
+3,Cơm tấm sườn gà chả trứng,"20,000"
+4,Cơm tấm sườn (lớn),"15,000"
+5,Cơm tấm sườn chả trứng,"15,000"
+6,Cơm tấm gà chả trứng,"15,000"
+7,Cơm tấm gà ốp la,"15,000"
+8,Cơm tấm sườn (nhỏ),"12,000"

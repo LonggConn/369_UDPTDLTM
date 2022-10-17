@@ -1,0 +1,4 @@
+,Food,Price
+0,Lẩu gà phần 4 - 5 người,"300,000"
+1,Lẩu gà phần 3 - 4 người,"250,000"
+2,Lẩu gà phần 2 người,"200,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh Mì Chay Đặc Biệt Huy Phát ,"22,000"
+1,Bánh mì  Thập Cẩm Đặc Biệt,"22,000"
+2,Bánh mì  Bơ Pate Nấm+ Bì,"22,000"
+3,Bánh mì  Bơ Pate Chả + bì,"22,000"
+4,Bánh Tráng Trộn Chay  Đặc Biệt,"17,000"
+5,Nứớc  Sâm Hoa Cúc ,"13,000"
+6,Bánh Mì Chay Đặc Biệt Huy Phát,"22,000"
+7,Bánh Mì Bơ Pate Chả + Nấm,"22,000"

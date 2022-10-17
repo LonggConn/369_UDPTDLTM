@@ -1,0 +1,12 @@
+,Food,Price
+0,Bánh tráng phô mai,"15,000"
+1,Combo 5 bánh tráng xì ke,"75,000"
+2,Bánh tráng sate sợi Long An,"15,000"
+3,Bánh tráng cuộn thập cẩm,"20,000"
+4,Da heo cháy tỏi _ hủ pet,"70,000"
+5,Bánh tráng dẻo tôm bơ bịch lớn,"22,000"
+6,Khô gà lá chanh hảo hạng,"78,000"
+7,Combo 10 bánh tráng xì ke,"140,000"
+8,Muối sấy Ngọc Yến 250gr,"25,000"
+9,Bánh tráng chấm tương ớt _ 1  bịch,"15,000"
+10,Chuối sấy giòn ngọt-100gr,"25,000"

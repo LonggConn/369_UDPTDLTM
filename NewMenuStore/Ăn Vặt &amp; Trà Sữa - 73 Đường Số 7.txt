@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà sữa truyền thống,"28,000"
+1,Trà sữa khoai môn,"33,000"
+2,Trà sữa đào,"30,000"
+3,Trà sữa matcha,"33,000"
+4,Trà đào,"33,000"
+5,Trà ổi,"28,000"
+6,Cà phê sữa lắc Đặc Biệt,"25,000"
+7,Cà phê đen,"15,000"
+8,Cà phê sữa,"20,000"
+9,Cam ép,"22,000"
+10,Mì trộn tương đen Kim Chi,"22,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Cháo ếch phần 2 con,"75,000"
+1,Cháo ếch phần 1 con,"45,000"
+2,Bánh mỳ,"5,000"
+3,Đĩa rau củ,"30,000"
+4,Cháo ếch phần 3 con,"115,000"
+5,Cháo thêm,"8,000"
+6,Trà xanh 0 độ,"15,000"
+7,Nước suối,"10,000"

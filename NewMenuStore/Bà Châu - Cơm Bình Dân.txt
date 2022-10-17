@@ -1,0 +1,9 @@
+,Food,Price
+0,Cơm Sườn Chua Ngọt,"25,000"
+1,Cơm Gà Rang,"25,000"
+2,Cơm Thịt Kho Tàu,"25,000"
+3,Cơm Đậu Phụ Sốt Cà Chua,"25,000"
+4,Cơm Trứng Chiên,"25,000"
+5,Cơm Cá  Tươi Kho Nghệ,"25,000"
+6,Cơm Cá Biển Kho Mặn Ngọt,"25,000"
+7,Cơm Chả Cuốn,"25,000"

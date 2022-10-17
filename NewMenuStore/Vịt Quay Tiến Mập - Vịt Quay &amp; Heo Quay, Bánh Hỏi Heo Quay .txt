@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh mì nhỏ,"5,000"
+1,Bánh mì heo quay,"30,000"
+2,BÁNH MÌ HEO QUAY ĐẶC BIỆT,"35,000"
+3,Bánh hỏi heo quay,"35,000"
+4,BÁNH HỎI HEO QUAY ĐẶC BIỆT,"40,000"
+5,BÁNH HỎI VỊT QUAY ĐẶC BIỆT,"70,000"
+6,Heo quay da giòn 1/2 kg,"200,000"
+7,Heo quay da giòn 1kg,"380,000"
+8,Vịt quay sốt tiêu đen 1 con,"380,000"
+9,Vịt quay sốt tiêu đen 1/2 con,"200,000"
+10,Vịt quay (Phần) + 2 Ổ bánh mì (Phần),"100,000"
+11,Vịt quay (Phần) + Bánh Hỏi,"100,000"

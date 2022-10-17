@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm cuộn kim bắp truyền thống,"25,000"
+1,Cơm cuộn kim bắp chiên,"25,000"
+2,Cơm cuộn Sushi trứng cá,"35,000"
+3,Cơm cuộn Sushi mè rang,"25,000"
+4,Cơm cuộn Sushi phô mai,"35,000"
+5,Sushi cơm nắm,"65,000"
+6,Sushi cơm nắm phô mai,"135,000"

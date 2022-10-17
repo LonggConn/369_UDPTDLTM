@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Mì Đặc Ruột,"6,000"
+1,Bánh Mì Thịt - Đặc Biệt,"30,000"
+2,Sandwich,"35,000"
+3,Chà Bông - Đặc Biệt - 100gr,"60,000"
+4,Chả lụa 500g,"165,000"
+5,Hộp Patê 200gr,"60,000"
+6,Chả Chiên 500g,"165,000"
+7,Nem Chua HUẾ 200gr,"60,000"
+8,Bánh Chưng 1 Kg,"120,000"
+9,Nem Nướng 500gr,"150,000"
+10,Thịt Nguội / Jambon 500gr,"165,000"
+11,Giò Thủ 500gr,"165,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Bún Bò Huế,"51,000"
+1,Bún Bò Huế Bát Đặc Biệt,"67,500"
+2,Bánh Bột Lọc (Suất Lớn),"56,500"
+3,Bánh Bột Lọc (Suất Nhỏ),"45,000"
+4,Hộp đựng + đũa thìa,"5,000"

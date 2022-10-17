@@ -1,0 +1,5 @@
+,Food,Price
+0,Khoai sâm Yacon gọt sẵn,"30,000"
+1,Nước ép khoai sâm Yacon,"30,000"
+2,Yogurt phúc bồn tử (Black Berries),"30,000"
+3,Yogurt tầm bóp (Golden Berries),"30,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Chả cuốn (1 cuốn),"15,000"
+1,Bánh canh tô lớn,"30,000"
+2,Bánh canh tô nhỏ,"25,000"
+3,Bánh canh chả giò,"40,000"
+4,Chả thêm,"25,000"
+5,Bún chả cá,"30,000"
+6,Bún chả giò,"40,000"

@@ -1,0 +1,5 @@
+,Food,Price
+0,Sâm dừa ly,"22,000"
+1,Sâm dừa chai,"22,000"
+2,Nước dừa ly ,"17,000"
+3,10 Sâm dừa ly tặng 1 bình nước ,"220,000"

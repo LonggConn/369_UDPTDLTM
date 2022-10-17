@@ -1,0 +1,6 @@
+,Food,Price
+0,Gỏi cá trích (cỡ trung),"145,000"
+1,Gỏi cá trích (cỡ nhất),"95,000"
+2,Cháo nhum,"75,000"
+3,Tóp mỡ thần thánh (siêu sạch & siêu giòn),"130,000"
+4,Gỏi cá trích (cỡ đại),"245,000"

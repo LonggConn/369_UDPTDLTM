@@ -1,0 +1,10 @@
+,Food,Price
+0,Cơm chiên gà xối mỡ phần nhỏ,"35,000"
+1,Cơm chiên gà xối mỡ phần lớn,"60,000"
+2,Cơm chiên bò xào,"35,000"
+3,Cơm chiên dương châu Đặc biệt,"35,000"
+4,Cơm chiên hải sản,"40,000"
+5,Cơm Sườn Muối Sả,"40,000"
+6,Cơm chiên trứng đánh,"30,000"
+7,Mì xào hải sản,"40,000"
+8,Mì xào bò,"35,000"

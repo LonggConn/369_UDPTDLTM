@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh mì chảo ,"40,000"
+1,Bánh mì bơ tỏi,"30,000"
+2,Mì trộn,"30,000"
+3,Pizza gà ,"60,000"
+4,Xôi chim,"120,000"
+5,Kim chi,"50,000"
+6,Mắm tép chưng thịt ,"50,000"

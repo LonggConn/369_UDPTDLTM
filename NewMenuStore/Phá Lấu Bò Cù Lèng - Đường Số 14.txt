@@ -1,0 +1,11 @@
+,Food,Price
+0,Combo 4 người ăn + 4 ổ bánh mì + 04 Pepsi (Hoặc nước khác),"260,000"
+1,Phá Lấu Bò Bánh Mì + 01 Pepsi (Hoặc nước khác),"80,000"
+2,Phá lấu bò mì gói + 01 Pepsi (Hoặc nước khác),"84,000"
+3,Phá lấu bò (Size Vừa) + 1 ổ bánh mì,"60,000"
+4,Phá lấu bò (Size Vừa) + 1 vắt mì,"63,000"
+5,Phần Đặc Biệt Kèm 1 Ổ Bánh Mì 1 Ly Trà Tắc,"95,000"
+6,Combo 4 Người Ăn Kèm 4 Ổ Bánh Mì,"195,000"
+7,500gr Phá lấu Kèm 5 Ổ Bánh Mì,"300,000"
+8,Trà tắc kingsize,"15,000"
+9,Trà đào ,"26,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Trà sữa hương vị + thạch đầy đủ,"20,000"
+1,Trà sữa truyền thống trân châu,"20,000"
+2,Sữa tươi trân châu đường đen,"20,000"
+3,Trà sữa thái xanh trân châu,"20,000"
+4,Hồng trà trân châu,"15,000"
+5,Trà đào thạch đầy đủ,"20,000"
+6,Trà đào miếng,"20,000"
+7,Trà tắc trân châu,"15,000"

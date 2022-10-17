@@ -1,0 +1,5 @@
+,Food,Price
+0,Dừa Dầm,"20,000"
+1,Sữa Chua Mít,"20,000"
+2,Sữa Chua Nếp Cẩm,"15,000"
+3,Chè Thái,"15,000"

@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh mì Hà Nội,"25,000"
+1,Bánh mì Hà Nội đặc biệt,"30,000"
+2,Bánh mì thường,"20,000"

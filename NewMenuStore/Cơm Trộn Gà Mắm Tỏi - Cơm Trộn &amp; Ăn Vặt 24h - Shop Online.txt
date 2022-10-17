@@ -1,0 +1,8 @@
+,Food,Price
+0,Cơm trộn đùi gà mắm tỏi,"55,000"
+1,Cơm trộn bò,"50,000"
+2,Cơm trộn hải sản,"55,000"
+3,Cơm trộn cánh gà mắm tỏi,"45,000"
+4,Hủ tiếu nam vang khô,"60,000"
+5,Hủ tiếu nam vang  nước,"60,000"
+6,Hủ tiếu bò viên,"55,000"

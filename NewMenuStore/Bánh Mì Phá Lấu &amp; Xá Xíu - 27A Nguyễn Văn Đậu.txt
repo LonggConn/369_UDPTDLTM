@@ -1,0 +1,9 @@
+,Food,Price
+0,Bánh mì thập cẩm,"24,000"
+1,Bánh mì xá xíu,"24,000"
+2,Bánh mì phá lấu,"24,000"
+3,Bánh Mì Phá Lấu Tai Heo,"29,000"
+4,Bánh Mì Xá Xíu Tai Heo,"29,000"
+5,PHÁ LẤU TAI HEO ( 100g ),"45,000"
+6,XÁ XÍU ( 100g ),"45,000"
+7,Phá Lấu Mũi ( 100g ),"45,000"

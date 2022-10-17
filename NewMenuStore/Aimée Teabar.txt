@@ -1,0 +1,7 @@
+,Food,Price
+0,Capuccino,"39,000"
+1,Espresso,"29,000"
+2,Cookie,"19,000"
+3,Macaron,"19,000"
+4,Chocolate mousse,"45,000"
+5,Muffins,"29,000"

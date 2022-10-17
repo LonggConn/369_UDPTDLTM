@@ -1,0 +1,13 @@
+,Food,Price
+0,Gỏi cuốn tôm thịt,"8,000"
+1,Bánh ướt cuốn thịt nướng,"8,000"
+2,Bì cuốn,"8,000"
+3,Bún thịt nướng chả giò,"30,000"
+4,Bún thịt xào,"30,000"
+5,Bún mắm nêm thịt luộc,"30,000"
+6,10 Cuốn Bánh Ướt Thịt Nướng,"80,000"
+7,10 Cuốn Gỏi Cuốn,"80,000"
+8,Bún thịt nướng,"30,000"
+9,Bún mắm nêm lỗ tai,"30,000"
+10,10 Cuốn Bì Cuốn,"80,000"
+11,Bún Bì,"30,000"

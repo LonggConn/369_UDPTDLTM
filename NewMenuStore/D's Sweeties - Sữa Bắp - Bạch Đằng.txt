@@ -1,0 +1,6 @@
+,Food,Price
+0,Trà đào,"20,000"
+1,Sữa bắp truyền thống,"27,000"
+2,Sữa đậu xanh cốt dừa,"27,000"
+3,Yaourt đá,"27,000"
+4,Yaourt ú na ú nần,"10,000"

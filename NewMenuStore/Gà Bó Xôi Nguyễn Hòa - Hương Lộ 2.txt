@@ -1,0 +1,6 @@
+,Food,Price
+0,Gà Chiên Giòn Bó Xôi (Tặng 2 Chai Nước Ngọt 300ml),"240,000"
+1,Gà Bó Xôi Chà Bông(Tặng 2 Chai Nước Ngọt 300ml),"240,000"
+2,Gà Bó Xôi Truyền Thống(Tặng 2 Chai Nước Ngọt 300ml) ,"228,000"
+3,Xôi Chiên Thêm 1kg,"84,000"
+4,Trứng Non + Hạt Sen,"72,000"

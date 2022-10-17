@@ -1,0 +1,12 @@
+,Food,Price
+0,CHÁO LÒNG,"39,000"
+1,Cháo huyết siêu ngon,"15,000"
+2,Bánh quẩy giòn miền bắc,"12,000"
+3,Tô cháo lòng đặc biệt siêu topping,"69,000"
+4,Bánh tráng nướng béo ngậy,"10,000"
+5,LÒNG NHỎ,"129,000"
+6,LÒNG VỪA,"179,000"
+7,Cháo huyết + Dĩa lòng 1 người ăn,"78,000"
+8,LÒNG LỚN,"239,000"
+9,DĨA LÒNG ĐẶC BIỆT,"289,000"
+10,LÒNG XÀO CẢI CHUA,"169,000"

@@ -1,0 +1,11 @@
+,Food,Price
+0,Đặt Biệt,"25,000"
+1,Cây nem,"11,000"
+2,Bánh Mì Thập Cẩm,"20,000"
+3,Bánh Mì Nem Nướng,"20,000"
+4,Bánh Mì Lá Lốt,"20,000"
+5,Xiêng lá lốt,"65,000"
+6,Combo 5 cây nem + 1 ổ mì không,"55,000"
+7,Thêm Trứng,"8,000"
+8,Bánh mì ốp la,"20,000"
+9,Bún Nem Nướng Lá Lốt.,"35,000"

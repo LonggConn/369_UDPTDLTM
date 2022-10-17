@@ -1,0 +1,6 @@
+,Food,Price
+0,Bánh Xèo,"35,000"
+1,Nem Lụi,"60,000"
+2,Nem Chua Rán,"60,000"
+3,Bánh Bột Lọc,"60,000"
+4,Trứng cút lộn xào me,"30,000"

@@ -1,0 +1,9 @@
+,Food,Price
+0,Dừa tắc ( Ly vừa ),"17,000"
+1,Dừa thơm ( Ly Đại ),"25,000"
+2,Dừa Tắc (Ly Đại),"25,000"
+3,Dừa Thơm (Ly Vừa),"17,000"
+4,Nước sâm,"10,000"
+5,Rong biển,"10,000"
+6,Ly Sâm Đại,"20,000"
+7,Rong Biển Đại,"20,000"

@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Tráng Si Ke,"16,000"
+1,Bánh Tráng Xa Tế ,"20,000"
+2,Thu6 Nui Ga Xao Nuoc Sot.. Sua Thuoi,"80,000"
+3,Cafe Sua Dam Da ,"17,000"
+4,Thứ 5 Bánh Uot Tom Kho ... Sua Tuoi,"60,000"
+5,Thu4 Hu Tiu +bo Viên +sướng Heo  ... Sua Tuoi ,"70,000"
+6,Thu2 Nui Xào Ga + Trà Đào Ly Lớn ,"70,000"
+7,"Thu3 Bún Riêu + Cha Cây,-sua Tuoi  ","70,000"
+8,Trà Sữa Đào Rất Ngon,"15,000"
+9,Thu7 Bo Kho Banh Mi ... Sua Tuoi ,"80,000"
+10,Trà Đào Ly Lớn + Tắc Tươi ,"12,000"
+11,Trà Chanh + Chanh Tươi ,"12,000"

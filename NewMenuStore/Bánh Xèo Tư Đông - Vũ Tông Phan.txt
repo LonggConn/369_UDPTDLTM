@@ -1,0 +1,13 @@
+,Food,Price
+0,Bánh Xèo x 4 Cái,"54,000"
+1,Nem Lụi x 10 Cái,"85,000"
+2,Bánh Xèo x 6 Cái,"81,000"
+3,Bánh Bột Lọc x 10 Cái,"50,000"
+4,Bánh Tráng Thịt Heo Luộc,"50,000"
+5,Nộm đu đủ bò khô,"45,000"
+6,Nem Lụi x 16 Cái,"136,000"
+7,Coca,"15,000"
+8,Lavie,"8,000"
+9,Bò Húc,"20,000"
+10,Sprite,"15,000"
+11,Minute,"15,000"

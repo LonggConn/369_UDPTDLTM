@@ -1,0 +1,6 @@
+,Food,Price
+0,Nước Sâm Thảo Dược bông cúc,"12,000"
+1,Mía lau,"12,000"
+2,Atiso mát gan (không đường),"17,000"
+3,Nước đắng,"12,000"
+4,Rau má,"12,000"

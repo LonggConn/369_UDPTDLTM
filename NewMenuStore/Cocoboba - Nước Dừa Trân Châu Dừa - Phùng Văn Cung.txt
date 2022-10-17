@@ -1,0 +1,7 @@
+,Food,Price
+0,Nước dừa trân châu dừa,"25,000"
+1,Nước dừa hạt đác,"25,000"
+2,Nước dừa củ năng,"25,000"
+3,Nước dừa tắc,"25,000"
+4,Nước dừa hạt sen,"25,000"
+5,Nước dừa truyền thống,"25,000"

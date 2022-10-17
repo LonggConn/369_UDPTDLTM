@@ -1,0 +1,9 @@
+,Food,Price
+0,Bún Bò Huế Không Móng,"50,000"
+1,Bún Bò Huế Đầy Đủ,"58,000"
+2,2 Bún Bò Huế Đầy Đủ,"115,000"
+3,2 Bún Bò Huế Không Móng,"100,000"
+4,3 Bún Bò Huế Không Móng,"150,000"
+5,3 Bún Bò Huế Đầy Đủ,"170,000"
+6,1 Bún Bò Huế Đầy Đủ + 1 Bún Bò Huế Không Móng,"106,000"
+7,Bò Húc ,"20,000"

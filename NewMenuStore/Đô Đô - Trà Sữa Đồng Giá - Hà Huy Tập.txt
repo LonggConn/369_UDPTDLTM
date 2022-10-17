@@ -1,0 +1,13 @@
+,Food,Price
+0,Hồng trà sữa,"25,000"
+1,Sữa tươi trân châu đường đen,"25,000"
+2,Trà sữa socola,"25,000"
+3,Trà đào tươi,"25,000"
+4,Sữa dừa trân châu,"25,000"
+5,Trà sữa mì sợi,"25,000"
+6,Trà sữa matcha,"25,000"
+7,Trà Sữa Mochi Kéo Dài,"25,000"
+8,Trà Sữa Matcha Mochi Kéo Dài,"25,000"
+9,Sữa Tươi Đường Đen Mochi Kéo Dài,"25,000"
+10,Sữa Dừa Mochi Kéo Dài,"25,000"
+11,Coco Lá Nếp,"25,000"

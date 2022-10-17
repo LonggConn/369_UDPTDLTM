@@ -1,0 +1,10 @@
+,Food,Price
+0,Bún chả,"45,000"
+1,Bún giả cầy,"50,000"
+2,Bánh cuốn nóng Hà Nội,"35,000"
+3,Combo: 2 bún chả + trái cây tráng miệng,"100,000"
+4,Bún nem rán,"45,000"
+5,Trà ổi hồng,"30,000"
+6,Nước ngọt ly size lớn,"15,000"
+7,Trái cây tráng miệng,"30,000"
+8,Bánh mì giả cầy ,"50,000"

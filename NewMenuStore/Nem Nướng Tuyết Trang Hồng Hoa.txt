@@ -1,0 +1,10 @@
+,Food,Price
+0,Nem nướng,"60,000"
+1,Bún thịt nướng,"30,000"
+2,Bò lá lốp,"60,000"
+3,Bún nem nướng,"30,000"
+4,Cá lóc hấp,"220,000"
+5,Bánh canh cá,"30,000"
+6,Bánh canh giò,"35,000"
+7,Bún bò lá lốt,"30,000"
+8,Bánh canh gà,"30,000"

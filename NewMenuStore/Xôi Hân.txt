@@ -1,0 +1,12 @@
+,Food,Price
+0,Xôi Đầy Đủ,"45,000"
+1,Xôi Thịt,"25,000"
+2,Xôi Giò Chả,"25,000"
+3,Xôi Gà Xào Nấm,"40,000"
+4,Xôi Rán (kèm thịt hoặc trứng),"30,000"
+5,Xôi Pate,"25,000"
+6,Xôi Trứng Đánh,"20,000"
+7,Xôi Trứng pate thịt,"35,000"
+8,Xôi Trứng Rán,"20,000"
+9,Xôi lạp xưởng,"25,000"
+10,Xôi Trứng Thịt,"30,000"

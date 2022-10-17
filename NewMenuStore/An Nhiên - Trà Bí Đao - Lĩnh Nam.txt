@@ -1,0 +1,8 @@
+,Food,Price
+0,Trà Bí Đao Hạt Chia,"23,000"
+1,Trà Bí Đao Ít Ngọt,"23,000"
+2,Trà Bí Đao Ít Đá,"23,000"
+3,Trà Bí Đao Không Đá,"23,000"
+4,Trà Bí Đao Không Hạt Chia,"23,000"
+5,Trà Bí Đao Không Thạch,"23,000"
+6,Trà Bí Đao Không Thạch - Hạt Chia,"23,000"

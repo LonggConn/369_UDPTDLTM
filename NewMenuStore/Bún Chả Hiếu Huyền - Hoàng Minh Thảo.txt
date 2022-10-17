@@ -1,0 +1,26 @@
+,Food,Price
+0,Bún thịt nướng,"37,000"
+1,Bún thịt nướng kèm chả nem,"47,000"
+2,Chả nem,"17,000"
+3,Cơm tấm sườn nướng,"47,000"
+4,Nem hải sản,"37,000"
+5,Bún đậu mắm tôm,"47,000"
+6,Cơm rang thập cẩm kèm trứng thịt,"47,000"
+7,Bún chả nem,"37,000"
+8,Bún chả nem hải sản,"42,000"
+9,Dụng cụ ăn uống,100
+10,Cơm rang gà,"47,000"
+11,Đá sạch ,100
+12,Ly nhựa,100
+13,Coca cola ,"15,000"
+14,Ống hút ,100
+15,Nước cam ép ,"15,000"
+16,Nước bí đao ,"15,000"
+17,Nước suối lavie ,"8,000"
+18,Redbull,"18,000"
+19,Sữa tươi đậu xanh,"18,000"
+20,Bia   333,"22,000"
+21,Trà tam vị ,"18,000"
+22,Bia Hải phòng ,"20,000"
+23, Bia sài gòn,"22,000"
+24,Bia heiniken (cao),"30,000"

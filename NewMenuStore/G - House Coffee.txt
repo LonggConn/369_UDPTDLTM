@@ -1,0 +1,9 @@
+,Food,Price
+0,Đen đá,"17,000"
+1,Phê sữa đá,"20,000"
+2,Bạc xỉu,"22,000"
+3,Coffee hạnh nhân,"30,000"
+4,Trà đào ,"28,000"
+5,Trà vải,"30,000"
+6,Choco sữa kem cheese,"30,000"
+7,Cookie đá xay,"35,000"

@@ -1,0 +1,6 @@
+,Food,Price
+0,Nứơc chấm ( mua thêm ),"10,000"
+1,Chân Gà Có Xương Ngâm Sả Tắc   hộp 250gr,"65,000"
+2,Chân Gà Có Xương Sốt Thái hộp 250gr,"65,000"
+3,Chân Gà Có Xương Ngâm Sả Tắc hộp 500gr,"130,000"
+4,Chân Gà Có Xương Sốt Thái hộp 500gr,"130,000"

@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh Cuốn Chả Nướng,"40,000"
+1,Bún Chả Nướng,"37,000"
+2,Trứng Vịt Lộn,"10,000"
+3,Bánh Cuốn Chả Quế,"35,000"
+4,Bánh Cuốn Trứng,"13,000"
+5,Gà Ác Tần ngải cứu/1con.,"75,000"
+6,Mì Gà  ác tần ngải cứu90k/ 1con,"90,000"

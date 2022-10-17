@@ -1,0 +1,11 @@
+,Food,Price
+0,Sữa Chua 2 Hủ ,"15,000"
+1,Thanh Gạo Lứt Mix Hạt Chà Bông 250gr,"95,000"
+2,Salad Lườn Ngỗng( Best Seller),"75,000"
+3,Salad Ức Gà Áp Chảo ,"65,000"
+4,Salad Cá Hồi Áp Chảo (Kèm Sốt Mè Rang Sữa Chua),"70,000"
+5,Salad Trứng Dầu Giấm,"45,000"
+6,Healthy Ơ ( Bún Ngũ Cốc Trộn Bò Xào Hành),"75,000"
+7,Colorful (Bún ngũ cốc trộn Cá Hồi Áp Chảo),"70,000"
+8,Energy Day( Nui Trộn Cá Hồi Áp Chảo),"70,000"
+9,Sữa chua hủ(10 Hủ),"85,000"

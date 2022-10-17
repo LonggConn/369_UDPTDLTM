@@ -1,0 +1,12 @@
+,Food,Price
+0,Trà Sữa Truyền Thống 1 Lít,"60,000"
+1,Trà Sữa Thái Xanh  500ml,"40,000"
+2,Sữa Tươi Trân Châu Đường Nâu,"25,000"
+3,Trà Sữa Thái Xanh Trân Châu Đen,"23,000"
+4,Trà Sữa Truyền Thống Trân Châu Đen,"23,000"
+5,Kim Chi Hàn Quốc,"50,000"
+6,Trân Châu Đen,"7,000"
+7,Pudding Trứng,"5,000"
+8,Trân Châu Trắng,"7,000"
+9,Trà Sữa Thái Xanh 1 Lít,"60,000"
+10,Trà Sữa Truyền Thống 500ml,"40,000"

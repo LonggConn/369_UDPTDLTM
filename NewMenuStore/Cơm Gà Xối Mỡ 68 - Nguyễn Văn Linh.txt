@@ -1,0 +1,12 @@
+,Food,Price
+0,Má đùi xối mỡ,"33,000"
+1,Má đùi chiên nước mắm,"33,000"
+2,Cơm thêm,"6,000"
+3,Má đùi tỏi luộc,"33,000"
+4,Xúc xích chiên,"13,000"
+5,Trứng ốp la,"6,000"
+6,Lạp xưởng,"13,000"
+7,Cải chua thêm,"6,000"
+8,Đùi tỏi xối mỡ,"33,000"
+9,Đùi tỏi chiên nước mắm,"33,000"
+10,Đùi tỏi luộc,"33,000"

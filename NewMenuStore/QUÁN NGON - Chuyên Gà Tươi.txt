@@ -1,0 +1,7 @@
+,Food,Price
+0,Mẹt gà 7 món,"399,000"
+1,Gà tươi rang muối,"115,000"
+2,Gà tươi luộc,"105,000"
+3,Mẹt gà 5 món,"329,000"
+4,Gà không lối thoát,"335,000"
+5,Gà tươi rán,"105,000"

@@ -1,0 +1,12 @@
+,Food,Price
+0,Bún bò Huế,"41,000"
+1,Bún bò đặc biệt,"54,000"
+2,Bánh canh cá lóc,"43,000"
+3,Bún bò tô nhỏ,"34,000"
+4,Bánh canh đặc biệt,"54,000"
+5,Bùn bò có giò,"54,000"
+6,Bánh canh cá lóc tô nhỏ,"34,000"
+7,Bánh canh chả cua,"54,000"
+8,Bánh canh chả cua tô nhỏ,"40,000"
+9,Bún chả cua,"47,000"
+10,Bánh canh Đầu lòng Cá,"60,000"

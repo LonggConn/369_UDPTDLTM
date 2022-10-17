@@ -1,0 +1,8 @@
+,Food,Price
+0,Gỏi cuốn Sạch (Rau sạch+ thịt tôm/tai heo ) ,"8,000"
+1,Set 10 cuốn Sạch (Rau sạch+ thịt tôm/tai heo) ,"78,000"
+2,Bún  mắn nêm dưa cà Sạch,"35,000"
+3,Trà Diệp lục Detox,"15,000"
+4,Trà Detox,"17,000"
+5,Nước Hồng sâm 6Tuổi &linh Chi,"22,000"
+6,Nước Hồng Sâm HQ,"12,000"

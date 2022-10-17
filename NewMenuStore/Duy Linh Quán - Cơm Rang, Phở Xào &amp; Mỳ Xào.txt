@@ -1,0 +1,12 @@
+,Food,Price
+0,Phở xào,"45,000"
+1,Mỳ xào,"45,000"
+2,Phở tái,"35,000"
+3,Phở tái chín,"35,000"
+4,Phở tái lăn,"40,000"
+5,Phở chín,"35,000"
+6,Phở tái nạm,"35,000"
+7,Phở bò áp chảo,"40,000"
+8,Cơm rang thập cẩm,"35,000"
+9,Cơm rang dưa bò,"40,000"
+10,Cơm rang bò băm,"40,000"

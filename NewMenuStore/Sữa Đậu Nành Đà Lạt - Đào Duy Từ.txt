@@ -1,0 +1,11 @@
+,Food,Price
+0,Bánh Tráng Tỏi,"15,000"
+1,Chân Vịt Cay Tứ Xuyên Dacheng,"15,000"
+2,Bánh tráng cuộn bơ ,"29,000"
+3,Kimbap ,"30,000"
+4,Chân gà rút xương lắc cóc xoài,"65,000"
+5,Cá viên chiên,"25,000"
+6,Bánh tráng trộn ,"25,000"
+7,COMBO 1,"49,000"
+8,COMBO 2,"49,000"
+9,COMBO 3,"59,000"

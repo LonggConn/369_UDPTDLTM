@@ -1,0 +1,4 @@
+,Food,Price
+0,Bánh nậm,"3,000"
+1,Bánh bột lọc,"3,000"
+2,Bánh bèo,"20,000"

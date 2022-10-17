@@ -1,0 +1,5 @@
+,Food,Price
+0,Chè dừa dầm,"24,000"
+1,Chè cà phê cốt dừa,"27,000"
+2,Chè bơ,"32,000"
+3,Chè dừa non,"27,000"

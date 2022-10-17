@@ -1,0 +1,12 @@
+,Food,Price
+0,Sườn Thăn Sụn Non Nướng BBQ (M),"242,100"
+1,Sườn Thăn Nướng BBQ (M),"262,650"
+2,Sườn Thăn Nướng BBQ (L),"347,650"
+3,Sườn Thăn Sụn Non Nướng BBQ (L),"332,100"
+4,Combo Sườn Thăn Sụn Non BBQ (L),"373,500"
+5,Combo Sườn Thăn Sụn Non BBQ (M),"283,500"
+6,Combo Sườn Thăn BBQ (L),"386,750"
+7,Combo Sườn Thăn BBQ (M),"301,750"
+8,Bánh Mì Chuột,"5,000"
+9,Salad,"30,000"
+10,Coca 300ml,"15,000"

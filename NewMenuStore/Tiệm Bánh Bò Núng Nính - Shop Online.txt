@@ -1,0 +1,6 @@
+,Food,Price
+0,Túi Cốt Dừa,"10,000"
+1,Bánh Bò Truyền Thống,"95,000"
+2,Bánh Bò Rắc Dừa,"99,000"
+3,Bánh Mì Bơ Tỏi Hoàng Gia,"95,000"
+4,Thạch  nhãn dừa non,"39,000"

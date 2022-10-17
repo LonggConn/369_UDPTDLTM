@@ -1,0 +1,8 @@
+,Food,Price
+0,Bánh mì phá lấu bò,"37,000"
+1,Mì gói phá lấu bò,"40,000"
+2,Bánh Mì Thêm,"6,000"
+3,Combo Bánh Mì Phá Lấu Bò + Trà Tắc Lớn ,"50,000"
+4,Combo Mì Gói Phá Lấu Bò + Trà Tắc Lớn,"54,000"
+5,Mì Gói Thêm ,"6,000"
+6,Trà tắc ly lớn,"20,000"
